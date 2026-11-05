@@ -1,0 +1,5027 @@
+[
+  {
+    "id": "craft-submenu-9d0ccb84117b0ef9",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "North-west corner",
+    "translation": "西北角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-c5e507c99d3c6728",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "North-west corner",
+    "translation": "西北角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-f346d096204156bf",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "NORTH-WEST CORNER",
+    "translation": "西北角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-707721afbbfe4b87",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Northern wall",
+    "translation": "北墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-d1deb3ce2d0cf8f6",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "Northern wall",
+    "translation": "北墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-6145c793cd80a4aa",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "NORTHERN WALL",
+    "translation": "北墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-9bfa8ceff44741df",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "North-east corner",
+    "translation": "东北角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-c093253562550727",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "North-east corner",
+    "translation": "东北角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-3834ace4959e8f30",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "NORTH-EAST CORNER",
+    "translation": "东北角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-d67de18291c13d9a",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Western wall",
+    "translation": "西墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-eac610e63dd8ddba",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "Western wall",
+    "translation": "西墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-f8417f66b1a43b49",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "WESTERN WALL",
+    "translation": "西墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-109659dc3059640c",
+    "source": "biy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "log",
+    "translation": "原木",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-bc944fdc8721fc0e",
+    "source": "biy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "axe",
+    "translation": "斧",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-fe0bbeaa92b4c52a",
+    "source": "biy_glossary.txt",
+    "context": "craft-explanation",
+    "original": "for carving the logs",
+    "translation": "用于削制原木",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-c5253bf49cf8f6e1",
+    "source": "biy_glossary.txt",
+    "context": "craft-explanation",
+    "original": "for finishing the walls",
+    "translation": "用于修整墙面",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-cd820027d876127e",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Inside of a building",
+    "translation": "建筑内部",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-49ad3dfa4e193a6e",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "Inside of a building",
+    "translation": "建筑内部",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-4a749d355e3547d4",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "INSIDE OF A BUILDING",
+    "translation": "建筑内部",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-f1b4c4423c82cbff",
+    "source": "biy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "board",
+    "translation": "木板",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-847a51f7bb9a6f55",
+    "source": "biy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "slender trunk",
+    "translation": "细树干",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-204929eb366e84c6",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Eastern wall",
+    "translation": "东墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-5def6e65c8011a67",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "Eastern wall",
+    "translation": "东墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-0a2a4eb192efff83",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "EASTERN WALL",
+    "translation": "东墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-ddc191a76a6f66d6",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "South-west corner",
+    "translation": "西南角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-815b3def26b64170",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "South-west corner",
+    "translation": "西南角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-7b4739dd8a40683c",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "SOUTH-WEST CORNER",
+    "translation": "西南角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-58558628dc272311",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Southern wall",
+    "translation": "南墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-e68ce27c503827ea",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "Southern wall",
+    "translation": "南墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-594efbc6b7ad5072",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "SOUTHERN WALL",
+    "translation": "南墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-ad44b1e8fdba1f56",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "South-east corner",
+    "translation": "东南角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-05da96af69490ce1",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "South-east corner",
+    "translation": "东南角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-d80637434ba8c3db",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "SOUTH-EAST CORNER",
+    "translation": "东南角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-1c5d8624964e5846",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Shutter",
+    "translation": "窗板",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-6a4a6d6a3104380e",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "Shutter",
+    "translation": "窗板",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-e6ada14b36cc4a21",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "SHUTTER",
+    "translation": "窗板",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-f0a5e6aec44b30e7",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Fireplace",
+    "translation": "壁炉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-7b120648eef0648c",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "Fireplace",
+    "translation": "壁炉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-6c122883d23ca101",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "FIREPLACE",
+    "translation": "壁炉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-a85f5f017d83412b",
+    "source": "biy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "stone",
+    "translation": "石头",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-db9d9a8bd74e9cb6",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Door",
+    "translation": "门",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-e37d35d98144080d",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "Door",
+    "translation": "门",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-eb2adaf2eac78eb8",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "DOOR",
+    "translation": "门",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-5acaaad574eca535",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Bench",
+    "translation": "长凳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-e8f4d31a86522f9f",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "Bench",
+    "translation": "长凳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-f72ce2d1d87300b2",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "BENCH",
+    "translation": "长凳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-876fdaae9844aa28",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Table",
+    "translation": "桌子",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-7743cbf315b14afa",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "Table",
+    "translation": "桌子",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-f1e6b6a295df7ccd",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "TABLE",
+    "translation": "桌子",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-9dc188c27d3c794b",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Sleeping bunk",
+    "translation": "铺位",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-21804901d2240a1c",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "Sleeping bunk",
+    "translation": "铺位",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-627bfc7f8b4b4a87",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "SLEEPING BUNK",
+    "translation": "铺位",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-216722a7389799b9",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Sauna stove",
+    "translation": "桑拿炉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-45e923e2f5428c8f",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "Sauna stove",
+    "translation": "桑拿炉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-11d62ee545393fba",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "SAUNA STOVE",
+    "translation": "桑拿炉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-7d7324b43bc3fd56",
+    "source": "biy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "rock",
+    "translation": "岩石",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-15dee31acf7df363",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Framework",
+    "translation": "框架",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-43ff9b17305ef087",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "Framework",
+    "translation": "框架",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-38a1c3746dc03b97",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "FRAMEWORK",
+    "translation": "框架",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-da8a711020ffbd67",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "North-west corner of a kota",
+    "translation": "科塔帐篷西北角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-b4f58f07f14e8935",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "North-west corner of a kota",
+    "translation": "科塔帐篷西北角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-dc1f8a82a7f2bbff",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "NORTH-WEST CORNER OF A KOTA",
+    "translation": "科塔帐篷西北角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-610e2438181ac938",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Northern wall of a kota",
+    "translation": "科塔帐篷北墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-cc4b4a74d740b083",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "Northern wall of a kota",
+    "translation": "科塔帐篷北墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-25d306789d0028fa",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "NORTHERN WALL OF A KOTA",
+    "translation": "科塔帐篷北墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-5e557bf4499bcbe3",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "North-east corner of a kota",
+    "translation": "科塔帐篷东北角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-f89d1fefeac68b96",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "North-east corner of a kota",
+    "translation": "科塔帐篷东北角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-5f68f3c8599addf0",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "NORTH-EAST CORNER OF A KOTA",
+    "translation": "科塔帐篷东北角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-beb64b1ba7139421",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Western wall of a kota",
+    "translation": "科塔帐篷西墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-ed871578d823650c",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "Western wall of a kota",
+    "translation": "科塔帐篷西墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-d3399536b2316f6c",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "WESTERN WALL OF A KOTA",
+    "translation": "科塔帐篷西墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-35d13da5c7b0e2eb",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Inside of a kota",
+    "translation": "科塔帐篷内部",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-07af907ac2d93fb4",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "Inside of a kota",
+    "translation": "科塔帐篷内部",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-ebbb82ac2cf24b91",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "INSIDE OF A KOTA",
+    "translation": "科塔帐篷内部",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-72a07fab46e3a641",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Eastern wall of a kota",
+    "translation": "科塔帐篷东墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-2574bbb65a2873ee",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "Eastern wall of a kota",
+    "translation": "科塔帐篷东墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-037d1413558e709f",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "EASTERN WALL OF A KOTA",
+    "translation": "科塔帐篷东墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-31b6660058c64356",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "South-west corner of a kota",
+    "translation": "科塔帐篷西南角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-b71f2cb4c1853b25",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "South-west corner of a kota",
+    "translation": "科塔帐篷西南角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-65a66a6555addee1",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "SOUTH-WEST CORNER OF A KOTA",
+    "translation": "科塔帐篷西南角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-2340e9d4b6c66a1f",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Southern wall of a kota",
+    "translation": "科塔帐篷南墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-edac096c3b55f870",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "Southern wall of a kota",
+    "translation": "科塔帐篷南墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-1c2870ebb7fa6a1e",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "SOUTHERN WALL OF A KOTA",
+    "translation": "科塔帐篷南墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-1f44e4e89ac3272d",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "South-east corner of a kota",
+    "translation": "科塔帐篷东南角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-375a9b0070f77c40",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "South-east corner of a kota",
+    "translation": "科塔帐篷东南角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-74c1e29f58de4c18",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "SOUTH-EAST CORNER OF A KOTA",
+    "translation": "科塔帐篷东南角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-e748b6ad570b4814",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Kota doorway",
+    "translation": "科塔帐篷入口",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-e43251dbb9a2fbe3",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "Kota doorway",
+    "translation": "科塔帐篷入口",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-70fc390e20b25f2a",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "KOTA DOORWAY",
+    "translation": "科塔帐篷入口",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-3e684bab22464505",
+    "source": "biy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "cover for kota",
+    "translation": "科塔帐篷外罩",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-2304f259ef347916",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Shelter",
+    "translation": "庇护所",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-88dfd761c21cfc1a",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "Shelter",
+    "translation": "庇护所",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-c8c3bba6f8305754",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "SHELTER",
+    "translation": "庇护所",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-6273c10e197e78ca",
+    "source": "biy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "spruce twig",
+    "translation": "云杉细枝",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-46631de4558eef92",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Fence",
+    "translation": "围栏",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-5f448806f0460706",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "Fence",
+    "translation": "围栏",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-9a65b3615fc328e3",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "FENCE",
+    "translation": "围栏",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-3fb87801395766ba",
+    "source": "biy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "tying equipment",
+    "translation": "捆扎用具",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-46c1c49a4963692f",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Fence gate",
+    "translation": "围栏门",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-1b56b5d45ad4beac",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "Fence gate",
+    "translation": "围栏门",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-d6abc6e8dd7616ee",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "FENCE GATE",
+    "translation": "围栏门",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-d35228b65b6286b7",
+    "source": "biy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Cellar",
+    "translation": "地窖",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-28bef03279dd59e0",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "Cellar",
+    "translation": "地窖",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-8a38879b9879788d",
+    "source": "biy_glossary.txt",
+    "context": "showtext",
+    "original": "CELLAR",
+    "translation": "地窖",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-a4888529ca2f059e",
+    "source": "biy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "shovel",
+    "translation": "铲",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-9683e7b034c5cd0c",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Stone-axe",
+    "translation": "石斧",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-ab7f3edeb464769e",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Stone-axe",
+    "translation": "石斧",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-2934e01ddd2d9716",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "STONE-AXE",
+    "translation": "石斧",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-7a3a164bfe5d5d96",
+    "source": "diy_glossary.txt",
+    "context": "craft-explanation",
+    "original": "(for knapping)",
+    "translation": "（用于打制石器）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-2dda409f63f556ad",
+    "source": "diy_glossary.txt",
+    "context": "craft-explanation",
+    "original": "(for final sharpening)",
+    "translation": "（用于最后磨刃）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-d6f9a7ed8a6e7f2d",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "strong cordage",
+    "translation": "结实绳料",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-6e853c7782ba296b",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Stone knife",
+    "translation": "石刀",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-6d438b9f6a5e76ea",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Stone knife",
+    "translation": "石刀",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-a7e42f0e32e46f40",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "STONE KNIFE",
+    "translation": "石刀",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-74eccd8726f8fdcb",
+    "source": "diy_glossary.txt",
+    "context": "craft-explanation",
+    "original": "for blade",
+    "translation": "用于制作刀刃",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-b75ee088d344f45a",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Club",
+    "translation": "棍棒",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-15a4ccec0f10d755",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Club",
+    "translation": "棍棒",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-0581101092076881",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Javelin",
+    "translation": "标枪",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-509b786d43b0f277",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Javelin",
+    "translation": "标枪",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-c00dd2161af45315",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "JAVELIN",
+    "translation": "标枪",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-c25997f51f6eb780",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "staff",
+    "translation": "杖",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-d26b2a8b3557ff97",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "axe or carving knife",
+    "translation": "斧或雕刻刀",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-0d4fd8edbeb14085",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "fire",
+    "translation": "火",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-adaa4fd6e6581fb0",
+    "source": "diy_glossary.txt",
+    "context": "craft-explanation",
+    "original": "(for hardening the head)",
+    "translation": "（用于硬化矛头）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-ee0a20918fe3c0d5",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Spruce quick-bow",
+    "translation": "云杉简易弓",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-7bdf8a2b2572fe17",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Spruce quick-bow",
+    "translation": "云杉简易弓",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-ea825dbfef80317f",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "SPRUCE QUICK-BOW",
+    "translation": "云杉简易弓",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-983411c561005f84",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "bowstring",
+    "translation": "弓弦",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-02600f324cd4a0c6",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Shortbow",
+    "translation": "短弓",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-d2cfdf034730d09f",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Shortbow",
+    "translation": "短弓",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-f06b833d30f48f2d",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "SHORTBOW",
+    "translation": "短弓",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-61f622d0a7389c77",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Longbow",
+    "translation": "长弓",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-382de97bd81d9adb",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Longbow",
+    "translation": "长弓",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-1b7b8004806be27e",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "LONGBOW",
+    "translation": "长弓",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-bd588d83af697706",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Blunt arrow",
+    "translation": "钝头箭",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-0e67dfb1f463ed4a",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "BLUNT ARROW",
+    "translation": "钝头箭",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-1510278299604f9f",
+    "source": "diy_glossary.txt",
+    "context": "craft-explanation",
+    "original": "(for rough shaping)",
+    "translation": "（用于粗加工）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-cb243308599d4b20",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Arrow shaft",
+    "translation": "箭杆",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-47366fe41c1987cd",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "ARROW SHAFT",
+    "translation": "箭杆",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-4cce4d8f9b980ef4",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "arrow shaft blank",
+    "translation": "箭杆坯",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-1e7175dbaf30750f",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Stone arrowhead",
+    "translation": "石箭镞",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-99288d7a0a473e78",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "STONE ARROWHEAD",
+    "translation": "石箭镞",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-f8db895beaf19446",
+    "source": "diy_glossary.txt",
+    "context": "craft-explanation",
+    "original": "(for the head)",
+    "translation": "（用于制作头部）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-477c1f2cafae8a5b",
+    "source": "diy_glossary.txt",
+    "context": "craft-explanation",
+    "original": "(for grinding)",
+    "translation": "（用于打磨）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-371e0e07ee12fa1f",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Bone arrowhead",
+    "translation": "骨箭镞",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-a300c434e7588e17",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "BONE ARROWHEAD",
+    "translation": "骨箭镞",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-ffe950010204648a",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "bone",
+    "translation": "骨头",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-d5848436e7fc5059",
+    "source": "diy_glossary.txt",
+    "context": "craft-explanation",
+    "original": "(for initial shaping)",
+    "translation": "（用于初步塑形）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-3e5ff389d3c732c8",
+    "source": "diy_glossary.txt",
+    "context": "craft-explanation",
+    "original": "(for sharpening)",
+    "translation": "（用于磨利）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-94abaa9ee59a280e",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Paw-board fox trap",
+    "translation": "夹爪捕狐板",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-ad000418b9feb109",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Paw-board fox trap",
+    "translation": "夹爪捕狐板",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-bc2141e0850eb09a",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "PAW-BOARD FOX TRAP",
+    "translation": "夹爪捕狐板",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-04fbb85a8f1d52bb",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Loop snare",
+    "translation": "绳套陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-2d3539d7b6f2f30b",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Loop snare",
+    "translation": "绳套陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-8e24160d167e1466",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "LOOP SNARE",
+    "translation": "绳套陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-d1e490c1c6b177ec",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "yarn",
+    "translation": "纱线",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-1d95c495ae33ddc7",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Grainflail",
+    "translation": "连枷",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-e18836feade6453e",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Grainflail",
+    "translation": "连枷",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-51940b7814ea1928",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "GRAINFLAIL",
+    "translation": "连枷",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-cd5546b427886334",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "cord",
+    "translation": "细绳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-cfd664bcfa8fded6",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Bandage",
+    "translation": "绷带",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-1464e09f95a1c1e9",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Bandage",
+    "translation": "绷带",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-e0cdb6536130fcf6",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "BANDAGE",
+    "translation": "绷带",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-ce60c85abc0127d1",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "bandage material",
+    "translation": "绷带材料",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-a16faf52a8f426aa",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Torch",
+    "translation": "火把",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-49b0e52c801a7d80",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Torch",
+    "translation": "火把",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-468c98a0a6c29e7b",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "TORCH",
+    "translation": "火把",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-94d1892491c9ad2d",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "branch",
+    "translation": "树枝",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-477ce5ea33de06f5",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Wooden shovel",
+    "translation": "木铲",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-e17faee3fca65549",
+    "source": "diy_glossary.txt",
+    "context": "craft-explanation",
+    "original": "An axe for rough cutting",
+    "translation": "用于粗砍的斧",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-aee1f98d048094ff",
+    "source": "diy_glossary.txt",
+    "context": "craft-explanation",
+    "original": "An axe for finishing the shape",
+    "translation": "用于修整外形的斧",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-a6dfa33f26b28610",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Vasta",
+    "translation": "桑拿枝束",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-3497eebf097c12c4",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Vasta",
+    "translation": "桑拿枝束",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-3e3438028685878a",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "VASTA",
+    "translation": "桑拿枝束",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-84c1b7a7f23ec76b",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "birch twig",
+    "translation": "桦树细枝",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-5da181b8de115c9d",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "birch withe",
+    "translation": "桦枝绳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-bd5ac8101d140b9e",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Bone sewing needle",
+    "translation": "骨缝衣针",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-f422dc3856ce268f",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Bone sewing needle",
+    "translation": "骨缝衣针",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-e2dde858214a9a46",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "BONE SEWING NEEDLE",
+    "translation": "骨缝衣针",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-a5e3faf9fb96443b",
+    "source": "diy_glossary.txt",
+    "context": "craft-explanation",
+    "original": "(for sharpening the needle)",
+    "translation": "（用于磨尖针尖）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-dd6a1d35a07d8085",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Wooden cup",
+    "translation": "木杯",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-54827da994914ae1",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Wooden cup",
+    "translation": "木杯",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-e538ac226f2e0af8",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "WOODEN CUP",
+    "translation": "木杯",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-8869e51e19db4bc8",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "block of wood",
+    "translation": "木块",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-8e8fd92d47905517",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Wooden bowl",
+    "translation": "木碗",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-4bffe1cee12c4b48",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Wooden bowl",
+    "translation": "木碗",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-65dc98e36747e596",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "WOODEN BOWL",
+    "translation": "木碗",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-1ac510ba139dd32a",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Birch-bark box",
+    "translation": "桦皮盒",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-353d15badacadbb8",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Birch-bark box",
+    "translation": "桦皮盒",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-a8fde6a6f6b6a96d",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "BIRCH-BARK BOX",
+    "translation": "桦皮盒",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-26d87c074e619314",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "birch-bark strip",
+    "translation": "桦皮条",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-a2eee403b9930fce",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Birch-bark basket",
+    "translation": "桦皮篮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-40dd114c66a57630",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Birch-bark basket",
+    "translation": "桦皮篮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-3060ee29e3a0ebbe",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "BIRCH-BARK BASKET",
+    "translation": "桦皮篮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-bf1cba227d66cc58",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Birch-bark pot",
+    "translation": "桦皮罐",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-891e0a922184b6a9",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Birch-bark pot",
+    "translation": "桦皮罐",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-5de3bb22884418d9",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "BIRCH-BARK POT",
+    "translation": "桦皮罐",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-5a0b8af018ef4d5e",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "sheet of birch-bark",
+    "translation": "桦皮片",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-6652dbae2349bba0",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Shingle basket",
+    "translation": "木片篮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-89d3a8e3bee036c2",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Shingle basket",
+    "translation": "木片篮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-00be8dca4b56889f",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "SHINGLE BASKET",
+    "translation": "木片篮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-0084724c9c29c33b",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "shingle",
+    "translation": "木片",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-84f3f5534623999c",
+    "source": "diy_glossary.txt",
+    "context": "craft-explanation",
+    "original": "(for the handles)",
+    "translation": "（用于制作把手）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-75915f95fd9dfaa6",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Fishing rod",
+    "translation": "钓竿",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-77ced826974e61da",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Fishing rod",
+    "translation": "钓竿",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-2b1eefe375cf498e",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "FISHING ROD",
+    "translation": "钓竿",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-43f96cd5b2eb6084",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "water-use yarn",
+    "translation": "水用纱线",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-ccf6523ed55bf7b3",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "fishhook",
+    "translation": "鱼钩",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-20737724905bd9b8",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Wooden fishhook",
+    "translation": "木鱼钩",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-19673ba32994fe8e",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Wooden fishhook",
+    "translation": "木鱼钩",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-106137bb9913dc17",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "WOODEN FISHHOOK",
+    "translation": "木鱼钩",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-f076cabb7139dac9",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Bone fishhook",
+    "translation": "骨鱼钩",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-1d3a16285992ada9",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Bone fishhook",
+    "translation": "骨鱼钩",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-4e58970dba32e129",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "BONE FISHHOOK",
+    "translation": "骨鱼钩",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-ef8159656c9831eb",
+    "source": "diy_glossary.txt",
+    "context": "craft-explanation",
+    "original": "(for sharpening the hook)",
+    "translation": "（用于磨尖鱼钩）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-70250282c4f05f13",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Lippo",
+    "translation": "抄网",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-73a9ec7665ec42ae",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Lippo",
+    "translation": "抄网",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-4a15417306834102",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "LIPPO",
+    "translation": "抄网",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-c2a4ca46b97d5efb",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "withe",
+    "translation": "枝条绳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-61b00554be3622fb",
+    "source": "diy_glossary.txt",
+    "context": "craft-explanation",
+    "original": "(for the hoop)",
+    "translation": "（用于制作网圈）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-375c0d10bd77831b",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "birch sapling",
+    "translation": "桦树苗",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-a5a81ad675529401",
+    "source": "diy_glossary.txt",
+    "context": "craft-explanation",
+    "original": "(the mesh)",
+    "translation": "（用于制作网眼）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-84b0f08e2497b095",
+    "source": "diy_glossary.txt",
+    "context": "craft-explanation",
+    "original": "(for the pole)",
+    "translation": "（用于制作长杆）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-6e6402de0b295a3e",
+    "source": "diy_glossary.txt",
+    "context": "craft-explanation",
+    "original": "(to shape the pole)",
+    "translation": "（用于加工长杆）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-25f5e49c728dd4e5",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Netting needle",
+    "translation": "织网针",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-d65cd336883ecb4a",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Netting needle",
+    "translation": "织网针",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-9a50cff3fb588774",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "NETTING NEEDLE",
+    "translation": "织网针",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-e9ba3a6ca1e6416b",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Cloth cord",
+    "translation": "布绳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-3f7beeed8fc81570",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Cloth cord",
+    "translation": "布绳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-c8760d25dd2f1083",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "CLOTH CORD",
+    "translation": "布绳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-cdf626ae9b569972",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "cloth",
+    "translation": "布料",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-5b3eae9e111d8e33",
+    "source": "diy_glossary.txt",
+    "context": "craft-explanation",
+    "original": "(for twisting)",
+    "translation": "（用于搓捻）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-e5d6fc91096b1c1e",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Cord",
+    "translation": "细绳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-6dccf69dd2d4049b",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Cord",
+    "translation": "细绳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-4ea40b4ebeb4978e",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "CORD",
+    "translation": "细绳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-abe302a1f6e3b1b9",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Leather cord",
+    "translation": "皮革细绳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-af056ef953a2c958",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Leather cord",
+    "translation": "皮革细绳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-93ec5b8d344eee85",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "LEATHER CORD",
+    "translation": "皮革细绳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-d23c588a3dbb2d45",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "leather",
+    "translation": "皮革",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-8bdf97320d75f673",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Rope",
+    "translation": "绳索",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-58ca5c34612437a3",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Rope",
+    "translation": "绳索",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-59361ae1a06cc1a1",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "ROPE",
+    "translation": "绳索",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-4969fd5be2e70d8f",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Leather rope",
+    "translation": "皮革绳索",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-5e986fd9bd7aef39",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Leather rope",
+    "translation": "皮革绳索",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-b7dcc4350ac2ba3d",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "LEATHER ROPE",
+    "translation": "皮革绳索",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-6348dfaa4f358df1",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "water",
+    "translation": "水",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-55a841c022c7f3d7",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Birch-bark rope",
+    "translation": "桦皮绳索",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-548fe99ba8c3a080",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Birch-bark rope",
+    "translation": "桦皮绳索",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-59079977d63c6ad9",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "BIRCH-BARK ROPE",
+    "translation": "桦皮绳索",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-1d1b5fff6940f4e4",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Spruce withe",
+    "translation": "云杉枝条绳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-13d49092a3095383",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Spruce withe",
+    "translation": "云杉枝条绳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-0df447ba0b1ed0ee",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "SPRUCE WITHE",
+    "translation": "云杉枝条绳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-68b3e971d073b026",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "spruce sapling",
+    "translation": "云杉树苗",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-0c36b426745a92a8",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Birch withe",
+    "translation": "桦枝绳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-6c41cddb83831ab9",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Birch withe",
+    "translation": "桦枝绳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-60bfc6bd1b44a713",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "BIRCH WITHE",
+    "translation": "桦枝绳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-6f2cc96e598c4217",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Axe haft",
+    "translation": "斧柄",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-a64ea0b4cfd09f38",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Axe haft",
+    "translation": "斧柄",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-54e4a9fc0e58fa45",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "AXE HAFT",
+    "translation": "斧柄",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-508d5550d6b80810",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Spear haft",
+    "translation": "矛杆",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-2b9e9196d70108cf",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Spear haft",
+    "translation": "矛杆",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-d12f96006399328f",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "SPEAR HAFT",
+    "translation": "矛杆",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-3a024eca03d2e3b2",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Shovel haft",
+    "translation": "铲柄",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-158a19e1afa24852",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Shovel haft",
+    "translation": "铲柄",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-4eb148f1d7dee980",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Wooden stake",
+    "translation": "木桩",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-a2a9481d84d4f38c",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "WOODEN STAKE",
+    "translation": "木桩",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-706cff4d60bfa7db",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Staff",
+    "translation": "杖",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-23e7e3c16d0d7a9f",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Staff",
+    "translation": "杖",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-a39d50a4ab44c4fc",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "STAFF",
+    "translation": "杖",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-322a4390fabff13b",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Wood slat",
+    "translation": "木条",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-e7db1e136732fa2e",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Wood slat",
+    "translation": "木条",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-6d815bd5ec95922b",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "WOOD SLAT",
+    "translation": "木条",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-1f3950b08a7cf741",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Shingle",
+    "translation": "木片",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-a9f69ec13704562d",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Shingle",
+    "translation": "木片",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-e506295f7a17af29",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "SHINGLE",
+    "translation": "木片",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-f475600b178a8e1b",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "block of pine wood",
+    "translation": "松木块",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-00e5852fd9d5aaf7",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "hammering tool",
+    "translation": "敲打工具",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-bec614106014c24e",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Paddle",
+    "translation": "船桨",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-3cf570e28ca3b95d",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Paddle",
+    "translation": "船桨",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-f895c22bb3a1517c",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "PADDLE",
+    "translation": "船桨",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-4d3d4b2ee6a435fc",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Skis",
+    "translation": "滑雪板",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-bc90483b79e5fccb",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Skis",
+    "translation": "滑雪板",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-0625ad0ec3d9fe1b",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "SKIS",
+    "translation": "滑雪板",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-e1b22a99b5e1fcbe",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "animal hide",
+    "translation": "兽皮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-5a8edf7397a79f51",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "thin cordage",
+    "translation": "细绳料",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-695188081076cd7d",
+    "source": "diy_glossary.txt",
+    "context": "craft-explanation",
+    "original": "(for tying the fur on the underside)",
+    "translation": "（用于绑紧底部的毛皮）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-2884f198534758d1",
+    "source": "diy_glossary.txt",
+    "context": "craft-explanation",
+    "original": "(for boot bindings)",
+    "translation": "（用于制作靴带）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-6a80ee8cf1dad622",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Ski pole",
+    "translation": "滑雪杖",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-2fd2f97e3ec665ba",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Ski pole",
+    "translation": "滑雪杖",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-9fb599b1fc7b16ee",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "SKI POLE",
+    "translation": "滑雪杖",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-716dc5283f553aa6",
+    "source": "diy_glossary.txt",
+    "context": "craft-explanation",
+    "original": "(for the lower end rim)",
+    "translation": "（用于制作底边）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-b77bdf70085dd90e",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Raft",
+    "translation": "木筏",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-c36e526141b8b22f",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Raft",
+    "translation": "木筏",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-b60a4f7cf96b1351",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "RAFT",
+    "translation": "木筏",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-4b5e6931b4382df3",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "tree trunk",
+    "translation": "树干",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-8e2aec16e4698f74",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Sesta",
+    "translation": "长篙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-89fe8b5025b0327d",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Sesta",
+    "translation": "长篙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-60edb8600082b813",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "SESTA",
+    "translation": "长篙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-99ce8f8ce80443ce",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Spindle",
+    "translation": "纺锤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-e6ed3c93483c5313",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Spindle",
+    "translation": "纺锤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-5f9b97e364087a76",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "SPINDLE",
+    "translation": "纺锤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-3db922e31ec93d9a",
+    "source": "diy_glossary.txt",
+    "context": "craft-explanation",
+    "original": "for rough cutting",
+    "translation": "用于粗砍",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-e9812fc9482a1570",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Leather belt",
+    "translation": "皮革腰带",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-9bea9262d372b1a0",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Leather belt",
+    "translation": "皮革腰带",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-7d92f5fd52448d0f",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "LEATHER BELT",
+    "translation": "皮革腰带",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-8514770031f10915",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Leather cap",
+    "translation": "皮革帽",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-34524d4e843c6dc7",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Leather cap",
+    "translation": "皮革帽",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-080905d7c838f5f7",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "LEATHER CAP",
+    "translation": "皮革帽",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-db1bec3b24b30c64",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Leather shirt",
+    "translation": "皮革衬衫",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-8c8c270de7974a92",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Leather shirt",
+    "translation": "皮革衬衫",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-125f44816bfb3c6a",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "LEATHER SHIRT",
+    "translation": "皮革衬衫",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-101952260ef0e6cd",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Leather trousers",
+    "translation": "皮革长裤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-3466ddc27cd591ea",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Leather trousers",
+    "translation": "皮革长裤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-109012d2cf77c66b",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "LEATHER TROUSERS",
+    "translation": "皮革长裤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-fadb41aedab7ba14",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Leather leggings",
+    "translation": "皮革护腿",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-4820eff361dae615",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Leather leggings",
+    "translation": "皮革护腿",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-0948c9f3052982fb",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "LEATHER LEGGINGS",
+    "translation": "皮革护腿",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-46b375eeeaa973f0",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Leather shoes",
+    "translation": "皮革鞋",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-81875aa33c77fe71",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Leather shoes",
+    "translation": "皮革鞋",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-906e08e9ee96f54a",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "LEATHER SHOES",
+    "translation": "皮革鞋",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-afc45afe75dd21fa",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Leather boots",
+    "translation": "皮革靴",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-ff8ed7b38b7cdf72",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Leather boots",
+    "translation": "皮革靴",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-7ffdaf57609a4344",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "LEATHER BOOTS",
+    "translation": "皮革靴",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-04b40cbf903aa9a8",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Leather forearm guards",
+    "translation": "皮革护臂",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-b0c9abfcb6e29620",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Leather forearm guards",
+    "translation": "皮革护臂",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-60df24e3f9dd8f32",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "LEATHER FOREARM GUARDS",
+    "translation": "皮革护臂",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-23e97ca6f9338453",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Leather shin guards",
+    "translation": "皮革护胫",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-e586db14888566be",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Leather shin guards",
+    "translation": "皮革护胫",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-fe359f0a613fa987",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "LEATHER SHIN GUARDS",
+    "translation": "皮革护胫",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-b11a355859b580e5",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Leather cuirass",
+    "translation": "皮革胸甲",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-4f28c3e47c49172d",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Leather cuirass",
+    "translation": "皮革胸甲",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-a47b48a1b39c2e97",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "LEATHER CUIRASS",
+    "translation": "皮革胸甲",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-454ed05fd47ac275",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Fur cap",
+    "translation": "毛皮帽",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-16d4eda59f97a3bf",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Fur cap",
+    "translation": "毛皮帽",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-f6072f70ca9c32b7",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "FUR CAP",
+    "translation": "毛皮帽",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-2cfdc3fc32e18d37",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Fur shirt",
+    "translation": "毛皮衬衫",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-b13e1d15de35a92e",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Fur shirt",
+    "translation": "毛皮衬衫",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-a0e2b85006139157",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "FUR SHIRT",
+    "translation": "毛皮衬衫",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-6aaaf63556414fd5",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Fur mittens",
+    "translation": "毛皮连指手套",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-59e073621ac04950",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Fur mittens",
+    "translation": "毛皮连指手套",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-5108c59697a36d88",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "FUR MITTENS",
+    "translation": "毛皮连指手套",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-0d6542c0356b916e",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Fur leggings",
+    "translation": "毛皮护腿",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-997f3b2227fde32d",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Fur leggings",
+    "translation": "毛皮护腿",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-0df77e12bf4f6cd1",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "FUR LEGGINGS",
+    "translation": "毛皮护腿",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-497575194447d453",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Fur hood",
+    "translation": "毛皮兜帽",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-9dfa3481d976bb7c",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Fur hood",
+    "translation": "毛皮兜帽",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-de71dcd8f3dac399",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "FUR HOOD",
+    "translation": "毛皮兜帽",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-09c9d02c6948a0b9",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Fur boots",
+    "translation": "毛皮靴",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-01a0da7e1d8e2a4a",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Fur boots",
+    "translation": "毛皮靴",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-2b80fbf95b96a603",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "FUR BOOTS",
+    "translation": "毛皮靴",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-858dfe8aa9edbe52",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Fur cloak",
+    "translation": "毛皮披风",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-b704693524fb1b72",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Fur cloak",
+    "translation": "毛皮披风",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-047209d4109181b5",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "FUR CLOAK",
+    "translation": "毛皮披风",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-fce796d2042376d1",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Fur overcoat",
+    "translation": "毛皮外套",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-ebbe2600f6e8de19",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Fur overcoat",
+    "translation": "毛皮外套",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-aebf47e056ef6bc0",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "FUR OVERCOAT",
+    "translation": "毛皮外套",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-00cfec290d5ec755",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Undershirt",
+    "translation": "内衫",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-5aa23788d9c59d79",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Undershirt",
+    "translation": "内衫",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-2d031b9d08e4d459",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "UNDERSHIRT",
+    "translation": "内衫",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-1f2702832e726cc8",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Shirt",
+    "translation": "衬衫",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-7d44790872ca5359",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Shirt",
+    "translation": "衬衫",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-f5f72ead543f12b0",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "SHIRT",
+    "translation": "衬衫",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-294d18a013ff2075",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Leggings",
+    "translation": "护腿",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-95a553aa4f2d8e57",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Leggings",
+    "translation": "护腿",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-05885f557d39e572",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "LEGGINGS",
+    "translation": "护腿",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-c2fea9cec8ef2ebd",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Trousers",
+    "translation": "长裤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-ab2a8be3ef672702",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Trousers",
+    "translation": "长裤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-35fc25b2f2b19404",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "TROUSERS",
+    "translation": "长裤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-118cdbb5748d89fe",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Cloak",
+    "translation": "披风",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-2da05dda16f1c4dd",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Cloak",
+    "translation": "披风",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-1b53555a4dce4810",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "CLOAK",
+    "translation": "披风",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-a391fc6405e489a4",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Tunic",
+    "translation": "长衫",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-ff8a216f8bf4b643",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Tunic",
+    "translation": "长衫",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-0952cfd3e209aabe",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "TUNIC",
+    "translation": "长衫",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-8a1c950255ac8855",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Overcoat",
+    "translation": "外套",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-3591dcb5ac5c34ca",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Overcoat",
+    "translation": "外套",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-a6a39a1948dab9f4",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "OVERCOAT",
+    "translation": "外套",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-60f6866ccbc9b4e2",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Dress",
+    "translation": "连衣裙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-e5d6a7dfa5969715",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Dress",
+    "translation": "连衣裙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-2a1b2a63deed2718",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "DRESS",
+    "translation": "连衣裙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-91151fe56cc00330",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Undergarment",
+    "translation": "内衣",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-47ca432f33900a5e",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Undergarment",
+    "translation": "内衣",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-2995907b0b282fe6",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "UNDERGARMENT",
+    "translation": "内衣",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-0d61b7bff1e75286",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Apron",
+    "translation": "围裙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-cd879fff3e97be30",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Apron",
+    "translation": "围裙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-c09b7e69bc129fbb",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "APRON",
+    "translation": "围裙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-641162d41734c9af",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Cowl",
+    "translation": "头巾",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-d0b3de89c8ecef5c",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Cowl",
+    "translation": "头巾",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-8bdd9d1da98eb956",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "COWL",
+    "translation": "头巾",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-9bdf003c9e568813",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Veil",
+    "translation": "面纱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-4f9d1f108dfaf200",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Veil",
+    "translation": "面纱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-bdced42650114769",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "VEIL",
+    "translation": "面纱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-11278e3e226676e8",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Footrags",
+    "translation": "裹脚布",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-d7bd21b1eee2ad87",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Footrags",
+    "translation": "裹脚布",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-59bb48519d8f24d8",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "FOOTRAGS",
+    "translation": "裹脚布",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-7a335d51cbce1f3e",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Birch-bark shoes",
+    "translation": "桦皮鞋",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-65a31a3208944e03",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Birch-bark shoes",
+    "translation": "桦皮鞋",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-bc3d3b946ff82aa7",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "BIRCH-BARK SHOES",
+    "translation": "桦皮鞋",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-70b9e8fb603e9c07",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Birch-bark cap",
+    "translation": "桦皮帽",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-b400ceed535711a6",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Birch-bark cap",
+    "translation": "桦皮帽",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-79eadec3ba115e55",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "BIRCH-BARK CAP",
+    "translation": "桦皮帽",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-94d3af68dea7d204",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Woollen nalbound cap",
+    "translation": "羊毛针织帽",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-8687248d1eebee91",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Woollen nalbound cap",
+    "translation": "羊毛针织帽",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-88949886b4b8240e",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "WOOLLEN NALBOUND CAP",
+    "translation": "羊毛针织帽",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-8ad83c6337da1730",
+    "source": "diy_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "wool yarn",
+    "translation": "羊毛纱线",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-9d42212d9a3a6dea",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Woollen nalbound cowl",
+    "translation": "羊毛针织头巾",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-4cd10cc479ed7d75",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Woollen nalbound cowl",
+    "translation": "羊毛针织头巾",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-1a999f65e0b19fc6",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "WOOLLEN NALBOUND COWL",
+    "translation": "羊毛针织头巾",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-2dad2c1a2711ceed",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Woollen nalbound mittens",
+    "translation": "羊毛针织连指手套",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-f1b0308e6e6c9d8f",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Woollen nalbound mittens",
+    "translation": "羊毛针织连指手套",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-878df8b3a1d3f0a7",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "WOOLLEN NALBOUND MITTENS",
+    "translation": "羊毛针织连指手套",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-7c4817580bb735bc",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Woollen nalbound knee socks",
+    "translation": "羊毛针织长袜",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-cbce277ca7774cd1",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Woollen nalbound knee socks",
+    "translation": "羊毛针织长袜",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-28e522f7b231d8f9",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "WOOLLEN NALBOUND KNEE SOCKS",
+    "translation": "羊毛针织长袜",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-44ac39624139938d",
+    "source": "diy_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Woollen nalbound socks",
+    "translation": "羊毛针织袜",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-509347fa8443e7ef",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "Woollen nalbound socks",
+    "translation": "羊毛针织袜",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-ab0503da319c6a4a",
+    "source": "diy_glossary.txt",
+    "context": "showtext",
+    "original": "WOOLLEN NALBOUND SOCKS",
+    "translation": "羊毛针织袜",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-d35db6fca49c6154",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "BUILDING OPTIONS",
+    "translation": "建造选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-b6b35c6d7ef6600c",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-recipe",
+    "original": "BUILDING OPTIONS",
+    "translation": "建造选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-74511d9067f3ba72",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "Wooden building",
+    "translation": "木结构建筑",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-37aaad4e84160473",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "WOODEN BUILDING",
+    "translation": "木结构建筑",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-ed343276dfe0d5c2",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-recipe",
+    "original": "Wooden building",
+    "translation": "木结构建筑",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-32f86196677008ce",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "Kota",
+    "translation": "科塔帐篷",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-618ce42a16b69208",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "KOTA",
+    "translation": "科塔帐篷",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-7e9895d8aa0422e9",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-recipe",
+    "original": "Kota",
+    "translation": "科塔帐篷",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-18f169252c78be44",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "Post spruce",
+    "translation": "云杉简易避风处",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-08d18d3a65b57740",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "POST SPRUCE",
+    "translation": "云杉简易避风处",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-4fc8a13cbdce5034",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-recipe",
+    "original": "Post spruce",
+    "translation": "云杉简易避风处",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-83368cdf5baf781d",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "Continue paused process",
+    "translation": "继续暂停的工作",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-a8e4d370eb33cc0f",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "CONTINUE PAUSED PROCESS",
+    "translation": "继续暂停的工作",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-29c7708cb270ccd5",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-recipe",
+    "original": "Continue paused process",
+    "translation": "继续暂停的工作",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-45a98d94b260ec28",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "Deconstruct something",
+    "translation": "拆除建筑或设施",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-f4b48aa22baa41cc",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "DECONSTRUCT SOMETHING",
+    "translation": "拆除建筑或设施",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-59c07433ae2ef485",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-recipe",
+    "original": "Deconstruct something",
+    "translation": "拆除建筑或设施",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-4fad51fb9ceb9f27",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "General building information",
+    "translation": "建造基本说明",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-3d13c7b91214a0fd",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "GENERAL BUILDING INFORMATION",
+    "translation": "建造基本说明",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-a81e2d2ae953a1b7",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-recipe",
+    "original": "General building information",
+    "translation": "建造基本说明",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-07d789839a554b10",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "Select required equipment",
+    "translation": "选择所需工具或材料",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-e56f785207da8720",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "SELECT REQUIRED EQUIPMENT",
+    "translation": "选择所需工具或材料",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-20c6a920bb6724a0",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-recipe",
+    "original": "Select required equipment",
+    "translation": "选择所需工具或材料",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-cf15b8cf3f2f53ba",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "Build something",
+    "translation": "建造",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-fcc803b5593e50e6",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "BUILD SOMETHING",
+    "translation": "建造",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-dff2fdb629dad824",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-recipe",
+    "original": "Build something",
+    "translation": "建造",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-acc759e64323e975",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "TEXTILECRAFT OPTIONS",
+    "translation": "纺织选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-7c0b460f8adcdc27",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-recipe",
+    "original": "TEXTILECRAFT OPTIONS",
+    "translation": "纺织选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-3a90c91663f56e1a",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "Sinew yarn",
+    "translation": "筋纱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-e2e64e4f0fdd94cc",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "SINEW YARN",
+    "translation": "筋纱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-5ade3b56afa471a4",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-recipe",
+    "original": "Sinew yarn",
+    "translation": "筋纱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-1a57e27dd2e81ee9",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "Net",
+    "translation": "渔网",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-c2087cdee4f3ff5e",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "NET",
+    "translation": "渔网",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-cf84284861e990a1",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-recipe",
+    "original": "Net",
+    "translation": "渔网",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-28c3e057d288f896",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "Bowstring",
+    "translation": "弓弦",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-db809ba9440e2e43",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "BOWSTRING",
+    "translation": "弓弦",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-8132257cc52c22c6",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-recipe",
+    "original": "Bowstring",
+    "translation": "弓弦",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-b9d69ba1ed1b884e",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "Haft",
+    "translation": "装柄",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-e960835552581c27",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "HAFT",
+    "translation": "装柄",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-1758793d2f7c8bbc",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-recipe",
+    "original": "Haft",
+    "translation": "装柄",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-9b443658589db204",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "Remove haft",
+    "translation": "拆除柄杆",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-515729defc6ff3ac",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "REMOVE HAFT",
+    "translation": "拆除柄杆",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-e63b882344787e17",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-recipe",
+    "original": "Remove haft",
+    "translation": "拆除柄杆",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-26f1527fb2a4df08",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "Shorten tying equipment",
+    "translation": "缩短捆扎用具",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-7b277587a8d2f92d",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "SHORTEN TYING EQUIPMENT",
+    "translation": "缩短捆扎用具",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-a04971abcab84b4b",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-recipe",
+    "original": "Shorten tying equipment",
+    "translation": "缩短捆扎用具",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-5500d478d3af6b93",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "Join tying equipment",
+    "translation": "接合捆扎用具",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-f2c6c03e3331b27d",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "JOIN TYING EQUIPMENT",
+    "translation": "接合捆扎用具",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-18a574887d861c60",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-recipe",
+    "original": "Join tying equipment",
+    "translation": "接合捆扎用具",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-65b843a72dbe59af",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "ARROW",
+    "translation": "箭",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-977cb277f59a5d0a",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-recipe",
+    "original": "Arrow",
+    "translation": "箭",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-8b1af8c8a46859fa",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-menu-heading",
+    "original": "BUILDING OPTIONS",
+    "translation": "建造选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-5c7670ccf574dccf",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-menu-heading",
+    "original": "WOODEN BUILDING",
+    "translation": "木结构建筑",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-c0ee3bc54dfe2cc6",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-menu-heading",
+    "original": "KOTA",
+    "translation": "科塔帐篷",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-c16d78d8aa036aab",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-menu-heading",
+    "original": "TEXTILECRAFT OPTIONS",
+    "translation": "纺织选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-ed17bbbade008837",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-menu-heading",
+    "original": "ARROWS",
+    "translation": "箭矢",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-6360df85e7ade0b7",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-menu-heading",
+    "original": "LUMBER",
+    "translation": "木材",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-c0fca28d75aa140d",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-menu-heading",
+    "original": "CONTAINERS",
+    "translation": "容器",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-a424696418d485b1",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-menu-heading",
+    "original": "FISHING",
+    "translation": "捕鱼用具",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-e81b83790432ff05",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-menu-heading",
+    "original": "HAFTING",
+    "translation": "装柄",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-8c32b821960db99d",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-menu-heading",
+    "original": "TRANSPORT",
+    "translation": "运输工具",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-1a1b7a5f118d07ec",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-menu-heading",
+    "original": "WEAPONS",
+    "translation": "武器",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-e1fed4bdfa19d16c",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-menu-heading",
+    "original": "TYING EQUIPMENT",
+    "translation": "捆扎用具",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-5d81364c1141c984",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-menu-heading",
+    "original": "UTILITY ARTICLES",
+    "translation": "日用器具",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-a12c711fe9a6612e",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-menu-heading",
+    "original": "CLOTHES",
+    "translation": "衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-c83ddb98aee3fa20",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-menu-heading",
+    "original": "TRAPPING",
+    "translation": "陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-48f30821e82b5651",
+    "source": "runtime:craft-material",
+    "context": "message",
+    "original": "!Canceled.",
+    "translation": "已取消。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-08fed77a2b0822a4",
+    "source": "runtime:craft-material",
+    "context": "message",
+    "original": "!Cancelled.",
+    "translation": "已取消。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-1740d674fccb175f",
+    "source": "runtime:craft-material",
+    "context": "message",
+    "original": "_(Wooden stakes can be made from slender tree trunks via [M]ake-menu.)",
+    "translation": "（可从制作菜单 [M] 用细树干制作木桩。）",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "preserve": [
+      "[M]"
+    ]
+  },
+  {
+    "id": "craft-submenu-53acb0e8eaecb745",
+    "source": "runtime:craft-material",
+    "context": "message",
+    "original": "_(Wooden stakes can be made from slender tree trunks.)",
+    "translation": "（木桩可用细树干制作。）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-ba122a1e7c866efc",
+    "source": "runtime:craft-material",
+    "context": "inventory-action",
+    "original": "use",
+    "translation": "使用",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-627fda50e2801ee9",
+    "source": "cookery_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Flatbread",
+    "translation": "薄饼",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-e5e142403277cb55",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "Flatbread",
+    "translation": "薄饼",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-71901ad8d73040c3",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "FLATBREAD",
+    "translation": "薄饼",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-3cb1b084e65f26ca",
+    "source": "cookery_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "flour",
+    "translation": "面粉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-39f41240eb723bfb",
+    "source": "cookery_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "seasoning",
+    "translation": "调味料",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-f9831af5f7a827a5",
+    "source": "cookery_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Porridge",
+    "translation": "粥",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-d4d5ac4e86195c15",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "Porridge",
+    "translation": "粥",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-98bd0f24fa2ae5ce",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "PORRIDGE",
+    "translation": "粥",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-ceff5fafd56d82b7",
+    "source": "cookery_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Oven porridge",
+    "translation": "烤炉焖粥",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-3d5e5723aba1ce2c",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "Oven porridge",
+    "translation": "烤炉焖粥",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-0a0148c47f8b296c",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "OVEN PORRIDGE",
+    "translation": "烤炉焖粥",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-24eec4cd53948246",
+    "source": "cookery_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Seed porridge",
+    "translation": "种子粥",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-c6195a0534bec7b4",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "Seed porridge",
+    "translation": "种子粥",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-78f8e8fa6b3d5199",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "SEED PORRIDGE",
+    "translation": "种子粥",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-c1d8b625c2307db1",
+    "source": "cookery_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "seeds",
+    "translation": "种子",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-232a9162df3f0940",
+    "source": "cookery_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Berry porridge",
+    "translation": "浆果粥",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-b8d93b6bc9e215dd",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "Berry porridge",
+    "translation": "浆果粥",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-9518d8805ff6af91",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "BERRY PORRIDGE",
+    "translation": "浆果粥",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-0a875261cec29915",
+    "source": "cookery_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "berries",
+    "translation": "浆果",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-9db3737e41eea392",
+    "source": "cookery_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Meat soup",
+    "translation": "肉汤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-e32837723eaebcf3",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "Meat soup",
+    "translation": "肉汤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-629d74fb14ed2487",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "MEAT SOUP",
+    "translation": "肉汤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-5de262ca4210d116",
+    "source": "cookery_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "raw or salted meat",
+    "translation": "生肉或腌肉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-77224b48683c9c0f",
+    "source": "cookery_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "vegetables",
+    "translation": "蔬菜",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-aaec89f1f2cef4b0",
+    "source": "cookery_glossary.txt",
+    "context": "craft-explanation",
+    "original": "for chopping and peeling",
+    "translation": "用于切碎和去皮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-3695c9ac91e5bbea",
+    "source": "cookery_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Meat stew",
+    "translation": "炖肉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-57d8be63ecccc39e",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "Meat stew",
+    "translation": "炖肉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-3c241fcfd2a0b142",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "MEAT STEW",
+    "translation": "炖肉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-fba1c3f9c787f94f",
+    "source": "cookery_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "mushrooms",
+    "translation": "蘑菇",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-b51cff9909a36272",
+    "source": "cookery_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Dried meat soup",
+    "translation": "肉干汤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-588ab3f6465152f1",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "Dried meat soup",
+    "translation": "肉干汤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-1031ff7c4bf284dd",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "DRIED MEAT SOUP",
+    "translation": "肉干汤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-a15c41ec1f4eeec1",
+    "source": "cookery_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "dried meat",
+    "translation": "风干肉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-f2201874640f77c4",
+    "source": "cookery_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Smoked meat soup",
+    "translation": "熏肉汤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-a5aa4c95158907d6",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "Smoked meat soup",
+    "translation": "熏肉汤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-82627998c3df69b2",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "SMOKED MEAT SOUP",
+    "translation": "熏肉汤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-5edb446700956ce5",
+    "source": "cookery_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "smoked meat",
+    "translation": "熏肉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-85677b274461717e",
+    "source": "cookery_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Fish soup",
+    "translation": "鱼汤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-1f8e625d7e157bb5",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "Fish soup",
+    "translation": "鱼汤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-efc45c1057aa2edc",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "FISH SOUP",
+    "translation": "鱼汤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-fe63c092e391379c",
+    "source": "cookery_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "raw or salted fish",
+    "translation": "生鱼或腌鱼",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-1ca487c65f99df10",
+    "source": "cookery_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Dried fish soup",
+    "translation": "鱼干汤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-0e0bf4972ea269d9",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "Dried fish soup",
+    "translation": "鱼干汤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-cdfa6fc0a9db4867",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "DRIED FISH SOUP",
+    "translation": "鱼干汤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-da44c8768a6f5116",
+    "source": "cookery_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "dried fish",
+    "translation": "风干鱼",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-778c385a01e633ae",
+    "source": "cookery_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Smoked fish soup",
+    "translation": "熏鱼汤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-352f173e78f456f8",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "Smoked fish soup",
+    "translation": "熏鱼汤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-ea94dc9c351f71e4",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "SMOKED FISH SOUP",
+    "translation": "熏鱼汤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-5d17d77a4e3094d1",
+    "source": "cookery_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "smoked fish",
+    "translation": "熏鱼",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-aa871a65b4efca11",
+    "source": "cookery_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Pea soup",
+    "translation": "豌豆汤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-bbd675101ad6fc94",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "Pea soup",
+    "translation": "豌豆汤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-6513ef056be2aabc",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "PEA SOUP",
+    "translation": "豌豆汤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-79e631a84bbdbd50",
+    "source": "cookery_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "peas",
+    "translation": "豌豆",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-77e9587c96f363df",
+    "source": "cookery_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Green soup",
+    "translation": "草本蔬菜汤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-83f8f0fc8d5ab6d2",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "Green soup",
+    "translation": "草本蔬菜汤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-f6b3343724069670",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "GREEN SOUP",
+    "translation": "草本蔬菜汤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-dbcb830251e61023",
+    "source": "cookery_glossary.txt",
+    "context": "craft-ingredient",
+    "original": "herbs",
+    "translation": "草本植物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-38ca487056394440",
+    "source": "cookery_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Vegetable soup",
+    "translation": "蔬菜汤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-5cec8c6e04106c9d",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "Vegetable soup",
+    "translation": "蔬菜汤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-a2dc51e67a7b5b02",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "VEGETABLE SOUP",
+    "translation": "蔬菜汤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-a43660dc64674ef1",
+    "source": "cookery_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Mushroom soup",
+    "translation": "蘑菇汤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-657219a4d39156b9",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "Mushroom soup",
+    "translation": "蘑菇汤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-d044a44dbf762ad8",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "MUSHROOM SOUP",
+    "translation": "蘑菇汤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-940954dff243a304",
+    "source": "cookery_glossary.txt",
+    "context": "craft-recipe",
+    "original": "Vegetable stew",
+    "translation": "炖蔬菜",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-8b7278909c86aafd",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "Vegetable stew",
+    "translation": "炖蔬菜",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-3b48ee41f7007864",
+    "source": "cookery_glossary.txt",
+    "context": "showtext",
+    "original": "VEGETABLE STEW",
+    "translation": "炖蔬菜",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-9d3714d5ab38bf6b",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-menu-heading",
+    "original": "COOKERY OPTION",
+    "translation": "烹饪选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-82036b994fc8eedc",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "COOKERY OPTION",
+    "translation": "烹饪选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-e528caa7620cc7f1",
+    "source": "urw3-bin:craft-menu",
+    "context": "craft-menu-heading",
+    "original": "COOKERY OPTIONS",
+    "translation": "烹饪选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-submenu-788fd9fc25e209c7",
+    "source": "urw3-bin:craft-menu",
+    "context": "showtext",
+    "original": "COOKERY OPTIONS",
+    "translation": "烹饪选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  }
+]

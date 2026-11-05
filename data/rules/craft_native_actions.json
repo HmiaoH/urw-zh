@@ -1,0 +1,456 @@
+{
+  "symbol": "__Z8Toimintai",
+  "source": "urw3-bin:3.89.1:x86_64",
+  "rows": [
+    {
+      "instruction": "0x1001ba87f",
+      "literal": "0x100231516",
+      "name": "Fell a tree"
+    },
+    {
+      "instruction": "0x1001ba897",
+      "literal": "0x100231732",
+      "name": "Boil"
+    },
+    {
+      "instruction": "0x1001ba89f",
+      "literal": "0x10023173c",
+      "name": "Craft modded item"
+    },
+    {
+      "instruction": "0x1001ba8a7",
+      "literal": "0x10023174e",
+      "name": "Craft an item"
+    },
+    {
+      "instruction": "0x1001ba8b7",
+      "literal": "0x1001f33b3",
+      "name": "Log"
+    },
+    {
+      "instruction": "0x1001ba8bf",
+      "literal": "0x100231522",
+      "name": "Chop blocks of wood"
+    },
+    {
+      "instruction": "0x1001ba8c7",
+      "literal": "0x100231536",
+      "name": "Split firewood"
+    },
+    {
+      "instruction": "0x1001ba8cf",
+      "literal": "0x100231545",
+      "name": "Peel bark"
+    },
+    {
+      "instruction": "0x1001ba8d7",
+      "literal": "0x10023154f",
+      "name": "Boards"
+    },
+    {
+      "instruction": "0x1001ba8df",
+      "literal": "0x100231556",
+      "name": "Post spruce"
+    },
+    {
+      "instruction": "0x1001ba8e7",
+      "literal": "0x10023158a",
+      "name": "Harvest and pick"
+    },
+    {
+      "instruction": "0x1001ba8ef",
+      "literal": "0x10023159b",
+      "name": "Grind flour"
+    },
+    {
+      "instruction": "0x1001ba8f7",
+      "literal": "0x1002315a7",
+      "name": "Thresh (for grain/seeds/leaves)"
+    },
+    {
+      "instruction": "0x1001ba8ff",
+      "literal": "0x10023157d",
+      "name": "Harvest down"
+    },
+    {
+      "instruction": "0x1001ba907",
+      "literal": "0x100231562",
+      "name": "Prepare the soil"
+    },
+    {
+      "instruction": "0x1001ba90f",
+      "literal": "0x100231573",
+      "name": "Plant/sow"
+    },
+    {
+      "instruction": "0x1001ba917",
+      "literal": "0x1002315c7",
+      "name": "Twigs and branches"
+    },
+    {
+      "instruction": "0x1001ba91f",
+      "literal": "0x1002315da",
+      "name": "Build a fire"
+    },
+    {
+      "instruction": "0x1001ba927",
+      "literal": "0x1002315e7",
+      "name": "Make a hole in the ice"
+    },
+    {
+      "instruction": "0x1001ba92f",
+      "literal": "0x1002315fe",
+      "name": "Skin an animal"
+    },
+    {
+      "instruction": "0x1001ba937",
+      "literal": "0x10023160d",
+      "name": "Cure the skin (for preservation)"
+    },
+    {
+      "instruction": "0x1001ba93f",
+      "literal": "0x10023162e",
+      "name": "Tan the skin"
+    },
+    {
+      "instruction": "0x1001ba947",
+      "literal": "0x100231687",
+      "name": "De-hair (for rawhide/leather)"
+    },
+    {
+      "instruction": "0x1001ba94f",
+      "literal": "0x10023163b",
+      "name": "Apply tanning material"
+    },
+    {
+      "instruction": "0x1001ba957",
+      "literal": "0x100231652",
+      "name": "Rinse and dry the skin"
+    },
+    {
+      "instruction": "0x1001ba95f",
+      "literal": "0x100231669",
+      "name": "Soften the skin"
+    },
+    {
+      "instruction": "0x1001ba967",
+      "literal": "0x1002316a5",
+      "name": "Clean the skin"
+    },
+    {
+      "instruction": "0x1001ba96f",
+      "literal": "0x100231679",
+      "name": "Soak the skin"
+    },
+    {
+      "instruction": "0x1001ba977",
+      "literal": "0x1002316dd",
+      "name": "Roasted meat"
+    },
+    {
+      "instruction": "0x1001ba97f",
+      "literal": "0x1001f4bdf",
+      "name": "Salted meat"
+    },
+    {
+      "instruction": "0x1001ba987",
+      "literal": "0x1001f4bf6",
+      "name": "Smoked meat"
+    },
+    {
+      "instruction": "0x1001ba98f",
+      "literal": "0x1002316ea",
+      "name": "Dry (for preservation)"
+    },
+    {
+      "instruction": "0x1001ba997",
+      "literal": "0x100231701",
+      "name": "Salt (for preservation)"
+    },
+    {
+      "instruction": "0x1001ba99f",
+      "literal": "0x1001ee17a",
+      "name": "Ember-roasted turnips"
+    },
+    {
+      "instruction": "0x1001ba9a7",
+      "literal": "0x1002316b4",
+      "name": "Roast in embers"
+    },
+    {
+      "instruction": "0x1001ba9af",
+      "literal": "0x1002316c4",
+      "name": "Roast on fire"
+    },
+    {
+      "instruction": "0x1001ba9b7",
+      "literal": "0x100231737",
+      "name": "Cook"
+    },
+    {
+      "instruction": "0x1001ba9bf",
+      "literal": "0x100231719",
+      "name": "Smoke (for preservation)"
+    },
+    {
+      "instruction": "0x1001ba9c7",
+      "literal": "0x1002316d2",
+      "name": "Wild flour"
+    },
+    {
+      "instruction": "0x1001ba9cf",
+      "literal": "0x10023186e",
+      "name": "Join ropes and cords"
+    },
+    {
+      "instruction": "0x1001ba9d7",
+      "literal": "0x100231883",
+      "name": "Shorten ropes and cords"
+    },
+    {
+      "instruction": "0x1001ba9df",
+      "literal": "0x1001f5608",
+      "name": "Withe"
+    },
+    {
+      "instruction": "0x1001ba9e7",
+      "literal": "0x1002318f6",
+      "name": "Build something"
+    },
+    {
+      "instruction": "0x1001ba9ef",
+      "literal": "0x10023189b",
+      "name": "Spin yarn"
+    },
+    {
+      "instruction": "0x1001ba9f7",
+      "literal": "0x1002318a5",
+      "name": "Retting"
+    },
+    {
+      "instruction": "0x1001ba9ff",
+      "literal": "0x1002318ad",
+      "name": "Drying"
+    },
+    {
+      "instruction": "0x1001baa07",
+      "literal": "0x1002318b4",
+      "name": "Extract plant fibre"
+    },
+    {
+      "instruction": "0x1001baa0f",
+      "literal": "0x1002318eb",
+      "name": "Sinew yarn"
+    },
+    {
+      "instruction": "0x1001baa17",
+      "literal": "0x1002318c8",
+      "name": "Tendon drying"
+    },
+    {
+      "instruction": "0x1001baa1f",
+      "literal": "0x1002318d6",
+      "name": "Separate sinew fibre"
+    },
+    {
+      "instruction": "0x1001baa27",
+      "literal": "0x1001f4f9d",
+      "name": "Bowstring"
+    },
+    {
+      "instruction": "0x1001baa2f",
+      "literal": "0x1001efef2",
+      "name": "Arrow"
+    },
+    {
+      "instruction": "0x1001baa37",
+      "literal": "0x1001ff71d",
+      "name": "Net"
+    },
+    {
+      "instruction": "0x1001baa3f",
+      "literal": "0x100231848",
+      "name": "Haft a weapon or tool"
+    },
+    {
+      "instruction": "0x1001baa47",
+      "literal": "0x10023185e",
+      "name": "Remove the haft"
+    },
+    {
+      "instruction": "0x1001baa4f",
+      "literal": "0x10023175c",
+      "name": "Repair worn-out clothes"
+    },
+    {
+      "instruction": "0x1001baa57",
+      "literal": "0x100231774",
+      "name": "Repair worn-out net"
+    },
+    {
+      "instruction": "0x1001baa5f",
+      "literal": "0x100231794",
+      "name": "Set a trap"
+    },
+    {
+      "instruction": "0x1001baa67",
+      "literal": "0x1002317b4",
+      "name": "Disassemble a trap construction"
+    },
+    {
+      "instruction": "0x1001baa6f",
+      "literal": "0x1002317d4",
+      "name": "Light lever trap"
+    },
+    {
+      "instruction": "0x1001baa77",
+      "literal": "0x1002317e5",
+      "name": "Small deadfall trap"
+    },
+    {
+      "instruction": "0x1001baa7f",
+      "literal": "0x1002317f9",
+      "name": "Big deadfall trap"
+    },
+    {
+      "instruction": "0x1001baa87",
+      "literal": "0x10023180b",
+      "name": "Heavy deadfall bear trap"
+    },
+    {
+      "instruction": "0x1001baa8f",
+      "literal": "0x100231824",
+      "name": "Trap pit"
+    },
+    {
+      "instruction": "0x1001baa97",
+      "literal": "0x10023182d",
+      "name": "Trap pit with sharp stakes"
+    },
+    {
+      "instruction": "0x1001baa9f",
+      "literal": "0x10023179f",
+      "name": "Reset triggered trap"
+    },
+    {
+      "instruction": "0x1001baaa7",
+      "literal": "0x100231788",
+      "name": "Bait a trap"
+    },
+    {
+      "instruction": "0x1001baaaf",
+      "literal": "0x100231a61",
+      "name": "Wear"
+    },
+    {
+      "instruction": "0x1001baab7",
+      "literal": "0x100231a5b",
+      "name": "Wield"
+    },
+    {
+      "instruction": "0x1001baabf",
+      "literal": "0x100231a6f",
+      "name": "Drop"
+    },
+    {
+      "instruction": "0x1001baac7",
+      "literal": "0x100231a66",
+      "name": "Take off"
+    },
+    {
+      "instruction": "0x1001baacf",
+      "literal": "0x100231916",
+      "name": "Command pets and companions"
+    },
+    {
+      "instruction": "0x1001baad7",
+      "literal": "0x100231906",
+      "name": "Talk to someone"
+    },
+    {
+      "instruction": "0x1001baadf",
+      "literal": "0x100231932",
+      "name": "Fill with water, or milk into"
+    },
+    {
+      "instruction": "0x1001baae7",
+      "literal": "0x1001f8434",
+      "name": "Get up (stand)"
+    },
+    {
+      "instruction": "0x1001baaef",
+      "literal": "0x100231982",
+      "name": "Wounds and injuries"
+    },
+    {
+      "instruction": "0x1001baaf7",
+      "literal": "0x100231996",
+      "name": "Cut a carcass for meat"
+    },
+    {
+      "instruction": "0x1001baaff",
+      "literal": "0x1001f84a8",
+      "name": "Sleep"
+    },
+    {
+      "instruction": "0x1001bab07",
+      "literal": "0x1002319ad",
+      "name": "Pack an animal"
+    },
+    {
+      "instruction": "0x1001bab0f",
+      "literal": "0x1002319bc",
+      "name": "Unpack an animal"
+    },
+    {
+      "instruction": "0x1001bab17",
+      "literal": "0x100231950",
+      "name": "Pour something into a container"
+    },
+    {
+      "instruction": "0x1001bab1f",
+      "literal": "0x100231970",
+      "name": "Empty a container"
+    },
+    {
+      "instruction": "0x1001bab27",
+      "literal": "0x1002319cd",
+      "name": "Active fishing"
+    },
+    {
+      "instruction": "0x1001bab2f",
+      "literal": "0x1002319dc",
+      "name": "Set a net"
+    },
+    {
+      "instruction": "0x1001bab37",
+      "literal": "0x1002319e6",
+      "name": "Retrieve a net"
+    },
+    {
+      "instruction": "0x1001bab3f",
+      "literal": "0x1002319f5",
+      "name": "Deconstruct something"
+    },
+    {
+      "instruction": "0x1001bab47",
+      "literal": "0x100231a0b",
+      "name": "Continue paused process"
+    },
+    {
+      "instruction": "0x1001bab4f",
+      "literal": "0x100231a23",
+      "name": "Haul items"
+    },
+    {
+      "instruction": "0x1001bab57",
+      "literal": "0x100231a2e",
+      "name": "Push/pack items"
+    },
+    {
+      "instruction": "0x1001bab5f",
+      "literal": "0x100231a3e",
+      "name": "Throw an item/shoot an arrow"
+    }
+  ]
+}

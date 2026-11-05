@@ -1,0 +1,776 @@
+[
+  {
+    "id": "inventory-map-af8579ce6e88d38c",
+    "source": "urw3-bin:InvSel:0x10005de47",
+    "context": "inventory-action",
+    "original": "apply",
+    "translation": "使用",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-60e711cbbb70e660",
+    "source": "urw3-bin:InvSel:0x10005de47",
+    "context": "inventory-action",
+    "original": "wield",
+    "translation": "装备",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-38225a73e11f223c",
+    "source": "urw3-bin:InvSel:0x10005de47",
+    "context": "inventory-action",
+    "original": "pick up",
+    "translation": "拾取",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-4bda83f5eb47fd1c",
+    "source": "urw3-bin:InvSel:0x10005de47",
+    "context": "inventory-action",
+    "original": "drop",
+    "translation": "放下",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-5d9ce0c5d871d3ad",
+    "source": "urw3-bin:InvSel:0x10005de47",
+    "context": "inventory-action",
+    "original": "wear",
+    "translation": "穿戴",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-a3f0df69e45dcbe2",
+    "source": "urw3-bin:InvSel:0x10005de47",
+    "context": "inventory-action",
+    "original": "take off",
+    "translation": "脱下",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-847fa893544922ee",
+    "source": "urw3-bin:InvSel:0x10005de47",
+    "context": "inventory-action",
+    "original": "repair",
+    "translation": "修补",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-dac8431afd3c99c0",
+    "source": "urw3-bin:InvSel:0x10005de47",
+    "context": "inventory-action",
+    "original": "remove the haft from",
+    "translation": "拆除柄杆",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-8bd71b80dc3657e9",
+    "source": "urw3-bin:InvSel:0x10005de47",
+    "context": "inventory-action",
+    "original": "haft",
+    "translation": "装柄",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-be1c8fd5a61bd207",
+    "source": "urw3-bin:InvSel:0x10005de47",
+    "context": "inventory-action",
+    "original": "shorten",
+    "translation": "缩短",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-66a858dcd67f7385",
+    "source": "urw3-bin:InvSel:0x10005de47",
+    "context": "inventory-action",
+    "original": "join",
+    "translation": "接合",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-5d3dcb194af133ab",
+    "source": "urw3-bin:InvSel:0x10005de47",
+    "context": "inventory-action",
+    "original": "pack",
+    "translation": "装到驮兽上",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-5e29a13d1e533128",
+    "source": "urw3-bin:InvSel:0x10005de47",
+    "context": "inventory-action",
+    "original": "move",
+    "translation": "移动",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-bbf37e3c3f125ddd",
+    "source": "urw3-bin:InvSel:0x10005de47",
+    "context": "inventory-action",
+    "original": "fill",
+    "translation": "装满",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-ba6f0ee1dd000ae3",
+    "source": "urw3-bin:InvSel:0x10005de47",
+    "context": "inventory-action",
+    "original": "throw/shoot",
+    "translation": "投掷或射出",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-066189b995933eef",
+    "source": "urw3-bin:InvSel:0x10005de47",
+    "context": "inventory-action",
+    "original": "empty",
+    "translation": "倒空",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-fb4dbfbd73bed699",
+    "source": "urw3-bin:InvSel:0x10005de47",
+    "context": "inventory-action",
+    "original": "fill the container with",
+    "translation": "装入容器",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-c3274d0f6bb980ac",
+    "source": "urw3-bin:InvSel:0x10005de47",
+    "context": "inventory-action",
+    "original": "be filled",
+    "translation": "装入物品",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-8ab2bf1c0af351bb",
+    "source": "urw3-bin:InvSel:0x10005de47",
+    "context": "inventory-action",
+    "original": "haul around",
+    "translation": "拖运",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-d9e01e932b196bb5",
+    "source": "urw3-bin:InvSel:0x10005de47",
+    "context": "inventory-action",
+    "original": "examine (weapon or armour)",
+    "translation": "鉴定武器或护甲",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-c2d220e0e8acdc54",
+    "source": "urw3-bin:InvSel:0x10005de47",
+    "context": "inventory-action",
+    "original": "pick",
+    "translation": "选取",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-bc40bd93cb723d45",
+    "source": "urw3-bin:InvSel:0x10005de47",
+    "context": "inventory-action",
+    "original": "unpack",
+    "translation": "卸下",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-754a3c250c3680cd",
+    "source": "urw3-bin:InvSel:0x10005de47",
+    "context": "inventory-action",
+    "original": "start trading about",
+    "translation": "开始交易",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-d0d818ea649df812",
+    "source": "urw3-bin:InvSel:0x10005de47",
+    "context": "inventory-action",
+    "original": "eat",
+    "translation": "食用",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-101af9d4defcdbbf",
+    "source": "urw3-bin:InvSel:0x10005de47",
+    "context": "inventory-action",
+    "original": "drink",
+    "translation": "饮用",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-6dea6eba08d2c29f",
+    "source": "urw3-bin:InvSel:0x10005de47",
+    "context": "inventory-action",
+    "original": "sacrifice",
+    "translation": "献祭",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-6eb0101bbb7aeaae",
+    "source": "urw3-bin:InvSel:0x10005de47",
+    "context": "inventory-action",
+    "original": "grind",
+    "translation": "磨粉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-86e2c8e4b1b57056",
+    "source": "urw3-bin:InvSel:0x10005de47",
+    "context": "inventory-action",
+    "original": "use as a bait",
+    "translation": "用作鱼饵",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-f4065244a4b6033f",
+    "source": "urw3-bin:InvSel:title",
+    "context": "showtext",
+    "original": "What do you want to apply?",
+    "translation": "你想使用什么？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-1d8af40a77324b3d",
+    "source": "urw3-bin:InvSel:title",
+    "context": "showtext",
+    "original": "What do you want to wield?",
+    "translation": "你想装备什么？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-b578fa969ef0e554",
+    "source": "urw3-bin:InvSel:title",
+    "context": "showtext",
+    "original": "What do you want to drop?",
+    "translation": "你想放下什么？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-7532bc9ba8abe9bc",
+    "source": "urw3-bin:InvSel:title",
+    "context": "showtext",
+    "original": "What do you want to wear?",
+    "translation": "你想穿戴什么？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-0c5a0db721217cbd",
+    "source": "urw3-bin:InvSel:title",
+    "context": "showtext",
+    "original": "What do you want to take off?",
+    "translation": "你想脱下什么？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-4417918332ba10b3",
+    "source": "urw3-bin:InvSel:title",
+    "context": "showtext",
+    "original": "What do you want to throw, or shoot?",
+    "translation": "你想投掷或射出什么？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-f89c5a3b60a591a7",
+    "source": "urw3-bin:InvSel:title",
+    "context": "showtext",
+    "original": "What do you want to pack on it?",
+    "translation": "你想装上什么？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-a33ab74b076859bf",
+    "source": "urw3-bin:InvSel:title",
+    "context": "showtext",
+    "original": "What do you want to unpack?",
+    "translation": "你想卸下什么？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-f34359c0c6f7297e",
+    "source": "urw3-bin:InvSel:title",
+    "context": "showtext",
+    "original": "What do you want to move to that location?",
+    "translation": "你想把什么移到那里？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-68b595a6ba1cc5b3",
+    "source": "urw3-bin:InvSel:title",
+    "context": "showtext",
+    "original": "What do you want to pick?",
+    "translation": "你想选取什么？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-e121ec1ea7027852",
+    "source": "urw3-bin:InvSel:title",
+    "context": "showtext",
+    "original": "What do you want to eat?",
+    "translation": "你想吃什么？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-de1a73f6867cd4db",
+    "source": "urw3-bin:InvSel:title",
+    "context": "showtext",
+    "original": "What do you want to drink?",
+    "translation": "你想喝什么？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-4744a08cbc5e99e4",
+    "source": "urw3-bin:InvSel:title",
+    "context": "showtext",
+    "original": "What do you want to sacrifice?",
+    "translation": "你想献祭什么？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-055956f986e05fd4",
+    "source": "urw3-bin:InvSel:title",
+    "context": "showtext",
+    "original": "What do you want to grind for flour?",
+    "translation": "你想把什么磨成粉？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-93a2f1e5c7112b9e",
+    "source": "urw3-bin:InvSel:title",
+    "context": "showtext",
+    "original": "What do you want to use as a bait?",
+    "translation": "你想用什么作鱼饵？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-af68991160aa58a9",
+    "source": "urw3-bin:InvSel:title",
+    "context": "showtext",
+    "original": "What do you want to pour or put into that container?",
+    "translation": "你想往那个容器里放什么？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-4e948e0a4bdae475",
+    "source": "urw3-bin:InvSel:title",
+    "context": "showtext",
+    "original": "Select a container to fill",
+    "translation": "选择要装满的容器",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-f9e5b48ab0bb928e",
+    "source": "urw3-bin:InvSel:title",
+    "context": "showtext",
+    "original": "Select a container to empty?",
+    "translation": "要倒空哪个容器？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-209bc4c7c0e9f170",
+    "source": "urw3-bin:InvSel:title",
+    "context": "showtext",
+    "original": "Select the target container?",
+    "translation": "要装入哪个容器？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-9dc8fde1855b00e1",
+    "source": "urw3-bin:InvSel:title",
+    "context": "showtext",
+    "original": "Select the net to repair",
+    "translation": "选择要修补的网",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-4764944337975a5a",
+    "source": "urw3-bin:InvSel:title",
+    "context": "showtext",
+    "original": "Select a piece clothing to repair",
+    "translation": "选择要修补的衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-30d158376b22cb77",
+    "source": "urw3-bin:InvSel:title",
+    "context": "showtext",
+    "original": "Select a weapon or tool whose haft to remove?",
+    "translation": "要拆下哪件武器或工具的柄？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-d7e4be10fe0eb63c",
+    "source": "urw3-bin:InvSel:title",
+    "context": "showtext",
+    "original": "Select the head of a weapon or tool to haft?",
+    "translation": "要给哪个武器或工具头装柄？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-e94b8b27204cc001",
+    "source": "urw3-bin:InvSel:title",
+    "context": "showtext",
+    "original": "Select a tying equipment you want to shorten?",
+    "translation": "要缩短哪件捆扎用具？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-e64893d725ad4c2c",
+    "source": "urw3-bin:InvSel:title",
+    "context": "showtext",
+    "original": "Select tying equipment to join with another?",
+    "translation": "要接合哪件捆扎用具？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-d818deba5f3e543d",
+    "source": "urw3-bin:InvSel:title",
+    "context": "showtext",
+    "original": "What to join with the selected tying equipment?",
+    "translation": "选中的捆扎用具要与哪件接合？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-7c4afdba3aa2b593",
+    "source": "urw3-bin:InvSel:title",
+    "context": "showtext",
+    "original": "Select items on the ground you wish to move",
+    "translation": "选择地上要移动的物品",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-d6a5308d18187635",
+    "source": "urw3-bin:InvSel:title",
+    "context": "showtext",
+    "original": "Take off all wielded items, go empty handed.",
+    "translation": "卸下手中所有物品，保持空手。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-a580d92f4c5a4c88",
+    "source": "urw3-bin:InvSel:title",
+    "context": "showtext",
+    "original": "Applicable, but none available.",
+    "translation": "此类物品可用，但目前没有。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-711c104875376c37",
+    "source": "urw3-bin:InvSel:title",
+    "context": "showtext",
+    "original": "Wield",
+    "translation": "装备",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-ce9a2502ef5de10e",
+    "source": "urw3-bin:InvSel:category",
+    "context": "showtext",
+    "original": "Preferred types",
+    "translation": "优先类别",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-71c1dfaeaf198133",
+    "source": "urw3-bin:InvSel:category",
+    "context": "showtext",
+    "original": "Containers",
+    "translation": "容器",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-39d185d5200910e6",
+    "source": "urw3-bin:InvSel:category",
+    "context": "showtext",
+    "original": "Timber",
+    "translation": "木材",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-25ec3837d49f5c16",
+    "source": "urw3-bin:InvSel:category",
+    "context": "showtext",
+    "original": "Vehicles",
+    "translation": "载具",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-4ce2cfecad98371b",
+    "source": "urw3-bin:InvSel:category",
+    "context": "showtext",
+    "original": "Valuables",
+    "translation": "贵重物品",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-998c6e95866eddd3",
+    "source": "urw3-bin:InvSel:category",
+    "context": "showtext",
+    "original": "Plants",
+    "translation": "植物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-52177e64e7c65299",
+    "source": "urw3-bin:InvSel:category",
+    "context": "showtext",
+    "original": "Carcasses",
+    "translation": "动物尸体",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-b9f762e0053f5faf",
+    "source": "urw3-bin:InvSel:category",
+    "context": "showtext",
+    "original": "Miscellaneous",
+    "translation": "杂项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-b18d6670f414fa91",
+    "source": "urw3-bin:InvSel:category",
+    "context": "showtext",
+    "original": "Unpaid",
+    "translation": "未付款",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-e2abbeb9444dec9f",
+    "source": "urw3-bin:InvSel:0x10005e786",
+    "context": "showtext",
+    "original": "Viewing: Preferred types",
+    "translation": "正在查看：优先类别",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-2a17df7323e2e7cc",
+    "source": "urw3-bin:InvSel:0x10005e786",
+    "context": "showtext",
+    "original": "Viewing: Weapons",
+    "translation": "正在查看：武器",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-7e865d4667b3bfd9",
+    "source": "urw3-bin:InvSel:0x10005e786",
+    "context": "showtext",
+    "original": "Viewing: Armours & Clothes",
+    "translation": "正在查看：护甲与衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-d6bcbcd2496f4f64",
+    "source": "urw3-bin:InvSel:0x10005e786",
+    "context": "showtext",
+    "original": "Viewing: Containers",
+    "translation": "正在查看：容器",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-1b894f26cf826999",
+    "source": "urw3-bin:InvSel:0x10005e786",
+    "context": "showtext",
+    "original": "Viewing: Hides & Skins",
+    "translation": "正在查看：皮张与毛皮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-453e6ffddd1deba5",
+    "source": "urw3-bin:InvSel:0x10005e786",
+    "context": "showtext",
+    "original": "Viewing: Tools",
+    "translation": "正在查看：工具",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-4d032ff2d84c6dab",
+    "source": "urw3-bin:InvSel:0x10005e786",
+    "context": "showtext",
+    "original": "Viewing: Foods",
+    "translation": "正在查看：食物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-287615e1ee264890",
+    "source": "urw3-bin:InvSel:0x10005e786",
+    "context": "showtext",
+    "original": "Viewing: Timber",
+    "translation": "正在查看：木材",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-df9ed1b1fda820bc",
+    "source": "urw3-bin:InvSel:0x10005e786",
+    "context": "showtext",
+    "original": "Viewing: Vehicles",
+    "translation": "正在查看：载具",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-edbfa3082203dd59",
+    "source": "urw3-bin:InvSel:0x10005e786",
+    "context": "showtext",
+    "original": "Viewing: Valuables",
+    "translation": "正在查看：贵重物品",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-081df07d6a17c8fa",
+    "source": "urw3-bin:InvSel:0x10005e786",
+    "context": "showtext",
+    "original": "Viewing: Plants",
+    "translation": "正在查看：植物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-98986ee3aa21098a",
+    "source": "urw3-bin:InvSel:0x10005e786",
+    "context": "showtext",
+    "original": "Viewing: Carcasses",
+    "translation": "正在查看：动物尸体",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-56b282804f370354",
+    "source": "urw3-bin:InvSel:0x10005e786",
+    "context": "showtext",
+    "original": "Viewing: Miscellaneous",
+    "translation": "正在查看：杂项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-5b469c4396101107",
+    "source": "urw3-bin:InvSel:0x10005e786",
+    "context": "showtext",
+    "original": "Viewing: Textiles & Yarn",
+    "translation": "正在查看：织物与纱线",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-24a99ad2ea84d025",
+    "source": "urw3-bin:InvSel:0x10005e786",
+    "context": "showtext",
+    "original": "Viewing: Unpaid",
+    "translation": "正在查看：未付款",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-659fa861bb76f617",
+    "source": "urw3-bin:Note:map",
+    "context": "message",
+    "original": "#Zooming in ... ",
+    "translation": "正在切到局部地图……",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-4b6eee6195962242",
+    "source": "urw3-bin:Note:map",
+    "context": "message",
+    "original": "#Zooming out ... ",
+    "translation": "正在切到大地图……",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-a07de5f52a26b901",
+    "source": "urw3-bin:Note:map",
+    "context": "message",
+    "original": "You take a closer look at this area.",
+    "translation": "你仔细察看了这片区域。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "inventory-map-5c3cc6db7230cf5a",
+    "source": "urw3-bin:Note:map",
+    "context": "message",
+    "original": "You encounter something.",
+    "translation": "你遇到了什么。",
+    "status": "reviewed",
+    "runtime_verified": false
+  }
+]

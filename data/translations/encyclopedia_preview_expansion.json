@@ -1,0 +1,3200 @@
+[
+  {
+    "id": "ed6033d2d2080a78ac24",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "POST SPRUCE",
+    "translation": "云杉简易避风处",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".POST SPRUCE.",
+      "line": 502
+    }
+  },
+  {
+    "id": "8299e169fb814bbde0da",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "POST SPRUCE",
+    "translation": "将一棵云杉搭靠在另一棵上，可临时遮风避雨。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".POST SPRUCE.",
+      "line": 502
+    }
+  },
+  {
+    "id": "9d6535e58658d4b46679",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "BOWSTRING",
+    "translation": "弓弦",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".BOWSTRING.",
+      "line": 927
+    }
+  },
+  {
+    "id": "3162e1d17113ba050452",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "BOWSTRING",
+    "translation": "装在弓上才能射箭，磨损或断裂后可更换。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".BOWSTRING.",
+      "line": 927
+    }
+  },
+  {
+    "id": "20c8a6228a652cb307fc",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "TORCH",
+    "translation": "火把",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".TORCH.",
+      "line": 1190
+    }
+  },
+  {
+    "id": "8662c713458f298fde4d",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "TORCH",
+    "translation": "点燃后可在黑暗处提供照明。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".TORCH.",
+      "line": 1190
+    }
+  },
+  {
+    "id": "af8a9a88b5fbbfe29807",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "SHINGLE",
+    "translation": "薄木片",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHINGLE.SHINGLES.",
+      "line": 1196
+    }
+  },
+  {
+    "id": "6829932b4f74f39b1bf2",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "SHINGLE",
+    "translation": "可点燃照明，也可用来编织木片篮。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHINGLE.SHINGLES.",
+      "line": 1196
+    }
+  },
+  {
+    "id": "1375393b0cf835aba9fe",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "SHINGLES",
+    "translation": "薄木片",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHINGLE.SHINGLES.",
+      "line": 1196
+    }
+  },
+  {
+    "id": "371e8906aec04d9df752",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "SHINGLES",
+    "translation": "可点燃照明，也可用来编织木片篮。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHINGLE.SHINGLES.",
+      "line": 1196
+    }
+  },
+  {
+    "id": "244dca46173923454d66",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "ARROW SHAFT",
+    "translation": "箭杆",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".ARROW SHAFT.",
+      "line": 1213
+    }
+  },
+  {
+    "id": "26969f50ef15a12cd2dd",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "ARROW SHAFT",
+    "translation": "用细直的木条制成，是箭的主体。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".ARROW SHAFT.",
+      "line": 1213
+    }
+  },
+  {
+    "id": "ecb1b1fc371716620393",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "ARROW",
+    "translation": "箭",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".ARROW.ARROWS.",
+      "line": 1220
+    }
+  },
+  {
+    "id": "ce9ff31351b18c762be6",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "ARROW",
+    "translation": "弓使用的弹药，通常由箭杆和箭镞组成。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".ARROW.ARROWS.",
+      "line": 1220
+    }
+  },
+  {
+    "id": "f00690a1ae1ab95e6f3f",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "ARROWS",
+    "translation": "箭",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".ARROW.ARROWS.",
+      "line": 1220
+    }
+  },
+  {
+    "id": "3a190a9d145763d6b4b6",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "ARROWS",
+    "translation": "弓使用的弹药，通常由箭杆和箭镞组成。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".ARROW.ARROWS.",
+      "line": 1220
+    }
+  },
+  {
+    "id": "0d7312a0d95e5100647e",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "ARROWHEAD",
+    "translation": "箭镞",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".ARROWHEAD.BONE ARROWHEAD.STONE ARROWHEAD.ARROWHEADS.",
+      "line": 1248
+    }
+  },
+  {
+    "id": "8beb6017644d6cdb274e",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "ARROWHEAD",
+    "translation": "装在箭杆前端，可用骨或石等材料制成。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".ARROWHEAD.BONE ARROWHEAD.STONE ARROWHEAD.ARROWHEADS.",
+      "line": 1248
+    }
+  },
+  {
+    "id": "83a99af7fcf91cc33d00",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "BONE ARROWHEAD",
+    "translation": "箭镞",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".ARROWHEAD.BONE ARROWHEAD.STONE ARROWHEAD.ARROWHEADS.",
+      "line": 1248
+    }
+  },
+  {
+    "id": "625344515e4ec10702bb",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "BONE ARROWHEAD",
+    "translation": "装在箭杆前端，可用骨或石等材料制成。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".ARROWHEAD.BONE ARROWHEAD.STONE ARROWHEAD.ARROWHEADS.",
+      "line": 1248
+    }
+  },
+  {
+    "id": "cdb82c859c2581476ded",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "STONE ARROWHEAD",
+    "translation": "箭镞",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".ARROWHEAD.BONE ARROWHEAD.STONE ARROWHEAD.ARROWHEADS.",
+      "line": 1248
+    }
+  },
+  {
+    "id": "05fb4558685fcc4316c4",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "STONE ARROWHEAD",
+    "translation": "装在箭杆前端，可用骨或石等材料制成。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".ARROWHEAD.BONE ARROWHEAD.STONE ARROWHEAD.ARROWHEADS.",
+      "line": 1248
+    }
+  },
+  {
+    "id": "62a1768fa98aaf26987e",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "ARROWHEADS",
+    "translation": "箭镞",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".ARROWHEAD.BONE ARROWHEAD.STONE ARROWHEAD.ARROWHEADS.",
+      "line": 1248
+    }
+  },
+  {
+    "id": "332729252af85135458b",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "ARROWHEADS",
+    "translation": "装在箭杆前端，可用骨或石等材料制成。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".ARROWHEAD.BONE ARROWHEAD.STONE ARROWHEAD.ARROWHEADS.",
+      "line": 1248
+    }
+  },
+  {
+    "id": "579385ae9dbb3152aa49",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "WOODEN CUP",
+    "translation": "木杯",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOODEN CUP.WOODEN BOWL.WOODEN MUG.",
+      "line": 1274
+    }
+  },
+  {
+    "id": "785c0658f708fc211ffc",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "WOODEN CUP",
+    "translation": "木制容器，可用来盛水或奶。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOODEN CUP.WOODEN BOWL.WOODEN MUG.",
+      "line": 1274
+    }
+  },
+  {
+    "id": "70df3e04dd645ca0145f",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "WOODEN BOWL",
+    "translation": "木碗",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOODEN CUP.WOODEN BOWL.WOODEN MUG.",
+      "line": 1274
+    }
+  },
+  {
+    "id": "a783a59bf27bbf26e734",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "WOODEN BOWL",
+    "translation": "木制容器，可用来盛水或奶。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOODEN CUP.WOODEN BOWL.WOODEN MUG.",
+      "line": 1274
+    }
+  },
+  {
+    "id": "28a29166dfd850e30f9b",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "WOODEN MUG",
+    "translation": "木柄杯",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOODEN CUP.WOODEN BOWL.WOODEN MUG.",
+      "line": 1274
+    }
+  },
+  {
+    "id": "2efba32ba9612e52504b",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "WOODEN MUG",
+    "translation": "木制容器，可用来盛水或奶。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOODEN CUP.WOODEN BOWL.WOODEN MUG.",
+      "line": 1274
+    }
+  },
+  {
+    "id": "4c1a31834d5067f38b99",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "WOODEN CANTEEN",
+    "translation": "木水壶",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOODEN CANTEEN.",
+      "line": 1280
+    }
+  },
+  {
+    "id": "6a5db9cf7ade13b9c897",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "WOODEN CANTEEN",
+    "translation": "携带饮水的木制容器。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOODEN CANTEEN.",
+      "line": 1280
+    }
+  },
+  {
+    "id": "d59e331f08f9bb94ad8a",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "SHINGLE BASKET",
+    "translation": "木片篮",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHINGLE BASKET.SHINGLE BASKETS.",
+      "line": 1288
+    }
+  },
+  {
+    "id": "c8d43f1d059c355c8880",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "SHINGLE BASKET",
+    "translation": "用薄木片编成，可用来盛装物品。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHINGLE BASKET.SHINGLE BASKETS.",
+      "line": 1288
+    }
+  },
+  {
+    "id": "454a78f3719f5b0c18af",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "SHINGLE BASKETS",
+    "translation": "木片篮",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHINGLE BASKET.SHINGLE BASKETS.",
+      "line": 1288
+    }
+  },
+  {
+    "id": "c2433565a84617dbbfc9",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "SHINGLE BASKETS",
+    "translation": "用薄木片编成，可用来盛装物品。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHINGLE BASKET.SHINGLE BASKETS.",
+      "line": 1288
+    }
+  },
+  {
+    "id": "a5926db44bbce5881ff1",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "SINEW YARN",
+    "translation": "筋线",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SINEW YARN.",
+      "line": 1311
+    }
+  },
+  {
+    "id": "dbd51dd7b80c262a9613",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "SINEW YARN",
+    "translation": "用动物肌腱制成，可缝皮革和毛皮。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SINEW YARN.",
+      "line": 1311
+    }
+  },
+  {
+    "id": "aba2b2817c3b6c5676d3",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "TEXTILECRAFT",
+    "translation": "纺织",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".TEXTILECRAFT.TEXTILE PLANTS.",
+      "line": 1350
+    }
+  },
+  {
+    "id": "3f0368e5b6cc918e13ef",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "TEXTILECRAFT",
+    "translation": "从植物或肌腱提取纤维并纺线的技能。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".TEXTILECRAFT.TEXTILE PLANTS.",
+      "line": 1350
+    }
+  },
+  {
+    "id": "1c1c70142fa70167ed02",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "TEXTILE PLANTS",
+    "translation": "纺织植物",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".TEXTILECRAFT.TEXTILE PLANTS.",
+      "line": 1350
+    }
+  },
+  {
+    "id": "9edc370870ab89622be3",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "TEXTILE PLANTS",
+    "translation": "亚麻、大麻和荨麻等植物可提供纺织纤维。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".TEXTILECRAFT.TEXTILE PLANTS.",
+      "line": 1350
+    }
+  },
+  {
+    "id": "cb9df625ab8a499f6a35",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "BUILDING",
+    "translation": "建造",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".BUILDING.",
+      "line": 1448
+    }
+  },
+  {
+    "id": "bade7de1becc6de9a477",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "BUILDING",
+    "translation": "建造木屋、帐篷、临时庇护所和围栏的技能。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".BUILDING.",
+      "line": 1448
+    }
+  },
+  {
+    "id": "cf250017a22519c30551",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "TIMBERCRAFT",
+    "translation": "木材加工",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".TIMBERCRAFT.",
+      "line": 1462
+    }
+  },
+  {
+    "id": "10e93a876ebf57ae0c08",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "TIMBERCRAFT",
+    "translation": "砍树、取树皮并取得建筑或手工所需木料的技能。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".TIMBERCRAFT.",
+      "line": 1462
+    }
+  },
+  {
+    "id": "d9e81bd306db7fee7a20",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "CLOTHCRAFT",
+    "translation": "制衣",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CLOTHCRAFT.",
+      "line": 1525
+    }
+  },
+  {
+    "id": "add707bd5c3445c5e65b",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "CLOTHCRAFT",
+    "translation": "裁剪布料并缝制或修补衣物的技能。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CLOTHCRAFT.",
+      "line": 1525
+    }
+  },
+  {
+    "id": "b57e86af2660aec19282",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "HIDEWORKING",
+    "translation": "皮革加工",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".HIDEWORKING.",
+      "line": 1571
+    }
+  },
+  {
+    "id": "137553b172f77f865a00",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "HIDEWORKING",
+    "translation": "处理动物生皮，制成毛皮或皮革的技能。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".HIDEWORKING.",
+      "line": 1571
+    }
+  },
+  {
+    "id": "d047cf9f23bec009264d",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "POT",
+    "translation": "锅",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".POT.",
+      "line": 1853
+    }
+  },
+  {
+    "id": "30de240d8071e6fa3e8b",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "POT",
+    "translation": "可盛水并用于烹煮食物。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".POT.",
+      "line": 1853
+    }
+  },
+  {
+    "id": "7bf3b9c13a108ef6308f",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "BIRCH-BARK POT",
+    "translation": "桦皮锅",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".BIRCH-BARK POT.",
+      "line": 1863
+    }
+  },
+  {
+    "id": "6ee259ae5ea3492bde71",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "BIRCH-BARK POT",
+    "translation": "用桦树皮制成的简易炊具。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".BIRCH-BARK POT.",
+      "line": 1863
+    }
+  },
+  {
+    "id": "be7fa54c64de7ed7bebf",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "SEWING NEEDLE",
+    "translation": "缝衣针",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SEWING NEEDLE.IRON SEWING NEEDLE.BONE SEWING NEEDLE.NEEDLE.",
+      "line": 1889
+    }
+  },
+  {
+    "id": "5daac5239b7b2d7d5dc5",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "SEWING NEEDLE",
+    "translation": "可用铁或骨制成，用于缝制衣物。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SEWING NEEDLE.IRON SEWING NEEDLE.BONE SEWING NEEDLE.NEEDLE.",
+      "line": 1889
+    }
+  },
+  {
+    "id": "9770abfbe15e35a92fca",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "IRON SEWING NEEDLE",
+    "translation": "缝衣针",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SEWING NEEDLE.IRON SEWING NEEDLE.BONE SEWING NEEDLE.NEEDLE.",
+      "line": 1889
+    }
+  },
+  {
+    "id": "17a1404689b522195c61",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "IRON SEWING NEEDLE",
+    "translation": "可用铁或骨制成，用于缝制衣物。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SEWING NEEDLE.IRON SEWING NEEDLE.BONE SEWING NEEDLE.NEEDLE.",
+      "line": 1889
+    }
+  },
+  {
+    "id": "84bcc1c6bdd6867c318c",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "BONE SEWING NEEDLE",
+    "translation": "缝衣针",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SEWING NEEDLE.IRON SEWING NEEDLE.BONE SEWING NEEDLE.NEEDLE.",
+      "line": 1889
+    }
+  },
+  {
+    "id": "1d93753c511d12c586a2",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "BONE SEWING NEEDLE",
+    "translation": "可用铁或骨制成，用于缝制衣物。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SEWING NEEDLE.IRON SEWING NEEDLE.BONE SEWING NEEDLE.NEEDLE.",
+      "line": 1889
+    }
+  },
+  {
+    "id": "b4c0f326a26104e5f546",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "NEEDLE",
+    "translation": "缝衣针",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SEWING NEEDLE.IRON SEWING NEEDLE.BONE SEWING NEEDLE.NEEDLE.",
+      "line": 1889
+    }
+  },
+  {
+    "id": "e4840a3248871b707803",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "NEEDLE",
+    "translation": "可用铁或骨制成，用于缝制衣物。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SEWING NEEDLE.IRON SEWING NEEDLE.BONE SEWING NEEDLE.NEEDLE.",
+      "line": 1889
+    }
+  },
+  {
+    "id": "456c86fef44d7bebb350",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "FISHHOOK",
+    "translation": "鱼钩",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FISHHOOK.HOOK.WOODEN FISHHOOK.BONE FISHHOOK.",
+      "line": 1894
+    }
+  },
+  {
+    "id": "0e626f7b5c63b3be28bd",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "FISHHOOK",
+    "translation": "装在钓线上钩鱼，损坏后可更换。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FISHHOOK.HOOK.WOODEN FISHHOOK.BONE FISHHOOK.",
+      "line": 1894
+    }
+  },
+  {
+    "id": "54cdf8ad68c915c1a9d7",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "HOOK",
+    "translation": "鱼钩",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FISHHOOK.HOOK.WOODEN FISHHOOK.BONE FISHHOOK.",
+      "line": 1894
+    }
+  },
+  {
+    "id": "fd4b76134c3fd4a27ddb",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "HOOK",
+    "translation": "装在钓线上钩鱼，损坏后可更换。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FISHHOOK.HOOK.WOODEN FISHHOOK.BONE FISHHOOK.",
+      "line": 1894
+    }
+  },
+  {
+    "id": "2e66c983917bd713172f",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "WOODEN FISHHOOK",
+    "translation": "鱼钩",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FISHHOOK.HOOK.WOODEN FISHHOOK.BONE FISHHOOK.",
+      "line": 1894
+    }
+  },
+  {
+    "id": "1b67ded2fb5474e34dd4",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "WOODEN FISHHOOK",
+    "translation": "装在钓线上钩鱼，损坏后可更换。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FISHHOOK.HOOK.WOODEN FISHHOOK.BONE FISHHOOK.",
+      "line": 1894
+    }
+  },
+  {
+    "id": "0a9604286d979f8e983b",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "BONE FISHHOOK",
+    "translation": "鱼钩",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FISHHOOK.HOOK.WOODEN FISHHOOK.BONE FISHHOOK.",
+      "line": 1894
+    }
+  },
+  {
+    "id": "1b8728d95b8adb5a6976",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "BONE FISHHOOK",
+    "translation": "装在钓线上钩鱼，损坏后可更换。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FISHHOOK.HOOK.WOODEN FISHHOOK.BONE FISHHOOK.",
+      "line": 1894
+    }
+  },
+  {
+    "id": "22129b86115af33403e6",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "FISHING ROD",
+    "translation": "钓竿",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FISHING ROD.",
+      "line": 1948
+    }
+  },
+  {
+    "id": "8301dbad5b605b3225e4",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "FISHING ROD",
+    "translation": "装有钓线和鱼钩，用于主动捕鱼。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FISHING ROD.",
+      "line": 1948
+    }
+  },
+  {
+    "id": "702576d4de25b181ede1",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "NET",
+    "translation": "渔网",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".NET.NETS.",
+      "line": 1965
+    }
+  },
+  {
+    "id": "4f34276df089ad485162",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "NET",
+    "translation": "放入水中一段时间再收起，用于被动捕鱼。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".NET.NETS.",
+      "line": 1965
+    }
+  },
+  {
+    "id": "70fc04eae02954f81489",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "NETS",
+    "translation": "渔网",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".NET.NETS.",
+      "line": 1965
+    }
+  },
+  {
+    "id": "15c932773c3c6e87bd34",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "NETS",
+    "translation": "放入水中一段时间再收起，用于被动捕鱼。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".NET.NETS.",
+      "line": 1965
+    }
+  },
+  {
+    "id": "1f983edbb38bbf023a5c",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "FENCE",
+    "translation": "围栏",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FENCE.FENCES.",
+      "line": 2143
+    }
+  },
+  {
+    "id": "5bbce73fbb551265d491",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "FENCE",
+    "translation": "可围住耕地和牲畜，也可配合陷阱引导猎物。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FENCE.FENCES.",
+      "line": 2143
+    }
+  },
+  {
+    "id": "d5521e03a6b8d5f51caf",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "FENCES",
+    "translation": "围栏",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FENCE.FENCES.",
+      "line": 2143
+    }
+  },
+  {
+    "id": "eba1b1d20f2fc22179a5",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "FENCES",
+    "translation": "可围住耕地和牲畜，也可配合陷阱引导猎物。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FENCE.FENCES.",
+      "line": 2143
+    }
+  },
+  {
+    "id": "ab05c0934ac5ea602c0c",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "CLOTHES",
+    "translation": "衣物",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CLOTHES.CLOTHING.GARMENTS.",
+      "line": 2343
+    }
+  },
+  {
+    "id": "66f56242fcc4684f5842",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "CLOTHES",
+    "translation": "毛皮、皮革和布料等材料制成的穿戴用品。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CLOTHES.CLOTHING.GARMENTS.",
+      "line": 2343
+    }
+  },
+  {
+    "id": "c97b1c782033d8bbd99c",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "CLOTHING",
+    "translation": "衣物",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CLOTHES.CLOTHING.GARMENTS.",
+      "line": 2343
+    }
+  },
+  {
+    "id": "71e6faaeb9bebf437483",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "CLOTHING",
+    "translation": "毛皮、皮革和布料等材料制成的穿戴用品。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CLOTHES.CLOTHING.GARMENTS.",
+      "line": 2343
+    }
+  },
+  {
+    "id": "1148ee34b649a185b542",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "GARMENTS",
+    "translation": "衣物",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CLOTHES.CLOTHING.GARMENTS.",
+      "line": 2343
+    }
+  },
+  {
+    "id": "2d025762d16127df1df2",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "GARMENTS",
+    "translation": "毛皮、皮革和布料等材料制成的穿戴用品。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CLOTHES.CLOTHING.GARMENTS.",
+      "line": 2343
+    }
+  },
+  {
+    "id": "de68181cecf6c98660d7",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "ARMOURS",
+    "translation": "护甲",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".ARMOURS.ARMOUR.",
+      "line": 2365
+    }
+  },
+  {
+    "id": "5c3bd69e97585e92edf9",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "ARMOURS",
+    "translation": "用于保护身体各部位，材质和结构影响防护效果。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".ARMOURS.ARMOUR.",
+      "line": 2365
+    }
+  },
+  {
+    "id": "f69934b9be02bcf66dde",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "ARMOUR",
+    "translation": "护甲",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".ARMOURS.ARMOUR.",
+      "line": 2365
+    }
+  },
+  {
+    "id": "d2238ab492fdc241b159",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "ARMOUR",
+    "translation": "用于保护身体各部位，材质和结构影响防护效果。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".ARMOURS.ARMOUR.",
+      "line": 2365
+    }
+  },
+  {
+    "id": "a69893c5d9a2f0bfb18e",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "BOOTS",
+    "translation": "靴",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".BOOTS.LEATHER BOOTS.FUR BOOTS.",
+      "line": 2389
+    }
+  },
+  {
+    "id": "8b24ea652c2dbbeb893e",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "BOOTS",
+    "translation": "靴筒高过脚踝，可用皮革或毛皮制成。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".BOOTS.LEATHER BOOTS.FUR BOOTS.",
+      "line": 2389
+    }
+  },
+  {
+    "id": "2f0541cb13cda588fad4",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "LEATHER BOOTS",
+    "translation": "皮靴",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".BOOTS.LEATHER BOOTS.FUR BOOTS.",
+      "line": 2389
+    }
+  },
+  {
+    "id": "c0d03b29bbc6581250ac",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "LEATHER BOOTS",
+    "translation": "皮革制成的高筒鞋，可保护脚和脚踝。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".BOOTS.LEATHER BOOTS.FUR BOOTS.",
+      "line": 2389
+    }
+  },
+  {
+    "id": "6642e502c0541731f758",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "FUR BOOTS",
+    "translation": "毛皮靴",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".BOOTS.LEATHER BOOTS.FUR BOOTS.",
+      "line": 2389
+    }
+  },
+  {
+    "id": "b88cf6ce3a9559685698",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "FUR BOOTS",
+    "translation": "毛皮制成的高筒鞋，适合冬季穿着。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".BOOTS.LEATHER BOOTS.FUR BOOTS.",
+      "line": 2389
+    }
+  },
+  {
+    "id": "ec3503228982128cfe85",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "SHOES",
+    "translation": "鞋",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHOES.LEATHER SHOES.",
+      "line": 2399
+    }
+  },
+  {
+    "id": "a1d0c1fd482b47cf0a94",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "SHOES",
+    "translation": "保护脚部，方便在崎岖地形行走。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHOES.LEATHER SHOES.",
+      "line": 2399
+    }
+  },
+  {
+    "id": "3301cecee33b1bb092a5",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "LEATHER SHOES",
+    "translation": "皮鞋",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHOES.LEATHER SHOES.",
+      "line": 2399
+    }
+  },
+  {
+    "id": "a8abbb64890fa702fffa",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "LEATHER SHOES",
+    "translation": "皮革制成的低帮鞋，通常较耐磨。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHOES.LEATHER SHOES.",
+      "line": 2399
+    }
+  },
+  {
+    "id": "aa0ca6ada916050ec5d5",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "LEATHER BELT",
+    "translation": "皮腰带",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LEATHER BELT.",
+      "line": 2408
+    }
+  },
+  {
+    "id": "2551ca0779c19a23c9ce",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "LEATHER BELT",
+    "translation": "束住较厚的外衣，也可挂剑或小斧。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LEATHER BELT.",
+      "line": 2408
+    }
+  },
+  {
+    "id": "79036e6729213aa9a7f6",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "BIRCH-BARK SHOES",
+    "translation": "桦皮鞋",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".BIRCH-BARK SHOES.",
+      "line": 2415
+    }
+  },
+  {
+    "id": "6cab2ba4e6791f9d525c",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "BIRCH-BARK SHOES",
+    "translation": "用桦树皮条编成的夏鞋，可减少其他鞋靴的磨损。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".BIRCH-BARK SHOES.",
+      "line": 2415
+    }
+  },
+  {
+    "id": "00890dd50a5465bb63fa",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "TUNIC",
+    "translation": "长衫",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".TUNIC.",
+      "line": 2421
+    }
+  },
+  {
+    "id": "74245cd9a800a64bf6af",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "TUNIC",
+    "translation": "及大腿的长袖外衣，常用羊毛布制成。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".TUNIC.",
+      "line": 2421
+    }
+  },
+  {
+    "id": "a5d6aaad71cc10bdaa74",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "SHIRT",
+    "translation": "衬衫",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHIRT.LEATHER SHIRT.FUR SHIRT.",
+      "line": 2429
+    }
+  },
+  {
+    "id": "20f880d0690085e2c079",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "SHIRT",
+    "translation": "可用布料、皮革或毛皮制成，袖长和下摆各有不同。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHIRT.LEATHER SHIRT.FUR SHIRT.",
+      "line": 2429
+    }
+  },
+  {
+    "id": "c740769256fbe0eea2bb",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "LEATHER SHIRT",
+    "translation": "皮革衬衫",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHIRT.LEATHER SHIRT.FUR SHIRT.",
+      "line": 2429
+    }
+  },
+  {
+    "id": "ede00309f59ab6f7507c",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "LEATHER SHIRT",
+    "translation": "长袖皮革衬衫，需要额外防护时可穿。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHIRT.LEATHER SHIRT.FUR SHIRT.",
+      "line": 2429
+    }
+  },
+  {
+    "id": "79e7cc1d9eafe6d66ec3",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "FUR SHIRT",
+    "translation": "毛皮衬衫",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHIRT.LEATHER SHIRT.FUR SHIRT.",
+      "line": 2429
+    }
+  },
+  {
+    "id": "32481aeffb46127a53cd",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "FUR SHIRT",
+    "translation": "毛皮制成的衬衫，适合寒冷天气。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHIRT.LEATHER SHIRT.FUR SHIRT.",
+      "line": 2429
+    }
+  },
+  {
+    "id": "4c97690469cb17233708",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "UNDERSHIRT",
+    "translation": "贴身衬衫",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".UNDERSHIRT.",
+      "line": 2440
+    }
+  },
+  {
+    "id": "9cbb70ef1398c0f4a6f6",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "UNDERSHIRT",
+    "translation": "穿在较厚外衣下面的贴身衣物。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".UNDERSHIRT.",
+      "line": 2440
+    }
+  },
+  {
+    "id": "35dd3817e4cbbc1c0723",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "CLOAK",
+    "translation": "披风",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CLOAK.FUR CLOAK.",
+      "line": 2451
+    }
+  },
+  {
+    "id": "381474922309c8649335",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "CLOAK",
+    "translation": "罩在衣服外面，天气寒冷时尤其有用。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CLOAK.FUR CLOAK.",
+      "line": 2451
+    }
+  },
+  {
+    "id": "f0db04e3b9254c0401eb",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "FUR CLOAK",
+    "translation": "毛皮披风",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CLOAK.FUR CLOAK.",
+      "line": 2451
+    }
+  },
+  {
+    "id": "75eccc04b2cc933a1c57",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "FUR CLOAK",
+    "translation": "毛皮制成的外搭披风，寒冷时可保暖。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CLOAK.FUR CLOAK.",
+      "line": 2451
+    }
+  },
+  {
+    "id": "06e58654c3d9cfa78f07",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "VEIL",
+    "translation": "头纱",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".VEIL.",
+      "line": 2463
+    }
+  },
+  {
+    "id": "df5651d4477b1eda3b97",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "VEIL",
+    "translation": "由长方形布料缝成，用来遮盖头部。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".VEIL.",
+      "line": 2463
+    }
+  },
+  {
+    "id": "cb95406ec407765f8a5f",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "APRON",
+    "translation": "围裙",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".APRON.",
+      "line": 2471
+    }
+  },
+  {
+    "id": "8773c533a7aab1fd0b4c",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "APRON",
+    "translation": "劳作时保护衣物，装饰款也可在庆典上穿。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".APRON.",
+      "line": 2471
+    }
+  },
+  {
+    "id": "b8c71207979adbb041c2",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "UNDERGARMENT",
+    "translation": "内衫",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".UNDERGARMENT.",
+      "line": 2480
+    }
+  },
+  {
+    "id": "db994eaa1c4e6071b66a",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "UNDERGARMENT",
+    "translation": "柔软的长袖贴身衣物，下摆长及小腿。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".UNDERGARMENT.",
+      "line": 2480
+    }
+  },
+  {
+    "id": "2fb2ca4783bf31782f48",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "DRESS",
+    "translation": "连衣裙",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".DRESS.",
+      "line": 2488
+    }
+  },
+  {
+    "id": "170ba931f2b40a8e98d1",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "DRESS",
+    "translation": "通常用羊毛布或亚麻布制成的外穿衣物。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".DRESS.",
+      "line": 2488
+    }
+  },
+  {
+    "id": "37412294be8e0aa1272b",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "FUR HOOD",
+    "translation": "毛皮兜帽",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FUR HOOD.",
+      "line": 2500
+    }
+  },
+  {
+    "id": "30c00fdacc2be4598e5a",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "FUR HOOD",
+    "translation": "包住头部，也可遮住脸部以抵御风寒。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FUR HOOD.",
+      "line": 2500
+    }
+  },
+  {
+    "id": "a57dc9913f0434ab2e0a",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "CAP",
+    "translation": "帽子",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CAP.BIRCH-BARK CAP.BIRCH-BARK CAPS.LEATHER CAP.FUR CAP.WOOLLEN NALBOUND CAP.",
+      "line": 2508
+    }
+  },
+  {
+    "id": "ccb59ce0f23c86e75497",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "CAP",
+    "translation": "用布料、皮革等制成，用来遮护头部。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CAP.BIRCH-BARK CAP.BIRCH-BARK CAPS.LEATHER CAP.FUR CAP.WOOLLEN NALBOUND CAP.",
+      "line": 2508
+    }
+  },
+  {
+    "id": "287e064516decf19c189",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "BIRCH-BARK CAP",
+    "translation": "桦皮帽",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CAP.BIRCH-BARK CAP.BIRCH-BARK CAPS.LEATHER CAP.FUR CAP.WOOLLEN NALBOUND CAP.",
+      "line": 2508
+    }
+  },
+  {
+    "id": "28fccaca9026e8b8ab40",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "BIRCH-BARK CAP",
+    "translation": "用桦树皮制成的帽子，可遮护头部。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CAP.BIRCH-BARK CAP.BIRCH-BARK CAPS.LEATHER CAP.FUR CAP.WOOLLEN NALBOUND CAP.",
+      "line": 2508
+    }
+  },
+  {
+    "id": "8f82779c90a6f1401adc",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "BIRCH-BARK CAPS",
+    "translation": "桦皮帽",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CAP.BIRCH-BARK CAP.BIRCH-BARK CAPS.LEATHER CAP.FUR CAP.WOOLLEN NALBOUND CAP.",
+      "line": 2508
+    }
+  },
+  {
+    "id": "a9120401e498df8d22b6",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "BIRCH-BARK CAPS",
+    "translation": "用桦树皮制成的帽子，可遮护头部。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CAP.BIRCH-BARK CAP.BIRCH-BARK CAPS.LEATHER CAP.FUR CAP.WOOLLEN NALBOUND CAP.",
+      "line": 2508
+    }
+  },
+  {
+    "id": "17b50967c16bf08aa929",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "LEATHER CAP",
+    "translation": "皮帽",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CAP.BIRCH-BARK CAP.BIRCH-BARK CAPS.LEATHER CAP.FUR CAP.WOOLLEN NALBOUND CAP.",
+      "line": 2508
+    }
+  },
+  {
+    "id": "bb162d238b069143c568",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "LEATHER CAP",
+    "translation": "皮革制成的帽子，可遮护头部。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CAP.BIRCH-BARK CAP.BIRCH-BARK CAPS.LEATHER CAP.FUR CAP.WOOLLEN NALBOUND CAP.",
+      "line": 2508
+    }
+  },
+  {
+    "id": "58f78150425274247269",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "FUR CAP",
+    "translation": "毛皮帽",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CAP.BIRCH-BARK CAP.BIRCH-BARK CAPS.LEATHER CAP.FUR CAP.WOOLLEN NALBOUND CAP.",
+      "line": 2508
+    }
+  },
+  {
+    "id": "683d19b7d6a59b8deb2f",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "FUR CAP",
+    "translation": "毛皮制成的帽子，适合冬季保暖。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CAP.BIRCH-BARK CAP.BIRCH-BARK CAPS.LEATHER CAP.FUR CAP.WOOLLEN NALBOUND CAP.",
+      "line": 2508
+    }
+  },
+  {
+    "id": "9dabf4dc14a7d9d9aeba",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "WOOLLEN NALBOUND CAP",
+    "translation": "羊毛编结帽",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CAP.BIRCH-BARK CAP.BIRCH-BARK CAPS.LEATHER CAP.FUR CAP.WOOLLEN NALBOUND CAP.",
+      "line": 2508
+    }
+  },
+  {
+    "id": "264085a28d589f17c51a",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "WOOLLEN NALBOUND CAP",
+    "translation": "用羊毛纱线编结成的帽子，适合冬天。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CAP.BIRCH-BARK CAP.BIRCH-BARK CAPS.LEATHER CAP.FUR CAP.WOOLLEN NALBOUND CAP.",
+      "line": 2508
+    }
+  },
+  {
+    "id": "02b235884c81f2ceaff5",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "COWL",
+    "translation": "头罩",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".COWL.COWLS.WOOLLEN NALBOUND COWL.",
+      "line": 2516
+    }
+  },
+  {
+    "id": "3a23d01884182135504e",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "COWL",
+    "translation": "罩住头和颈，主要用于保暖和抵挡风雪。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".COWL.COWLS.WOOLLEN NALBOUND COWL.",
+      "line": 2516
+    }
+  },
+  {
+    "id": "2a58dda4dc7415220783",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "COWLS",
+    "translation": "头罩",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".COWL.COWLS.WOOLLEN NALBOUND COWL.",
+      "line": 2516
+    }
+  },
+  {
+    "id": "881bd8d99d8271d0a16f",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "COWLS",
+    "translation": "罩住头和颈，主要用于保暖和抵挡风雪。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".COWL.COWLS.WOOLLEN NALBOUND COWL.",
+      "line": 2516
+    }
+  },
+  {
+    "id": "36fb144ebf7e3192e587",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "WOOLLEN NALBOUND COWL",
+    "translation": "羊毛编结头罩",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".COWL.COWLS.WOOLLEN NALBOUND COWL.",
+      "line": 2516
+    }
+  },
+  {
+    "id": "bb5911f6b94bb19b0d17",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "WOOLLEN NALBOUND COWL",
+    "translation": "用羊毛纱线编结，冬天可为头颈保暖。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".COWL.COWLS.WOOLLEN NALBOUND COWL.",
+      "line": 2516
+    }
+  },
+  {
+    "id": "b4097c4330e6b215ccc3",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "COUDES",
+    "translation": "护肘",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".COUDES.",
+      "line": 2524
+    }
+  },
+  {
+    "id": "2584c287eda0b688e9e1",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "COUDES",
+    "translation": "保护肘部的护甲，通常由铁制成。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".COUDES.",
+      "line": 2524
+    }
+  },
+  {
+    "id": "8f8bb06fbf445fe95d5d",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "CUIRASS",
+    "translation": "胸甲",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CUIRASS.LEATHER CUIRASS.",
+      "line": 2529
+    }
+  },
+  {
+    "id": "7254738417cddc6ab4aa",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "CUIRASS",
+    "translation": "胸板与背板合成的护具，保护胸腹。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CUIRASS.LEATHER CUIRASS.",
+      "line": 2529
+    }
+  },
+  {
+    "id": "be7827f037c0f1ef27eb",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "LEATHER CUIRASS",
+    "translation": "皮革胸甲",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CUIRASS.LEATHER CUIRASS.",
+      "line": 2529
+    }
+  },
+  {
+    "id": "9ce4d1ee104eaaba72cf",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "LEATHER CUIRASS",
+    "translation": "用厚皮革制成的简易胸腹护具。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CUIRASS.LEATHER CUIRASS.",
+      "line": 2529
+    }
+  },
+  {
+    "id": "f6154ea813e6ca884163",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "HELM",
+    "translation": "头盔",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".HELM.HELMS.",
+      "line": 2535
+    }
+  },
+  {
+    "id": "0bc0e354435f9f855057",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "HELM",
+    "translation": "保护头骨，常由一整块铁锤打成形。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".HELM.HELMS.",
+      "line": 2535
+    }
+  },
+  {
+    "id": "1285a4120ef6a68da542",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "HELMS",
+    "translation": "头盔",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".HELM.HELMS.",
+      "line": 2535
+    }
+  },
+  {
+    "id": "6a094e8d4f4d9d271668",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "HELMS",
+    "translation": "保护头骨，常由一整块铁锤打成形。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".HELM.HELMS.",
+      "line": 2535
+    }
+  },
+  {
+    "id": "baeb8c226174e3eb70ed",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "SPECTACLE HELM",
+    "translation": "护目盔",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SPECTACLE HELM.",
+      "line": 2539
+    }
+  },
+  {
+    "id": "d6bb31338f6a4ab71aa2",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "SPECTACLE HELM",
+    "translation": "用护面保护头部与脸，有些另带护颊。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SPECTACLE HELM.",
+      "line": 2539
+    }
+  },
+  {
+    "id": "e80df837a100153844ab",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "GREAVES",
+    "translation": "护胫",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".GREAVES.SHIN GUARD.SHIN GUARDS.LEATHER SHIN GUARDS.",
+      "line": 2546
+    }
+  },
+  {
+    "id": "dd679babdc65ec140be9",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "GREAVES",
+    "translation": "保护胫骨的小腿护甲。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".GREAVES.SHIN GUARD.SHIN GUARDS.LEATHER SHIN GUARDS.",
+      "line": 2546
+    }
+  },
+  {
+    "id": "daa10726eeec9e886561",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "SHIN GUARD",
+    "translation": "护胫",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".GREAVES.SHIN GUARD.SHIN GUARDS.LEATHER SHIN GUARDS.",
+      "line": 2546
+    }
+  },
+  {
+    "id": "ddcac10dd46256dfb162",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "SHIN GUARD",
+    "translation": "保护胫骨的小腿护甲。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".GREAVES.SHIN GUARD.SHIN GUARDS.LEATHER SHIN GUARDS.",
+      "line": 2546
+    }
+  },
+  {
+    "id": "2350d7e8901d2ea514bf",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "SHIN GUARDS",
+    "translation": "护胫",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".GREAVES.SHIN GUARD.SHIN GUARDS.LEATHER SHIN GUARDS.",
+      "line": 2546
+    }
+  },
+  {
+    "id": "f18b41eaea5af44b67db",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "SHIN GUARDS",
+    "translation": "保护胫骨的小腿护甲。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".GREAVES.SHIN GUARD.SHIN GUARDS.LEATHER SHIN GUARDS.",
+      "line": 2546
+    }
+  },
+  {
+    "id": "72a859907d36c08770d8",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "LEATHER SHIN GUARDS",
+    "translation": "皮革护胫",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".GREAVES.SHIN GUARD.SHIN GUARDS.LEATHER SHIN GUARDS.",
+      "line": 2546
+    }
+  },
+  {
+    "id": "f8a8b86d7f81e22f277e",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "LEATHER SHIN GUARDS",
+    "translation": "皮革制成的小腿护具，用来保护胫骨。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".GREAVES.SHIN GUARD.SHIN GUARDS.LEATHER SHIN GUARDS.",
+      "line": 2546
+    }
+  },
+  {
+    "id": "a646c117329967901420",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "HABERGEON",
+    "translation": "短锁子甲",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".HABERGEON.",
+      "line": 2553
+    }
+  },
+  {
+    "id": "eb517654d37a996eee05",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "HABERGEON",
+    "translation": "短袖锁子甲，覆盖躯干、胯部和上臂。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".HABERGEON.",
+      "line": 2553
+    }
+  },
+  {
+    "id": "606b6cee1b25ae7a7b9b",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "HAUBERK",
+    "translation": "长身甲",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".HAUBERK.",
+      "line": 2559
+    }
+  },
+  {
+    "id": "c032aa9902664c47e5ef",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "HAUBERK",
+    "translation": "锁子甲或札甲制成的长身护甲，可护住大腿。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".HAUBERK.",
+      "line": 2559
+    }
+  },
+  {
+    "id": "068db383e7af7b0fa1d7",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "KNEECOPS",
+    "translation": "护膝",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".KNEECOPS.",
+      "line": 2566
+    }
+  },
+  {
+    "id": "c6f74d997e11dcac8353",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "KNEECOPS",
+    "translation": "保护膝盖的护甲，通常用皮条系紧。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".KNEECOPS.",
+      "line": 2566
+    }
+  },
+  {
+    "id": "08c7ccf8fa57f01bc2d4",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "LEGGINGS",
+    "translation": "护腿",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LEGGINGS.LEATHER LEGGINGS.FUR LEGGINGS.",
+      "line": 2570
+    }
+  },
+  {
+    "id": "ff0c9b0812f36d0b4b6f",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "LEGGINGS",
+    "translation": "用布、皮革或毛皮制成，保护髋部和双腿。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LEGGINGS.LEATHER LEGGINGS.FUR LEGGINGS.",
+      "line": 2570
+    }
+  },
+  {
+    "id": "a3357f343e9222004504",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "LEATHER LEGGINGS",
+    "translation": "皮革护腿",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LEGGINGS.LEATHER LEGGINGS.FUR LEGGINGS.",
+      "line": 2570
+    }
+  },
+  {
+    "id": "be2f582e0b4d66bc914c",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "LEATHER LEGGINGS",
+    "translation": "用皮革制成，可护住髋部和双腿。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LEGGINGS.LEATHER LEGGINGS.FUR LEGGINGS.",
+      "line": 2570
+    }
+  },
+  {
+    "id": "bea40a2c35da3f72b5ef",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "FUR LEGGINGS",
+    "translation": "毛皮护腿",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LEGGINGS.LEATHER LEGGINGS.FUR LEGGINGS.",
+      "line": 2570
+    }
+  },
+  {
+    "id": "4dd6049bfe81755a8427",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "FUR LEGGINGS",
+    "translation": "用毛皮制成，可为髋部和双腿保暖。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LEGGINGS.LEATHER LEGGINGS.FUR LEGGINGS.",
+      "line": 2570
+    }
+  },
+  {
+    "id": "5f61393823a7dcf29d8f",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "WOOLLEN NALBOUND KNEE SOCKS",
+    "translation": "羊毛编结长袜",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOOLLEN NALBOUND KNEE SOCKS.NALBOUND KNEE SOCKS.KNEE SOCKS.",
+      "line": 2579
+    }
+  },
+  {
+    "id": "e26a0342ffa86ffdd4b9",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "WOOLLEN NALBOUND KNEE SOCKS",
+    "translation": "长到膝盖，寒冷时可给脚和小腿保暖。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOOLLEN NALBOUND KNEE SOCKS.NALBOUND KNEE SOCKS.KNEE SOCKS.",
+      "line": 2579
+    }
+  },
+  {
+    "id": "e1bc7c8e66e7a53d354c",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "NALBOUND KNEE SOCKS",
+    "translation": "羊毛编结长袜",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOOLLEN NALBOUND KNEE SOCKS.NALBOUND KNEE SOCKS.KNEE SOCKS.",
+      "line": 2579
+    }
+  },
+  {
+    "id": "fd021c69d23cf923e722",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "NALBOUND KNEE SOCKS",
+    "translation": "长到膝盖，寒冷时可给脚和小腿保暖。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOOLLEN NALBOUND KNEE SOCKS.NALBOUND KNEE SOCKS.KNEE SOCKS.",
+      "line": 2579
+    }
+  },
+  {
+    "id": "30dc4a48a6e656160c10",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "KNEE SOCKS",
+    "translation": "羊毛编结长袜",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOOLLEN NALBOUND KNEE SOCKS.NALBOUND KNEE SOCKS.KNEE SOCKS.",
+      "line": 2579
+    }
+  },
+  {
+    "id": "4c2f940e6988629c3a23",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "KNEE SOCKS",
+    "translation": "长到膝盖，寒冷时可给脚和小腿保暖。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOOLLEN NALBOUND KNEE SOCKS.NALBOUND KNEE SOCKS.KNEE SOCKS.",
+      "line": 2579
+    }
+  },
+  {
+    "id": "58a16c52a4be37bb7431",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "WOOLLEN NALBOUND SOCKS",
+    "translation": "羊毛编结短袜",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOOLLEN NALBOUND SOCKS.NALBOUND SOCKS.",
+      "line": 2584
+    }
+  },
+  {
+    "id": "16b0a874e55ce7fd79c9",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "WOOLLEN NALBOUND SOCKS",
+    "translation": "及踝的羊毛短袜，适合冬季给脚保暖。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOOLLEN NALBOUND SOCKS.NALBOUND SOCKS.",
+      "line": 2584
+    }
+  },
+  {
+    "id": "3ebb02a3b1ac4c8272d2",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "NALBOUND SOCKS",
+    "translation": "羊毛编结短袜",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOOLLEN NALBOUND SOCKS.NALBOUND SOCKS.",
+      "line": 2584
+    }
+  },
+  {
+    "id": "9270eed954329db27e05",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "NALBOUND SOCKS",
+    "translation": "及踝的羊毛短袜，适合冬季给脚保暖。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOOLLEN NALBOUND SOCKS.NALBOUND SOCKS.",
+      "line": 2584
+    }
+  },
+  {
+    "id": "4f6193c42392476cd1e7",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "SOCKS",
+    "translation": "袜子",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SOCKS.",
+      "line": 2589
+    }
+  },
+  {
+    "id": "8fbbab6ad610e16ae15e",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "SOCKS",
+    "translation": "用羊毛纱线编结，有及踝和及膝两种。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SOCKS.",
+      "line": 2589
+    }
+  },
+  {
+    "id": "bd10660152d4def7ce53",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "MITTENS",
+    "translation": "连指手套",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".MITTENS.FUR MITTENS.WOOLLEN NALBOUND MITTENS.",
+      "line": 2593
+    }
+  },
+  {
+    "id": "ae88d4c471a4fb9cb331",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "MITTENS",
+    "translation": "用毛皮或羊毛制成，冬季保护双手。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".MITTENS.FUR MITTENS.WOOLLEN NALBOUND MITTENS.",
+      "line": 2593
+    }
+  },
+  {
+    "id": "b5ffe0e6f25a42db5db2",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "FUR MITTENS",
+    "translation": "毛皮连指手套",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".MITTENS.FUR MITTENS.WOOLLEN NALBOUND MITTENS.",
+      "line": 2593
+    }
+  },
+  {
+    "id": "77b526ecc2cf9be345a0",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "FUR MITTENS",
+    "translation": "用毛皮制成，冬季给双手保暖。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".MITTENS.FUR MITTENS.WOOLLEN NALBOUND MITTENS.",
+      "line": 2593
+    }
+  },
+  {
+    "id": "52c52ae5b86546722c38",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "WOOLLEN NALBOUND MITTENS",
+    "translation": "羊毛编结连指手套",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".MITTENS.FUR MITTENS.WOOLLEN NALBOUND MITTENS.",
+      "line": 2593
+    }
+  },
+  {
+    "id": "4d1c1e0172dc9a92f3ae",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "WOOLLEN NALBOUND MITTENS",
+    "translation": "用羊毛纱线编结，冬季给双手保暖。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".MITTENS.FUR MITTENS.WOOLLEN NALBOUND MITTENS.",
+      "line": 2593
+    }
+  },
+  {
+    "id": "0a9995924b3972d3a5ed",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "REREBRACES",
+    "translation": "上臂甲",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".REREBRACES.",
+      "line": 2598
+    }
+  },
+  {
+    "id": "9ffed05e56863869839c",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "REREBRACES",
+    "translation": "用于保护上臂的护甲。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".REREBRACES.",
+      "line": 2598
+    }
+  },
+  {
+    "id": "bfa8f4eaaabbb446a5cb",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "OVERCOAT",
+    "translation": "长外套",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".OVERCOAT.FUR OVERCOAT.",
+      "line": 2602
+    }
+  },
+  {
+    "id": "20651f90999204efa05c",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "OVERCOAT",
+    "translation": "宽松及膝的长袖外衣，冬天可套在多层衣物外。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".OVERCOAT.FUR OVERCOAT.",
+      "line": 2602
+    }
+  },
+  {
+    "id": "324588cccb5ba36e3de4",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "FUR OVERCOAT",
+    "translation": "毛皮长外套",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".OVERCOAT.FUR OVERCOAT.",
+      "line": 2602
+    }
+  },
+  {
+    "id": "fcdfba3cdabb61c8394f",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "FUR OVERCOAT",
+    "translation": "宽松的及膝毛皮外套，可罩在多层衣物外。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".OVERCOAT.FUR OVERCOAT.",
+      "line": 2602
+    }
+  },
+  {
+    "id": "b0338ca1dc6e2b185331",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "FOREARM GUARDS",
+    "translation": "前臂甲",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FOREARM GUARDS.VAMBRACES.LEATHER FOREARM GUARDS.",
+      "line": 2608
+    }
+  },
+  {
+    "id": "1e304def5a8dd0dd74ca",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "FOREARM GUARDS",
+    "translation": "可用札甲片或皮革制成，用来保护前臂。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FOREARM GUARDS.VAMBRACES.LEATHER FOREARM GUARDS.",
+      "line": 2608
+    }
+  },
+  {
+    "id": "7c00adfc21263a8e7277",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "VAMBRACES",
+    "translation": "前臂甲",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FOREARM GUARDS.VAMBRACES.LEATHER FOREARM GUARDS.",
+      "line": 2608
+    }
+  },
+  {
+    "id": "db7b06846cb507496ab9",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "VAMBRACES",
+    "translation": "可用札甲片或皮革制成，用来保护前臂。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FOREARM GUARDS.VAMBRACES.LEATHER FOREARM GUARDS.",
+      "line": 2608
+    }
+  },
+  {
+    "id": "a87086c08b6bcd2996b4",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "LEATHER FOREARM GUARDS",
+    "translation": "皮革前臂甲",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FOREARM GUARDS.VAMBRACES.LEATHER FOREARM GUARDS.",
+      "line": 2608
+    }
+  },
+  {
+    "id": "96c9654b9ab44d270691",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "LEATHER FOREARM GUARDS",
+    "translation": "用皮革制成，保护前臂。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FOREARM GUARDS.VAMBRACES.LEATHER FOREARM GUARDS.",
+      "line": 2608
+    }
+  },
+  {
+    "id": "843bc4dbdb565b17b73c",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "TROUSERS",
+    "translation": "长裤",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".TROUSERS.LEATHER TROUSERS.",
+      "line": 2614
+    }
+  },
+  {
+    "id": "4f5f07c33cbd055f7ec0",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "TROUSERS",
+    "translation": "从腰部遮到脚踝，两条裤腿分别包住双腿。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".TROUSERS.LEATHER TROUSERS.",
+      "line": 2614
+    }
+  },
+  {
+    "id": "970a93820b32e24d7eff",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "LEATHER TROUSERS",
+    "translation": "皮革长裤",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".TROUSERS.LEATHER TROUSERS.",
+      "line": 2614
+    }
+  },
+  {
+    "id": "e18e1427d88e9e9a2028",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "LEATHER TROUSERS",
+    "translation": "用皮革制成，从腰部覆盖到脚踝。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".TROUSERS.LEATHER TROUSERS.",
+      "line": 2614
+    }
+  },
+  {
+    "id": "dedbc2ae6177dac1517c",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "FOOTRAGS",
+    "translation": "裹脚布",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FOOTRAGS.",
+      "line": 2623
+    }
+  },
+  {
+    "id": "48cfc19095c2f7a255e6",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "FOOTRAGS",
+    "translation": "把长方形布片裹在脚上保暖，无需缝制。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FOOTRAGS.",
+      "line": 2623
+    }
+  },
+  {
+    "id": "4bca0611dbdf258cd6a9",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "SLAT",
+    "translation": "木条",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SLAT.WOOD SLAT.",
+      "line": 3516
+    }
+  },
+  {
+    "id": "db912c4f81959878d47a",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "SLAT",
+    "translation": "从木板劈出的窄条，可用来制作箭杆。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SLAT.WOOD SLAT.",
+      "line": 3516
+    }
+  },
+  {
+    "id": "dd7ff2fd26d0cb14efa0",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "WOOD SLAT",
+    "translation": "木条",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SLAT.WOOD SLAT.",
+      "line": 3516
+    }
+  },
+  {
+    "id": "6924a88be9db05651bdd",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "WOOD SLAT",
+    "translation": "从木板劈出的窄条，可用来制作箭杆。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SLAT.WOOD SLAT.",
+      "line": 3516
+    }
+  },
+  {
+    "id": "6bd7d9c0de41572607e4",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "WOODEN STAKE",
+    "translation": "木桩",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOODEN STAKE.",
+      "line": 3520
+    }
+  },
+  {
+    "id": "3b14417bfc64d8953b3c",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "WOODEN STAKE",
+    "translation": "细树干去枝后截成合适长度，可用于建围栏。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOODEN STAKE.",
+      "line": 3520
+    }
+  },
+  {
+    "id": "47a24893146814eceb7d",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "SLENDER TRUNK",
+    "translation": "细树干",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SLENDER TRUNK.SLENDER TREE TRUNK.SLENDER TREE TRUNKS.",
+      "line": 3525
+    }
+  },
+  {
+    "id": "b58cd9239e143c8ec302",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "SLENDER TRUNK",
+    "translation": "幼树的树干，可用来制作木桩和其他木制品。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SLENDER TRUNK.SLENDER TREE TRUNK.SLENDER TREE TRUNKS.",
+      "line": 3525
+    }
+  },
+  {
+    "id": "4a7affc17b752808206a",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "SLENDER TREE TRUNK",
+    "translation": "细树干",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SLENDER TRUNK.SLENDER TREE TRUNK.SLENDER TREE TRUNKS.",
+      "line": 3525
+    }
+  },
+  {
+    "id": "f85f9e0929bc3482410b",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "SLENDER TREE TRUNK",
+    "translation": "幼树的树干，可用来制作木桩和其他木制品。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SLENDER TRUNK.SLENDER TREE TRUNK.SLENDER TREE TRUNKS.",
+      "line": 3525
+    }
+  },
+  {
+    "id": "97a762ec5c3002d83768",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "SLENDER TREE TRUNKS",
+    "translation": "细树干",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SLENDER TRUNK.SLENDER TREE TRUNK.SLENDER TREE TRUNKS.",
+      "line": 3525
+    }
+  },
+  {
+    "id": "bb0f8a1f06352f8e81d8",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "SLENDER TREE TRUNKS",
+    "translation": "幼树的树干，可用来制作木桩和其他木制品。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SLENDER TRUNK.SLENDER TREE TRUNK.SLENDER TREE TRUNKS.",
+      "line": 3525
+    }
+  },
+  {
+    "id": "baadb254b252d536903b",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "LOG",
+    "translation": "原木",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LOG.LOGS.",
+      "line": 3530
+    }
+  },
+  {
+    "id": "18819cfe9b5cf8805ca4",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "LOG",
+    "translation": "砍倒树并去掉枝条后得到，可用于建造或烧火。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LOG.LOGS.",
+      "line": 3530
+    }
+  },
+  {
+    "id": "b99e678f5472ecace020",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "LOGS",
+    "translation": "原木",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LOG.LOGS.",
+      "line": 3530
+    }
+  },
+  {
+    "id": "53a48274fa19b4c138d6",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "LOGS",
+    "translation": "砍倒树并去掉枝条后得到，可用于建造或烧火。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LOG.LOGS.",
+      "line": 3530
+    }
+  },
+  {
+    "id": "b60993572969c607c516",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "HOUSE",
+    "translation": "木屋",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".HOUSE.BUILDINGS.",
+      "line": 3538
+    }
+  },
+  {
+    "id": "1f5b56b3335a6bd8aafb",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "HOUSE",
+    "translation": "通常用松木原木搭建，带火炉的木屋可供居住。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".HOUSE.BUILDINGS.",
+      "line": 3538
+    }
+  },
+  {
+    "id": "7d4e37687cea0cb41452",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "BUILDINGS",
+    "translation": "建筑",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".HOUSE.BUILDINGS.",
+      "line": 3538
+    }
+  },
+  {
+    "id": "17ff5b99a4bc89948633",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "BUILDINGS",
+    "translation": "通常用原木搭建，可供居住、储物或圈养牲畜。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".HOUSE.BUILDINGS.",
+      "line": 3538
+    }
+  },
+  {
+    "id": "5d1c244cc539f7fb3de5",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "VASTA",
+    "translation": "桑拿桦枝束",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".VASTA.",
+      "line": 3557
+    }
+  },
+  {
+    "id": "64e7780c4a474b2bf93d",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "VASTA",
+    "translation": "用带叶桦枝扎成，供桑拿时拍打身体。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".VASTA.",
+      "line": 3557
+    }
+  },
+  {
+    "id": "7cc76bb3eeeb0a558b9b",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "FIREPLACE",
+    "translation": "火炉",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FIREPLACE.SAUNA STOVE.",
+      "line": 3568
+    }
+  },
+  {
+    "id": "4f202e6b987eedb35844",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "FIREPLACE",
+    "translation": "用柴火取暖，也可用来烹调食物。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FIREPLACE.SAUNA STOVE.",
+      "line": 3568
+    }
+  },
+  {
+    "id": "47be8e96677244e28371",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "SAUNA STOVE",
+    "translation": "桑拿炉",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FIREPLACE.SAUNA STOVE.",
+      "line": 3568
+    }
+  },
+  {
+    "id": "0671f5893270eb189e23",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "SAUNA STOVE",
+    "translation": "烧柴加热桑拿房和炉石。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FIREPLACE.SAUNA STOVE.",
+      "line": 3568
+    }
+  },
+  {
+    "id": "5acc38d71de0a7d80053",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "SAUNA",
+    "translation": "桑拿房",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SAUNA.",
+      "line": 3587
+    }
+  },
+  {
+    "id": "27cde41a2a2dafddad3a",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "SAUNA",
+    "translation": "烧热炉石后泼水产生蒸汽，供人沐浴。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SAUNA.",
+      "line": 3587
+    }
+  },
+  {
+    "id": "c59b8f23e8d1c7c415da",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "KOTA",
+    "translation": "圆锥帐篷",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".KOTA.KOTAS.",
+      "line": 3611
+    }
+  },
+  {
+    "id": "d1bb41fae26ab1300a7e",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "KOTA",
+    "translation": "用细树干搭架，外覆皮革或毛皮，可挡风雨。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".KOTA.KOTAS.",
+      "line": 3611
+    }
+  },
+  {
+    "id": "c94e80a3ffd7fd84cd28",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "KOTAS",
+    "translation": "圆锥帐篷",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".KOTA.KOTAS.",
+      "line": 3611
+    }
+  },
+  {
+    "id": "9059718b2b8e08dff8de",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "KOTAS",
+    "translation": "用细树干搭架，外覆皮革或毛皮，可挡风雨。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".KOTA.KOTAS.",
+      "line": 3611
+    }
+  }
+]

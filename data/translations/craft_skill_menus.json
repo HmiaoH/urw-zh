@@ -1,0 +1,3287 @@
+[
+  {
+    "id": "craft-skill-5299355b49665806",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Fell a tree",
+    "translation": "砍倒一棵树",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-ecc48738d497a1be",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Boil",
+    "translation": "煮制",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-376113c3d7548924",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "BOIL",
+    "translation": "煮制",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-5a2db9d395d74f8f",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Boil",
+    "translation": "煮制",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-69d97a9d4738f1e8",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Craft modded item",
+    "translation": "制作模组物品",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-e208c8899587306d",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "CRAFT MODDED ITEM",
+    "translation": "制作模组物品",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-87328dd2bb5cac6f",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Craft modded item",
+    "translation": "制作模组物品",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-7d4f95b19479058b",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Craft an item",
+    "translation": "制作物品",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-76d94f02a8736406",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "CRAFT AN ITEM",
+    "translation": "制作物品",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-d6346c3c4ef62990",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Craft an item",
+    "translation": "制作物品",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-9ef5ac98d09d4cb4",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Log",
+    "translation": "制作原木",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-290808a7ab001f88",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Chop blocks of wood",
+    "translation": "劈制木块",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-2b0240b9a37cd3c2",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Split firewood",
+    "translation": "劈柴",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-88de66fa7c0bbdc8",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Peel bark",
+    "translation": "剥取树皮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-273729f884a83b38",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Boards",
+    "translation": "制作木板",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-65d0e3ebb438d830",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Harvest and pick",
+    "translation": "采摘作物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-af85840f255a5666",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "HARVEST AND PICK",
+    "translation": "采摘作物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-8a7c5854a937a8fc",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Harvest and pick",
+    "translation": "采摘作物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-541c53ffb3c2003b",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Grind flour",
+    "translation": "磨粉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-189919208d1dff82",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "GRIND FLOUR",
+    "translation": "磨粉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-15ad85bfafc40e1f",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Grind flour",
+    "translation": "磨粉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-7880867b313bcff4",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Thresh (for grain/seeds/leaves)",
+    "translation": "脱粒（取谷粒、种子或叶片）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-b9b18e7c506827f5",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "THRESH (FOR GRAIN/SEEDS/LEAVES)",
+    "translation": "脱粒（取谷粒、种子或叶片）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-d19ef14b35631a03",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Thresh (for grain/seeds/leaves)",
+    "translation": "脱粒（取谷粒、种子或叶片）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-ac24809a69654929",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Harvest down",
+    "translation": "收割作物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-d70ad9b87d7d7ae0",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "HARVEST DOWN",
+    "translation": "收割作物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-a73bc6e794f6abb9",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Harvest down",
+    "translation": "收割作物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-43a71eb30e51fef0",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Prepare the soil",
+    "translation": "整地",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-5dfd7735960e1604",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "PREPARE THE SOIL",
+    "translation": "整地",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-dcedb1f12ddc7397",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Prepare the soil",
+    "translation": "整地",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-3e673d752a9d0de4",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Plant/sow",
+    "translation": "种植或播种",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-23d27a1e68b1ebf8",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "PLANT/SOW",
+    "translation": "种植或播种",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-cd0550eb7e406e49",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Plant/sow",
+    "translation": "种植或播种",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-d70cfa6ecbca4cdf",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Twigs and branches",
+    "translation": "采集细枝与树枝",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-83c238a510d6e67d",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Build a fire",
+    "translation": "生火",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-c69ef653c0d3407f",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "BUILD A FIRE",
+    "translation": "生火",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-46e3ae29d61e0f45",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Build a fire",
+    "translation": "生火",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-eabbdba1d13afa06",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Make a hole in the ice",
+    "translation": "在冰上凿洞",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-47b2a03fa432d40b",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "MAKE A HOLE IN THE ICE",
+    "translation": "在冰上凿洞",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-a12927a854aaac71",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Make a hole in the ice",
+    "translation": "在冰上凿洞",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-a5184902a38a8925",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Skin an animal",
+    "translation": "给动物剥皮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-81cb3b448c54f438",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "SKIN AN ANIMAL",
+    "translation": "给动物剥皮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-32c0182d95f9ee61",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Skin an animal",
+    "translation": "给动物剥皮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-78c34bb590083ebd",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Cure the skin (for preservation)",
+    "translation": "晾干兽皮（保存）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-1bc51133978b64b5",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "CURE THE SKIN (FOR PRESERVATION)",
+    "translation": "晾干兽皮（保存）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-d7d622efd2e72b63",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Cure the skin (for preservation)",
+    "translation": "晾干兽皮（保存）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-ed10acc9236fe523",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Tan the skin",
+    "translation": "鞣制兽皮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-714d9d180233bab4",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "TAN THE SKIN",
+    "translation": "鞣制兽皮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-03611f51cf942bb3",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Tan the skin",
+    "translation": "鞣制兽皮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-447a9d88853349de",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "De-hair (for rawhide/leather)",
+    "translation": "去毛（制作生皮或皮革）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-d3545db534eda67b",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "DE-HAIR (FOR RAWHIDE/LEATHER)",
+    "translation": "去毛（制作生皮或皮革）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-84952b89c7cc4bc9",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "De-hair (for rawhide/leather)",
+    "translation": "去毛（制作生皮或皮革）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-9e3154c656135da5",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Apply tanning material",
+    "translation": "涂抹鞣料",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-09fa66302c3175f9",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "APPLY TANNING MATERIAL",
+    "translation": "涂抹鞣料",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-1e7bfa907092ede4",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Apply tanning material",
+    "translation": "涂抹鞣料",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-93de17ba773ed3d5",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Rinse and dry the skin",
+    "translation": "漂洗并晾干兽皮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-6b7c561b1c82097e",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "RINSE AND DRY THE SKIN",
+    "translation": "漂洗并晾干兽皮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-16c5641dd0534401",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Rinse and dry the skin",
+    "translation": "漂洗并晾干兽皮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-d211448f801cec23",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Soften the skin",
+    "translation": "软化兽皮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-78789dde0ededd77",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "SOFTEN THE SKIN",
+    "translation": "软化兽皮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-a861ebad5fc71e96",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Soften the skin",
+    "translation": "软化兽皮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-8e391da6f575c050",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Clean the skin",
+    "translation": "清理兽皮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-50038ea9b7135c83",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "CLEAN THE SKIN",
+    "translation": "清理兽皮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-d7a9f4b32b62ff02",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Clean the skin",
+    "translation": "清理兽皮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-b792114426adb35e",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Soak the skin",
+    "translation": "浸泡兽皮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-bb62cf1c612edc0d",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "SOAK THE SKIN",
+    "translation": "浸泡兽皮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-afeb1a4889a6fdad",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Soak the skin",
+    "translation": "浸泡兽皮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-70cb4cde4e228d95",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Roasted meat",
+    "translation": "烤肉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-77334f48afc0b16a",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "ROASTED MEAT",
+    "translation": "烤肉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-0fc45fcff361c2e5",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Roasted meat",
+    "translation": "烤肉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-d6ecc2b0e2d1e96a",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Salted meat",
+    "translation": "腌肉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-6ec58183a04dcae2",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "SALTED MEAT",
+    "translation": "腌肉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-be7448454d191310",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Salted meat",
+    "translation": "腌肉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-4dca5dcc5e5eaa8a",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Smoked meat",
+    "translation": "熏肉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-03243b7932c6dfef",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "SMOKED MEAT",
+    "translation": "熏肉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-782f9a57af70697f",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Smoked meat",
+    "translation": "熏肉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-4bc923bc01d610ff",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Dry (for preservation)",
+    "translation": "风干（保存）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-d05ebddc3ed9ba03",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "DRY (FOR PRESERVATION)",
+    "translation": "风干（保存）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-43a2eff6e4450a2b",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Dry (for preservation)",
+    "translation": "风干（保存）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-0f771a6e7be71512",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Salt (for preservation)",
+    "translation": "盐腌（保存）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-d3a10cd3fe14aced",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "SALT (FOR PRESERVATION)",
+    "translation": "盐腌（保存）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-d87400220ea6854b",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Salt (for preservation)",
+    "translation": "盐腌（保存）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-4e5ad390c51f16b5",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Ember-roasted turnips",
+    "translation": "炭烤芜菁",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-b71c826c9b06c391",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "EMBER-ROASTED TURNIPS",
+    "translation": "炭烤芜菁",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-0d4569381ba26c40",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Ember-roasted turnips",
+    "translation": "炭烤芜菁",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-489d602b356ed4fd",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Roast in embers",
+    "translation": "在余烬中烤制",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-5f28ae527e18e516",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "ROAST IN EMBERS",
+    "translation": "在余烬中烤制",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-8f5f3e2758699ac1",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Roast in embers",
+    "translation": "在余烬中烤制",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-0c22435c7cea0481",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Roast on fire",
+    "translation": "在火上烤制",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-bedbf7ab5b5a645f",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "ROAST ON FIRE",
+    "translation": "在火上烤制",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-0b98cbcb24977458",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Roast on fire",
+    "translation": "在火上烤制",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-f7cf2b8f1569beee",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Cook",
+    "translation": "烹煮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-56913478478a0ec9",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "COOK",
+    "translation": "烹煮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-eb82a786d772de4f",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Cook",
+    "translation": "烹煮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-218f609be5598aa7",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Smoke (for preservation)",
+    "translation": "烟熏（保存）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-9edcd87b534f888d",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "SMOKE (FOR PRESERVATION)",
+    "translation": "烟熏（保存）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-7a478b1ba343bdaf",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Smoke (for preservation)",
+    "translation": "烟熏（保存）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-85ba02466cb73a62",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Wild flour",
+    "translation": "野生植物粉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-2550ec74652b00e9",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "WILD FLOUR",
+    "translation": "野生植物粉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-7a087d4414df813a",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Wild flour",
+    "translation": "野生植物粉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-960852e4c3ade0d5",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Join ropes and cords",
+    "translation": "接合绳索与细绳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-0b4e5476d83ba1b6",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "JOIN ROPES AND CORDS",
+    "translation": "接合绳索与细绳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-ceaf3b5aa8146356",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Join ropes and cords",
+    "translation": "接合绳索与细绳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-908d4e4ed19ac90f",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Shorten ropes and cords",
+    "translation": "缩短绳索与细绳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-d4dca65fa1cfd206",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "SHORTEN ROPES AND CORDS",
+    "translation": "缩短绳索与细绳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-c813b51ba4a16159",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Shorten ropes and cords",
+    "translation": "缩短绳索与细绳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-c87f79310e593064",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Withe",
+    "translation": "枝条绳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-8efb92442de0bc08",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "WITHE",
+    "translation": "枝条绳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-2c81763e68c4f413",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Withe",
+    "translation": "枝条绳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-6e2ab07b5ddb43f1",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Spin yarn",
+    "translation": "纺纱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-a68eaac2d7a6b63a",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "SPIN YARN",
+    "translation": "纺纱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-de14bc0114bb9c74",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Spin yarn",
+    "translation": "纺纱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-26e73c5c89f2e19d",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Retting",
+    "translation": "浸沤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-5d52ee28e313e584",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "RETTING",
+    "translation": "浸沤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-8d939c9b4d89be76",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Retting",
+    "translation": "浸沤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-1697288f6835b395",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Drying",
+    "translation": "晾干",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-14cca5eba5ee34ab",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "DRYING",
+    "translation": "晾干",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-3757e3716e1931bc",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Drying",
+    "translation": "晾干",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-6b82c5ed538ba181",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Extract plant fibre",
+    "translation": "提取植物纤维",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-a4bb03767637929a",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "EXTRACT PLANT FIBRE",
+    "translation": "提取植物纤维",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-1f6755e780d49544",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Extract plant fibre",
+    "translation": "提取植物纤维",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-f845d76e25b74b91",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Tendon drying",
+    "translation": "晾干肌腱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-fcf0c20b19c03558",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "TENDON DRYING",
+    "translation": "晾干肌腱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-a5859fec1d966ea7",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Tendon drying",
+    "translation": "晾干肌腱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-3c30627aba6567ca",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Separate sinew fibre",
+    "translation": "分离筋纤维",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-6561dfcf84e368d7",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "SEPARATE SINEW FIBRE",
+    "translation": "分离筋纤维",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-cd12e50b9e08ef9c",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Separate sinew fibre",
+    "translation": "分离筋纤维",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-3e5e3342884cd78b",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Haft a weapon or tool",
+    "translation": "给武器或工具装柄",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-ad0ae9903a3a0292",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "HAFT A WEAPON OR TOOL",
+    "translation": "给武器或工具装柄",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-a10f02310486333e",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Haft a weapon or tool",
+    "translation": "给武器或工具装柄",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-cfae5d1764206c1c",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Remove the haft",
+    "translation": "拆下柄杆",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-d7003a4f90611eaf",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "REMOVE THE HAFT",
+    "translation": "拆下柄杆",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-5402d4976f1dabdc",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Remove the haft",
+    "translation": "拆下柄杆",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-64bfd22a1e5eacdc",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Repair worn-out clothes",
+    "translation": "修补磨损衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-7ee66438d957a8ef",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "REPAIR WORN-OUT CLOTHES",
+    "translation": "修补磨损衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-f19a0d39539acad5",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Repair worn-out clothes",
+    "translation": "修补磨损衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-9a0342bbe32211ec",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Repair worn-out net",
+    "translation": "修补磨损渔网",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-d438ad5bc5e4f3d7",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "REPAIR WORN-OUT NET",
+    "translation": "修补磨损渔网",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-b9d96241858c1bf6",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Repair worn-out net",
+    "translation": "修补磨损渔网",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-7c4ca47d6321d89a",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Set a trap",
+    "translation": "设置陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-1f8b94f3b26ed13d",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "SET A TRAP",
+    "translation": "设置陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-24f4f778827cb0cd",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Set a trap",
+    "translation": "设置陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-49f442ca984b0f78",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Disassemble a trap construction",
+    "translation": "拆除陷阱设施",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-f15da346f45d9b4a",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "DISASSEMBLE A TRAP CONSTRUCTION",
+    "translation": "拆除陷阱设施",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-318763fe3fe16522",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Disassemble a trap construction",
+    "translation": "拆除陷阱设施",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-992d17ab6e9215ee",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Light lever trap",
+    "translation": "轻型杠杆陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-baaf47475041f2cf",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "LIGHT LEVER TRAP",
+    "translation": "轻型杠杆陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-59d95dee7d95bae4",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Light lever trap",
+    "translation": "轻型杠杆陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-0616fac2e50aae07",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Small deadfall trap",
+    "translation": "小型压落陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-32c251dc89cac543",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "SMALL DEADFALL TRAP",
+    "translation": "小型压落陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-ad199e11b1c99a94",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Small deadfall trap",
+    "translation": "小型压落陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-a2639a20aa7305bc",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Big deadfall trap",
+    "translation": "大型压落陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-7572701e7c1905ba",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "BIG DEADFALL TRAP",
+    "translation": "大型压落陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-a872466eb77643b4",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Big deadfall trap",
+    "translation": "大型压落陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-56d674faba938e77",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Heavy deadfall bear trap",
+    "translation": "重型捕熊压落陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-b0438239968d971a",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "HEAVY DEADFALL BEAR TRAP",
+    "translation": "重型捕熊压落陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-3a5f455028da2b25",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Heavy deadfall bear trap",
+    "translation": "重型捕熊压落陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-4b875476a05f68aa",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Trap pit",
+    "translation": "陷阱坑",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-4b8634175e507e89",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "TRAP PIT",
+    "translation": "陷阱坑",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-faa30371c0759645",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Trap pit",
+    "translation": "陷阱坑",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-1d2a7c62e9afeb12",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Trap pit with sharp stakes",
+    "translation": "尖桩陷阱坑",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-601c8300d867f39b",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "TRAP PIT WITH SHARP STAKES",
+    "translation": "尖桩陷阱坑",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-02d004aa2fbf693a",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Trap pit with sharp stakes",
+    "translation": "尖桩陷阱坑",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-abbf426c59e7fbd2",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Reset triggered trap",
+    "translation": "重置已触发的陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-6fd770eaa654d447",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "RESET TRIGGERED TRAP",
+    "translation": "重置已触发的陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-07cba430709a9a0c",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Reset triggered trap",
+    "translation": "重置已触发的陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-e0f39b9dd58c1350",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Bait a trap",
+    "translation": "给陷阱放置诱饵",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-d6061b9500d94057",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "BAIT A TRAP",
+    "translation": "给陷阱放置诱饵",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-55f79957ce7463a5",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Bait a trap",
+    "translation": "给陷阱放置诱饵",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-72e6470d4e84ed61",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Wear",
+    "translation": "穿戴",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-a5a2ad372f17da16",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "WEAR",
+    "translation": "穿戴",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-9240ecfcde12b97f",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Wear",
+    "translation": "穿戴",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-326136ee0bbc9f6a",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "WIELD",
+    "translation": "装备",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-62ed2f45b0cfd5b4",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Wield",
+    "translation": "装备",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-56392ee91dfa206f",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Drop",
+    "translation": "放下",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-8f167ee9e3fe2f81",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "DROP",
+    "translation": "放下",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-dcc88ec60e5688e5",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Drop",
+    "translation": "放下",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-32a2bba859dc6a56",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Take off",
+    "translation": "脱下",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-d348125f2c032196",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "TAKE OFF",
+    "translation": "脱下",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-f09b829db87cc8b6",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Take off",
+    "translation": "脱下",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-8e3049f10980e546",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Command pets and companions",
+    "translation": "指挥宠物和同伴",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-460acb389c393466",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "COMMAND PETS AND COMPANIONS",
+    "translation": "指挥宠物和同伴",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-05edb9cdb4af8ff4",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Command pets and companions",
+    "translation": "指挥宠物和同伴",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-81dcf2bf2f615e36",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "TALK TO SOMEONE",
+    "translation": "和人交谈",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-aee35d986510f41f",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Talk to someone",
+    "translation": "和人交谈",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-e3363015d5914f1e",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Fill with water, or milk into",
+    "translation": "装水或接取挤出的奶",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-1b8924146fc708ed",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "FILL WITH WATER, OR MILK INTO",
+    "translation": "装水或接取挤出的奶",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-07016e9c0d545fc1",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Fill with water, or milk into",
+    "translation": "装水或接取挤出的奶",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-0b309cd89a6561e3",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Get up (stand)",
+    "translation": "起身",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-94d5f096e3c65690",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "GET UP (STAND)",
+    "translation": "起身",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-7d1d6b20ba096f0c",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Get up (stand)",
+    "translation": "起身",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-cdd5a0e26b0ba8b8",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Wounds and injuries",
+    "translation": "伤口与伤势",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-f955ef547a26eb5c",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "WOUNDS AND INJURIES",
+    "translation": "伤口与伤势",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-38bc1198e8c603bd",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Wounds and injuries",
+    "translation": "伤口与伤势",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-b518f77761e5591a",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Cut a carcass for meat",
+    "translation": "切割尸体取肉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-6e733910b39c0363",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "CUT A CARCASS FOR MEAT",
+    "translation": "切割尸体取肉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-8ba34fb23458e696",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Cut a carcass for meat",
+    "translation": "切割尸体取肉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-b7c5f5be92869fea",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Sleep",
+    "translation": "睡觉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-525b48b2392429b2",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "SLEEP",
+    "translation": "睡觉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-013d360bc2c74a39",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Sleep",
+    "translation": "睡觉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-275c4f9f339ee256",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Pack an animal",
+    "translation": "给驮兽装载",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-98cf20148ea5d390",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "PACK AN ANIMAL",
+    "translation": "给驮兽装载",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-1239d6794bc847db",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Pack an animal",
+    "translation": "给驮兽装载",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-d4cd1a1b295cf40c",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Unpack an animal",
+    "translation": "从驮兽卸货",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-dcccba4064f945db",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "UNPACK AN ANIMAL",
+    "translation": "从驮兽卸货",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-ab086304afb52e4c",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Unpack an animal",
+    "translation": "从驮兽卸货",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-e23c77f264bd6722",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Pour something into a container",
+    "translation": "把东西倒入容器",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-45fc539e800af0a5",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "POUR SOMETHING INTO A CONTAINER",
+    "translation": "把东西倒入容器",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-aba11dbec340e2dc",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Pour something into a container",
+    "translation": "把东西倒入容器",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-5f2f88acd603134c",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Empty a container",
+    "translation": "倒空容器",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-1bf94a840dc0a504",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "EMPTY A CONTAINER",
+    "translation": "倒空容器",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-82d035feccb291bd",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Empty a container",
+    "translation": "倒空容器",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-1dd35379a5066388",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Active fishing",
+    "translation": "主动捕鱼",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-688a0eced8958b37",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "ACTIVE FISHING",
+    "translation": "主动捕鱼",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-f63f375e30f6b4f3",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Active fishing",
+    "translation": "主动捕鱼",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-99aab4b651838bad",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Set a net",
+    "translation": "布设渔网",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-5d3f1bf34847ecef",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "SET A NET",
+    "translation": "布设渔网",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-ca6f05131adc1167",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Set a net",
+    "translation": "布设渔网",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-8411f932ef4eed05",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Retrieve a net",
+    "translation": "收取渔网",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-fe76220c345b1402",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "RETRIEVE A NET",
+    "translation": "收取渔网",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-fdc0911d31f0e9fb",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Retrieve a net",
+    "translation": "收取渔网",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-8d8b237d767ac345",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Haul items",
+    "translation": "拖运物品",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-504b4491e7317f12",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "HAUL ITEMS",
+    "translation": "拖运物品",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-34bda9e6bd98c3f4",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Haul items",
+    "translation": "拖运物品",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-caaa1c4e7cde7a41",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Push/pack items",
+    "translation": "推送或装载物品",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-3c41f7e394d1c6fc",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "PUSH/PACK ITEMS",
+    "translation": "推送或装载物品",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-eae3e4e86ccaa342",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Push/pack items",
+    "translation": "推送或装载物品",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-6cfcad42a803e9c3",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "Throw an item/shoot an arrow",
+    "translation": "投掷物品或射箭",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-5a88b89cc90787e9",
+    "source": "urw3-bin:Toiminta",
+    "context": "showtext",
+    "original": "THROW AN ITEM/SHOOT AN ARROW",
+    "translation": "投掷物品或射箭",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-97d848c81e2d5e40",
+    "source": "urw3-bin:Toiminta",
+    "context": "craft-recipe",
+    "original": "Throw an item/shoot an arrow",
+    "translation": "投掷物品或射箭",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-dd350af4664415da",
+    "source": "urw3-bin:Cook",
+    "context": "showtext",
+    "original": "Boil / Herbal beverages",
+    "translation": "煮制／草药饮品",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-a27fc8104ab6e243",
+    "source": "urw3-bin:Cook",
+    "context": "showtext",
+    "original": "BOIL / HERBAL BEVERAGES",
+    "translation": "煮制／草药饮品",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-cda3263861d00e6f",
+    "source": "urw3-bin:Cook",
+    "context": "craft-recipe",
+    "original": "Boil / Herbal beverages",
+    "translation": "煮制／草药饮品",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-54cc5f739f7f5c5b",
+    "source": "urw3-bin:Cook",
+    "context": "craft-menu-heading",
+    "original": "BOIL / HERBAL BEVERAGES",
+    "translation": "煮制／草药饮品",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-ff119ccc891b6176",
+    "source": "urw3-bin:Cook",
+    "context": "showtext",
+    "original": "Baking recipes",
+    "translation": "烘焙配方",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-ffc870c9fafcfa9d",
+    "source": "urw3-bin:Cook",
+    "context": "showtext",
+    "original": "BAKING RECIPES",
+    "translation": "烘焙配方",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-1a30bad86d83c6fe",
+    "source": "urw3-bin:Cook",
+    "context": "craft-recipe",
+    "original": "Baking recipes",
+    "translation": "烘焙配方",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-ca4e6357220366be",
+    "source": "urw3-bin:Cook",
+    "context": "craft-menu-heading",
+    "original": "BAKING RECIPES",
+    "translation": "烘焙配方",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-b9797f6135c30698",
+    "source": "urw3-bin:Cook",
+    "context": "showtext",
+    "original": "Porridge recipes",
+    "translation": "粥类配方",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-72716be123e8a96d",
+    "source": "urw3-bin:Cook",
+    "context": "showtext",
+    "original": "PORRIDGE RECIPES",
+    "translation": "粥类配方",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-1bdbda96d92253d5",
+    "source": "urw3-bin:Cook",
+    "context": "craft-recipe",
+    "original": "Porridge recipes",
+    "translation": "粥类配方",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-6a9333ba9372373c",
+    "source": "urw3-bin:Cook",
+    "context": "craft-menu-heading",
+    "original": "PORRIDGE RECIPES",
+    "translation": "粥类配方",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-66301c0063faa757",
+    "source": "urw3-bin:Cook",
+    "context": "showtext",
+    "original": "Meat recipes",
+    "translation": "肉类配方",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-9d44b1f4555ae2be",
+    "source": "urw3-bin:Cook",
+    "context": "showtext",
+    "original": "MEAT RECIPES",
+    "translation": "肉类配方",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-841d0b447ed2d42d",
+    "source": "urw3-bin:Cook",
+    "context": "craft-recipe",
+    "original": "Meat recipes",
+    "translation": "肉类配方",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-9c1ed1dd07f55286",
+    "source": "urw3-bin:Cook",
+    "context": "craft-menu-heading",
+    "original": "MEAT RECIPES",
+    "translation": "肉类配方",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-98d5c54a840e72a8",
+    "source": "urw3-bin:Cook",
+    "context": "showtext",
+    "original": "Fish recipes",
+    "translation": "鱼类配方",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-7c90e738c02e2f58",
+    "source": "urw3-bin:Cook",
+    "context": "showtext",
+    "original": "FISH RECIPES",
+    "translation": "鱼类配方",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-33b410c3acd9a754",
+    "source": "urw3-bin:Cook",
+    "context": "craft-recipe",
+    "original": "Fish recipes",
+    "translation": "鱼类配方",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-0fdd3db359a4959f",
+    "source": "urw3-bin:Cook",
+    "context": "craft-menu-heading",
+    "original": "FISH RECIPES",
+    "translation": "鱼类配方",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-d58f38bf3eb9f5e1",
+    "source": "urw3-bin:Cook",
+    "context": "showtext",
+    "original": "Vegetable recipes",
+    "translation": "蔬菜配方",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-ecb728098be54588",
+    "source": "urw3-bin:Cook",
+    "context": "showtext",
+    "original": "VEGETABLE RECIPES",
+    "translation": "蔬菜配方",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-04a6e7a400496f99",
+    "source": "urw3-bin:Cook",
+    "context": "craft-recipe",
+    "original": "Vegetable recipes",
+    "translation": "蔬菜配方",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-27c921ca2913dc0a",
+    "source": "urw3-bin:Cook",
+    "context": "craft-menu-heading",
+    "original": "VEGETABLE RECIPES",
+    "translation": "蔬菜配方",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-f138ca99771f8749",
+    "source": "urw3-bin:Cook",
+    "context": "showtext",
+    "original": "BREAD AND BAKING RECIPES",
+    "translation": "面包与烘焙配方",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-c4f084206cd0a24e",
+    "source": "urw3-bin:Cook",
+    "context": "craft-recipe",
+    "original": "BREAD AND BAKING RECIPES",
+    "translation": "面包与烘焙配方",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-c821fe62b60fac06",
+    "source": "urw3-bin:Cook",
+    "context": "craft-menu-heading",
+    "original": "BREAD AND BAKING RECIPES",
+    "translation": "面包与烘焙配方",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-b08005f7ba1d1446",
+    "source": "urw3-bin:Cook",
+    "context": "craft-recipe",
+    "original": "MEAT RECIPES",
+    "translation": "肉类配方",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-e2671e618dbacc25",
+    "source": "urw3-bin:Cook",
+    "context": "craft-recipe",
+    "original": "FISH RECIPES",
+    "translation": "鱼类配方",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-70a7573c6061ae74",
+    "source": "urw3-bin:Cook",
+    "context": "craft-recipe",
+    "original": "PORRIDGE RECIPES",
+    "translation": "粥类配方",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-c852587de204277c",
+    "source": "urw3-bin:Cook",
+    "context": "craft-recipe",
+    "original": "VEGETABLE RECIPES",
+    "translation": "蔬菜配方",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-61f51ac94848b89e",
+    "source": "urw3-bin:Cook",
+    "context": "showtext",
+    "original": "SMOKING",
+    "translation": "烟熏",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-a2eae222d0dede1b",
+    "source": "urw3-bin:Cook",
+    "context": "craft-recipe",
+    "original": "SMOKING",
+    "translation": "烟熏",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-f46be29000bf0ff8",
+    "source": "urw3-bin:Cook",
+    "context": "craft-menu-heading",
+    "original": "SMOKING",
+    "translation": "烟熏",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-1b1c19bdf595304b",
+    "source": "urw3-bin:Clothes_MainMenu",
+    "context": "showtext",
+    "original": "Cloth garments",
+    "translation": "布制衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-7c74021d39f1b93b",
+    "source": "urw3-bin:Clothes_MainMenu",
+    "context": "showtext",
+    "original": "CLOTH GARMENTS",
+    "translation": "布制衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-3ec287220437fb58",
+    "source": "urw3-bin:Clothes_MainMenu",
+    "context": "craft-recipe",
+    "original": "Cloth garments",
+    "translation": "布制衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-1dadbaedcc1bfc82",
+    "source": "urw3-bin:Clothes_MainMenu",
+    "context": "craft-menu-heading",
+    "original": "CLOTH GARMENTS",
+    "translation": "布制衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-56ce2c6ca727fb62",
+    "source": "urw3-bin:Clothes_MainMenu",
+    "context": "showtext",
+    "original": "Fur clothes",
+    "translation": "毛皮衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-556a91313768ebd1",
+    "source": "urw3-bin:Clothes_MainMenu",
+    "context": "showtext",
+    "original": "FUR CLOTHES",
+    "translation": "毛皮衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-ddd3ec7991c64c7e",
+    "source": "urw3-bin:Clothes_MainMenu",
+    "context": "craft-recipe",
+    "original": "Fur clothes",
+    "translation": "毛皮衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-b5b306092cb28614",
+    "source": "urw3-bin:Clothes_MainMenu",
+    "context": "craft-menu-heading",
+    "original": "FUR CLOTHES",
+    "translation": "毛皮衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-24bad903fc8bc506",
+    "source": "urw3-bin:Clothes_MainMenu",
+    "context": "showtext",
+    "original": "Leather clothes",
+    "translation": "皮革衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-4020812a95e6d93c",
+    "source": "urw3-bin:Clothes_MainMenu",
+    "context": "showtext",
+    "original": "LEATHER CLOTHES",
+    "translation": "皮革衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-727cfade450a16df",
+    "source": "urw3-bin:Clothes_MainMenu",
+    "context": "craft-recipe",
+    "original": "Leather clothes",
+    "translation": "皮革衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-a96790f11b183474",
+    "source": "urw3-bin:Clothes_MainMenu",
+    "context": "craft-menu-heading",
+    "original": "LEATHER CLOTHES",
+    "translation": "皮革衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-de6e6ff59c17cc40",
+    "source": "urw3-bin:Clothes_MainMenu",
+    "context": "showtext",
+    "original": "Miscellanous clothes",
+    "translation": "其他衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-8542431884223629",
+    "source": "urw3-bin:Clothes_MainMenu",
+    "context": "showtext",
+    "original": "MISCELLANOUS CLOTHES",
+    "translation": "其他衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-89ed6535c2cf4e76",
+    "source": "urw3-bin:Clothes_MainMenu",
+    "context": "craft-recipe",
+    "original": "Miscellanous clothes",
+    "translation": "其他衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-ceaee3283d11b693",
+    "source": "urw3-bin:Clothes_MainMenu",
+    "context": "craft-menu-heading",
+    "original": "MISCELLANOUS CLOTHES",
+    "translation": "其他衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-fd66339ae2afb6ef",
+    "source": "urw3-bin:Clothes_MainMenu",
+    "context": "showtext",
+    "original": "Miscellaneous clothes",
+    "translation": "其他衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-e42a938def40c331",
+    "source": "urw3-bin:Clothes_MainMenu",
+    "context": "showtext",
+    "original": "MISCELLANEOUS CLOTHES",
+    "translation": "其他衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-23262e9d100c14f6",
+    "source": "urw3-bin:Clothes_MainMenu",
+    "context": "craft-recipe",
+    "original": "Miscellaneous clothes",
+    "translation": "其他衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-377cf3b91507bbe2",
+    "source": "urw3-bin:Clothes_MainMenu",
+    "context": "craft-menu-heading",
+    "original": "MISCELLANEOUS CLOTHES",
+    "translation": "其他衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-a60d0b0d64b8dfae",
+    "source": "urw3-bin:trapping-menu",
+    "context": "showtext",
+    "original": "TRAPS",
+    "translation": "陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-4f203110875d4c44",
+    "source": "urw3-bin:trapping-menu",
+    "context": "craft-recipe",
+    "original": "TRAPS",
+    "translation": "陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-e3e4b4f469c17bcd",
+    "source": "urw3-bin:trapping-menu",
+    "context": "craft-menu-heading",
+    "original": "TRAPS",
+    "translation": "陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-085a60fce7ef6bf8",
+    "source": "urw3-bin:trapping-menu",
+    "context": "showtext",
+    "original": "Apply trap in your inventory",
+    "translation": "使用物品栏里的陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-767ed16e8e6d9adc",
+    "source": "urw3-bin:trapping-menu",
+    "context": "showtext",
+    "original": "APPLY TRAP IN YOUR INVENTORY",
+    "translation": "使用物品栏里的陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-d24b60e1298fd24b",
+    "source": "urw3-bin:trapping-menu",
+    "context": "craft-recipe",
+    "original": "Apply trap in your inventory",
+    "translation": "使用物品栏里的陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-abeb3538e9fd1865",
+    "source": "urw3-bin:trapping-menu",
+    "context": "craft-menu-heading",
+    "original": "APPLY TRAP IN YOUR INVENTORY",
+    "translation": "使用物品栏里的陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-230fa0efdb972fd8",
+    "source": "urw3-bin:trapping-menu",
+    "context": "showtext",
+    "original": "Build trap-fence",
+    "translation": "建造围栏陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-0efe46a813499b7a",
+    "source": "urw3-bin:trapping-menu",
+    "context": "showtext",
+    "original": "BUILD TRAP-FENCE",
+    "translation": "建造围栏陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-ce7a43f8f2274075",
+    "source": "urw3-bin:trapping-menu",
+    "context": "craft-recipe",
+    "original": "Build trap-fence",
+    "translation": "建造围栏陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-4ed6b58bd60aad82",
+    "source": "urw3-bin:trapping-menu",
+    "context": "craft-menu-heading",
+    "original": "BUILD TRAP-FENCE",
+    "translation": "建造围栏陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-de68bb4d1a0cd206",
+    "source": "urw3-bin:trapping-menu",
+    "context": "showtext",
+    "original": "General trapping information",
+    "translation": "陷阱基本说明",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-82d93c4554cf0a76",
+    "source": "urw3-bin:trapping-menu",
+    "context": "showtext",
+    "original": "GENERAL TRAPPING INFORMATION",
+    "translation": "陷阱基本说明",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-46b1bccffef005b7",
+    "source": "urw3-bin:trapping-menu",
+    "context": "craft-recipe",
+    "original": "General trapping information",
+    "translation": "陷阱基本说明",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-97958fcd1b989847",
+    "source": "urw3-bin:trapping-menu",
+    "context": "craft-menu-heading",
+    "original": "GENERAL TRAPPING INFORMATION",
+    "translation": "陷阱基本说明",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-2d9234e1ad6c7cb6",
+    "source": "urw3-bin:trapping-menu",
+    "context": "showtext",
+    "original": "TRAP-PIT",
+    "translation": "陷阱坑",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-3c2c1a295a1300a7",
+    "source": "urw3-bin:trapping-menu",
+    "context": "craft-recipe",
+    "original": "TRAP-PIT",
+    "translation": "陷阱坑",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-c03704f86bfe3c1e",
+    "source": "urw3-bin:trapping-menu",
+    "context": "craft-menu-heading",
+    "original": "TRAP-PIT",
+    "translation": "陷阱坑",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-6ce3f06a8f3cec0b",
+    "source": "urw3-bin:trapping-menu",
+    "context": "showtext",
+    "original": "TRAP-FENCE",
+    "translation": "围栏陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-704fc4387d542669",
+    "source": "urw3-bin:trapping-menu",
+    "context": "craft-recipe",
+    "original": "TRAP-FENCE",
+    "translation": "围栏陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-dbf060b9ff0c8ebc",
+    "source": "urw3-bin:trapping-menu",
+    "context": "craft-menu-heading",
+    "original": "TRAP-FENCE",
+    "translation": "围栏陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-bdf60fa552c42a2e",
+    "source": "urw3-bin:skill-dispatch",
+    "context": "showtext",
+    "original": "Agriculture option",
+    "translation": "农耕选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-9092012efa068658",
+    "source": "urw3-bin:skill-dispatch",
+    "context": "showtext",
+    "original": "AGRICULTURE OPTION",
+    "translation": "农耕选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-ac4d0b19a6764e52",
+    "source": "urw3-bin:skill-dispatch",
+    "context": "craft-recipe",
+    "original": "Agriculture option",
+    "translation": "农耕选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-aa95bdbbfc70c5cd",
+    "source": "urw3-bin:skill-dispatch",
+    "context": "craft-menu-heading",
+    "original": "AGRICULTURE OPTION",
+    "translation": "农耕选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-ee77b61fee319537",
+    "source": "urw3-bin:skill-dispatch",
+    "context": "showtext",
+    "original": "Hidework option",
+    "translation": "皮革加工选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-cc14be4e1ee61b10",
+    "source": "urw3-bin:skill-dispatch",
+    "context": "showtext",
+    "original": "HIDEWORK OPTION",
+    "translation": "皮革加工选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-bb1c380d3a689761",
+    "source": "urw3-bin:skill-dispatch",
+    "context": "craft-recipe",
+    "original": "Hidework option",
+    "translation": "皮革加工选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-3445705b306503f6",
+    "source": "urw3-bin:skill-dispatch",
+    "context": "craft-menu-heading",
+    "original": "HIDEWORK OPTION",
+    "translation": "皮革加工选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-d8039d0479ed5f32",
+    "source": "urw3-bin:skill-dispatch",
+    "context": "showtext",
+    "original": "Fishing options",
+    "translation": "捕鱼选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-cd59ed887ea16aa0",
+    "source": "urw3-bin:skill-dispatch",
+    "context": "showtext",
+    "original": "FISHING OPTIONS",
+    "translation": "捕鱼选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-77984c94d2428061",
+    "source": "urw3-bin:skill-dispatch",
+    "context": "craft-recipe",
+    "original": "Fishing options",
+    "translation": "捕鱼选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-a138d2b0b99a98b4",
+    "source": "urw3-bin:skill-dispatch",
+    "context": "craft-menu-heading",
+    "original": "FISHING OPTIONS",
+    "translation": "捕鱼选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-ceee5e0567c314ac",
+    "source": "urw3-bin:skill-dispatch",
+    "context": "showtext",
+    "original": "BOWYER OPTIONS",
+    "translation": "制弓选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-27a119e098f93ee5",
+    "source": "urw3-bin:skill-dispatch",
+    "context": "craft-recipe",
+    "original": "BOWYER OPTIONS",
+    "translation": "制弓选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-4cf3af89d1822f45",
+    "source": "urw3-bin:skill-dispatch",
+    "context": "craft-menu-heading",
+    "original": "BOWYER OPTIONS",
+    "translation": "制弓选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-bee2c749044aadcf",
+    "source": "urw3-bin:skill-dispatch",
+    "context": "showtext",
+    "original": "CARPENTRY OPTIONS",
+    "translation": "木工选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-b33e24de2675b67d",
+    "source": "urw3-bin:skill-dispatch",
+    "context": "craft-recipe",
+    "original": "CARPENTRY OPTIONS",
+    "translation": "木工选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-25fc1d9a6450ea46",
+    "source": "urw3-bin:skill-dispatch",
+    "context": "craft-menu-heading",
+    "original": "CARPENTRY OPTIONS",
+    "translation": "木工选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-e88b083a79f9f4fe",
+    "source": "urw3-bin:skill-dispatch",
+    "context": "showtext",
+    "original": "HERBLORE INFORMATION",
+    "translation": "草药学资料",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-232ca65fee8e3015",
+    "source": "urw3-bin:skill-dispatch",
+    "context": "craft-recipe",
+    "original": "HERBLORE INFORMATION",
+    "translation": "草药学资料",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-3c4088cfd8206331",
+    "source": "urw3-bin:skill-dispatch",
+    "context": "craft-menu-heading",
+    "original": "HERBLORE INFORMATION",
+    "translation": "草药学资料",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-ac2e1788fa7803cc",
+    "source": "urw3-bin:skill-dispatch",
+    "context": "showtext",
+    "original": "NETMAKING OPTIONS",
+    "translation": "织网选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-5209cd29c982145f",
+    "source": "urw3-bin:skill-dispatch",
+    "context": "craft-recipe",
+    "original": "NETMAKING OPTIONS",
+    "translation": "织网选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-fdb28fc15be39e7a",
+    "source": "urw3-bin:skill-dispatch",
+    "context": "craft-menu-heading",
+    "original": "NETMAKING OPTIONS",
+    "translation": "织网选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-f7a77f7f95633d05",
+    "source": "urw3-bin:use_skill",
+    "context": "message",
+    "original": "!This skill is automatically used when necessary!",
+    "translation": "需要时会自动使用这项技能。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-595f01d4e5addd98",
+    "source": "urw3-bin:use_skill",
+    "context": "message",
+    "original": "!Can't use skills in the heat of the combat!",
+    "translation": "战斗正激烈，无法使用技能！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-25de727f1aa84cd6",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-title",
+    "original": "AXE HAFT",
+    "translation": "斧柄",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-0aae8ad45bcd45c8",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-summary",
+    "original": "AXE HAFT",
+    "translation": "斧柄是斧头的木制把手。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-d02d3e97509e89a0",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-title",
+    "original": "LIGHT LEVER TRAP",
+    "translation": "轻型杠杆陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-8899d0e7f9db4faf",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-summary",
+    "original": "LIGHT LEVER TRAP",
+    "translation": "这种陷阱又称 loukku，用来捕捉野兔、松鸡等小动物。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-40a4e601e4abc7cd",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-title",
+    "original": "TRAP-PIT",
+    "translation": "陷阱坑",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-3b8a73807b65d58e",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-summary",
+    "original": "TRAP-PIT",
+    "translation": "陷阱坑常用来捕捉驼鹿和驯鹿等大型鹿类。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-6a9ee34233896aee",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-title",
+    "original": "TRAP-FENCE",
+    "translation": "围栏陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-3d99946482cf227b",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-summary",
+    "original": "TRAP-FENCE",
+    "translation": "可在陷阱中放置诱饵，引来食肉动物。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-1c02ba3b9a18dccc",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-title",
+    "original": "LOOP SNARE",
+    "translation": "绳套陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-9dde10d10c020ede",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-summary",
+    "original": "LOOP SNARE",
+    "translation": "用纱线做成的简单套索，主要用于捕捉野兔。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-359b26d54b965e8f",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-title",
+    "original": "PAW-BOARD FOX TRAP",
+    "translation": "夹爪捕狐板",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-599cce2c64926c15",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-summary",
+    "original": "PAW-BOARD FOX TRAP",
+    "translation": "近两米长的木板竖直设置，用顶端的诱饵引狐狸跳起，再卡住前爪。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-93a71c2c732aff34",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-title",
+    "original": "GRAINFLAIL",
+    "translation": "连枷",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-80ad6dbc9397c848",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-summary",
+    "original": "GRAINFLAIL",
+    "translation": "常见的木制脱粒工具，用来将谷粒与谷壳分开。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-1077afd8cc4f98ca",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-title",
+    "original": "SPRUCE WITHE",
+    "translation": "云杉枝条绳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-b87dac3a2f25eb25",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-summary",
+    "original": "SPRUCE WITHE",
+    "translation": "用柔韧的细树苗制成，可用于绑扎。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-4b40118548314e11",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-title",
+    "original": "BIRCH WITHE",
+    "translation": "桦枝绳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-3abd62c274f3879e",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-summary",
+    "original": "BIRCH WITHE",
+    "translation": "用柔韧的细树苗制成，可用于绑扎。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-2fb097a7478db624",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-title",
+    "original": "STONE-AXE",
+    "translation": "石斧",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-c16cab24d81159a8",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-summary",
+    "original": "STONE-AXE",
+    "translation": "粗制但实用，能砍倒树木。用它加工木材需要耐心。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-a09295dfb437709c",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-title",
+    "original": "FISHING",
+    "translation": "捕鱼",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-738606e7a3c67e8a",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-summary",
+    "original": "FISHING",
+    "translation": "捕鱼是重要的生计来源，许多文化都会捕鱼。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-347337b10a0177fe",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-title",
+    "original": "BOWYER",
+    "translation": "制弓",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-c01807e1c3ae9f3e",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-summary",
+    "original": "BOWYER",
+    "translation": "制作弓的知识与技艺。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-8b95e0c2acba4fe2",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-title",
+    "original": "PHYSICIAN",
+    "translation": "医术",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-03d7ae717b3f9184",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-summary",
+    "original": "PHYSICIAN",
+    "translation": "治疗伤口、伤势与疾病的技能。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-dcd941408cd91d4c",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-title",
+    "original": "TRAPPING",
+    "translation": "设陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-c6fe3c5eb204839c",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-summary",
+    "original": "TRAPPING",
+    "translation": "决定制作陷阱的能力，以及布设陷阱的成功率。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-7eba0a3e63e36dfb",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-title",
+    "original": "TRACKING",
+    "translation": "追踪",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-934a3270464cf1e6",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-summary",
+    "original": "TRACKING",
+    "translation": "辨认并跟踪足迹的技能。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-1b3855ee41a53ea0",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-title",
+    "original": "WEATHERLORE",
+    "translation": "观天",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-2f4dabac80efcdc0",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-summary",
+    "original": "WEATHERLORE",
+    "translation": "观察天气和预测天气变化的技能。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-426746874b42fc0e",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-title",
+    "original": "CARPENTRY",
+    "translation": "木工",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-skill-c61c38b5ea68398f",
+    "source": "runtime:craft-skill-menu-preview",
+    "context": "encyclopedia-summary",
+    "original": "CARPENTRY",
+    "translation": "加工木材以制作器具、工具等手工制品。",
+    "status": "reviewed",
+    "runtime_verified": false
+  }
+]

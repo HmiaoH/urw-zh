@@ -1,0 +1,322 @@
+[
+  {
+    "id": "4708d98a07ebcf5bf47f",
+    "source": "manual",
+    "context": "*",
+    "original": "New character",
+    "translation": "新建角色",
+    "status": "reviewed"
+  },
+  {
+    "id": "69a3e43d5a08905aff77",
+    "source": "manual",
+    "context": "*",
+    "original": "Load character",
+    "translation": "读取角色",
+    "status": "reviewed"
+  },
+  {
+    "id": "b3eb37acb66ba4bbe8fb",
+    "source": "manual",
+    "context": "*",
+    "original": "Quit",
+    "translation": "退出",
+    "status": "reviewed"
+  },
+  {
+    "id": "501639c81935f48f425f",
+    "source": "manual",
+    "context": "*",
+    "original": "Start a new game",
+    "translation": "开始新游戏",
+    "status": "reviewed"
+  },
+  {
+    "id": "094ef93d376134c0145e",
+    "source": "manual",
+    "context": "*",
+    "original": "Load a saved game",
+    "translation": "读取存档",
+    "status": "reviewed"
+  },
+  {
+    "id": "5ca3e82e70ed5e254f53",
+    "source": "manual",
+    "context": "*",
+    "original": "UnReal World",
+    "translation": "UnReal World",
+    "status": "reviewed"
+  },
+  {
+    "id": "a01d676a405767dbb5d5",
+    "source": "manual",
+    "context": "*",
+    "original": "Welcome to the UnReal World",
+    "translation": "欢迎来到 UnReal World",
+    "status": "reviewed"
+  },
+  {
+    "id": "66d0f523a379b2de6f8d",
+    "source": "manual",
+    "context": "*",
+    "original": "Skills",
+    "translation": "技能",
+    "status": "reviewed"
+  },
+  {
+    "id": "758f487fe8e9fcc59cec",
+    "source": "manual",
+    "context": "*",
+    "original": "Inventory",
+    "translation": "物品栏",
+    "status": "reviewed"
+  },
+  {
+    "id": "b79cac926e0b2e347e72",
+    "source": "manual",
+    "context": "*",
+    "original": "Help",
+    "translation": "帮助",
+    "status": "reviewed"
+  },
+  {
+    "id": "19766ed6ccb2f4a32778",
+    "source": "manual",
+    "context": "*",
+    "original": "Cancel",
+    "translation": "取消",
+    "status": "reviewed"
+  },
+  {
+    "id": "89713b9c9c1b8f659c9f",
+    "source": "manual",
+    "context": "*",
+    "original": "Accept",
+    "translation": "接受",
+    "status": "reviewed"
+  },
+  {
+    "id": "85a39ab345d672ff8ca9",
+    "source": "manual",
+    "context": "*",
+    "original": "Yes",
+    "translation": "是",
+    "status": "reviewed"
+  },
+  {
+    "id": "1ea442a134b2a184bd5d",
+    "source": "manual",
+    "context": "*",
+    "original": "No",
+    "translation": "否",
+    "status": "reviewed"
+  },
+  {
+    "id": "31fbef162594de01bab0",
+    "source": "manual",
+    "context": "*",
+    "original": "Continue",
+    "translation": "继续",
+    "status": "reviewed"
+  },
+  {
+    "id": "e08a05566c9a0f8c7d7f",
+    "source": "runtime-capture",
+    "context": "*",
+    "original": "LOAD SAVED CHARACTER",
+    "translation": "读取角色",
+    "status": "reviewed"
+  },
+  {
+    "id": "ff9ac860a38a83dff2b0",
+    "source": "runtime-capture",
+    "context": "*",
+    "original": "CREATE A CHARACTER",
+    "translation": "创建角色",
+    "status": "reviewed"
+  },
+  {
+    "id": "7175b03373a21422fff5",
+    "source": "runtime-capture",
+    "context": "*",
+    "original": "SETUP",
+    "translation": "设置",
+    "status": "reviewed"
+  },
+  {
+    "id": "2ab0d9cd0b713a5856e4",
+    "source": "runtime-capture",
+    "context": "*",
+    "original": "ANCESTORS",
+    "translation": "先祖",
+    "status": "reviewed"
+  },
+  {
+    "id": "72b70ae3032dfe31f357",
+    "source": "runtime-capture",
+    "context": "*",
+    "original": "ABOUT",
+    "translation": "关于",
+    "status": "reviewed"
+  },
+  {
+    "id": "4325a27b45a8f14e8131",
+    "source": "runtime-capture",
+    "context": "*",
+    "original": "CREDITS",
+    "translation": "制作人员",
+    "status": "reviewed"
+  },
+  {
+    "id": "a872f67384948f79440e",
+    "source": "runtime-capture",
+    "context": "*",
+    "original": "QUIT",
+    "translation": "退出",
+    "status": "reviewed"
+  },
+  {
+    "id": "bc4e1f6fc69e7b265202",
+    "source": "runtime-capture",
+    "context": "*",
+    "original": "...into the far North we shall take you.",
+    "translation": "……我们将带你走进遥远的北方。",
+    "status": "reviewed"
+  },
+  {
+    "id": "795e45f67ba145b5547f",
+    "source": "prototype",
+    "context": "*",
+    "original": "The game is controlled by keyboard commands which are upper and lower case sensitive. Within menus you can also use mouse to point and click desired options. These are the keys you need to survive in the far north.",
+    "translation": "游戏主要通过键盘操作，命令区分大小写。在菜单中，也可以用鼠标点击选项。以下按键将帮助你在遥远的北方生存。",
+    "status": "reviewed"
+  },
+  {
+    "id": "b72a7baa912a2c6cfe12",
+    "source": "prototype",
+    "context": "*",
+    "original": "Created and programmed by Sami Maaranen. Additional programming and co-design by Erkka Lehmus. Ported to Linux & MacOSX mainly by Tuukka Pasanen.",
+    "translation": "创作与编程：Sami Maaranen。协助编程与设计：Erkka Lehmus。Linux 与 MacOSX 移植主要由 Tuukka Pasanen 完成。",
+    "status": "reviewed"
+  },
+  {
+    "id": "f53ad10d551cbbbfb0ad",
+    "source": "prototype",
+    "context": "*",
+    "original": "MOVEMENT",
+    "translation": "移动",
+    "status": "reviewed"
+  },
+  {
+    "id": "56da76f888be69d93e72",
+    "source": "prototype",
+    "context": "*",
+    "original": "[ESC]Exit",
+    "translation": "[ESC]退出",
+    "status": "reviewed"
+  },
+  {
+    "id": "08b041935798fbf6fd6f",
+    "source": "prototype",
+    "context": "*",
+    "original": "You",
+    "translation": "你",
+    "status": "reviewed"
+  },
+  {
+    "id": "9b98e9b9ff1e6d43b9e0",
+    "source": "prototype",
+    "context": "*",
+    "original": "Village",
+    "translation": "村落",
+    "status": "reviewed"
+  },
+  {
+    "id": "9530bfe0e8d8b57314e7",
+    "source": "prototype",
+    "context": "*",
+    "original": "Cave",
+    "translation": "洞穴",
+    "status": "reviewed"
+  },
+  {
+    "id": "cfcd1f3d6aeb187475ef",
+    "source": "prototype",
+    "context": "*",
+    "original": "Shelter",
+    "translation": "庇护所",
+    "status": "reviewed"
+  },
+  {
+    "id": "fd0afb9a8e2299a4244b",
+    "source": "prototype",
+    "context": "*",
+    "original": "Your settlement",
+    "translation": "你的聚居地",
+    "status": "reviewed"
+  },
+  {
+    "id": "e52817818a06d588d6ba",
+    "source": "prototype",
+    "context": "*",
+    "original": "Trap",
+    "translation": "陷阱",
+    "status": "reviewed"
+  },
+  {
+    "id": "660fb2c41d028988b209",
+    "source": "prototype",
+    "context": "*",
+    "original": "Net",
+    "translation": "渔网",
+    "status": "reviewed"
+  },
+  {
+    "id": "574cb457049ce04da97b",
+    "source": "prototype",
+    "context": "*",
+    "original": "Marked location",
+    "translation": "标记地点",
+    "status": "reviewed"
+  },
+  {
+    "id": "e80c07ed949b96f6692b",
+    "source": "prototype",
+    "context": "*",
+    "original": "Quest location",
+    "translation": "任务地点",
+    "status": "reviewed"
+  },
+  {
+    "id": "abc9a94cb3f69bb29817",
+    "source": "prototype",
+    "context": "*",
+    "original": "Quest related area",
+    "translation": "任务相关区域",
+    "status": "reviewed"
+  },
+  {
+    "id": "3d6934622b0e3715bac6",
+    "source": "prototype",
+    "context": "*",
+    "original": "Ordered goods",
+    "translation": "订购的货物",
+    "status": "reviewed"
+  },
+  {
+    "id": "646bbc29999eab713782",
+    "source": "prototype",
+    "context": "*",
+    "original": "CULTURAL REGIONS",
+    "translation": "文化区域",
+    "status": "reviewed"
+  },
+  {
+    "id": "aad3d0e4f4a3f411938a",
+    "source": "prototype",
+    "context": "*",
+    "original": "MAP MARKER INDICATORS",
+    "translation": "地图标记说明",
+    "status": "reviewed"
+  }
+]

@@ -1,0 +1,813 @@
+{
+  "status": "reviewed",
+  "development_only": false,
+  "scope": "Static English AddChatOption display bodies with zero (automatic numeric) hotkey and separately verified literal routing keys. Navigation and debug-only options are excluded. Quoted bodies are also eligible for the player echo.",
+  "rows": [
+    {
+      "source_id": "0e56a3b0db8255dd037a",
+      "address": "0x10020baa6",
+      "original": "\"I would like to pay my debt.\"",
+      "calls": [
+        {
+          "callsite": "0x10017b0c6",
+          "route_address": "0x10020bac5",
+          "route": "[PAY DEBT]"
+        },
+        {
+          "callsite": "0x1001846f6",
+          "route_address": "0x10020bac5",
+          "route": "[PAY DEBT]"
+        }
+      ],
+      "translation": "“我想还清欠你的东西。”"
+    },
+    {
+      "source_id": "8a9fd066135c9432f944",
+      "address": "0x10020bebc",
+      "original": "\"Please, do heal me.\"",
+      "calls": [
+        {
+          "callsite": "0x10017d161",
+          "route_address": "0x10020bed2",
+          "route": "[HEALING]"
+        },
+        {
+          "callsite": "0x10017db14",
+          "route_address": "0x10020bed2",
+          "route": "[HEALING]"
+        },
+        {
+          "callsite": "0x100184676",
+          "route_address": "0x10020bed2",
+          "route": "[HEALING]"
+        }
+      ],
+      "translation": "“请帮我疗伤。”"
+    },
+    {
+      "source_id": "ab7350da96f12675d6ac",
+      "address": "0x10020bf10",
+      "original": "\"I would like to order some metalworks from you.\"",
+      "calls": [
+        {
+          "callsite": "0x10017d1a1",
+          "route_address": "0x10020bf42",
+          "route": "[ASK BLACKSMITH SERVICES]"
+        },
+        {
+          "callsite": "0x10017db54",
+          "route_address": "0x10020bf42",
+          "route": "[ASK BLACKSMITH SERVICES]"
+        },
+        {
+          "callsite": "0x100184626",
+          "route_address": "0x10020bf42",
+          "route": "[ASK BLACKSMITH SERVICES]"
+        }
+      ],
+      "translation": "“我想请你打些金属器具。”"
+    },
+    {
+      "source_id": "a1dcf84f829d6a1954e9",
+      "address": "0x10020c1d8",
+      "original": "\"I'm going hunting and could use your company.\"",
+      "calls": [
+        {
+          "callsite": "0x10017db69",
+          "route_address": "0x10020c208",
+          "route": "[RECRUIT HUNTING]"
+        }
+      ],
+      "translation": "“我要去打猎，你愿意一起去吗？”"
+    },
+    {
+      "source_id": "3b1d9bca1408434a36bc",
+      "address": "0x10020c21a",
+      "original": "\"I'd like to hire a helping hand. Interested?\"",
+      "calls": [
+        {
+          "callsite": "0x10017db7e",
+          "route_address": "0x10020c249",
+          "route": "[RECRUIT WORK]"
+        }
+      ],
+      "translation": "“我想雇个帮手，你有兴趣吗？”"
+    },
+    {
+      "source_id": "16bc025acf610d4b4d4a",
+      "address": "0x10020c258",
+      "original": "\"Do you want to go for a longish adventure with me?\"",
+      "calls": [
+        {
+          "callsite": "0x10017db93",
+          "route_address": "0x10020c28d",
+          "route": "[RECRUIT ADVENTURE]"
+        }
+      ],
+      "translation": "“你愿意跟我出趟远门去冒险吗？”"
+    },
+    {
+      "source_id": "36ec60cd6eb6a996e307",
+      "address": "0x10020c2a1",
+      "original": "\"I'm curious about your weapon skills?\"",
+      "calls": [
+        {
+          "callsite": "0x10017dbc1",
+          "route_address": "0x10020c2c9",
+          "route": "[ASK WEAPON SKILLS]"
+        }
+      ],
+      "translation": "“你擅长用哪些武器？”"
+    },
+    {
+      "source_id": "c7230b560884747ca218",
+      "address": "0x10020c2dd",
+      "original": "\"I'm curious about your skills and expertise?\"",
+      "calls": [
+        {
+          "callsite": "0x10017dbd6",
+          "route_address": "0x10020c30c",
+          "route": "[ASK SKILLS]"
+        }
+      ],
+      "translation": "“你会些什么？最擅长什么？”"
+    },
+    {
+      "source_id": "19491eceb615fccd19cb",
+      "address": "0x10020c319",
+      "original": "\"Is there a sage here?\"",
+      "calls": [
+        {
+          "callsite": "0x10017dc09",
+          "route_address": "0x10020c331",
+          "route": "[LOOKING FOR SAGE]"
+        }
+      ],
+      "translation": "“这里有贤者吗？”"
+    },
+    {
+      "source_id": "1c9de643a09f08a7a334",
+      "address": "0x10020c344",
+      "original": "\"Is there a blacksmith here?\"",
+      "calls": [
+        {
+          "callsite": "0x10017dc38",
+          "route_address": "0x10020c362",
+          "route": "[LOOKING FOR BLACKSMITH]"
+        }
+      ],
+      "translation": "“这里有铁匠吗？”"
+    },
+    {
+      "source_id": "5d5326e556b6bb6a3a9f",
+      "address": "0x10020c37b",
+      "original": "\"Go away! This is my settlement!\"",
+      "calls": [
+        {
+          "callsite": "0x10017e062",
+          "route_address": "0x10020c39d",
+          "route": "[GO AWAY]"
+        }
+      ],
+      "translation": "“走开！这是我的定居点！”"
+    },
+    {
+      "source_id": "aeac5649992ed1a5dc40",
+      "address": "0x10020c3a7",
+      "original": "\"I don't need your help anymore.\"",
+      "calls": [
+        {
+          "callsite": "0x10017e0ab",
+          "route_address": "0x10020c3c9",
+          "route": "[UNJOIN]"
+        }
+      ],
+      "translation": "“我不再需要你帮忙了。”"
+    },
+    {
+      "source_id": "e7b1fb42b3f7fa7d1468",
+      "address": "0x10020cd6e",
+      "original": "\"I have something for you...\"",
+      "calls": [
+        {
+          "callsite": "0x10017ddaf",
+          "route_address": "0x10020cd8c",
+          "route": "[DELIVER]"
+        },
+        {
+          "callsite": "0x100183205",
+          "route_address": "0x10020cd8c",
+          "route": "[DELIVER]"
+        },
+        {
+          "callsite": "0x10018619d",
+          "route_address": "0x10020cd8c",
+          "route": "[DELIVER]"
+        },
+        {
+          "callsite": "0x1001910c5",
+          "route_address": "0x10020cd8c",
+          "route": "[DELIVER]"
+        }
+      ],
+      "translation": "“我有东西要给你……”"
+    },
+    {
+      "source_id": "72e976b7616fd3f4c8b3",
+      "address": "0x10020d7b7",
+      "original": "\"I will give you what need. Here...\"",
+      "calls": [
+        {
+          "callsite": "0x100186a07",
+          "route_address": "0x10020cd8c",
+          "route": "[DELIVER]"
+        }
+      ],
+      "translation": "“你要的东西我带来了。给……”"
+    },
+    {
+      "source_id": "c314c6fee981b35a0fdb",
+      "address": "0x10020d7dc",
+      "original": "\"So take this...\"",
+      "calls": [
+        {
+          "callsite": "0x100186a2e",
+          "route_address": "0x10020cd8c",
+          "route": "[DELIVER]"
+        }
+      ],
+      "translation": "“那就拿着这个吧……”"
+    },
+    {
+      "source_id": "64965b7645e9c5ace1a7",
+      "address": "0x10020d827",
+      "original": "\"Nah, I've changed my mind. Now give my items back.\"",
+      "calls": [
+        {
+          "callsite": "0x100186a43",
+          "route_address": "0x10020d85c",
+          "route": "[RETURN LOANED]"
+        }
+      ],
+      "translation": "“算了，我改主意了。把东西还给我吧。”"
+    },
+    {
+      "source_id": "9a5dda267f4878ac6b57",
+      "address": "0x10020df0c",
+      "original": "\"Umm, I've changed my mind.\"",
+      "calls": [
+        {
+          "callsite": "0x100188f9f",
+          "route_address": "0x10020bf42",
+          "route": "[ASK BLACKSMITH SERVICES]"
+        }
+      ],
+      "translation": "“嗯，我改主意了。”"
+    },
+    {
+      "source_id": "766f48b996e1393ef335",
+      "address": "0x10020e033",
+      "original": "\"Umm, actually I need something else.\"",
+      "calls": [
+        {
+          "callsite": "0x10018961b",
+          "route_address": "0x10020bf42",
+          "route": "[ASK BLACKSMITH SERVICES]"
+        }
+      ],
+      "translation": "“嗯，其实我想要别的东西。”"
+    },
+    {
+      "source_id": "715c4c18a5aaf2db98ef",
+      "address": "0x10020e0e2",
+      "original": "\"I need some tools.\"",
+      "calls": [
+        {
+          "callsite": "0x1001898e0",
+          "route_address": "0x10020e0f7",
+          "route": "[BLACKSMITH CATEGORY:TOOL]"
+        }
+      ],
+      "translation": "“我需要些工具。”"
+    },
+    {
+      "source_id": "129dfd933186534b2653",
+      "address": "0x10020e121",
+      "original": "\"I need a knife.\"",
+      "calls": [
+        {
+          "callsite": "0x100189958",
+          "route_address": "0x10020e133",
+          "route": "[BLACKSMITH CATEGORY:KNIFE]"
+        }
+      ],
+      "translation": "“我需要一把刀。”"
+    },
+    {
+      "source_id": "4b503eb57c74cbf899a5",
+      "address": "0x10020e15a",
+      "original": "\"I need an axe.\"",
+      "calls": [
+        {
+          "callsite": "0x1001899c4",
+          "route_address": "0x10020e16b",
+          "route": "[BLACKSMITH CATEGORY:AXE]"
+        }
+      ],
+      "translation": "“我需要一把斧头。”"
+    },
+    {
+      "source_id": "bdf29dde4fca233d862f",
+      "address": "0x10020e194",
+      "original": "\"I need a spear.\"",
+      "calls": [
+        {
+          "callsite": "0x100189a38",
+          "route_address": "0x10020e1a6",
+          "route": "[BLACKSMITH CATEGORY:SPEAR]"
+        }
+      ],
+      "translation": "“我需要一支长矛。”"
+    },
+    {
+      "source_id": "43aef2ccac84c6ae70c0",
+      "address": "0x10020e1cf",
+      "original": "\"I need some arrowheads.\"",
+      "calls": [
+        {
+          "callsite": "0x100189ab2",
+          "route_address": "0x10020e1e9",
+          "route": "[BLACKSMITH CATEGORY:ARROW]"
+        }
+      ],
+      "translation": "“我需要些箭镞。”"
+    },
+    {
+      "source_id": "c7be60b9d28a7556fdac",
+      "address": "0x10020e214",
+      "original": "\"I need a sword.\"",
+      "calls": [
+        {
+          "callsite": "0x100189b28",
+          "route_address": "0x10020e226",
+          "route": "[BLACKSMITH CATEGORY:SWORD]"
+        }
+      ],
+      "translation": "“我需要一把剑。”"
+    },
+    {
+      "source_id": "f23f602a815ecae1d418",
+      "address": "0x10020e252",
+      "original": "\"I need a helmet.\"",
+      "calls": [
+        {
+          "callsite": "0x100189b9b",
+          "route_address": "0x10020e265",
+          "route": "[BLACKSMITH CATEGORY:HELM]"
+        }
+      ],
+      "translation": "“我需要一顶头盔。”"
+    },
+    {
+      "source_id": "6cc6019d02258c154762",
+      "address": "0x10020e292",
+      "original": "\"I need a shield.\"",
+      "calls": [
+        {
+          "callsite": "0x100189c0b",
+          "route_address": "0x10020e2a5",
+          "route": "[BLACKSMITH CATEGORY:SHIELD]"
+        }
+      ],
+      "translation": "“我需要一面盾牌。”"
+    },
+    {
+      "source_id": "ed94db6d7c2d32b4b84d",
+      "address": "0x10020e79c",
+      "original": "\"No! You have to fight for them!\"",
+      "calls": [
+        {
+          "callsite": "0x10018b5d6",
+          "route_address": "0x10020e7be",
+          "route": "[ROB FIGHT]"
+        }
+      ],
+      "translation": "“休想！想拿就来抢！”"
+    },
+    {
+      "source_id": "fabf6ad2faafd077c4f1",
+      "address": "0x10020e7ca",
+      "original": "\"Hmpf. I surrender. Just take them.\"",
+      "calls": [
+        {
+          "callsite": "0x10018b5eb",
+          "route_address": "0x10020e7ef",
+          "route": "[ROB ALLOW]"
+        }
+      ],
+      "translation": "“哼，我认输。你拿走吧。”"
+    },
+    {
+      "source_id": "c8b8550c62e2e5f9d68a",
+      "address": "0x10020e8ca",
+      "original": "\"Never! I will fight back to the last drop of my blood!\"",
+      "calls": [
+        {
+          "callsite": "0x10018b789",
+          "route_address": "0x10020e7be",
+          "route": "[ROB FIGHT]"
+        }
+      ],
+      "translation": "“休想！我会跟你拼到最后一滴血！”"
+    },
+    {
+      "source_id": "812931aa93acc3b3f79c",
+      "address": "0x10020e903",
+      "original": "\"My stuff?\"",
+      "calls": [
+        {
+          "callsite": "0x10018b79e",
+          "route_address": "0x10020e90f",
+          "route": "[ROB DEMAND]"
+        }
+      ],
+      "translation": "“我的东西？”"
+    },
+    {
+      "source_id": "e980b0bbe3d92dbf2d16",
+      "address": "0x10020e91c",
+      "original": "\"Hmpf. I surrender. Take what you want.\"",
+      "calls": [
+        {
+          "callsite": "0x10018b7b3",
+          "route_address": "0x10020e7ef",
+          "route": "[ROB ALLOW]"
+        }
+      ],
+      "translation": "“哼，我认输。想拿什么就拿吧。”"
+    },
+    {
+      "source_id": "3ef04739d80037a49af5",
+      "address": "0x10020e9e4",
+      "original": "\"No. If you want my stuff you have to fight for it.\"",
+      "calls": [
+        {
+          "callsite": "0x10018b939",
+          "route_address": "0x10020ea19",
+          "route": "[ROB RESIST]"
+        }
+      ],
+      "translation": "“不行。想拿我的东西，就得先打赢我。”"
+    },
+    {
+      "source_id": "3d5f3cd3e367c31ed190",
+      "address": "0x10020ea26",
+      "original": "\"Well, it depends on what you want?\"",
+      "calls": [
+        {
+          "callsite": "0x10018b94e",
+          "route_address": "0x10020e90f",
+          "route": "[ROB DEMAND]"
+        }
+      ],
+      "translation": "“那得看你想要什么了。”"
+    },
+    {
+      "source_id": "7d31c82963a489e1598e",
+      "address": "0x10020ea4b",
+      "original": "\"I surrender. Take what you want, just spare my life.\"",
+      "calls": [
+        {
+          "callsite": "0x10018b963",
+          "route_address": "0x10020e7ef",
+          "route": "[ROB ALLOW]"
+        }
+      ],
+      "translation": "“我投降。想拿什么就拿吧，饶我一命。”"
+    },
+    {
+      "source_id": "a2ae23e307cedc0d4a22",
+      "address": "0x10020eaf2",
+      "original": "\"Hah! Why would I give you my stuff?!\"",
+      "calls": [
+        {
+          "callsite": "0x10018bb19",
+          "route_address": "0x10020eb19",
+          "route": "[ROB QUERY]"
+        }
+      ],
+      "translation": "“哈！我凭什么把东西给你？！”"
+    },
+    {
+      "source_id": "685b8ed8daf9301fe912",
+      "address": "0x10020eb25",
+      "original": "\"Hand over what exactly?\"",
+      "calls": [
+        {
+          "callsite": "0x10018bb2e",
+          "route_address": "0x10020e90f",
+          "route": "[ROB DEMAND]"
+        }
+      ],
+      "translation": "“你到底要我交出什么？”"
+    },
+    {
+      "source_id": "fec508cbb63be7de741e",
+      "address": "0x10020eb3f",
+      "original": "\"Oh, take what you want, but don't hurt me.\"",
+      "calls": [
+        {
+          "callsite": "0x10018bb43",
+          "route_address": "0x10020e7ef",
+          "route": "[ROB ALLOW]"
+        }
+      ],
+      "translation": "“好吧，想拿什么就拿吧，别伤害我。”"
+    },
+    {
+      "source_id": "ccd6377c5c2d5c5ed2a5",
+      "address": "0x10020ec66",
+      "original": "\"I'm very sorry, but I still need some metalworks.\"",
+      "calls": [
+        {
+          "callsite": "0x10018c5b0",
+          "route_address": "0x10020bf42",
+          "route": "[ASK BLACKSMITH SERVICES]"
+        }
+      ],
+      "translation": "“实在不好意思，我还是想请你打些金属器具。”"
+    },
+    {
+      "source_id": "f7235ad3f340d710e454",
+      "address": "0x10020ed19",
+      "original": "\"Let's trade then.\"",
+      "calls": [
+        {
+          "callsite": "0x10018c33b",
+          "route_address": "0x10020ed2d",
+          "route": "[EXECUTE TRADE]"
+        }
+      ],
+      "translation": "“那我们来交易吧。”"
+    },
+    {
+      "source_id": "2f800a65bf8aef513dbc",
+      "address": "0x10020f459",
+      "original": "No, no, no. I didn't mean that.",
+      "calls": [
+        {
+          "callsite": "0x10018e428",
+          "route_address": "0x10020f3fb",
+          "route": "[RESTART PAYDEBT]"
+        }
+      ],
+      "translation": "不，不，不，我不是那个意思。"
+    },
+    {
+      "source_id": "9d1c1a1f15a315a9a3a2",
+      "address": "0x10020f479",
+      "original": "Yes, I am. This is a robbery!",
+      "calls": [
+        {
+          "callsite": "0x10018e43d",
+          "route_address": "0x10020f40d",
+          "route": "[I STEAL]"
+        }
+      ],
+      "translation": "对，我就是来打劫的！"
+    },
+    {
+      "source_id": "11f99c52c3f72e2617df",
+      "address": "0x10020f523",
+      "original": "\"I'm sure of it. You can go now.\"",
+      "calls": [
+        {
+          "callsite": "0x10018e5d3",
+          "route_address": "0x10020f545",
+          "route": "[UNJOIN CONFIRM]"
+        }
+      ],
+      "translation": "“我确定。你现在可以走了。”"
+    },
+    {
+      "source_id": "b19a3e726a3dd7c64f61",
+      "address": "0x10020f556",
+      "original": "\"Well, I think I changed my mind. Please stay.\"",
+      "calls": [
+        {
+          "callsite": "0x10018e5e8",
+          "route_address": "0x10020f586",
+          "route": "[UNJOIN NOCONFIRM]"
+        }
+      ],
+      "translation": "“嗯，我改主意了。你还是留下吧。”"
+    },
+    {
+      "source_id": "0671e77ac79255d03bce",
+      "address": "0x10020fcb4",
+      "original": "\"Let's see what I can trade from you.\"",
+      "calls": [
+        {
+          "callsite": "0x10018ffc0",
+          "route_address": "0x10020f14a",
+          "route": "[PERSONAL TRADE]"
+        }
+      ],
+      "translation": "“让我看看能从你这儿换些什么。”"
+    },
+    {
+      "source_id": "81ab245905f51cdd953b",
+      "address": "0x10020fd29",
+      "original": "\"Who are you?\"",
+      "calls": [
+        {
+          "callsite": "0x100184793",
+          "route_address": "0x10020f27b",
+          "route": "[WHO ARE YOU]"
+        }
+      ],
+      "translation": "“你是谁？”"
+    },
+    {
+      "source_id": "82ac03fddacf3d72d14f",
+      "address": "0x10020fd38",
+      "original": "\"How is it going?\"",
+      "calls": [
+        {
+          "callsite": "0x1001847ba",
+          "route_address": "0x10020f2ad",
+          "route": "[HOW IS IT GOING]"
+        }
+      ],
+      "translation": "“近来如何？”"
+    },
+    {
+      "source_id": "f9c3e2b473ba84660a74",
+      "address": "0x10020ff3b",
+      "original": "\"Ok. It's a deal.\"",
+      "calls": [
+        {
+          "callsite": "0x100191732",
+          "route_address": "0x10020f21d",
+          "route": "[TRADECOMPLETE]"
+        }
+      ],
+      "translation": "“好，成交。”"
+    },
+    {
+      "source_id": "37cf1dabaff7f9b41c7c",
+      "address": "0x10020ff4e",
+      "original": "\"Let me think again...\"",
+      "calls": [
+        {
+          "callsite": "0x100191747",
+          "route_address": "0x10020f045",
+          "route": "[TRADECLEAR]"
+        }
+      ],
+      "translation": "“让我再想想……”"
+    },
+    {
+      "source_id": "bac63fb148d7637ef099",
+      "address": "0x10020ff66",
+      "original": "Offer an item",
+      "calls": [
+        {
+          "callsite": "0x10019178f",
+          "route_address": "0x10020eec9",
+          "route": "[ITEMPICK]"
+        },
+        {
+          "callsite": "0x100191807",
+          "route_address": "0x10020eec9",
+          "route": "[ITEMPICK]"
+        }
+      ],
+      "translation": "拿出一件物品"
+    },
+    {
+      "source_id": "378210617cb34581b519",
+      "address": "0x10020ff74",
+      "original": "\"What of my items you'd prefer in this trade?\"",
+      "calls": [
+        {
+          "callsite": "0x1001917a4",
+          "route_address": "0x10020eeb6",
+          "route": "[TRADE SUGGESTION]"
+        },
+        {
+          "callsite": "0x10019181c",
+          "route_address": "0x10020eeb6",
+          "route": "[TRADE SUGGESTION]"
+        },
+        {
+          "callsite": "0x1001918c3",
+          "route_address": "0x10020eeb6",
+          "route": "[TRADE SUGGESTION]"
+        }
+      ],
+      "translation": "“你想拿我的什么东西来换？”"
+    },
+    {
+      "source_id": "c59b024d2ca7d19b37c2",
+      "address": "0x10020ffa3",
+      "original": "Start the trade again from the start",
+      "calls": [
+        {
+          "callsite": "0x1001917c2",
+          "route_address": "0x10020f045",
+          "route": "[TRADECLEAR]"
+        },
+        {
+          "callsite": "0x10019183a",
+          "route_address": "0x10020f045",
+          "route": "[TRADECLEAR]"
+        }
+      ],
+      "translation": "从头再谈这笔交易"
+    },
+    {
+      "source_id": "b14caf1f5f47236a74a4",
+      "address": "0x10020ffc8",
+      "original": "\"This doesn't please me. It's no deal.\"",
+      "calls": [
+        {
+          "callsite": "0x1001917d7",
+          "route_address": "0x10020f68c",
+          "route": "[NODEAL]"
+        },
+        {
+          "callsite": "0x10019184f",
+          "route_address": "0x10020f68c",
+          "route": "[NODEAL]"
+        }
+      ],
+      "translation": "“我不满意，这笔交易算了。”"
+    },
+    {
+      "source_id": "5cc5287ff4a51ab1dd42",
+      "address": "0x10020fffe",
+      "original": "Offer items for payment",
+      "calls": [
+        {
+          "callsite": "0x1001918ae",
+          "route_address": "0x10020eed4",
+          "route": "[DEBT ITEMPICK]"
+        }
+      ],
+      "translation": "拿物品抵债"
+    },
+    {
+      "source_id": "24cfacba28b9f27f5811",
+      "address": "0x100210016",
+      "original": "\"Remind me about what I owe you?\"",
+      "calls": [
+        {
+          "callsite": "0x1001918d8",
+          "route_address": "0x10020eee4",
+          "route": "[DEBT SUMMARY]"
+        }
+      ],
+      "translation": "“我还欠你什么？”"
+    },
+    {
+      "source_id": "cea0e2d7bc1bf707d7d4",
+      "address": "0x100210038",
+      "original": "\"I am not able to pay. Take what is yours.\"",
+      "calls": [
+        {
+          "callsite": "0x1001918fd",
+          "route_address": "0x10020f497",
+          "route": "[CANT PAY DEBT]"
+        }
+      ],
+      "translation": "“我还不起。把你的东西拿回去吧。”"
+    },
+    {
+      "source_id": "58e5d7ef1c5fd8d073fa",
+      "address": "0x100210064",
+      "original": "\"I will never pay you!\"",
+      "calls": [
+        {
+          "callsite": "0x100191912",
+          "route_address": "0x10020f42b",
+          "route": "[I WONT PAY]"
+        }
+      ],
+      "translation": "“我绝不会还你的！”"
+    },
+    {
+      "source_id": "8072f78a60ff1bc07c9a",
+      "address": "0x100210108",
+      "original": "\"Oops, no, I didn't mean that.\"",
+      "calls": [
+        {
+          "callsite": "0x10019205e",
+          "route_address": "0x10020f307",
+          "route": "[REPEAT LAST TALK]"
+        }
+      ],
+      "translation": "“哎，不，我不是那个意思。”"
+    }
+  ]
+}

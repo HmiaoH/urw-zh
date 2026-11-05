@@ -1,0 +1,945 @@
+[
+  {
+    "id": "764fba3e936688156312",
+    "source": "runtime:notification-capture",
+    "context": "message",
+    "original": "The game is controlled mainly by keyboard commands.",
+    "translation": "游戏主要通过键盘操作。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e813bb3c8ffa43f62fc2",
+    "source": "runtime:notification-capture",
+    "context": "message",
+    "original": "=Press [ESC] or [?] to see list of commands.",
+    "translation": "按 [ESC] 或 [?] 查看操作列表。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "preserve": [
+      "[ESC]",
+      "[?]"
+    ]
+  },
+  {
+    "id": "35b8bffa297733d7d533",
+    "source": "runtime:notification-capture",
+    "context": "message",
+    "original": "#View what type of items?: All types",
+    "translation": "查看物品类型：全部",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1c84c796220a672dd1f8",
+    "source": "runtime:notification-capture",
+    "context": "message",
+    "original": "#View what type of items?: Armours & Clothes",
+    "translation": "查看物品类型：护甲与衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b455f36529557b5306d3",
+    "source": "runtime:notification-capture",
+    "context": "message",
+    "original": "!There's nothing to attack at!",
+    "translation": "没有可攻击的目标！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b430e9ab4add1f6960f6",
+    "source": "runtime:notification-capture",
+    "context": "message",
+    "original": "_You can't zoom out directly right now. The area has activity going on.",
+    "translation": "附近还有动静，暂时无法缩放到大地图。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f71efba48014fa028d74",
+    "source": "runtime:notification-capture",
+    "context": "message",
+    "original": "_Please walk a little further from this location and press [ENTER] again.",
+    "translation": "请再走远一点，然后按 [ENTER]。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "preserve": [
+      "[ENTER]"
+    ]
+  },
+  {
+    "id": "463e6269711b80d13981",
+    "source": "runtime:notification-capture",
+    "context": "message",
+    "original": "!The water is really cold.",
+    "translation": "水冷得刺骨。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "67806039d5edddd9267b",
+    "source": "runtime:notification-capture",
+    "context": "message",
+    "original": "?Step into water?",
+    "translation": "要下水吗？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "61078a1b23537b7f97cb",
+    "source": "runtime:notification-capture",
+    "context": "message",
+    "original": "Ground",
+    "translation": "地面",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "85ec651a877612cace00",
+    "source": "runtime:notification-capture",
+    "context": "message",
+    "original": "Road",
+    "translation": "道路",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d6f6537a2efe8470385d",
+    "source": "runtime:notification-capture",
+    "context": "message",
+    "original": "!Please pick a direction where you can see!",
+    "translation": "请选择一个看得见的方向！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1dd4159dd350bf545d21",
+    "source": "runtime:notification-capture",
+    "context": "message",
+    "original": "!There's nothing to set on fire.",
+    "translation": "这里没有能点燃的东西。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b723addb20024da87706",
+    "source": "runtime:notification-capture",
+    "context": "message",
+    "original": "_Place some firewood over there first and then try to build a fire.",
+    "translation": "先把柴火放到那里，再试着生火。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "119822bd9d473bcd097f",
+    "source": "runtime:notification-capture",
+    "context": "message",
+    "original": "!You don't have anything to drink.",
+    "translation": "你没有能喝的东西。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4be30f5a3b869f6c18a8",
+    "source": "messages/urw_defs.txt:.TIMESPAN_DAY.",
+    "context": "notification-duration",
+    "original": "a day",
+    "translation": "一天",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b1f839f6240d7e6fcd08",
+    "source": "messages/urw_defs.txt:.TIMESPAN_DAY.",
+    "context": "notification-duration",
+    "original": "two days",
+    "translation": "两天",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "673ab41da216476e7a36",
+    "source": "messages/urw_defs.txt:.TIMESPAN_DAY.",
+    "context": "notification-duration",
+    "original": "few days",
+    "translation": "几天",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "7e278b97354ab218518d",
+    "source": "messages/urw_defs.txt:.TIMESPAN_DAY.",
+    "context": "notification-duration",
+    "original": "half a week",
+    "translation": "半周",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "44d4ca2293e0e0b3285e",
+    "source": "messages/urw_defs.txt:.TIMESPAN_DAY.",
+    "context": "notification-duration",
+    "original": "a week",
+    "translation": "一周",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b36cafc6439293d22aa8",
+    "source": "messages/urw_defs.txt:.TIMESPAN_DAY.",
+    "context": "notification-duration",
+    "original": "two weeks",
+    "translation": "两周",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b526d7f57e3d8cfca6e8",
+    "source": "messages/urw_defs.txt:.TIMESPAN_DAY.",
+    "context": "notification-duration",
+    "original": "couple of weeks",
+    "translation": "两三周",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "cfe6e417e11af2247cf1",
+    "source": "messages/urw_defs.txt:.TIMESPAN_DAY.",
+    "context": "notification-duration",
+    "original": "a month",
+    "translation": "一个月",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "2e01db99822215f9f207",
+    "source": "messages/urw_defs.txt:.TIMESPAN_DAY.",
+    "context": "notification-duration",
+    "original": "over a month",
+    "translation": "一个多月",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "377540f158423c4e4230",
+    "source": "messages/urw_defs.txt:.TIMESPAN_DAY.",
+    "context": "notification-duration",
+    "original": "nearly two months",
+    "translation": "将近两个月",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "78a400d140c1e3a960ac",
+    "source": "messages/urw_defs.txt:.TIMESPAN_DAY.",
+    "context": "notification-duration",
+    "original": "few months",
+    "translation": "几个月",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a6b61214e8fb999cd67e",
+    "source": "messages/urw_defs.txt:.TIMESPAN_DAY.",
+    "context": "notification-duration",
+    "original": "couple of months",
+    "translation": "两三个月",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "01509400c77869809631",
+    "source": "messages/urw_defs.txt:.TIMESPAN_DAY.",
+    "context": "notification-duration",
+    "original": "several months",
+    "translation": "数月",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "0f3670508e77dd5dded4",
+    "source": "messages/urw_defs.txt:.TIMESPAN_DAY.",
+    "context": "notification-duration",
+    "original": "many months",
+    "translation": "许多个月",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "c19f33a68d995eaa0d56",
+    "source": "messages/urw_defs.txt:.TIMESPAN_DAY.",
+    "context": "notification-duration",
+    "original": "half a year",
+    "translation": "半年",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "cfde4e44de1a14aacc1c",
+    "source": "messages/urw_defs.txt:.TIMESPAN_DAY.",
+    "context": "notification-duration",
+    "original": "a year",
+    "translation": "一年",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "7ec2231b8e68fe920b3e",
+    "source": "messages/urw_defs.txt:.TIMESPAN_DAY.",
+    "context": "notification-duration",
+    "original": "over a year",
+    "translation": "一年多",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "9b43486c63cc1468410a",
+    "source": "messages/urw_defs.txt:.TIMESPAN_DAY.",
+    "context": "notification-duration",
+    "original": "nearly two years",
+    "translation": "将近两年",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d814f759080014b1e82f",
+    "source": "messages/urw_defs.txt:.TIMESPAN_DAY.",
+    "context": "notification-duration",
+    "original": "few years",
+    "translation": "几年",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "8d5f32a79f647881a523",
+    "source": "messages/urw_defs.txt:.TIMESPAN_DAY.",
+    "context": "notification-duration",
+    "original": "unknown time",
+    "translation": "不知多久",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "96f7b41713501f2b7d4e",
+    "source": "flora_berries.txt",
+    "context": "notification-plant",
+    "original": "blueberry shrub",
+    "translation": "蓝莓灌木",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "240268f6c826af9e7cc4",
+    "source": "flora_berries.txt",
+    "context": "notification-plant",
+    "original": "lingonberry shrub",
+    "translation": "越橘灌木",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "463212156f3aab9d8c5e",
+    "source": "flora_berries.txt",
+    "context": "notification-plant",
+    "original": "cranberry shrub",
+    "translation": "蔓越莓灌木",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "2ed28f1efb41df78896c",
+    "source": "flora_berries.txt",
+    "context": "notification-plant",
+    "original": "northern bilberry shrub",
+    "translation": "北方越橘灌木",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "8c37e54c809858dbb57a",
+    "source": "flora_berries.txt",
+    "context": "notification-plant",
+    "original": "cloudberry bramble",
+    "translation": "云莓灌丛",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "11f037267b7f6f99f5ec",
+    "source": "flora_berries.txt",
+    "context": "notification-plant",
+    "original": "strawberry shrub",
+    "translation": "草莓",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d5b251cb17aca44f8018",
+    "source": "flora_berries.txt",
+    "context": "notification-plant",
+    "original": "crowberry shrub",
+    "translation": "岩高兰灌木",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "94cee57788d6468df2e7",
+    "source": "flora_berries.txt",
+    "context": "notification-plant",
+    "original": "raspberry bush",
+    "translation": "覆盆子灌木",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1d6f627b299638df1b59",
+    "source": "flora_berries.txt",
+    "context": "notification-plant",
+    "original": "black currant bush",
+    "translation": "黑醋栗灌木",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "08e18e30de95c83d2a5f",
+    "source": "flora_cultivated.txt",
+    "context": "notification-plant",
+    "original": "turnip",
+    "translation": "芜菁",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a5bcffe7a12b4b6e7518",
+    "source": "flora_cultivated.txt",
+    "context": "notification-plant",
+    "original": "pea",
+    "translation": "豌豆",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "969f3978f8f97db18e0f",
+    "source": "flora_cultivated.txt",
+    "context": "notification-plant",
+    "original": "broad bean",
+    "translation": "蚕豆",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f939b9dce9fec97feb96",
+    "source": "flora_cultivated.txt",
+    "context": "notification-plant",
+    "original": "barley",
+    "translation": "大麦",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1ac86a01cdba84c4bb21",
+    "source": "flora_cultivated.txt",
+    "context": "notification-plant",
+    "original": "rye",
+    "translation": "黑麦",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "06663dfeadcd00e5b137",
+    "source": "flora_cultivated.txt",
+    "context": "notification-plant",
+    "original": "hemp",
+    "translation": "大麻",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f6bc424cdd9d7038ad40",
+    "source": "flora_cultivated.txt",
+    "context": "notification-plant",
+    "original": "flax",
+    "translation": "亚麻",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "82a05d0b9c1f62ac8e4a",
+    "source": "flora_herbs.txt",
+    "context": "notification-plant",
+    "original": "nettle",
+    "translation": "荨麻",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "5ae07da1a841ce9be58e",
+    "source": "flora_herbs.txt",
+    "context": "notification-plant",
+    "original": "yarrow",
+    "translation": "蓍草",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "8a62c5c6a249d865c139",
+    "source": "flora_herbs.txt",
+    "context": "notification-plant",
+    "original": "sorrel",
+    "translation": "酸模",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b69f174caaeed7f34c42",
+    "source": "flora_herbs.txt",
+    "context": "notification-plant",
+    "original": "meadsweet",
+    "translation": "绣线菊",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e1c67f8f58a69d3b8ea5",
+    "source": "flora_herbs.txt",
+    "context": "notification-plant",
+    "original": "golden rod",
+    "translation": "一枝黄花",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1606bf82caa7dc930797",
+    "source": "flora_herbs.txt",
+    "context": "notification-plant",
+    "original": "heather",
+    "translation": "石南",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "5089b3ebe304c58cd869",
+    "source": "urw3-bin:look",
+    "context": "notification-observation",
+    "original": "a burnt-out fire",
+    "translation": "一处熄灭的火堆",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "03ef48fa19d7a0f1b71a",
+    "source": "urw3-bin:look",
+    "context": "notification-observation",
+    "original": "a burnt-out fire with glowing embers",
+    "translation": "一处还有红色余烬的火堆",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "bf9ba318211af38aa493",
+    "source": "urw3-bin:look",
+    "context": "notification-observation",
+    "original": "a bloodscape",
+    "translation": "一片血迹",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "aef5ea25770a834320ba",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": ":The soil here is now prepared.",
+    "translation": "这里的土壤已整好。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ff6b35cc568fae5c23f9",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "!You must first burn some wood on the ground here!",
+    "translation": "你得先在这里烧些木柴！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "3174aeda5a16ef752494",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "!The ground is frozen and impossible to dig!",
+    "translation": "地面冻住了，挖不动！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "650311e232d550fe0a43",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "!You can't store different kinds of stuff in one container!",
+    "translation": "一个容器只能装同一种东西！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "3af5d449c317494c6555",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "!You can't plant that!",
+    "translation": "这个不能种植！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b3ea3701b68cd7d82bbe",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": ":You can zoom to the local terrain map and look for it.",
+    "translation": "可以切到局部地图寻找。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a28ac28d77f6011322c5",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "_You must get out of the cave before you can zoom out..",
+    "translation": "离开洞穴后才能切回大地图。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e44acf66790d69b4e183",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "!You can't fish with this rod as there's no hook attached.",
+    "translation": "这根钓竿没装鱼钩，无法钓鱼。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a067af249e7a5785d63d",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": ":You may now use piece of a food item as a bait.",
+    "translation": "现在可以用一小块食物作饵。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "832713fdfb5d108e9365",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "!You try fishing without any bait.",
+    "translation": "你试着不用鱼饵钓鱼。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "58d9ae2a21589147b80e",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "_No plants around. You can examine something in your inventory.",
+    "translation": "附近没有植物。你可以检查背包里的物品。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "9707ae617ba18bfe816a",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "!That is something not to be examined by herblore.",
+    "translation": "这件东西无法用草药学鉴定。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "51bdd07dc2527fba007a",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "_You can join only tying equipment such as ropes and cords.",
+    "translation": "只能接合绳索、细绳等捆扎用具。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f60ce6a5b09c379f63a7",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "!You are already wielding that!",
+    "translation": "你已经把它拿在手上了！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "74902d992059342af162",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "_The heavy items you couldn't pick up can be pulled to your location.",
+    "translation": "捡不起来的重物可以拖到脚边。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "cca1a20accf23c95932e",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "_You stop hauling items.",
+    "translation": "你停止拖运物品。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "582ddd8d56f5b7a1d740",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "?You are about to start hauling items at your feet.",
+    "translation": "要开始拖运脚边的物品吗？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1edf0c8a7d0d6e9835da",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": ":You start hauling. Use the command again when you are done.",
+    "translation": "你开始拖运。完成后再用一次此命令。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "99c20ffc7948f8b925a9",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "!You can't trust the ice completely, and for now you can cross it only on the zoomed in map.",
+    "translation": "冰面还不稳，目前只能在局部地图上通过。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4706449a38d4a0d09d74",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "!The ice prevents you from rowing there.",
+    "translation": "冰挡住了去路，划不过去。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "cc4d8983a9cd77a7e1d9",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "!You try to climb on the ice but it breaks!",
+    "translation": "你试着爬上冰面，但冰裂开了！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e6563e0950cab87f1100",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "!You doubt the ice will hold your weight.",
+    "translation": "你怀疑冰面承受不住你的重量。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "30d34a604118974aada1",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "!You spot a partially frozen hole in the ice over there.",
+    "translation": "你看到那里有个尚未完全冻住的冰窟窿。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "3328a7cdbd5285718913",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "!The ice here can't be trusted completely and while on it you can travel only the on zoomed in map.",
+    "translation": "这里的冰还不稳，在冰上时只能用局部地图移动。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "48f730929538ab448e8b",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "!You fail to lift yourself up onto the ice.",
+    "translation": "你没能爬上冰面。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "de20e96c2be15526e19c",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": ":You sink under water not being able to struggle your way back to the surface.",
+    "translation": "你沉到水下，无法挣扎着浮出水面。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "5ebf49e612eeb216337a",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "!You can't use plain sesta to move there. The water is too deep.",
+    "translation": "这里水太深，不能仅靠撑篙过去。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "42682355c9bdf19c7610",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": ":You crawl.",
+    "translation": "你匍匐前进。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ee6de3be4047ad78fb3b",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "!There are some items on your way.",
+    "translation": "有些物品挡住了去路。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "44e828efc59fff1b41df",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": ":You ski with ease on snow crust.",
+    "translation": "你轻松地在硬雪上滑行。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "dfc30c9827ba06d9710c",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": ":You ski.",
+    "translation": "你滑雪前进。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "c04dad155c6cb21323d7",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": ":You haul items along.",
+    "translation": "你拖着物品前进。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "eb2762cae12cd5f02027",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": ":You go on shore.",
+    "translation": "你上了岸。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "addee1f5365a9cf55797",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "!The ice makes a cracking sound.",
+    "translation": "冰面发出了碎裂声。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "cf109730c711f0d8a373",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "There are some tracks over there.",
+    "translation": "那里有些足迹。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ec80778840e6825b9a85",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": ":You enter the water.",
+    "translation": "你下了水。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "30b07b8fe3ce0882544f",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": ":You climbed successfully.",
+    "translation": "你成功爬了上去。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1b09e7082d535576fc14",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": ":You climb down from the tree.",
+    "translation": "你从树上爬了下来。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ff77827b65d0f8497e65",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "!You see no creature there.",
+    "translation": "你没看到那里有生物。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "83ecd2d34cf21271492c",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "You take off your skis.",
+    "translation": "你脱下了滑雪板。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b73a816c2f4e909e39b5",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "You are wearing skis now.",
+    "translation": "你穿上了滑雪板。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "310577b16ce204e7439d",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "You walk around a little looking for tracks...",
+    "translation": "你在附近走动，寻找足迹……",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d1a9eff6efdac50ddc02",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "!You carry too much! Excess items are now put on the ground.",
+    "translation": "你带的东西太多，多出的物品已放在地上。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f69d31a8df40605ad773",
+    "source": "urw3-bin:Note",
+    "context": "message",
+    "original": "No items were discarded.",
+    "translation": "没有丢弃任何物品。",
+    "status": "reviewed",
+    "runtime_verified": false
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0c5389ccc02e584ce524",
+    "source": "GAME.NFO",
+    "context": "encyclopedia-title",
+    "original": "SICKLE",
+    "translation": "镰刀",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "cec4ed12cbf2eb196222",
+    "source": "GAME.NFO",
+    "context": "encyclopedia-summary",
+    "original": "SICKLE",
+    "translation": "短柄上装有弯曲刀刃，多用于农活。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "6d971106d23dd264dbb3",
+    "source": "GAME.NFO",
+    "context": "encyclopedia-title",
+    "original": "PADDLE",
+    "translation": "船桨",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "aacda2648f8413423f03",
+    "source": "GAME.NFO",
+    "context": "encyclopedia-summary",
+    "original": "PADDLE",
+    "translation": "用于划动平底船或木筏。",
+    "status": "reviewed",
+    "runtime_verified": false
+  }
+]

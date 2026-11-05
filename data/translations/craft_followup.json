@@ -1,0 +1,881 @@
+[
+  {
+    "id": "craft-fd780627b1698101",
+    "source": "urw3-bin:handcraft-options",
+    "context": "showtext",
+    "original": "Arrows",
+    "translation": "箭矢",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-eef13c14d99da1e8",
+    "source": "urw3-bin:handcraft-options",
+    "context": "showtext",
+    "original": "Building",
+    "translation": "建造",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-deb00967b9b83fc8",
+    "source": "urw3-bin:handcraft-options",
+    "context": "showtext",
+    "original": "Clothes",
+    "translation": "衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-cfadba50948cb34a",
+    "source": "urw3-bin:handcraft-options",
+    "context": "showtext",
+    "original": "Fishing",
+    "translation": "捕鱼用具",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-145c0ace9dfa97f5",
+    "source": "urw3-bin:handcraft-options",
+    "context": "showtext",
+    "original": "Hafting",
+    "translation": "装柄",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-45ed008564d095f6",
+    "source": "urw3-bin:handcraft-options",
+    "context": "showtext",
+    "original": "Lumber",
+    "translation": "木材",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-13652d0907a176b1",
+    "source": "urw3-bin:handcraft-options",
+    "context": "showtext",
+    "original": "Trapping",
+    "translation": "陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-46c309c2d6649d30",
+    "source": "urw3-bin:handcraft-options",
+    "context": "showtext",
+    "original": "Transport",
+    "translation": "运输工具",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-18d436c149a97543",
+    "source": "urw3-bin:handcraft-options",
+    "context": "showtext",
+    "original": "Utility articles",
+    "translation": "日用器具",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-67bd77316057cde7",
+    "source": "urw3-bin:handcraft-options",
+    "context": "showtext",
+    "original": "Tying equipment",
+    "translation": "捆扎用具",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-a8754557560ea20e",
+    "source": "urw3-bin:handcraft-options",
+    "context": "showtext",
+    "original": "Textilecraft",
+    "translation": "纺织",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-761a792a7112d668",
+    "source": "urw3-bin:handcraft-options",
+    "context": "showtext",
+    "original": "ARROWS",
+    "translation": "箭矢",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-676ce314924134a4",
+    "source": "urw3-bin:handcraft-options",
+    "context": "showtext",
+    "original": "CLOTHES",
+    "translation": "衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-dde5dec5624a7d3b",
+    "source": "urw3-bin:handcraft-options",
+    "context": "showtext",
+    "original": "HAFTING",
+    "translation": "装柄",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-2f20241e6ad00dc1",
+    "source": "urw3-bin:handcraft-options",
+    "context": "showtext",
+    "original": "LUMBER",
+    "translation": "木材",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-e72244d876bfc781",
+    "source": "urw3-bin:handcraft-options",
+    "context": "showtext",
+    "original": "TRANSPORT",
+    "translation": "运输工具",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-c4d026b4c7ed1a6f",
+    "source": "urw3-bin:handcraft-options",
+    "context": "showtext",
+    "original": "CONTAINERS",
+    "translation": "容器",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-29c5cfc0475ada88",
+    "source": "urw3-bin:handcraft-options",
+    "context": "showtext",
+    "original": "UTILITY ARTICLES",
+    "translation": "日用器具",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-820d80b65b6d5307",
+    "source": "urw3-bin:handcraft-options",
+    "context": "showtext",
+    "original": "TYING EQUIPMENT",
+    "translation": "捆扎用具",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-579ba2d8858b0d73",
+    "source": "urw3-bin:handcraft-options",
+    "context": "showtext",
+    "original": "WEAPONS",
+    "translation": "武器",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-e591a66e700c17e2",
+    "source": "urw3-bin:handcraft-options",
+    "context": "showtext",
+    "original": "Make",
+    "translation": "制作",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-4f0d55ed6a88b768",
+    "source": "urw3-bin:handcraft-options",
+    "context": "showtext",
+    "original": "MAKE",
+    "translation": "制作",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-49bb3399bb6ab3c8",
+    "source": "urw3-bin:handcraft-options",
+    "context": "showtext",
+    "original": "HANDCRAFT OPTIONS",
+    "translation": "手工制作选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-967dd7e84d84c380",
+    "source": "urw3-bin:handcraft-options",
+    "context": "showtext",
+    "original": "MODDED HANDCRAFT OPTIONS",
+    "translation": "模组手工制作选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-72dbf93960bc92a9",
+    "source": "urw3-bin:handcraft-options",
+    "context": "showtext",
+    "original": "Modded handcraft options",
+    "translation": "模组手工制作选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-5f9e7baa8e44504e",
+    "source": "urw3-bin:handcraft-options",
+    "context": "showtext",
+    "original": "Arrow",
+    "translation": "箭",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-508095360761bce7",
+    "source": "urw3-bin:handcraft-options",
+    "context": "showtext",
+    "original": "Blunt arrow",
+    "translation": "钝头箭",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-16cfe6db6fcfb66b",
+    "source": "urw3-bin:handcraft-options",
+    "context": "showtext",
+    "original": "Arrow shaft",
+    "translation": "箭杆",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-6af425eaf4971c78",
+    "source": "urw3-bin:handcraft-options",
+    "context": "showtext",
+    "original": "Stone arrowhead",
+    "translation": "石箭镞",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-60e81ef2ff354a09",
+    "source": "urw3-bin:handcraft-options",
+    "context": "showtext",
+    "original": "Bone arrowhead",
+    "translation": "骨箭镞",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-3e4fc5a107437d45",
+    "source": "runtime:timbercraft",
+    "context": "showtext",
+    "original": "Fell a tree",
+    "translation": "砍倒一棵树",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-e9954831b0259ca3",
+    "source": "runtime:timbercraft",
+    "context": "showtext",
+    "original": "Chop blocks of wood",
+    "translation": "劈制木块",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-c1670c38bac0855d",
+    "source": "runtime:timbercraft",
+    "context": "showtext",
+    "original": "Split firewood",
+    "translation": "劈柴",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-0beed4e96c6a0c8e",
+    "source": "runtime:timbercraft",
+    "context": "showtext",
+    "original": "Log",
+    "translation": "制作原木",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-0dad5ce97a6984de",
+    "source": "runtime:timbercraft",
+    "context": "showtext",
+    "original": "Boards",
+    "translation": "制作木板",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-96f1c6261df8bfd6",
+    "source": "runtime:timbercraft",
+    "context": "showtext",
+    "original": "Peel bark",
+    "translation": "剥取树皮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-4c780f5f056853f4",
+    "source": "runtime:timbercraft",
+    "context": "showtext",
+    "original": "Twigs and branches",
+    "translation": "采集细枝与树枝",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-cd01f2910726001b",
+    "source": "runtime:timbercraft",
+    "context": "showtext",
+    "original": "FELL A TREE",
+    "translation": "砍倒一棵树",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-ff6fc16e518ab5d4",
+    "source": "runtime:timbercraft",
+    "context": "showtext",
+    "original": "CHOP BLOCKS OF WOOD",
+    "translation": "劈制木块",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-cfada31f41850396",
+    "source": "runtime:timbercraft",
+    "context": "showtext",
+    "original": "SPLIT FIREWOOD",
+    "translation": "劈柴",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-7726585bbfda018e",
+    "source": "runtime:timbercraft",
+    "context": "showtext",
+    "original": "LOG",
+    "translation": "制作原木",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-a65c5b5158c2f13a",
+    "source": "runtime:timbercraft",
+    "context": "showtext",
+    "original": "BOARDS",
+    "translation": "制作木板",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-3b1e39468bf9ccc6",
+    "source": "runtime:timbercraft",
+    "context": "showtext",
+    "original": "PEEL BARK",
+    "translation": "剥取树皮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-28307b88420c7d89",
+    "source": "runtime:timbercraft",
+    "context": "showtext",
+    "original": "TWIGS AND BRANCHES",
+    "translation": "采集细枝与树枝",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-53cddb8723eb72fe",
+    "source": "runtime:timbercraft",
+    "context": "showtext",
+    "original": "TIMBERCRAFT OPTION",
+    "translation": "伐木选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-599f0741eb867b86",
+    "source": "runtime:timbercraft",
+    "context": "showtext",
+    "original": "FELLING A TREE ...",
+    "translation": "正在砍树……",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-e128ba84479f41b5",
+    "source": "runtime:timbercraft",
+    "context": "showtext",
+    "original": "Timbercraft is a general ability to cut down trees and produce rough lumber like logs, board..",
+    "translation": "伐木技能可用来砍树，也可将木材加工成原木、木板等。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-81d149349cc1ab63",
+    "source": "runtime:craft-options",
+    "context": "message",
+    "original": "#HANDCRAFT OPTIONS: Arrows",
+    "translation": "手工制作：箭矢",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-b2afd66a15460202",
+    "source": "runtime:craft-options",
+    "context": "message",
+    "original": "#HANDCRAFT OPTIONS: Building",
+    "translation": "手工制作：建造",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-84d09f9158c1e770",
+    "source": "runtime:craft-options",
+    "context": "message",
+    "original": "#HANDCRAFT OPTIONS: Clothes",
+    "translation": "手工制作：衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-a614b791dda59ffe",
+    "source": "runtime:craft-options",
+    "context": "message",
+    "original": "#HANDCRAFT OPTIONS: Fishing",
+    "translation": "手工制作：捕鱼用具",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-75244b8d17384515",
+    "source": "runtime:craft-options",
+    "context": "message",
+    "original": "#HANDCRAFT OPTIONS: Hafting",
+    "translation": "手工制作：装柄",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-3ff5f55cb71c80a0",
+    "source": "runtime:craft-options",
+    "context": "message",
+    "original": "#HANDCRAFT OPTIONS: Lumber",
+    "translation": "手工制作：木材",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-1235f30672f06d92",
+    "source": "runtime:craft-options",
+    "context": "message",
+    "original": "#HANDCRAFT OPTIONS: Trapping",
+    "translation": "手工制作：陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-44e5cf8aefee1e43",
+    "source": "runtime:craft-options",
+    "context": "message",
+    "original": "#HANDCRAFT OPTIONS: Transport",
+    "translation": "手工制作：运输工具",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-f4da6e8052e8c138",
+    "source": "runtime:craft-options",
+    "context": "message",
+    "original": "#HANDCRAFT OPTIONS: Containers",
+    "translation": "手工制作：容器",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-77a31114b908e479",
+    "source": "runtime:craft-options",
+    "context": "message",
+    "original": "#HANDCRAFT OPTIONS: Utility articles",
+    "translation": "手工制作：日用器具",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-9f400bd969f59103",
+    "source": "runtime:craft-options",
+    "context": "message",
+    "original": "#HANDCRAFT OPTIONS: Tying equipment",
+    "translation": "手工制作：捆扎用具",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-a7331a89eb3ed89c",
+    "source": "runtime:craft-options",
+    "context": "message",
+    "original": "#HANDCRAFT OPTIONS: Weapons",
+    "translation": "手工制作：武器",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-e8a6b68542e2a67a",
+    "source": "runtime:craft-options",
+    "context": "message",
+    "original": "#HANDCRAFT OPTIONS: Textilecraft",
+    "translation": "手工制作：纺织",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-13fb07553937ec7b",
+    "source": "runtime:craft-options",
+    "context": "message",
+    "original": "#Timbercraft option: Fell a tree",
+    "translation": "伐木选项：砍倒一棵树",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-c6366e12aa19fdb0",
+    "source": "runtime:craft-options",
+    "context": "message",
+    "original": "#Timbercraft option: Chop blocks of wood",
+    "translation": "伐木选项：劈制木块",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-ef66b32dbe806d20",
+    "source": "runtime:craft-options",
+    "context": "message",
+    "original": "#Timbercraft option: Split firewood",
+    "translation": "伐木选项：劈柴",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-ba00fb89c634a7e4",
+    "source": "runtime:craft-options",
+    "context": "message",
+    "original": "#Timbercraft option: Log",
+    "translation": "伐木选项：制作原木",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-fcf561aa869b31df",
+    "source": "runtime:craft-options",
+    "context": "message",
+    "original": "#Timbercraft option: Boards",
+    "translation": "伐木选项：制作木板",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-b83e4c3e1be18c96",
+    "source": "runtime:craft-options",
+    "context": "message",
+    "original": "#Timbercraft option: Peel bark",
+    "translation": "伐木选项：剥取树皮",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-1187ba6b188ce0ae",
+    "source": "runtime:craft-options",
+    "context": "message",
+    "original": "#Timbercraft option: Twigs and branches",
+    "translation": "伐木选项：采集细枝与树枝",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-a301b4783b621934",
+    "source": "urw3-bin:craft-requirements:0x10007e029",
+    "context": "paragraph",
+    "original": "To do this, you need the following equipment, materials and/or articles:",
+    "translation": "完成这项工作需要以下工具、材料或物品：",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-bd6d065983f5ae38",
+    "source": "runtime:craft-requirements",
+    "context": "showtext",
+    "original": "Cutting weapon",
+    "translation": "砍伐工具",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-182b2689256ca7fc",
+    "source": "runtime:craft-requirements",
+    "context": "showtext",
+    "original": "Cutting weapon or by hand",
+    "translation": "砍伐工具或徒手",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-0bcd580672635d98",
+    "source": "runtime:craft-requirements",
+    "context": "showtext",
+    "original": "Sewing needle",
+    "translation": "缝衣针",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-39a591747a596810",
+    "source": "runtime:craft-requirements",
+    "context": "showtext",
+    "original": "Knife",
+    "translation": "刀",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-6862e900a2b14d60",
+    "source": "runtime:craft-requirements",
+    "context": "showtext",
+    "original": "Wooden stake",
+    "translation": "木桩",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-8651084963f2dff7",
+    "source": "runtime:craft-requirements",
+    "context": "showtext",
+    "original": "Wooden shovel",
+    "translation": "木铲",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-60d8b4e5d58d9827",
+    "source": "runtime:craft-requirements",
+    "context": "craft-ingredient",
+    "original": "cutting weapon",
+    "translation": "砍伐工具",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-0b3bd9e8ee91a525",
+    "source": "runtime:craft-requirements",
+    "context": "craft-ingredient",
+    "original": "cutting weapon or by hand",
+    "translation": "砍伐工具或徒手",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-a3c69eb18e9b62b0",
+    "source": "runtime:craft-requirements",
+    "context": "craft-ingredient",
+    "original": "sewing needle",
+    "translation": "缝衣针",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-3da9fc8b3771e2a6",
+    "source": "runtime:craft-requirements",
+    "context": "craft-ingredient",
+    "original": "knife",
+    "translation": "刀",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-9406f4c601721280",
+    "source": "runtime:craft-requirements",
+    "context": "craft-ingredient",
+    "original": "wooden stake",
+    "translation": "木桩",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-225fdaf4ce539358",
+    "source": "runtime:craft-requirements",
+    "context": "craft-ingredient",
+    "original": "wooden shovel",
+    "translation": "木铲",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-dbf7dc7095f699d2",
+    "source": "urw3-bin:craft-progress",
+    "context": "showtext",
+    "original": "Wait, or press [ESC] to cancel.",
+    "translation": "请等待，或按 [ESC] 取消。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "preserve": [
+      "[ESC]"
+    ]
+  },
+  {
+    "id": "craft-419309cee16ba4b5",
+    "source": "urw3-bin:craft-progress",
+    "context": "showtext",
+    "original": "You may continue afterwards.",
+    "translation": "之后可以继续。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-44edf0801894bbf6",
+    "source": "urw3-bin:craft-progress",
+    "context": "showtext",
+    "original": "Time spent: ",
+    "translation": "耗时：",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-4684ad9716185f04",
+    "source": "urw3-bin:craft-progress",
+    "context": "showtext",
+    "original": "  Progress: ",
+    "translation": "进度：",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-63969df442fa3ace",
+    "source": "urw3-bin:craft-progress",
+    "context": "showtext",
+    "original": "    Effort: ",
+    "translation": "强度：",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-4f47c5bd082bedbd",
+    "source": "urw3-bin:craft-progress",
+    "context": "showtext",
+    "original": "Heavy",
+    "translation": "费力",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-79084aa98eb9c0d2",
+    "source": "urw3-bin:craft-progress",
+    "context": "showtext",
+    "original": "{time:int} minutes",
+    "translation": "{time} 分钟",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "craft-77d68fcd6047c012",
+    "source": "urw3-bin:craft-progress",
+    "context": "showtext",
+    "original": "{time:int} hours",
+    "translation": "{time} 小时",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "craft-e226592a600e2809",
+    "source": "urw3-bin:craft-progress",
+    "context": "showtext",
+    "original": "HOW MANY? (OF TOTAL {total:int})",
+    "translation": "取多少？（共 {total} 件）",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "craft-78f748b743f89ada",
+    "source": "runtime:craft-followup",
+    "context": "message",
+    "original": "Ok, you have all the necessary equipment!",
+    "translation": "所需工具已齐备！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-59641f93f81ee02b",
+    "source": "runtime:craft-followup",
+    "context": "message",
+    "original": ":The tree falls down.",
+    "translation": "树倒下了。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-d70f0bf1d7fffe78",
+    "source": "runtime:craft-followup",
+    "context": "message",
+    "original": "_That's not enough. Select some more.",
+    "translation": "数量不足，请再选一些。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-f1e48d41ec205e74",
+    "source": "runtime:craft-followup",
+    "context": "message",
+    "original": ":To do this by hand press [esc] to skip the item selection.",
+    "translation": "按 [esc] 跳过选取物品，可改用徒手。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-f3bb8bc64bb4254d",
+    "source": "runtime:craft-followup",
+    "context": "message",
+    "original": "!Modded crafts menu is not available.",
+    "translation": "模组制作菜单不可用。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-788739ae4a016857",
+    "source": "runtime:craft-followup",
+    "context": "message",
+    "original": "?There are no menu categories (mod_menudef_*.Txt) or craftable items (mod_diy_*.*) properly defined.",
+    "translation": "没有正确定义模组菜单类别（mod_menudef_*.Txt）或可制作物品（mod_diy_*.*）。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-15037167c88b58ec",
+    "source": "urw3-bin:ProceedPause:0x10012c5dc",
+    "context": "craft-prompt",
+    "original": "to continue",
+    "translation": "继续",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "craft-811184c7bf4636cf",
+    "source": "urw3-bin:ProceedPause:0x10012c5dc",
+    "context": "craft-prompt",
+    "original": "cancel",
+    "translation": "取消",
+    "status": "reviewed",
+    "runtime_verified": false
+  }
+]

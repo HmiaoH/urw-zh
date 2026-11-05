@@ -1,0 +1,128 @@
+[
+  {
+    "id": "fba1de6f5d0034fd17e0",
+    "source": "runtime:onboarding",
+    "context": "paragraph",
+    "original": "The story below is a description of your start-up scenario and a rough background of your character. You may find it interesting to follow or you can just ignore it. It only tells you what brought your character here - the rest is up to you. There are so many paths to follow, so many scenes to see, so many windbreezes to feel and ever so many secrets to find from the world around or within you...",
+    "translation": "下面的故事描述了你的开局情境和角色的大致身世。你可以顺着这个故事继续，也可以完全不理会。它只告诉你，角色为何来到此地；之后的一切由你决定。有那么多道路等待踏上，那么多风景等待目睹，那么多清风等待感受，还有无数秘密等待你从身边的世界或内心深处发掘……",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ce783abf9c19b956aed1",
+    "source": "runtime:onboarding",
+    "context": "paragraph",
+    "original": "Now pick and select a start-up scenario you wish to start with. All the other scenarios except the first one, The Unreal World, give you a rough background and a plot you can start to follow.",
+    "translation": "现在请选择一个开局剧本。除了第一个“虚幻世界”之外，其他剧本都会提供大致的身世背景，以及一条可供你继续发展的故事线。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "cefaa2cbfde6b4a9f199",
+    "source": "runtime:onboarding",
+    "context": "paragraph",
+    "original": "Free gameplay - everything is up to you. You have no tasks or duties except the ones you decide to do or try out by yourself. This is the ultimate way of gaming for experienced, freedom desiring players - but suitable also for rookies to get to know the game mechanics first before trying task based game-courses.",
+    "translation": "自由游玩——一切由你决定。除了自己想做或想尝试的事，你没有任何任务或义务。这是经验丰富、向往自由的玩家尽情游玩的方式；也适合新手先了解游戏机制，再尝试以任务为引导的游戏课程。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "8dec6ae7f5f7c8b9959e",
+    "source": "runtime:onboarding",
+    "context": "paragraph",
+    "original": "Tasks to teach you the basics of wilderness survival and to test your survival skills as you roam across the land and explore the wide world. This game-course starts with easy and fundamental wilderness survival tasks and slowly gets you accustomed to living in the wild, eventually bringing you among people and ways of more settled life.",
+    "translation": "通过任务学习荒野生存的基础，并在走遍大地、探索广阔世界的过程中检验生存技能。本课程从简单、基础的荒野生存任务开始，让你逐渐适应野外生活，最终引导你接触其他人，以及更安定的生活方式。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "64a382e1614b439f536d",
+    "source": "runtime:onboarding",
+    "context": "paragraph",
+    "original": "Varying tasks from more advanced wilderness survival and hunting techniques to encounters with the Unreal World as a whole; the regions near and far, the people of familiar cultures and far-away countries, the spirit world and more deeply entering into the living and making your livelihood in the far north. This is a game-course for more experienced players.",
+    "translation": "丰富的任务涵盖进阶荒野生存与狩猎技巧，也让你逐步接触整个虚幻世界：远近各地、熟悉文化与遥远国度中的人们、精灵世界，以及在极北之地生活谋生的更深层面。本课程面向更有经验的玩家。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "43bcc09621b86d52f97c",
+    "source": "runtime:onboarding",
+    "context": "paragraph",
+    "original": "You can choose to play a tutorial like game-course, or have completely freeform adventures in UnReal World. Game courses give you different kind of tasks and duties to perform. As you advance you'll be rewarded with bonus features and additions that are unique for each game course.",
+    "translation": "你可以选择类似教程的游戏课程，也可以在虚幻世界中展开完全自由的冒险。游戏课程会安排各种任务与职责。随着进度推进，你将获得各课程独有的额外功能和内容作为奖励。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "5c8e8f9446034e91a331",
+    "source": "runtime:onboarding",
+    "context": "paragraph",
+    "original": "You are about to enter The UnReal World for the first time with this character. When the game starts press [ESC] to view keyboard commands and help. From there on you may start to learn the secrets of the game. <br> <br> This game encyclopedia can be started anytime by pressing [F1]. You are also notified during game-play when there's more information available about a topic. <br> <br> The world beyond the game is rich and deeper than it first seems. Exploring and browsing the game encyclopedia may greatly stimulate your imagination and give greater texture and depth to the game. You'll also find answers to most of the questions about The UnReal World and the game here. <br> <br> Feel free to browse the game information now, or press [ESC] to exit and start playing. We'll start with the myth of The Unreal World. You can go to main topics anytime by pressing [HOME].",
+    "translation": "你即将带着这位角色首次进入虚幻世界。游戏开始后，按[ESC]查看键盘指令和帮助，便可从那里开始探索游戏的奥秘。<br><br>随时按[F1]都能打开这部游戏百科。游玩时，若某个主题有更多资料可读，游戏也会提示你。<br><br>游戏背后的世界比初看时更丰富、更深邃。探索和阅读百科，可以激发想象，让游戏体验更加充实。关于虚幻世界和游戏的大多数问题，也能在这里找到答案。<br><br>现在可以自由浏览资料，或按[ESC]退出并开始游玩。我们会先介绍虚幻世界的神话。随时按[HOME]即可回到主题目录。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "7c3919666b43dfad851c",
+    "source": "runtime:onboarding",
+    "context": "showtext",
+    "original": "SELECT A GAME COURSE",
+    "translation": "选择游戏课程",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "67a7830a92e864339325",
+    "source": "runtime:onboarding",
+    "context": "showtext",
+    "original": "LIVING IN THE WILD",
+    "translation": "荒野生活",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "66bb4fcf2dec7b8179d0",
+    "source": "runtime:onboarding",
+    "context": "showtext",
+    "original": "ADVANCED ADVENTURES",
+    "translation": "进阶冒险",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "410b4420c56d0a318f36",
+    "source": "runtime:onboarding",
+    "context": "showtext",
+    "original": "UNREAL WORLD ENCYCLOPEDIA",
+    "translation": "虚幻世界百科",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "06bc02b56f34a0bfda12",
+    "source": "runtime:onboarding",
+    "context": "showtext",
+    "original": "Character creation completed.",
+    "translation": "角色创建完成。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1fc31a1bb1056696330b",
+    "source": "runtime:onboarding",
+    "context": "showtext",
+    "original": "Press a key",
+    "translation": "按任意键",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "6349d2566d0f40d70234",
+    "source": "runtime:onboarding",
+    "context": "showtext",
+    "original": "Press a key to continue - The UnReal World awaits",
+    "translation": "按任意键继续——虚幻世界正等待着你",
+    "status": "reviewed",
+    "runtime_verified": false
+  }
+]

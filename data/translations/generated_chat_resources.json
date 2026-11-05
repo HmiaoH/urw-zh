@@ -1,0 +1,1528 @@
+[
+  {
+    "id": "034b11bc5fb5ba0cba59",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "And just what did you {reptitle_trading:text} think of offering?",
+    "translation": "{reptitle_trading}，你到底打算拿什么来换？",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "bc2db7aab7f5aa977fbd",
+      "resource": "messages/urw_chat.txt",
+      "section": ".TRADE_LETS_BARTER.(trading mood)",
+      "line": 3,
+      "emotion": "negative",
+      "selector": null,
+      "prefix": ":( ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "f587207256427ad9096e",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "So let's barter! What have you got to offer, {plr_identity:text}?",
+    "translation": "那就来做交易吧！{plr_identity}，你有什么可以拿来换？",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "76e139cad258e0ca6f60",
+      "resource": "messages/urw_chat.txt",
+      "section": ".TRADE_LETS_BARTER.(trading mood)",
+      "line": 4,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": ":| ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "c985946c7e6b26a4863f",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "My pleasure to start trading with {reptitle_trading_ind:text}.",
+    "translation": "很高兴能和{reptitle_trading_ind}做交易。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "10c4456c7f3323edba24",
+      "resource": "messages/urw_chat.txt",
+      "section": ".TRADE_LETS_BARTER.(trading mood)",
+      "line": 5,
+      "emotion": "positive",
+      "selector": null,
+      "prefix": ":) ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "836ca86b08a66791a472",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "Maybe I just might accept this offer. Do we have a deal now, {plr_bad_name:text}?",
+    "translation": "这笔交易嘛，或许可以接受。{plr_bad_name}，这就算成交了吗？",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "16dfd6273afd709965c0",
+      "resource": "messages/urw_chat.txt",
+      "section": ".TRADE_ACCEPT_OFFER.(trading mood)",
+      "line": 8,
+      "emotion": "negative",
+      "selector": null,
+      "prefix": ":( ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "281e01b66ca291d99df7",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "I do accept your offer. Shall we close the deal then?",
+    "translation": "我接受你的提议。那我们成交吧？",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "09ac8021027f78de047a",
+      "resource": "messages/urw_chat.txt",
+      "section": ".TRADE_ACCEPT_OFFER.(trading mood)",
+      "line": 9,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": ":| ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "631f53c608346fad5d94",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "This will do just fine. I'm happy with this deal if you are?",
+    "translation": "这样就挺好。你要是也满意，咱们就成交？",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "6fca2d994bf26e8edc48",
+      "resource": "messages/urw_chat.txt",
+      "section": ".TRADE_ACCEPT_OFFER.(trading mood)",
+      "line": 10,
+      "emotion": "positive",
+      "selector": null,
+      "prefix": ":) ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "5375bed197aa449c61ee",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "So be it, {plr_bad_name:text}.",
+    "translation": "好吧，{plr_bad_name}。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "2c38f1488b17a7497699",
+      "resource": "messages/urw_chat.txt",
+      "section": ".TRADE_DEAL.(trading mood)",
+      "line": 13,
+      "emotion": "negative",
+      "selector": null,
+      "prefix": ":( ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "1e4897729034a021e34b",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "We have to come to an agreement over this trade.",
+    "translation": "这笔交易咱们得谈出个结果。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "f199096be0298f62c824",
+      "resource": "messages/urw_chat.txt",
+      "section": ".TRADE_DEAL.(trading mood)",
+      "line": 14,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": ":| ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "1c519be7efc8ad73f5cc",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "Thank you once again, {plr_identity:text}.",
+    "translation": "再次感谢你，{plr_identity}。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "07e5623d883875f462f1",
+      "resource": "messages/urw_chat.txt",
+      "section": ".TRADE_DEAL.(trading mood)",
+      "line": 15,
+      "emotion": "positive",
+      "selector": null,
+      "prefix": ":) ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "4d34e50fdd7f15b82050",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "I'm pleasantly surprised. Maybe you are not {reptitle_trading_ind:text} after all.",
+    "translation": "这倒让我刮目相看。看来你也未必是{reptitle_trading_ind}。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "899c49622159c7ca8c2d",
+      "resource": "messages/urw_chat.txt",
+      "section": ".TRADE_GENEROUS_DEAL.(trading mood)",
+      "line": 18,
+      "emotion": "negative",
+      "selector": null,
+      "prefix": ":( ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "7d431cfc7dca8843cfb0",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "Thank you, {plr_identity:text}. That was generous.",
+    "translation": "谢谢你，{plr_identity}。你真慷慨。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "0c13c212cb3e7484021e",
+      "resource": "messages/urw_chat.txt",
+      "section": ".TRADE_GENEROUS_DEAL.(trading mood)",
+      "line": 19,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": ":| ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "19c5aaff4d5ad95d2e98",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "There are few things I could trade away, {plr_bad_name:text}, although I would prefer to do so with someone other than you.",
+    "translation": "我倒是有几样东西可以拿来交易，{plr_bad_name}，不过我更愿意和别人做交易。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "986ffda930b395753a27",
+      "resource": "messages/urw_chat.txt",
+      "section": ".NPC_CAN_TRADE.(tra rep)",
+      "line": 24,
+      "emotion": "negative",
+      "selector": null,
+      "prefix": ":( ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "5762a4be2035785b602b",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "I have some goods to trade.",
+    "translation": "我有些货物可以交易。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "ad48b95ea55b1d1fe07d",
+      "resource": "messages/urw_chat.txt",
+      "section": ".NPC_CAN_TRADE.(tra rep)",
+      "line": 25,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": ":| ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "790f4e9cc78086eccb2d",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "If you find my goods interesting I'm happy to trade with you, {plr_identity:text}.",
+    "translation": "要是有看得上眼的货，{plr_identity}，我很乐意跟你交易。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "ecb1cb81c24c11f11d14",
+      "resource": "messages/urw_chat.txt",
+      "section": ".NPC_CAN_TRADE.(tra rep)",
+      "line": 26,
+      "emotion": "positive",
+      "selector": null,
+      "prefix": ":) ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "fd15372609ed3862af7a",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "I do not trade my goods.",
+    "translation": "我的东西不拿来交易。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "fecc9a32b633e85771fa",
+      "resource": "messages/urw_chat.txt",
+      "section": ".NPC_CANT_TRADE.(tra rep)",
+      "line": 29,
+      "emotion": "negative",
+      "selector": null,
+      "prefix": ":( ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "df2c0b7d8f06b0166c9b",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "Sorry, {plr_identity:text}. I've got nothing to trade.",
+    "translation": "抱歉，{plr_identity}。我没什么可交易的。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "d4fd59ecdf5b6decf5e0",
+      "resource": "messages/urw_chat.txt",
+      "section": ".NPC_CANT_TRADE.(tra rep)",
+      "line": 30,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": ":| ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "6020adda82fef8190279",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "I'm sorry to disappoint {reptitle_tra_ind:text}, but I don't have anything to trade.",
+    "translation": "恐怕要让{reptitle_tra_ind}失望了，我没什么东西可交易。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "0a4c0f02d344667ea5a5",
+      "resource": "messages/urw_chat.txt",
+      "section": ".NPC_CANT_TRADE.(tra rep)",
+      "line": 31,
+      "emotion": "positive",
+      "selector": null,
+      "prefix": ":) ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "bba6318d1dfd1aa83717",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "If you like the goods around here, just pick up the ones you need and come talk to me about trading for them.",
+    "translation": "看中这里的货，就拿起你要的东西，来找我谈价。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "abe9e1761570af7757fc",
+      "resource": "messages/urw_chat.txt",
+      "section": ".TRADE_BRIEFING.(trading mood)",
+      "line": 34,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": ":| ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "9ccbddeac96ad7b12c29",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "Leave our goods alone! We do not trade.",
+    "translation": "别动我们的东西！我们不做交易。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "933ab1d538a86bd63387",
+      "resource": "messages/urw_chat.txt",
+      "section": ".TRADE_BANNED.",
+      "line": 37,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": "",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "91580d4d6229ac49a837",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "For the time being we keep our goods to ourselves and do not trade with anyone.",
+    "translation": "我们的货暂时都留着，谁来都不交易。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "6264c4893c7696974712",
+      "resource": "messages/urw_chat.txt",
+      "section": ".TRADE_STOPPAGE.(fam rep)",
+      "line": 43,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": "",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "a7ad434810ecbab49b1f",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "You {reptitle_stealing:text} need to pay your debt right now!",
+    "translation": "你这个{reptitle_stealing}，现在就把欠的东西还清！",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "eb01e5303e4ec393d229",
+      "resource": "messages/urw_chat.txt",
+      "section": ".DEMAND_PAYMENT.(stealing mood)",
+      "line": 47,
+      "emotion": "negative",
+      "selector": null,
+      "prefix": ":( ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "8f80246a8bfc422325fd",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "You owe us for the goods you have picked.",
+    "translation": "拿了我们的货，就得付账。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "4f8d3ecb8830ad6aa3d3",
+      "resource": "messages/urw_chat.txt",
+      "section": ".DEMAND_PAYMENT.(stealing mood)",
+      "line": 48,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": ":| ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "cdcfe884ff7decb580b6",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "Would you care to barter for the goods you've gotten?",
+    "translation": "你愿意拿些东西来换已经拿走的货吗？",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "b0dfa91d67be87a49d4e",
+      "resource": "messages/urw_chat.txt",
+      "section": ".DEMAND_PAYMENT.(stealing mood)",
+      "line": 49,
+      "emotion": "positive",
+      "selector": null,
+      "prefix": ":) ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "c09cd055a794881b48ba",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "Bah! You better be prepared next time!",
+    "translation": "哼！下次你最好做好准备！",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "254eb117d4f7ea44c765",
+      "resource": "messages/urw_chat.txt",
+      "section": ".FAILED_PAYMENT.(trading mood)",
+      "line": 52,
+      "emotion": "negative",
+      "selector": null,
+      "prefix": ":( ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "0847436978cc6da63cea",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "Next time come barter only when you are up to it.",
+    "translation": "下回有能力付账了，再来谈交易。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "22abec255d81281ebdf3",
+      "resource": "messages/urw_chat.txt",
+      "section": ".FAILED_PAYMENT.(trading mood)",
+      "line": 53,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": ":| ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "159184f4a1d5e48c1f5f",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "Hmph! I though you were reliable when it comes to trading.",
+    "translation": "哼！我还以为你做交易挺可靠的。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "62ab4d38e3847cbf9e49",
+      "resource": "messages/urw_chat.txt",
+      "section": ".FAILED_PAYMENT.(trading mood)",
+      "line": 54,
+      "emotion": "positive",
+      "selector": null,
+      "prefix": ":) ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "97fe33c0641ac380f3b8",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "How many times does {reptitle_mischief_ind:text} like you need to be told off before you stop!",
+    "translation": "像你这样的{reptitle_mischief_ind}，还要被骂几次才肯罢手！",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "b98df08d48e7d91baa98",
+      "resource": "messages/urw_chat.txt",
+      "section": ".MISCHIEF_TELL_OFF.(mischief)",
+      "line": 58,
+      "emotion": "negative",
+      "selector": null,
+      "prefix": ":( ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "a11e1386422415256d8c",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "There are certain things you are not allowed to do!",
+    "translation": "有些事情你不准做！",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "25eebe00278cf5719eed",
+      "resource": "messages/urw_chat.txt",
+      "section": ".MISCHIEF_TELL_OFF.(mischief)",
+      "line": 59,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": ":| ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "f14b11744a88b6568889",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "You need to follow certain rules around here.",
+    "translation": "你得遵守这里的规矩。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "a17424060b45698034eb",
+      "resource": "messages/urw_chat.txt",
+      "section": ".MISCHIEF_TELL_OFF.(mischief)",
+      "line": 60,
+      "emotion": "positive",
+      "selector": null,
+      "prefix": ":) ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "e98c1cf4eb001b77b9f6",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "Drop our goods right now, you {reptitle_stealing:text}!",
+    "translation": "马上放下我们的东西，你这个{reptitle_stealing}！",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "1d34a0e16fb130e8c6cf",
+      "resource": "messages/urw_chat.txt",
+      "section": ".DROP_OUR_GOODS.(stealing mood)",
+      "line": 64,
+      "emotion": "negative",
+      "selector": null,
+      "prefix": ":( ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "f5481901a96b87375bca",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "Drop our goods right now!",
+    "translation": "马上放下我们的东西！",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "0e15f6ff8211fb4182aa",
+      "resource": "messages/urw_chat.txt",
+      "section": ".DROP_OUR_GOODS.(stealing mood)",
+      "line": 65,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": ":| ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "34d8fe0fef96406a8595",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "I have to ask you to drop our goods now!",
+    "translation": "麻烦你现在把我们的货放下！",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "045fbf791b0c2c1089d5",
+      "resource": "messages/urw_chat.txt",
+      "section": ".DROP_OUR_GOODS.(stealing mood)",
+      "line": 66,
+      "emotion": "positive",
+      "selector": null,
+      "prefix": ":) ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "aecf91086834ef23e961",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "Talk to the adults.",
+    "translation": "去和成年人说话。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "d1153e95ecefba88ff56",
+      "resource": "messages/urw_chat.txt",
+      "section": ".ADULT_TOPIC.(fam rep)",
+      "line": 69,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": ":| ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "29a76f4f9ed85cd93672",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "Hmpf.",
+    "translation": "哼。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "9161b893cab979f071a3",
+      "resource": "messages/urw_chat.txt",
+      "section": ".GREET_MORNING.(overall rep)",
+      "line": 73,
+      "emotion": "negative",
+      "selector": null,
+      "prefix": ":( ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "ace99fa4db9705fc33a3",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "Good morning, {plr_identity:text}.",
+    "translation": "早上好，{plr_identity}。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "db261652700d751b00af",
+      "resource": "messages/urw_chat.txt",
+      "section": ".GREET_MORNING.(overall rep)",
+      "line": 74,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": ":| ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "679b9c4fd69a6d5615cc",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "Good morning and an even better day to you, {plr_identity:text}!",
+    "translation": "早上好，{plr_identity}！愿你今天过得愉快！",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "2ac4c0b29f53dab043c8",
+      "resource": "messages/urw_chat.txt",
+      "section": ".GREET_MORNING.(overall rep)",
+      "line": 75,
+      "emotion": "positive",
+      "selector": null,
+      "prefix": ":) ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "abf22831fbb12b88ff20",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "Why are you bothering me at this hour, {plr_bad_name:text}?",
+    "translation": "这么晚了，你为什么来烦我，{plr_bad_name}？",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "b1212bb8ad968a224c63",
+      "resource": "messages/urw_chat.txt",
+      "section": ".GREET_NIGHT.(overall rep)",
+      "line": 78,
+      "emotion": "negative",
+      "selector": null,
+      "prefix": ":( ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "5acbc79d74f1f3d68b38",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "You are bothering us at unusual hour, {plr_identity:text}.",
+    "translation": "{plr_identity}，你怎么挑这个时候来打扰我们。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "abe80e15e33bd5184a6a",
+      "resource": "messages/urw_chat.txt",
+      "section": ".GREET_NIGHT.(overall rep)",
+      "line": 79,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": ":| ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "a0c78164e466864bbd67",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "Don't you ever sleep, {plr_identity:text}?",
+    "translation": "你从来不睡觉吗，{plr_identity}？",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "a7336fafe178ad83c224",
+      "resource": "messages/urw_chat.txt",
+      "section": ".GREET_NIGHT.(overall rep)",
+      "line": 80,
+      "emotion": "positive",
+      "selector": null,
+      "prefix": ":) ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "df20700ecd03e4742ca0",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "I am listening, {plr_bad_name:text}.",
+    "translation": "我在听，{plr_bad_name}。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "9e449e53986449bf9fc3",
+      "resource": "messages/urw_chat.txt",
+      "section": ".GREET.(overall rep)",
+      "line": 83,
+      "emotion": "negative",
+      "selector": null,
+      "prefix": ":( ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "50819022aa4f8660dfd6",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "Greetings, {plr_identity:text}.",
+    "translation": "你好，{plr_identity}。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "527a9f11f709add8bd70",
+      "resource": "messages/urw_chat.txt",
+      "section": ".GREET.(overall rep)",
+      "line": 84,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": ":| ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "bf9f3b22a0a5c7c9173d",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "Good day, {plr_identity:text}.",
+    "translation": "你好，{plr_identity}。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "cb9b849f5705c690b584",
+      "resource": "messages/urw_chat.txt",
+      "section": ".GREET.(overall rep)",
+      "line": 85,
+      "emotion": "positive",
+      "selector": null,
+      "prefix": ":) ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "85481207c7634d4ccb0b",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "So you {plr_bad_name:text} have returned.",
+    "translation": "{plr_bad_name}，你居然又回来了。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "72f5d035d07c03e0f28c",
+      "resource": "messages/urw_chat.txt",
+      "section": ".GREET_LONG_TIME.(overall rep)",
+      "line": 88,
+      "emotion": "negative",
+      "selector": null,
+      "prefix": ":( ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "66a5ffd6b80da68e7f7c",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "I haven't seen you much around here lately!",
+    "translation": "我最近很少在这里见到你！",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "2a626f47683af9c661ce",
+      "resource": "messages/urw_chat.txt",
+      "section": ".GREET_LONG_TIME.(overall rep)",
+      "line": 89,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": ":| ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "f34d01713a4c0520b1c3",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "It's good to see you again!",
+    "translation": "很高兴再次见到你！",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "dc523ecd59e8afa143fc",
+      "resource": "messages/urw_chat.txt",
+      "section": ".GREET_LONG_TIME.(overall rep)",
+      "line": 90,
+      "emotion": "positive",
+      "selector": null,
+      "prefix": ":) ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "c91954f2aeb276fa93ac",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "I hoped you {plr_bad_name:text} wouldn't ever return.",
+    "translation": "{plr_bad_name}，我还盼着你再也别回来呢。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "d781859cad98a89fff22",
+      "resource": "messages/urw_chat.txt",
+      "section": ".GREET_LONGER_TIME.(overall rep)",
+      "line": 93,
+      "emotion": "negative",
+      "selector": null,
+      "prefix": ":( ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "d4a6afa703ef3100ce20",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "Where have you been hiding yourself?",
+    "translation": "你躲到哪里去了？",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "da4e91cd5a3a51d91dbe",
+      "resource": "messages/urw_chat.txt",
+      "section": ".GREET_LONGER_TIME.(overall rep)",
+      "line": 94,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": ":| ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "f80fde40a0c9d66d55c8",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "Good to see you after such a long time!",
+    "translation": "这么久没见，真高兴又见到你！",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "2d03e3c7c5af4bcd5d24",
+      "resource": "messages/urw_chat.txt",
+      "section": ".GREET_LONGER_TIME.(overall rep)",
+      "line": 95,
+      "emotion": "positive",
+      "selector": null,
+      "prefix": ":) ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "3dccacb4b45dbefa9a27",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "What do you want?",
+    "translation": "你有什么事？",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "c4e0d1ec7c57c78f7059",
+      "resource": "messages/urw_chat.txt",
+      "section": ".GREET_QUERY.(overall rep)",
+      "line": 98,
+      "emotion": "negative",
+      "selector": null,
+      "prefix": ":( ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "5e17f9f316edbb379140",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "What can I do for you?",
+    "translation": "我能为你做些什么？",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "15eceba37661e2677888",
+      "resource": "messages/urw_chat.txt",
+      "section": ".GREET_QUERY.(overall rep)",
+      "line": 100,
+      "emotion": "positive",
+      "selector": null,
+      "prefix": ":) ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "cceb58cdae23977d7684",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "Good to know you, {plr_name:text}.",
+    "translation": "很高兴认识你，{plr_name}。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "b6ddbe060f3e325a5ac8",
+      "resource": "messages/urw_chat.txt",
+      "section": ".INTRODUCTION_REMARK.(fam rep)",
+      "line": 103,
+      "emotion": "negative",
+      "selector": null,
+      "prefix": ":( ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "d7ced30be8591b139ba7",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "I'm pleased to meet you, {plr_name:text}.",
+    "translation": "很高兴认识你，{plr_name}。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "2533dc082f7810f845f4",
+      "resource": "messages/urw_chat.txt",
+      "section": ".INTRODUCTION_REMARK.(fam rep)",
+      "line": 104,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": ":| ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "71788d0af213c658b6c2",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "{plr_name:text}, it was about time to hear your name at last.",
+    "translation": "{plr_name}，我可算知道你的名字了。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "aaf3c816f3c48e8f924f",
+      "resource": "messages/urw_chat.txt",
+      "section": ".INTRODUCTION_REMARK.(fam rep)",
+      "line": 105,
+      "emotion": "positive",
+      "selector": null,
+      "prefix": ":) ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "c3661438ee594b6e759d",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "Our neighbours came to warn us about {rumor_subject:text}.",
+    "translation": "邻居特意来提醒我们，要提防{rumor_subject}。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "335d0326ed6b4938d75c",
+      "resource": "messages/urw_chat.txt",
+      "section": ".WOM_BAD_INFO.",
+      "line": 109,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": "",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)",
+      "formatted_display": "sprintf (0x10018f681), CrTalk (0x10018f689)"
+    }
+  },
+  {
+    "id": "2977d07f186e2f2a85d6",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "We've been warned about {rumor_subject:text} at this area.",
+    "translation": "有人警告我们，在这一带要提防{rumor_subject}。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "88aa38c95b9dd8d59ff4",
+      "resource": "messages/urw_chat.txt",
+      "section": ".WOM_BAD_INFO.",
+      "line": 110,
+      "emotion": "neutral",
+      "selector": "many",
+      "prefix": "many: ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)",
+      "formatted_display": "sprintf (0x10018f681), CrTalk (0x10018f689)"
+    }
+  },
+  {
+    "id": "81b2b31aac96750da799",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "Unpleasant news about {rumor_subject:text} have reached us.",
+    "translation": "关于{rumor_subject}的坏消息已经传到我们这里。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "e02ff5d45d71480e3588",
+      "resource": "messages/urw_chat.txt",
+      "section": ".WOM_BAD_NEWS.",
+      "line": 113,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": "",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)",
+      "formatted_display": "sprintf (0x10018f681), CrTalk (0x10018f689)"
+    }
+  },
+  {
+    "id": "b86308b14c06403c0d21",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "We have received many news about {rumor_subject:text}.",
+    "translation": "我们听到了不少关于{rumor_subject}的消息。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "e35880fb20a8a6c8344d",
+      "resource": "messages/urw_chat.txt",
+      "section": ".WOM_BAD_NEWS.",
+      "line": 114,
+      "emotion": "neutral",
+      "selector": "many",
+      "prefix": "many: ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)",
+      "formatted_display": "sprintf (0x10018f681), CrTalk (0x10018f689)"
+    }
+  },
+  {
+    "id": "a202c3bdeb9cea928886",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "Disturbing rumor about {rumor_subject:text} has been spreading around here lately.",
+    "translation": "最近这里一直在传一件关于{rumor_subject}的坏事。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "da598a0fa9937a15b28a",
+      "resource": "messages/urw_chat.txt",
+      "section": ".WOM_BAD_RUMORS.",
+      "line": 117,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": "",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)",
+      "formatted_display": "sprintf (0x10018f681), CrTalk (0x10018f689)"
+    }
+  },
+  {
+    "id": "710f991ec6060a83189f",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "Many unpleasant rumors about {rumor_subject:text} have come to our attention.",
+    "translation": "我们听到了不少关于{rumor_subject}的坏传闻。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "31e74e9b7f479d4f0550",
+      "resource": "messages/urw_chat.txt",
+      "section": ".WOM_BAD_RUMORS.",
+      "line": 118,
+      "emotion": "neutral",
+      "selector": "many",
+      "prefix": "many: ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)",
+      "formatted_display": "sprintf (0x10018f681), CrTalk (0x10018f689)"
+    }
+  },
+  {
+    "id": "52a49d036a41ed1f95fc",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "We don't want you around here, {plr_bad_name:text}. Go away!",
+    "translation": "{plr_bad_name}，我们不想再在这里见到你。走开！",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "0ae18449cdb11745b86e",
+      "resource": "messages/urw_chat.txt",
+      "section": ".BANISH_PRECAUTION.(fam rep)",
+      "line": 121,
+      "emotion": "negative",
+      "selector": null,
+      "prefix": ":( ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "5e9ade310c3b0562dbc7",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "You are not welcome here now, {plr_identity:text}.",
+    "translation": "现在这里不欢迎你，{plr_identity}。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "3234c03ce8341c60a37b",
+      "resource": "messages/urw_chat.txt",
+      "section": ".BANISH_PRECAUTION.(fam rep)",
+      "line": 122,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": ":| ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "0708880b4bf0946e2b72",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "We have to ask you to leave for some time, {plr_identity:text}.",
+    "translation": "我们得请你暂时离开一段时间，{plr_identity}。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "9e5c073bbd605328b9e5",
+      "resource": "messages/urw_chat.txt",
+      "section": ".BANISH_PRECAUTION.(fam rep)",
+      "line": 123,
+      "emotion": "positive",
+      "selector": null,
+      "prefix": ":) ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "69ef1b25cf611c38b367",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "We keep an eye out for thieves, {plr_identity:text}.",
+    "translation": "我们会留意小偷，{plr_identity}。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "59479ee7c8a5ae00078f",
+      "resource": "messages/urw_chat.txt",
+      "section": ".THEFT_SUSPICION.(fam rep)",
+      "line": 126,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": "",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "6c5cf87151cf3442a440",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "You seem to be one shameless thief, {plr_identity:text}!",
+    "translation": "你真是个厚颜无耻的小偷，{plr_identity}！",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "33747beef5886d039d76",
+      "resource": "messages/urw_chat.txt",
+      "section": ".THEFT_CHARGE.(fam rep)",
+      "line": 129,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": "",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "9a489a8dbfae512c2cb2",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "We keep an eye out for you too, {plr_identity:text}.",
+    "translation": "我们也会留意你，{plr_identity}。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "cecb25f97cac7aedaf20",
+      "resource": "messages/urw_chat.txt",
+      "section": ".MURDER_SUSPICION.",
+      "line": 132,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": "",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "74fa733f0acb82af9185",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "You have blood on your hands, {plr_identity:text}!",
+    "translation": "你手上沾了血，{plr_identity}！",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "4fd0d3afe62edbbdbf05",
+      "resource": "messages/urw_chat.txt",
+      "section": ".MURDER_CHARGE.",
+      "line": 135,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": "",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "30332267c50691cf843a",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "For me? Well thank you, {plr_identity:text}.",
+    "translation": "是给我的吗？那就谢谢你了，{plr_identity}。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "5bfec35e9c117185055c",
+      "resource": "messages/urw_chat.txt",
+      "section": ".DELIVER_GENERAL.(fam rep)",
+      "line": 140,
+      "emotion": "negative",
+      "selector": null,
+      "prefix": ":( ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "ca0adb1acebe4e92cb8a",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "I accept your offerings, {plr_identity:text}.",
+    "translation": "你的礼物我收下了，{plr_identity}。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "28e2869d3b8e9dc6cac5",
+      "resource": "messages/urw_chat.txt",
+      "section": ".DELIVER_GENERAL.(fam rep)",
+      "line": 141,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": ":| ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "a82321bfc4c99b0ace94",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "Thanks, {plr_identity:text}. This might come in handy.",
+    "translation": "谢了，{plr_identity}。说不定能派上用场。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "1fa6136311a61231df60",
+      "resource": "messages/urw_chat.txt",
+      "section": ".DELIVER_GENERAL.(fam rep)",
+      "line": 142,
+      "emotion": "positive",
+      "selector": null,
+      "prefix": ":) ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "9442fb0009084e718e32",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "This is much appreciated, {plr_identity:text}.",
+    "translation": "我很感激，{plr_identity}。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "e751f449c9218f9e905b",
+      "resource": "messages/urw_chat.txt",
+      "section": ".DELIVER_HELP.(help rep)",
+      "line": 146,
+      "emotion": "negative",
+      "selector": null,
+      "prefix": ":( ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "8a28c0da0ffcdfec092e",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "My humble thanks, {plr_identity:text}. Your favours will be remembered.",
+    "translation": "多谢了，{plr_identity}。你帮过我们，这份情我们会记着。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "00783fcf608dfd0bbd9b",
+      "resource": "messages/urw_chat.txt",
+      "section": ".DELIVER_HELP.(help rep)",
+      "line": 147,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": ":| ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "a2da872b6171e71d1e64",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "Alright, companion. I got it.",
+    "translation": "好，伙伴，我收下了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "2ee510647c7a03a9e033",
+      "resource": "messages/urw_chat.txt",
+      "section": ".DELIVER_COMP.",
+      "line": 152,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": ":| ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "fc31d164f5c4c2867e25",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "Bah! I don't feel like helping you on that matter, {plr_bad_name:text}.",
+    "translation": "呸！我可不想帮你处理这件事，{plr_bad_name}。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "dcceedfb120a4780b331",
+      "resource": "messages/urw_chat.txt",
+      "section": ".LOWREP_REFUSAL.",
+      "line": 157,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": "",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "0dcf2b37101cbe1f3481",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "You dare to ask, {reptitle_trading:text}! You didn't come to claim it in time, so I don't have it for you anymore.",
+    "translation": "你还敢来问，{reptitle_trading}！你没按时来取，东西已经不在我这儿了。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "c0dcb4dd188e1f4762ed",
+      "resource": "messages/urw_chat.txt",
+      "section": ".BLACKSMITH_UNCLAIMED_ORDER.(trading mood)",
+      "line": 161,
+      "emotion": "negative",
+      "selector": null,
+      "prefix": ":( ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "12d4023619434fcd16d6",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "Phew, it is too late to ask now! You {plr_bad_name:text} didn't come to claim it in time, so I gave it to somebody else.",
+    "translation": "唉，你现在才来问，太晚了！{plr_bad_name}，你没按时来取，我已经把东西给别人了。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "40f5f1997b3ad38dddf4",
+      "resource": "messages/urw_chat.txt",
+      "section": ".BLACKSMITH_UNCLAIMED_ORDER.(trading mood)",
+      "line": 162,
+      "emotion": "neutral",
+      "selector": null,
+      "prefix": ":| ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  },
+  {
+    "id": "39c6b437fdde5e31769e",
+    "source": "rules/chat_reviewed.json",
+    "context": "npc-talk",
+    "original": "I'm sorry, {plr_identity:text}, but as you didn't come to claim it in time I gave it to somebody else.",
+    "translation": "抱歉，{plr_identity}，你没按时来取，我已经把东西给别人了。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "514caa7fb0ff264fd151",
+      "resource": "messages/urw_chat.txt",
+      "section": ".BLACKSMITH_UNCLAIMED_ORDER.(trading mood)",
+      "line": 163,
+      "emotion": "positive",
+      "selector": null,
+      "prefix": ":) ",
+      "production": "CHATMSG (0x1001b9495, 0x1001b9659)"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+ assert([zh::translate("HANDCRAFT OPTIONS","showtext") isEqual:@"手工制作选项"]);
+ assert([zh::translate("FELL A TREE","showtext") isEqual:@"砍倒一棵树"]);
+ assert([zh::translate("Cutting weapon","showtext") isEqual:@"砍伐工具"]);
+ assert([zh::translate("To do this, you need the following equipment, materials and/or articles:","paragraph") isEqual:@"完成这项工作需要以下工具、材料或物品："]);
+ assert([zh::translate("to continue","craft-prompt") isEqual:@"继续"]);
+ assert([zh::translate("cancel","craft-prompt") isEqual:@"取消"]);
+ assert([zh::translate(" 7 minutes","showtext") isEqual:@"7 分钟"]);
+ assert([zh::translate("#HANDCRAFT OPTIONS: Arrows","message") isEqual:@"手工制作：箭矢"]);
+ assert([zh::translate("#Timbercraft option: Fell a tree","message") isEqual:@"伐木选项：砍倒一棵树"]);
+ assert([zh::translate("?(1) You need cutting weapon - preferably a woodsman's axe.","message") isEqual:@"（1）需要砍伐工具，最好用伐木斧。"]);
+ assert([zh::translate("?(2) You may optionally use sewing needle.","message") isEqual:@"（2）可选用缝衣针。"]);
+ assert([zh::translate("+The rough woodsman's axe in your inventory will be used.","message") isEqual:@"将使用你携带的粗制伐木斧。"]);
+ assert([zh::translate("!The woodsman's axe is the right tool here but suffers from rough quality.","message") isEqual:@"伐木斧适合这项工作，但品质为粗制。"]);
+ assert([zh::translate(":The tree falls down.","message") isEqual:@"树倒下了。"]);
+ assert(zh::composeCraftNotification(@"?(1) You need mysterious tool.")==nil);
+ assert(zh::composeCraftNotification(@"!The woodsman's axe is the right tool here but suffers from fictional quality.")==nil);

@@ -1,0 +1,1277 @@
+[
+  {
+    "id": "6177dc414e42e9d93378",
+    "source": "binary:RavitsemusTeksti",
+    "context": "status-nutrition",
+    "original": "Starving",
+    "translation": "濒临饿死",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "757e9c0268b2ca72e771",
+    "source": "binary:RavitsemusTeksti",
+    "context": "status-nutrition",
+    "original": "Malnourished",
+    "translation": "营养不良",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "54734e48de748c5f234e",
+    "source": "binary:RavitsemusTeksti",
+    "context": "status-nutrition",
+    "original": "Insufficient",
+    "translation": "营养不足",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ae96255642362e0d1168",
+    "source": "binary:RavitsemusTeksti",
+    "context": "status-nutrition",
+    "original": "Scarce",
+    "translation": "营养欠佳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ea9e1f96188fd698dce2",
+    "source": "binary:RavitsemusTeksti",
+    "context": "status-nutrition",
+    "original": "Temperate",
+    "translation": "营养适中",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4924e481c484d1d23f3a",
+    "source": "binary:RavitsemusTeksti",
+    "context": "status-nutrition",
+    "original": "Good",
+    "translation": "营养良好",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "66d1f7b4f72e4bb8a444",
+    "source": "binary:RavitsemusTeksti",
+    "context": "status-nutrition",
+    "original": "Nourished",
+    "translation": "营养充足",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1358f6f463aa3f159f83",
+    "source": "binary:RavitsemusTeksti",
+    "context": "status-nutrition",
+    "original": "Well-fed",
+    "translation": "营养丰足",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "da4bc58aef15feb990ce",
+    "source": "binary:RavitsemusTeksti",
+    "context": "status-nutrition",
+    "original": "Abundant",
+    "translation": "营养富足",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "5231d9a857686697a7cb",
+    "source": "binary:VasymysTeksti",
+    "context": "status-vigour",
+    "original": "Vigorous",
+    "translation": "精力充沛",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "28b5b4be52e2a0805b33",
+    "source": "binary:VasymysTeksti",
+    "context": "status-vigour",
+    "original": "Lively",
+    "translation": "精神饱满",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "cf8e126fba862b058a43",
+    "source": "binary:VasymysTeksti",
+    "context": "status-vigour",
+    "original": "A bit tired",
+    "translation": "略感疲倦",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a135b7457f319d42f105",
+    "source": "binary:VasymysTeksti",
+    "context": "status-vigour",
+    "original": "Tired",
+    "translation": "疲倦",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "634aa15aee4082ea82c4",
+    "source": "binary:VasymysTeksti",
+    "context": "status-vigour",
+    "original": "Weary",
+    "translation": "疲惫",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f289aff717a9a39947fa",
+    "source": "binary:VasymysTeksti",
+    "context": "status-vigour",
+    "original": "Extremely tired",
+    "translation": "极度疲倦",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ef1f9528144b451d188a",
+    "source": "binary:VasymysTeksti",
+    "context": "status-vigour",
+    "original": "Ready to drop",
+    "translation": "快要累倒",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a47a11fc1b61b2904faf",
+    "source": "binary:PlrWarmthDesc",
+    "context": "status-warmth",
+    "original": "Freezing to death",
+    "translation": "快要冻死",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "32ff83ab58efc699531f",
+    "source": "binary:PlrWarmthDesc",
+    "context": "status-warmth",
+    "original": "Freezing",
+    "translation": "冻僵",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "81a6f323e12805524ed6",
+    "source": "binary:PlrWarmthDesc",
+    "context": "status-warmth",
+    "original": "Numbingly cold",
+    "translation": "冷得发麻",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "37674bb113a791fe05f4",
+    "source": "binary:PlrWarmthDesc",
+    "context": "status-warmth",
+    "original": "Bitterly cold",
+    "translation": "寒冷刺骨",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "76905c7cb77f3d4f1c5a",
+    "source": "binary:PlrWarmthDesc",
+    "context": "status-warmth",
+    "original": "Cold",
+    "translation": "寒冷",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "5464793dec6ae080fd1d",
+    "source": "binary:PlrWarmthDesc",
+    "context": "status-warmth",
+    "original": "Chilly",
+    "translation": "发冷",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4d342cd5cde6ec9c44e1",
+    "source": "binary:PlrWarmthDesc",
+    "context": "status-warmth",
+    "original": "Cool",
+    "translation": "微凉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "5bc672b0211a08c64767",
+    "source": "binary:PlrWarmthDesc",
+    "context": "status-warmth",
+    "original": "Comfortably warm",
+    "translation": "温暖舒适",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "df3ed1bed79ba9dcedd2",
+    "source": "binary:PlrWarmthDesc",
+    "context": "status-warmth",
+    "original": "Warm",
+    "translation": "暖和",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a960f2972d3e37372167",
+    "source": "binary:PlrWarmthDesc",
+    "context": "status-warmth",
+    "original": "Rather warm",
+    "translation": "有些热",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "2825c16709f6c4727b3d",
+    "source": "binary:PlrWarmthDesc",
+    "context": "status-warmth",
+    "original": "Hot",
+    "translation": "炎热",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "45fdfc9085eed961bcdb",
+    "source": "binary:PlrWarmthDesc",
+    "context": "status-warmth",
+    "original": "Sweaty",
+    "translation": "出汗",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "96c6d055779a496b0876",
+    "source": "binary:PlrWarmthDesc",
+    "context": "status-warmth",
+    "original": "Sweating a lot",
+    "translation": "大汗淋漓",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a78218783d4044b317b4",
+    "source": "binary:Nayta_Perustarpeet",
+    "context": "showtext",
+    "original": "Nutrition/Warmth/Vigour",
+    "translation": "营养／体温／精力",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f6be85bde837435c7cd5",
+    "source": "binary:LampotilaTarkastus",
+    "context": "message",
+    "original": ":You are freezing to death!",
+    "translation": "你快要冻死了！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "69a877836e99e1054edc",
+    "source": "binary:LampotilaTarkastus",
+    "context": "paragraph",
+    "original": "You are freezing to death!",
+    "translation": "你快要冻死了！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "66820e8c504b17e0b2f3",
+    "source": "binary:LampotilaTarkastus",
+    "context": "message",
+    "original": ":You are freezing.",
+    "translation": "你冻僵了。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a99892a4ead880f7573c",
+    "source": "binary:LampotilaTarkastus",
+    "context": "paragraph",
+    "original": "You are freezing.",
+    "translation": "你冻僵了。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "71fc00a962d8082e261e",
+    "source": "binary:LampotilaTarkastus",
+    "context": "message",
+    "original": ":You are numbingly cold.",
+    "translation": "你冷得发麻。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "6cff02cdb9100877a738",
+    "source": "binary:LampotilaTarkastus",
+    "context": "paragraph",
+    "original": "You are numbingly cold.",
+    "translation": "你冷得发麻。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "55acad615a97a991007c",
+    "source": "binary:LampotilaTarkastus",
+    "context": "message",
+    "original": ":You feel bitterly cold.",
+    "translation": "你感到寒冷刺骨。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "0e42f998e3849f1315d7",
+    "source": "binary:LampotilaTarkastus",
+    "context": "paragraph",
+    "original": "You feel bitterly cold.",
+    "translation": "你感到寒冷刺骨。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "bf680c052f16ec2b6e9a",
+    "source": "binary:LampotilaTarkastus",
+    "context": "message",
+    "original": ":You feel cold.",
+    "translation": "你感到寒冷。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1f455c8b26a75d7c6533",
+    "source": "binary:LampotilaTarkastus",
+    "context": "paragraph",
+    "original": "You feel cold.",
+    "translation": "你感到寒冷。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "0c55d876c07a17c33e74",
+    "source": "binary:LampotilaTarkastus",
+    "context": "message",
+    "original": ":You feel chilly.",
+    "translation": "你感到发冷。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "5815e52f6d9eaa92c13a",
+    "source": "binary:LampotilaTarkastus",
+    "context": "paragraph",
+    "original": "You feel chilly.",
+    "translation": "你感到发冷。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a1c464f5e271c643fb0e",
+    "source": "binary:LampotilaTarkastus",
+    "context": "message",
+    "original": ":You feel a bit cool.",
+    "translation": "你感到有些凉。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a86c28413434f62c7fbd",
+    "source": "binary:LampotilaTarkastus",
+    "context": "paragraph",
+    "original": "You feel a bit cool.",
+    "translation": "你感到有些凉。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "6192c0151cf79b7160a6",
+    "source": "binary:LampotilaTarkastus",
+    "context": "paragraph",
+    "original": "You feel comfortably warm.",
+    "translation": "你感到暖和舒适。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "6a03edfb05b3646b977e",
+    "source": "binary:LampotilaTarkastus",
+    "context": "message",
+    "original": ":You feel warm.",
+    "translation": "你觉得暖和。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "6f08e754d4e37b0e5761",
+    "source": "binary:LampotilaTarkastus",
+    "context": "paragraph",
+    "original": "You feel warm.",
+    "translation": "你觉得暖和。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4d0e0c9eb23e43cdff46",
+    "source": "binary:LampotilaTarkastus",
+    "context": "message",
+    "original": ":You are feeling rather warm.",
+    "translation": "你觉得有些热。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "0d20a138e05d13f6b40e",
+    "source": "binary:LampotilaTarkastus",
+    "context": "paragraph",
+    "original": "You are feeling rather warm.",
+    "translation": "你觉得有些热。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1a5965ab8ffc1e02b99a",
+    "source": "binary:LampotilaTarkastus",
+    "context": "message",
+    "original": ":You are feeling hot.",
+    "translation": "你觉得很热。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f938491338463287b9a2",
+    "source": "binary:LampotilaTarkastus",
+    "context": "paragraph",
+    "original": "You are feeling hot.",
+    "translation": "你觉得很热。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "225591ff2099f0503996",
+    "source": "binary:LampotilaTarkastus",
+    "context": "message",
+    "original": ":You are sweaty.",
+    "translation": "你出汗了。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a113ed5af5e81d7240e7",
+    "source": "binary:LampotilaTarkastus",
+    "context": "paragraph",
+    "original": "You are sweaty.",
+    "translation": "你出汗了。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "0c733aa604a08faf30d8",
+    "source": "binary:LampotilaTarkastus",
+    "context": "message",
+    "original": ":You are sweating a lot.",
+    "translation": "你大汗淋漓。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "24401ffebd5374c4092f",
+    "source": "binary:LampotilaTarkastus",
+    "context": "paragraph",
+    "original": "You are sweating a lot.",
+    "translation": "你大汗淋漓。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1c202cc2df393137c5ca",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": ":You are vigorous.",
+    "translation": "你精力充沛。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "980bc8150f3cc6fbc801",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You are vigorous.",
+    "translation": "你精力充沛。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "011ff13ff624d890d083",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": ":You feel lively.",
+    "translation": "你觉得精神饱满。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "dad556ec84f6bc213634",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You feel lively.",
+    "translation": "你觉得精神饱满。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ab7fa9640d7bc732f20a",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": ":You feel a bit tired.",
+    "translation": "你感到有点累。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a4d91a5a206721ff21a2",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You feel a bit tired.",
+    "translation": "你感到有点累。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "5731ca5f1f8d7fd4e782",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": ":You are getting tired.",
+    "translation": "你开始觉得疲倦。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "39c110250d16b529a1b0",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You are getting tired.",
+    "translation": "你开始觉得疲倦。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "788a0d7d123b9a5bc5fc",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": ":You feel weary.",
+    "translation": "你感到疲惫。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b982e8b71fc65499c9cb",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You feel weary.",
+    "translation": "你感到疲惫。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b711cce21e0a2a86f260",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": ":You are sleepy and extremely tired.",
+    "translation": "你又困又累。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "bdad51d7823115b88d57",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You are sleepy and extremely tired.",
+    "translation": "你又困又累。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4007d58fcbd15a8c465b",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": ":You are very sleepy and ready to drop.",
+    "translation": "你困得快要撑不住了。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a24f21328e28c044b20d",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You are very sleepy and ready to drop.",
+    "translation": "你困得快要撑不住了。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "5ad80c0a019a12753512",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": "!You need to sleep! You can't stay awake much longer.",
+    "translation": "你得睡觉了！你已经快撑不住了。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "27b3487b3c50d0930216",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You need to sleep! You can't stay awake much longer.",
+    "translation": "你得睡觉了！你已经快撑不住了。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "0fe3aa58016f8df597d5",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": ":You are too tired to stay on your feet.",
+    "translation": "你累得站不住了。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "8e6889fc95616f8a0734",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You are too tired to stay on your feet.",
+    "translation": "你累得站不住了。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "5fcd6d93a6e335deb135",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": "&You are a bit thirsty.",
+    "translation": "你有点渴。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "2c4beb331fe9aa7e6430",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You are a bit thirsty.",
+    "translation": "你有点渴。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "98ed88fd5a919264c356",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": "&You are thirsty.",
+    "translation": "你觉得口渴。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "21f287fc21570fdc83b7",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You are thirsty.",
+    "translation": "你觉得口渴。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "c342dc902296cde99cb1",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": "&You are very thirsty.",
+    "translation": "你非常口渴。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "7a0d088de6107a1bc721",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You are very thirsty.",
+    "translation": "你非常口渴。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ba7f3d2d8935ac7738ce",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": "&You are craving for water!",
+    "translation": "你迫切想喝水！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "dc3f9bc5a14eb91472b8",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You are craving for water!",
+    "translation": "你迫切想喝水！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "9f9fcae14f81805a8c12",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": "&You are in serious need of water!",
+    "translation": "你急需喝水！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "3bef5472193b284471b7",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You are in serious need of water!",
+    "translation": "你急需喝水！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f89a7b90804537160959",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": "&You are dying of thirst!",
+    "translation": "你快渴死了！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "15d481b1cd1764fbd4bc",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You are dying of thirst!",
+    "translation": "你快渴死了！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "bb2ac1ae172bbc5c5510",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": "&Being very weak from prolonged lack of water you find it impossible to stand on your shaky legs anymore!",
+    "translation": "长期缺水让你虚弱得再也站不起来了！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e40d0dc6958eda9b8278",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "Being very weak from prolonged lack of water you find it impossible to stand on your shaky legs anymore!",
+    "translation": "长期缺水让你虚弱得再也站不起来了！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a8680e3c7f70b54e52ce",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": "&You are a bit hungry.",
+    "translation": "你有点饿。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "7fa494f418e6fbac19f2",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You are a bit hungry.",
+    "translation": "你有点饿。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "c64a64e1e9fa239ef624",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": "&You are a bit hungry!",
+    "translation": "你有点饿！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "31bd5c0aeef941017638",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You are a bit hungry!",
+    "translation": "你有点饿！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "aa2b5b20c044b4b4e0d6",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": "&You are getting hungry.",
+    "translation": "你开始觉得饿。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "791c28eb53bea71111ac",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You are getting hungry.",
+    "translation": "你开始觉得饿。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4fd9249c95f4d45f8edd",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": "&You are getting hungry!",
+    "translation": "你开始觉得饿！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d871033f3dd230ae9e04",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You are getting hungry!",
+    "translation": "你开始觉得饿！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "bf395ba9cbe9aa6cf11b",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": "&You are hungry.",
+    "translation": "你饿了。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "c3861287b1be885c17ea",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You are hungry.",
+    "translation": "你饿了。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d69686b03e547bc494ea",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": "&You are hungry!",
+    "translation": "你饿了！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "92f60ba7bea1bf8e8b32",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You are hungry!",
+    "translation": "你饿了！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "5695ed051ac4817be945",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": "&You are very hungry.",
+    "translation": "你非常饿。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b361feb5608acb30ab89",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You are very hungry.",
+    "translation": "你非常饿。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "8de404e1535b6ab37667",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": "&You are very hungry!",
+    "translation": "你非常饿！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "7b74f3a1a00fa7cd01a2",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You are very hungry!",
+    "translation": "你非常饿！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "edea2c2f1fd2b05b27a1",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": "&You are hungry as a bear.",
+    "translation": "你饿极了。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "da1775d510f242956cc4",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You are hungry as a bear.",
+    "translation": "你饿极了。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "511247e7eef98f7eced1",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": "&You are hungry as a bear!",
+    "translation": "你饿极了！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "aaf94225ffc9ce3778fb",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You are hungry as a bear!",
+    "translation": "你饿极了！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "8c2262c13b866836efcb",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": "&You are famished.",
+    "translation": "你饿得发慌。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f782329879eb909e9997",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You are famished.",
+    "translation": "你饿得发慌。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d635eadf08f47be95501",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": "&You are famished!",
+    "translation": "你饿得发慌！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "125297c135ef61e5b262",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You are famished!",
+    "translation": "你饿得发慌！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "9a6b9f53dd1fa782928b",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": "&You are desperately hungry.",
+    "translation": "你饿得难受。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "77e0caa4b4facf006675",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You are desperately hungry.",
+    "translation": "你饿得难受。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "bfa0b2a39ee835ad8c73",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": "&You are desperately hungry!",
+    "translation": "你饿得难受！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "46ff394a766c8c81a779",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You are desperately hungry!",
+    "translation": "你饿得难受！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "0b862e61305a0be09c43",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": "&You are starving.",
+    "translation": "你快饿死了。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4fbd82f65c4c92f9d29f",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You are starving.",
+    "translation": "你快饿死了。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ee68b4a2a8cf9ae96c83",
+    "source": "binary:Condition_Check",
+    "context": "message",
+    "original": "&You are starving!",
+    "translation": "你快饿死了！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "417b6e6cde07f5199460",
+    "source": "binary:Condition_Check",
+    "context": "paragraph",
+    "original": "You are starving!",
+    "translation": "你快饿死了！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "665e17b498e60c3060e6",
+    "source": "binary:status-notification",
+    "context": "message",
+    "original": "&Too fatigued to continue! You need a break.",
+    "translation": "你太累了，无法继续！你需要休息。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "6b9a32154096a5511ffe",
+    "source": "binary:status-notification",
+    "context": "paragraph",
+    "original": "Too fatigued to continue! You need a break.",
+    "translation": "你太累了，无法继续！你需要休息。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "013e49f1e6850d5afd10",
+    "source": "binary:status-notification",
+    "context": "message",
+    "original": "&You have rested away the fatigue.",
+    "translation": "休息后，你已经恢复了体力。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "52c49110c16157ef7eaf",
+    "source": "binary:status-notification",
+    "context": "paragraph",
+    "original": "You have rested away the fatigue.",
+    "translation": "休息后，你已经恢复了体力。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "8076f8e3fa32ef2f3350",
+    "source": "binary:status-notification",
+    "context": "message",
+    "original": "&Hunger wakes you.",
+    "translation": "你被饿醒了。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "81c86b94b735b9ceaa2a",
+    "source": "binary:status-notification",
+    "context": "paragraph",
+    "original": "Hunger wakes you.",
+    "translation": "你被饿醒了。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1f8cfc1bbceea83848c9",
+    "source": "binary:status-notification",
+    "context": "message",
+    "original": "&You are awakened by thirst.",
+    "translation": "你被渴醒了。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "2828cd7a5c3e42ede2b0",
+    "source": "binary:status-notification",
+    "context": "paragraph",
+    "original": "You are awakened by thirst.",
+    "translation": "你被渴醒了。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "aa02b00939fe8fe4cc62",
+    "source": "binary:Heading",
+    "context": "renshow",
+    "original": "Speed:   mi/h",
+    "translation": "速度：英里/时",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "segments": [
+      {
+        "text": "速度：",
+        "offset": 0,
+        "width": 48
+      },
+      {
+        "text": "英里/时",
+        "offset": 72,
+        "width": 32
+      }
+    ]
+  },
+  {
+    "id": "7bc6477602166a6a1f97",
+    "source": "binary:Heading",
+    "context": "renshow",
+    "original": "Speed:   km/h",
+    "translation": "速度：公里/时",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "segments": [
+      {
+        "text": "速度：",
+        "offset": 0,
+        "width": 48
+      },
+      {
+        "text": "公里/时",
+        "offset": 72,
+        "width": 32
+      }
+    ]
+  },
+  {
+    "id": "388bcfc63cf732408a6a",
+    "source": "binary:drawscale",
+    "context": "showtext",
+    "original": "=6 feet",
+    "translation": "=6 英尺",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4d890609c1512de10e27",
+    "source": "binary:drawscale",
+    "context": "showtext",
+    "original": "=2 meters",
+    "translation": "=2 米",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "2af69c9a241392b8c895",
+    "source": "binary:drawscale",
+    "context": "showtext",
+    "original": "=100 meters",
+    "translation": "=100 米",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ac6def6c0489fa821eec",
+    "source": "binary:drawscale",
+    "context": "showtext",
+    "original": "=100 yards",
+    "translation": "=100 码",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "43f7b388b682ebb6a404",
+    "source": "runtime:look-command",
+    "context": "showtext",
+    "original": "Look around",
+    "translation": "查看四周",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "6d131744ae2c52d50d45",
+    "source": "runtime:look-command",
+    "context": "showtext",
+    "original": "Look in a direction",
+    "translation": "朝指定方向查看",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "6f1d0ab12ab8fd8523aa",
+    "source": "runtime:look-terrain",
+    "context": "message",
+    "original": "Road",
+    "translation": "道路",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "0c16b8e087d2646f496e",
+    "source": "runtime:look-terrain",
+    "context": "paragraph",
+    "original": "Road",
+    "translation": "道路",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1ca5299c33b68eae3e30",
+    "source": "runtime:look-terrain",
+    "context": "message",
+    "original": "Ground",
+    "translation": "地面",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b87d122530e401a1e385",
+    "source": "runtime:look-terrain",
+    "context": "paragraph",
+    "original": "Ground",
+    "translation": "地面",
+    "status": "reviewed",
+    "runtime_verified": false
+  }
+]

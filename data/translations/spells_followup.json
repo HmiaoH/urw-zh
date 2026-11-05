@@ -1,0 +1,92 @@
+[
+  {
+    "id": "spell-346f55e840cae1f6ac74",
+    "source": "urw3-bin:__cstring",
+    "original": "BLOOD-STANCHING INCANTATION",
+    "translation": "止血咒",
+    "context": "showtext",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "spell-098fc2803c4fd39f1918",
+    "source": "urw3-bin:__cstring",
+    "original": "Incantation to stop the wounds from bleeding.",
+    "translation": "用于止住伤口出血的咒语。",
+    "context": "paragraph",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "spell-95fbd5dd667b70eeb7b4",
+    "source": "urw3-bin:__cstring",
+    "original": "GREETING THE EARTH UPON GOING TO SLEEP",
+    "translation": "入睡时向大地致意",
+    "context": "showtext",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "spell-3bc8683e7708e32f66f4",
+    "source": "urw3-bin:__cstring",
+    "original": "Incantation to greet earth dwellers and underground creatures upon sleeping on the ground at unfamiliar terrain. Performed to assure good night sleep and to avoid being harmed by the possibly angered underground folk.",
+    "translation": "在陌生地形露宿地面时，念诵咒语向大地上的居民和地下生灵致意。这样做是为了安稳入睡，也避免受到可能被激怒的地下居民伤害。",
+    "context": "paragraph",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "spell-c16bfc0b846a6127193c",
+    "source": "urw3-bin:__cstring",
+    "original": "PERSUADING THE FOREST WITH A BREAD",
+    "translation": "用面包劝说森林",
+    "context": "showtext",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "spell-c9389372db84ba0443c2",
+    "source": "urw3-bin:__cstring",
+    "original": "The forest can be persuaded to not to hide its thingies when going hunting. It is done by carrying a bread with you which is dropped and left at a spruce on a hill or cliff, and then this specific incantation is cast.",
+    "translation": "狩猎时，可以劝说森林不要藏起猎物。随身带一块面包，把它丢在山丘或峭壁上的云杉旁边，然后念诵这道特定的咒语。",
+    "context": "paragraph",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "db4cb34b8fc340d1d8d5",
+    "source": "GAME.NFO:SPELLS",
+    "context": "encyclopedia-title",
+    "original": "SPELLS",
+    "translation": "法术",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e8eaf97bd5de21b313d1",
+    "source": "GAME.NFO:SPELLS",
+    "context": "encyclopedia-summary",
+    "original": "SPELLS",
+    "translation": "法术用于与精灵沟通，并以仪式影响日常生活。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "3e1917a7ebef60c7309e",
+    "source": "GAME.NFO:SPELLS",
+    "context": "encyclopedia-title",
+    "original": "INCANTATIONS",
+    "translation": "咒语",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "588c5e985697942d5bd5",
+    "source": "GAME.NFO:SPELLS",
+    "context": "encyclopedia-summary",
+    "original": "INCANTATIONS",
+    "translation": "法术用于与精灵沟通，并以仪式影响日常生活。",
+    "status": "reviewed",
+    "runtime_verified": false
+  }
+]

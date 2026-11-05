@@ -1,0 +1,1934 @@
+[
+  {
+    "id": "b52ff361d60f62d3aec4",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"I would like to pay my debt.\"",
+    "translation": "“我想还清欠你的东西。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "0e56a3b0db8255dd037a",
+      "address": "0x10020baa6",
+      "callsites": [
+        "0x10017b0c6",
+        "0x1001846f6"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "f620567fd4f434300f68",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"I would like to pay my debt.\"",
+    "translation": "“我想还清欠你的东西。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "0e56a3b0db8255dd037a",
+      "address": "0x10020baa6",
+      "callsites": [
+        "0x10017b0c6",
+        "0x1001846f6"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "851ae7e3602f67819760",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"Please, do heal me.\"",
+    "translation": "“请帮我疗伤。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "8a9fd066135c9432f944",
+      "address": "0x10020bebc",
+      "callsites": [
+        "0x10017d161",
+        "0x10017db14",
+        "0x100184676"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "be4549d9986bb89520d3",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"Please, do heal me.\"",
+    "translation": "“请帮我疗伤。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "8a9fd066135c9432f944",
+      "address": "0x10020bebc",
+      "callsites": [
+        "0x10017d161",
+        "0x10017db14",
+        "0x100184676"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "0c7433f9931553e3b78c",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"I would like to order some metalworks from you.\"",
+    "translation": "“我想请你打些金属器具。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "ab7350da96f12675d6ac",
+      "address": "0x10020bf10",
+      "callsites": [
+        "0x10017d1a1",
+        "0x10017db54",
+        "0x100184626"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "12fdaaa869769e677b79",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"I would like to order some metalworks from you.\"",
+    "translation": "“我想请你打些金属器具。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "ab7350da96f12675d6ac",
+      "address": "0x10020bf10",
+      "callsites": [
+        "0x10017d1a1",
+        "0x10017db54",
+        "0x100184626"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "cacc0a298b82c9761035",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"I'm going hunting and could use your company.\"",
+    "translation": "“我要去打猎，你愿意一起去吗？”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "a1dcf84f829d6a1954e9",
+      "address": "0x10020c1d8",
+      "callsites": [
+        "0x10017db69"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "ecd827022ab4dafbaabf",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"I'm going hunting and could use your company.\"",
+    "translation": "“我要去打猎，你愿意一起去吗？”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "a1dcf84f829d6a1954e9",
+      "address": "0x10020c1d8",
+      "callsites": [
+        "0x10017db69"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "adc873deca02c724f0a6",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"I'd like to hire a helping hand. Interested?\"",
+    "translation": "“我想雇个帮手，你有兴趣吗？”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "3b1d9bca1408434a36bc",
+      "address": "0x10020c21a",
+      "callsites": [
+        "0x10017db7e"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "7f2968c613f4fb42dbec",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"I'd like to hire a helping hand. Interested?\"",
+    "translation": "“我想雇个帮手，你有兴趣吗？”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "3b1d9bca1408434a36bc",
+      "address": "0x10020c21a",
+      "callsites": [
+        "0x10017db7e"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "6b34f2761713bccf0b92",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"Do you want to go for a longish adventure with me?\"",
+    "translation": "“你愿意跟我出趟远门去冒险吗？”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "16bc025acf610d4b4d4a",
+      "address": "0x10020c258",
+      "callsites": [
+        "0x10017db93"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "bb9222d73ac81a6ed5c1",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"Do you want to go for a longish adventure with me?\"",
+    "translation": "“你愿意跟我出趟远门去冒险吗？”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "16bc025acf610d4b4d4a",
+      "address": "0x10020c258",
+      "callsites": [
+        "0x10017db93"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "05c087134c0a86e77232",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"I'm curious about your weapon skills?\"",
+    "translation": "“你擅长用哪些武器？”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "36ec60cd6eb6a996e307",
+      "address": "0x10020c2a1",
+      "callsites": [
+        "0x10017dbc1"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "9868001cae4f972deb6c",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"I'm curious about your weapon skills?\"",
+    "translation": "“你擅长用哪些武器？”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "36ec60cd6eb6a996e307",
+      "address": "0x10020c2a1",
+      "callsites": [
+        "0x10017dbc1"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "3e68a331b05ca2801130",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"I'm curious about your skills and expertise?\"",
+    "translation": "“你会些什么？最擅长什么？”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "c7230b560884747ca218",
+      "address": "0x10020c2dd",
+      "callsites": [
+        "0x10017dbd6"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "457a9f37074d2de748ac",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"I'm curious about your skills and expertise?\"",
+    "translation": "“你会些什么？最擅长什么？”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "c7230b560884747ca218",
+      "address": "0x10020c2dd",
+      "callsites": [
+        "0x10017dbd6"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "e313d3a4f165dc1f7fe5",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"Is there a sage here?\"",
+    "translation": "“这里有贤者吗？”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "19491eceb615fccd19cb",
+      "address": "0x10020c319",
+      "callsites": [
+        "0x10017dc09"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "c199a2f488901d062968",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"Is there a sage here?\"",
+    "translation": "“这里有贤者吗？”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "19491eceb615fccd19cb",
+      "address": "0x10020c319",
+      "callsites": [
+        "0x10017dc09"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "912b04ab7ae6b1102baa",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"Is there a blacksmith here?\"",
+    "translation": "“这里有铁匠吗？”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "1c9de643a09f08a7a334",
+      "address": "0x10020c344",
+      "callsites": [
+        "0x10017dc38"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "8eeee5ccd0fd3e1c78d6",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"Is there a blacksmith here?\"",
+    "translation": "“这里有铁匠吗？”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "1c9de643a09f08a7a334",
+      "address": "0x10020c344",
+      "callsites": [
+        "0x10017dc38"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "5fb79b6a8cf87bd019c4",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"Go away! This is my settlement!\"",
+    "translation": "“走开！这是我的定居点！”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "5d5326e556b6bb6a3a9f",
+      "address": "0x10020c37b",
+      "callsites": [
+        "0x10017e062"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "673257efa0b6a5886f0b",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"Go away! This is my settlement!\"",
+    "translation": "“走开！这是我的定居点！”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "5d5326e556b6bb6a3a9f",
+      "address": "0x10020c37b",
+      "callsites": [
+        "0x10017e062"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "5be269277f8d81d06405",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"I don't need your help anymore.\"",
+    "translation": "“我不再需要你帮忙了。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "aeac5649992ed1a5dc40",
+      "address": "0x10020c3a7",
+      "callsites": [
+        "0x10017e0ab"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "feac11ce0cc29a5891cf",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"I don't need your help anymore.\"",
+    "translation": "“我不再需要你帮忙了。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "aeac5649992ed1a5dc40",
+      "address": "0x10020c3a7",
+      "callsites": [
+        "0x10017e0ab"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "0f37585345ad55991c5f",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"I have something for you...\"",
+    "translation": "“我有东西要给你……”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "e7b1fb42b3f7fa7d1468",
+      "address": "0x10020cd6e",
+      "callsites": [
+        "0x10017ddaf",
+        "0x100183205",
+        "0x10018619d",
+        "0x1001910c5"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "a2e0ebacc366c0b6892a",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"I have something for you...\"",
+    "translation": "“我有东西要给你……”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "e7b1fb42b3f7fa7d1468",
+      "address": "0x10020cd6e",
+      "callsites": [
+        "0x10017ddaf",
+        "0x100183205",
+        "0x10018619d",
+        "0x1001910c5"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "0565dd3061b4f76c6469",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"I will give you what need. Here...\"",
+    "translation": "“你要的东西我带来了。给……”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "72e976b7616fd3f4c8b3",
+      "address": "0x10020d7b7",
+      "callsites": [
+        "0x100186a07"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "84fb59afd349af2015d5",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"I will give you what need. Here...\"",
+    "translation": "“你要的东西我带来了。给……”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "72e976b7616fd3f4c8b3",
+      "address": "0x10020d7b7",
+      "callsites": [
+        "0x100186a07"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "568714e54d80cf299f73",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"So take this...\"",
+    "translation": "“那就拿着这个吧……”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "c314c6fee981b35a0fdb",
+      "address": "0x10020d7dc",
+      "callsites": [
+        "0x100186a2e"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "05c6a2331aa11b788de8",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"So take this...\"",
+    "translation": "“那就拿着这个吧……”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "c314c6fee981b35a0fdb",
+      "address": "0x10020d7dc",
+      "callsites": [
+        "0x100186a2e"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "19053f71d846e99e55a6",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"Nah, I've changed my mind. Now give my items back.\"",
+    "translation": "“算了，我改主意了。把东西还给我吧。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "64965b7645e9c5ace1a7",
+      "address": "0x10020d827",
+      "callsites": [
+        "0x100186a43"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "dc27e1168063a15b1850",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"Nah, I've changed my mind. Now give my items back.\"",
+    "translation": "“算了，我改主意了。把东西还给我吧。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "64965b7645e9c5ace1a7",
+      "address": "0x10020d827",
+      "callsites": [
+        "0x100186a43"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "197de59fa6a2e0d92e14",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"Umm, I've changed my mind.\"",
+    "translation": "“嗯，我改主意了。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "9a5dda267f4878ac6b57",
+      "address": "0x10020df0c",
+      "callsites": [
+        "0x100188f9f"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "8e7bb5e3b99ea9dea371",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"Umm, I've changed my mind.\"",
+    "translation": "“嗯，我改主意了。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "9a5dda267f4878ac6b57",
+      "address": "0x10020df0c",
+      "callsites": [
+        "0x100188f9f"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "bad16158bd58a4bea1bf",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"Umm, actually I need something else.\"",
+    "translation": "“嗯，其实我想要别的东西。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "766f48b996e1393ef335",
+      "address": "0x10020e033",
+      "callsites": [
+        "0x10018961b"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "1a5228669f4ad9e0057f",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"Umm, actually I need something else.\"",
+    "translation": "“嗯，其实我想要别的东西。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "766f48b996e1393ef335",
+      "address": "0x10020e033",
+      "callsites": [
+        "0x10018961b"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "f58f0969c7462d0294f0",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"I need some tools.\"",
+    "translation": "“我需要些工具。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "715c4c18a5aaf2db98ef",
+      "address": "0x10020e0e2",
+      "callsites": [
+        "0x1001898e0"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "49caac22339cd1801bca",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"I need some tools.\"",
+    "translation": "“我需要些工具。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "715c4c18a5aaf2db98ef",
+      "address": "0x10020e0e2",
+      "callsites": [
+        "0x1001898e0"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "323653095e11188d7197",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"I need a knife.\"",
+    "translation": "“我需要一把刀。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "129dfd933186534b2653",
+      "address": "0x10020e121",
+      "callsites": [
+        "0x100189958"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "b564b5c61c00f35d3120",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"I need a knife.\"",
+    "translation": "“我需要一把刀。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "129dfd933186534b2653",
+      "address": "0x10020e121",
+      "callsites": [
+        "0x100189958"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "f53a046888c32f88da9a",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"I need an axe.\"",
+    "translation": "“我需要一把斧头。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "4b503eb57c74cbf899a5",
+      "address": "0x10020e15a",
+      "callsites": [
+        "0x1001899c4"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "63781a6d68441fc0b5fd",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"I need an axe.\"",
+    "translation": "“我需要一把斧头。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "4b503eb57c74cbf899a5",
+      "address": "0x10020e15a",
+      "callsites": [
+        "0x1001899c4"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "6a5f39e86d29ee3f8e4d",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"I need a spear.\"",
+    "translation": "“我需要一支长矛。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "bdf29dde4fca233d862f",
+      "address": "0x10020e194",
+      "callsites": [
+        "0x100189a38"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "c9cde7a5235843cb4ec3",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"I need a spear.\"",
+    "translation": "“我需要一支长矛。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "bdf29dde4fca233d862f",
+      "address": "0x10020e194",
+      "callsites": [
+        "0x100189a38"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "42ba9ee1085c314ca251",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"I need some arrowheads.\"",
+    "translation": "“我需要些箭镞。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "43aef2ccac84c6ae70c0",
+      "address": "0x10020e1cf",
+      "callsites": [
+        "0x100189ab2"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "2f5030cfdbdbbb3cb5f7",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"I need some arrowheads.\"",
+    "translation": "“我需要些箭镞。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "43aef2ccac84c6ae70c0",
+      "address": "0x10020e1cf",
+      "callsites": [
+        "0x100189ab2"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "a5bdc173c47eec02ffe3",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"I need a sword.\"",
+    "translation": "“我需要一把剑。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "c7be60b9d28a7556fdac",
+      "address": "0x10020e214",
+      "callsites": [
+        "0x100189b28"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "a87272a31e6a3f75a7c4",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"I need a sword.\"",
+    "translation": "“我需要一把剑。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "c7be60b9d28a7556fdac",
+      "address": "0x10020e214",
+      "callsites": [
+        "0x100189b28"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "2dcf0c672d3e487fc9c0",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"I need a helmet.\"",
+    "translation": "“我需要一顶头盔。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "f23f602a815ecae1d418",
+      "address": "0x10020e252",
+      "callsites": [
+        "0x100189b9b"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "eb52adcd6bfc4e61d02f",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"I need a helmet.\"",
+    "translation": "“我需要一顶头盔。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "f23f602a815ecae1d418",
+      "address": "0x10020e252",
+      "callsites": [
+        "0x100189b9b"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "a0daa5d3efafb7c73f9e",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"I need a shield.\"",
+    "translation": "“我需要一面盾牌。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "6cc6019d02258c154762",
+      "address": "0x10020e292",
+      "callsites": [
+        "0x100189c0b"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "aff2a167549d8907e897",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"I need a shield.\"",
+    "translation": "“我需要一面盾牌。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "6cc6019d02258c154762",
+      "address": "0x10020e292",
+      "callsites": [
+        "0x100189c0b"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "b76eb6cf63bff2eaf3ae",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"No! You have to fight for them!\"",
+    "translation": "“休想！想拿就来抢！”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "ed94db6d7c2d32b4b84d",
+      "address": "0x10020e79c",
+      "callsites": [
+        "0x10018b5d6"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "13afc0f7d7187ec21e06",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"No! You have to fight for them!\"",
+    "translation": "“休想！想拿就来抢！”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "ed94db6d7c2d32b4b84d",
+      "address": "0x10020e79c",
+      "callsites": [
+        "0x10018b5d6"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "50c89a03c784961cf29e",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"Hmpf. I surrender. Just take them.\"",
+    "translation": "“哼，我认输。你拿走吧。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "fabf6ad2faafd077c4f1",
+      "address": "0x10020e7ca",
+      "callsites": [
+        "0x10018b5eb"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "ce42acfbfd2ab0b4ba41",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"Hmpf. I surrender. Just take them.\"",
+    "translation": "“哼，我认输。你拿走吧。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "fabf6ad2faafd077c4f1",
+      "address": "0x10020e7ca",
+      "callsites": [
+        "0x10018b5eb"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "58dfbef9fb84138cd260",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"Never! I will fight back to the last drop of my blood!\"",
+    "translation": "“休想！我会跟你拼到最后一滴血！”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "c8b8550c62e2e5f9d68a",
+      "address": "0x10020e8ca",
+      "callsites": [
+        "0x10018b789"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "72b696e73594c0d69518",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"Never! I will fight back to the last drop of my blood!\"",
+    "translation": "“休想！我会跟你拼到最后一滴血！”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "c8b8550c62e2e5f9d68a",
+      "address": "0x10020e8ca",
+      "callsites": [
+        "0x10018b789"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "25f9a7a98db70104ba8f",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"My stuff?\"",
+    "translation": "“我的东西？”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "812931aa93acc3b3f79c",
+      "address": "0x10020e903",
+      "callsites": [
+        "0x10018b79e"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "2436b7ff39f19f012d46",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"My stuff?\"",
+    "translation": "“我的东西？”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "812931aa93acc3b3f79c",
+      "address": "0x10020e903",
+      "callsites": [
+        "0x10018b79e"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "b32334ede5a15ab4f6cb",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"Hmpf. I surrender. Take what you want.\"",
+    "translation": "“哼，我认输。想拿什么就拿吧。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "e980b0bbe3d92dbf2d16",
+      "address": "0x10020e91c",
+      "callsites": [
+        "0x10018b7b3"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "7cc20679b324527a6a90",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"Hmpf. I surrender. Take what you want.\"",
+    "translation": "“哼，我认输。想拿什么就拿吧。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "e980b0bbe3d92dbf2d16",
+      "address": "0x10020e91c",
+      "callsites": [
+        "0x10018b7b3"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "0dc7c9a86b75d0a46a35",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"No. If you want my stuff you have to fight for it.\"",
+    "translation": "“不行。想拿我的东西，就得先打赢我。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "3ef04739d80037a49af5",
+      "address": "0x10020e9e4",
+      "callsites": [
+        "0x10018b939"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "5357f5d1644c08975fb2",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"No. If you want my stuff you have to fight for it.\"",
+    "translation": "“不行。想拿我的东西，就得先打赢我。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "3ef04739d80037a49af5",
+      "address": "0x10020e9e4",
+      "callsites": [
+        "0x10018b939"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "829a6b32dc6f4517d792",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"Well, it depends on what you want?\"",
+    "translation": "“那得看你想要什么了。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "3d5f3cd3e367c31ed190",
+      "address": "0x10020ea26",
+      "callsites": [
+        "0x10018b94e"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "71bb5193f1a2c495980e",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"Well, it depends on what you want?\"",
+    "translation": "“那得看你想要什么了。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "3d5f3cd3e367c31ed190",
+      "address": "0x10020ea26",
+      "callsites": [
+        "0x10018b94e"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "6746523462077e46ea8f",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"I surrender. Take what you want, just spare my life.\"",
+    "translation": "“我投降。想拿什么就拿吧，饶我一命。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "7d31c82963a489e1598e",
+      "address": "0x10020ea4b",
+      "callsites": [
+        "0x10018b963"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "5b30ebdc005e8806f937",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"I surrender. Take what you want, just spare my life.\"",
+    "translation": "“我投降。想拿什么就拿吧，饶我一命。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "7d31c82963a489e1598e",
+      "address": "0x10020ea4b",
+      "callsites": [
+        "0x10018b963"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "d0f05a3544b1f93f58d5",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"Hah! Why would I give you my stuff?!\"",
+    "translation": "“哈！我凭什么把东西给你？！”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "a2ae23e307cedc0d4a22",
+      "address": "0x10020eaf2",
+      "callsites": [
+        "0x10018bb19"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "93f6d147e8727967aa04",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"Hah! Why would I give you my stuff?!\"",
+    "translation": "“哈！我凭什么把东西给你？！”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "a2ae23e307cedc0d4a22",
+      "address": "0x10020eaf2",
+      "callsites": [
+        "0x10018bb19"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "e0ce29328e88c233daf0",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"Hand over what exactly?\"",
+    "translation": "“你到底要我交出什么？”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "685b8ed8daf9301fe912",
+      "address": "0x10020eb25",
+      "callsites": [
+        "0x10018bb2e"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "00a8046306ffff84e546",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"Hand over what exactly?\"",
+    "translation": "“你到底要我交出什么？”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "685b8ed8daf9301fe912",
+      "address": "0x10020eb25",
+      "callsites": [
+        "0x10018bb2e"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "70ff6a470ed3d29c5021",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"Oh, take what you want, but don't hurt me.\"",
+    "translation": "“好吧，想拿什么就拿吧，别伤害我。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "fec508cbb63be7de741e",
+      "address": "0x10020eb3f",
+      "callsites": [
+        "0x10018bb43"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "b37cc45594525542a588",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"Oh, take what you want, but don't hurt me.\"",
+    "translation": "“好吧，想拿什么就拿吧，别伤害我。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "fec508cbb63be7de741e",
+      "address": "0x10020eb3f",
+      "callsites": [
+        "0x10018bb43"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "4381335dcba128af4aeb",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"I'm very sorry, but I still need some metalworks.\"",
+    "translation": "“实在不好意思，我还是想请你打些金属器具。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "ccd6377c5c2d5c5ed2a5",
+      "address": "0x10020ec66",
+      "callsites": [
+        "0x10018c5b0"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "1b6aafff6e42760c5c98",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"I'm very sorry, but I still need some metalworks.\"",
+    "translation": "“实在不好意思，我还是想请你打些金属器具。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "ccd6377c5c2d5c5ed2a5",
+      "address": "0x10020ec66",
+      "callsites": [
+        "0x10018c5b0"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "3608f0f6dfdb36e4c8d4",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"Let's trade then.\"",
+    "translation": "“那我们来交易吧。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "f7235ad3f340d710e454",
+      "address": "0x10020ed19",
+      "callsites": [
+        "0x10018c33b"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "3a2d4725cfcd96c88f43",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"Let's trade then.\"",
+    "translation": "“那我们来交易吧。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "f7235ad3f340d710e454",
+      "address": "0x10020ed19",
+      "callsites": [
+        "0x10018c33b"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "325e4387bfe1ef97bc83",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "No, no, no. I didn't mean that.",
+    "translation": "不，不，不，我不是那个意思。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "2f800a65bf8aef513dbc",
+      "address": "0x10020f459",
+      "callsites": [
+        "0x10018e428"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "4cb6ebb26870bb75323b",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "Yes, I am. This is a robbery!",
+    "translation": "对，我就是来打劫的！",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "9d1c1a1f15a315a9a3a2",
+      "address": "0x10020f479",
+      "callsites": [
+        "0x10018e43d"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "b4a3f9a9cc5bdf52d9af",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"I'm sure of it. You can go now.\"",
+    "translation": "“我确定。你现在可以走了。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "11f99c52c3f72e2617df",
+      "address": "0x10020f523",
+      "callsites": [
+        "0x10018e5d3"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "3f745d8c07e6837cb953",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"I'm sure of it. You can go now.\"",
+    "translation": "“我确定。你现在可以走了。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "11f99c52c3f72e2617df",
+      "address": "0x10020f523",
+      "callsites": [
+        "0x10018e5d3"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "9b41b9c59f7b6447607b",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"Well, I think I changed my mind. Please stay.\"",
+    "translation": "“嗯，我改主意了。你还是留下吧。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "b19a3e726a3dd7c64f61",
+      "address": "0x10020f556",
+      "callsites": [
+        "0x10018e5e8"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "357cf96252d2c9f59b11",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"Well, I think I changed my mind. Please stay.\"",
+    "translation": "“嗯，我改主意了。你还是留下吧。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "b19a3e726a3dd7c64f61",
+      "address": "0x10020f556",
+      "callsites": [
+        "0x10018e5e8"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "584dac81beac02056101",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"Let's see what I can trade from you.\"",
+    "translation": "“让我看看能从你这儿换些什么。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "0671e77ac79255d03bce",
+      "address": "0x10020fcb4",
+      "callsites": [
+        "0x10018ffc0"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "f1ef80a03bb64e7563b7",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"Let's see what I can trade from you.\"",
+    "translation": "“让我看看能从你这儿换些什么。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "0671e77ac79255d03bce",
+      "address": "0x10020fcb4",
+      "callsites": [
+        "0x10018ffc0"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "7557c4243b3aa61fdfa3",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"How is it going?\"",
+    "translation": "“近来如何？”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "82ac03fddacf3d72d14f",
+      "address": "0x10020fd38",
+      "callsites": [
+        "0x1001847ba"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "4f847317255dd4627f03",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"Ok. It's a deal.\"",
+    "translation": "“好，成交。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "f9c3e2b473ba84660a74",
+      "address": "0x10020ff3b",
+      "callsites": [
+        "0x100191732"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "cbae8bf07831054dfbb4",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"Ok. It's a deal.\"",
+    "translation": "“好，成交。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "f9c3e2b473ba84660a74",
+      "address": "0x10020ff3b",
+      "callsites": [
+        "0x100191732"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "c32283ca162348742b0b",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"Let me think again...\"",
+    "translation": "“让我再想想……”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "37cf1dabaff7f9b41c7c",
+      "address": "0x10020ff4e",
+      "callsites": [
+        "0x100191747"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "c10ead8d3c40c514e967",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"Let me think again...\"",
+    "translation": "“让我再想想……”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "37cf1dabaff7f9b41c7c",
+      "address": "0x10020ff4e",
+      "callsites": [
+        "0x100191747"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "ae4f9ba06bdfd99e9dd6",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "Offer an item",
+    "translation": "拿出一件物品",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "bac63fb148d7637ef099",
+      "address": "0x10020ff66",
+      "callsites": [
+        "0x10019178f",
+        "0x100191807"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "6a39c4b7c29242bfdd7f",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"What of my items you'd prefer in this trade?\"",
+    "translation": "“你想拿我的什么东西来换？”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "378210617cb34581b519",
+      "address": "0x10020ff74",
+      "callsites": [
+        "0x1001917a4",
+        "0x10019181c",
+        "0x1001918c3"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "de253e4c86d379ccd278",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"What of my items you'd prefer in this trade?\"",
+    "translation": "“你想拿我的什么东西来换？”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "378210617cb34581b519",
+      "address": "0x10020ff74",
+      "callsites": [
+        "0x1001917a4",
+        "0x10019181c",
+        "0x1001918c3"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "fbf361e79852bd3e187e",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "Start the trade again from the start",
+    "translation": "从头再谈这笔交易",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "c59b024d2ca7d19b37c2",
+      "address": "0x10020ffa3",
+      "callsites": [
+        "0x1001917c2",
+        "0x10019183a"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "10037c064e7aaf8ccdb4",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"This doesn't please me. It's no deal.\"",
+    "translation": "“我不满意，这笔交易算了。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "b14caf1f5f47236a74a4",
+      "address": "0x10020ffc8",
+      "callsites": [
+        "0x1001917d7",
+        "0x10019184f"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "bb9587a9174139ed0247",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"This doesn't please me. It's no deal.\"",
+    "translation": "“我不满意，这笔交易算了。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "b14caf1f5f47236a74a4",
+      "address": "0x10020ffc8",
+      "callsites": [
+        "0x1001917d7",
+        "0x10019184f"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "da638773c98de62529e0",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "Offer items for payment",
+    "translation": "拿物品抵债",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "5cc5287ff4a51ab1dd42",
+      "address": "0x10020fffe",
+      "callsites": [
+        "0x1001918ae"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "77abd830feaabc9a3210",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"Remind me about what I owe you?\"",
+    "translation": "“我还欠你什么？”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "24cfacba28b9f27f5811",
+      "address": "0x100210016",
+      "callsites": [
+        "0x1001918d8"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "4f0b9c8ef6111c6bc1fb",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"Remind me about what I owe you?\"",
+    "translation": "“我还欠你什么？”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "24cfacba28b9f27f5811",
+      "address": "0x100210016",
+      "callsites": [
+        "0x1001918d8"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "a9bd4c7a8b36a454a4ec",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"I am not able to pay. Take what is yours.\"",
+    "translation": "“我还不起。把你的东西拿回去吧。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "cea0e2d7bc1bf707d7d4",
+      "address": "0x100210038",
+      "callsites": [
+        "0x1001918fd"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "df960a30d4ec0279585a",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"I am not able to pay. Take what is yours.\"",
+    "translation": "“我还不起。把你的东西拿回去吧。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "cea0e2d7bc1bf707d7d4",
+      "address": "0x100210038",
+      "callsites": [
+        "0x1001918fd"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "7b6a349d4a16977d76d7",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"I will never pay you!\"",
+    "translation": "“我绝不会还你的！”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "58e5d7ef1c5fd8d073fa",
+      "address": "0x100210064",
+      "callsites": [
+        "0x100191912"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "08066606b7baef682d38",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"I will never pay you!\"",
+    "translation": "“我绝不会还你的！”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "58e5d7ef1c5fd8d073fa",
+      "address": "0x100210064",
+      "callsites": [
+        "0x100191912"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  },
+  {
+    "id": "82930a529e6f4419e948",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "showtext",
+    "original": "\"Oops, no, I didn't mean that.\"",
+    "translation": "“哎，不，我不是那个意思。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "8072f78a60ff1bc07c9a",
+      "address": "0x100210108",
+      "callsites": [
+        "0x10019205e"
+      ],
+      "display_call": "0x1001503d0"
+    }
+  },
+  {
+    "id": "80e6557078fc193a24ec",
+    "source": "rules/chat_options_reviewed.json",
+    "context": "player-talk",
+    "original": "\"Oops, no, I didn't mean that.\"",
+    "translation": "“哎，不，我不是那个意思。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "source_id": "8072f78a60ff1bc07c9a",
+      "address": "0x100210108",
+      "callsites": [
+        "0x10019205e"
+      ],
+      "display_call": "0x100191ca2"
+    }
+  }
+]

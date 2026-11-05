@@ -1,0 +1,69 @@
+{
+  "source": "urw3-bin:tradeacc:0x100180740",
+  "templates": [
+    {
+      "original": "It's you who wants %s, not me.",
+      "translation": "想要%s的是你，不是我。"
+    },
+    {
+      "original": "What!? You consider %s valuable? Well, I do not.",
+      "translation": "什么？你觉得%s值钱？我可不这么想。"
+    },
+    {
+      "original": "%s? No thank you.",
+      "translation": "%s？不用了，谢谢。"
+    },
+    {
+      "original": "I'm afraid that %s is too much for me to carry right now.",
+      "translation": "恐怕我现在拿不动%s。"
+    },
+    {
+      "original": "%s? Those aren't needed.",
+      "translation": "%s？我们不需要这些。"
+    },
+    {
+      "original": "I wouldn't want to reject those %s, but I'm too burdened to carry them.",
+      "translation": "我也想收下那些%s，可我已经拿不动更多东西了。"
+    },
+    {
+      "original": "You try to trade with %s? No thanks.",
+      "translation": "你想拿%s来换？不用了。"
+    },
+    {
+      "original": "We don't need that many %s.",
+      "translation": "我们不需要那么多%s。"
+    },
+    {
+      "original": "No thanks, we have enough %s already.",
+      "translation": "不用了，我们的%s已经够多了。"
+    },
+    {
+      "original": "No, we don't need more %s. We have decent reserves already.",
+      "translation": "不用，我们不缺%s，储备已经够了。"
+    },
+    {
+      "original": "That %s is not yours.",
+      "translation": "那%s不是你的。"
+    },
+    {
+      "original": "I don't need any more %s.",
+      "translation": "我不需要更多%s。"
+    },
+    {
+      "original": "That %s is not of quality I expect.",
+      "translation": "那%s的品质达不到我的要求。"
+    },
+    {
+      "original": "I certainly don't want your unknown %s.",
+      "translation": "我可不想要你那些来历不明的%s。"
+    },
+    {
+      "original": "That %s is unworthy in this barter.",
+      "translation": "那%s在这笔交易里抵不了什么。"
+    },
+    {
+      "original": "Have that %s tanned first then let's see about it.",
+      "translation": "先把那%s鞣制好，我们再谈。"
+    }
+  ]
+}

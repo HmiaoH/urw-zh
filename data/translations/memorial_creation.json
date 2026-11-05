@@ -1,0 +1,843 @@
+[
+  {
+    "id": "08a8c2df73288afda26a",
+    "source": "binary:memorial_page",
+    "context": "showtext",
+    "original": "List of late characters - The ancestors to remember:",
+    "translation": "已故角色名单 · 缅怀先祖",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1f4836c2eb68f115893e",
+    "source": "binary:memorial_page",
+    "context": "showtext",
+    "original": "Memorial Page",
+    "translation": "纪念页",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "83815571c7f91a68673b",
+    "source": "binary:memorial_page",
+    "context": "showtext",
+    "original": "You are dead.",
+    "translation": "你已死去。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ffabf4db173aab5e8ed8",
+    "source": "binary:memorial_page",
+    "context": "showtext",
+    "original": "Select an ancestor by mouse click or cursor keys and [ENTER] to display a memorial page.",
+    "translation": "点击先祖，或用方向键选中后按 [ENTER]，即可查看纪念页。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f4dfa8cff6f145290873",
+    "source": "binary:memorial_page",
+    "context": "paragraph",
+    "original": "The remains of your earthly body leaves behind as your spirit starts its journey to the otherworld - the place where the dead live.",
+    "translation": "你的遗体留在人世，灵魂踏上通往彼界的旅程。那里是逝者的归处。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "50970a46960602341117",
+    "source": "binary:memorial_page",
+    "context": "message",
+    "original": "!You have died...",
+    "translation": "你已死去……",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4b30e0ceeea80f7f8578",
+    "source": "binary:memorial_page",
+    "context": "showtext",
+    "original": "He died at {age:int} winters old, having spent {days:int} days of adventuring life.",
+    "translation": "他去世时{age}岁，历险{days}天。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "5b6f369482c9db8ec919",
+    "source": "binary:memorial_page",
+    "context": "showtext",
+    "original": "He journeyed a total distance of {distance:int} kilometers.",
+    "translation": "他一共跋涉了{distance}公里。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "3d4b9c9470b93c449573",
+    "source": "binary:memorial_page",
+    "context": "showtext",
+    "original": "She died at {age:int} winters old, having spent {days:int} days of adventuring life.",
+    "translation": "她去世时{age}岁，历险{days}天。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "fb4f263b0eb0021bfc27",
+    "source": "binary:memorial_page",
+    "context": "showtext",
+    "original": "She journeyed a total distance of {distance:int} kilometers.",
+    "translation": "她一共跋涉了{distance}公里。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "1a464661ef50225a307a",
+    "source": "binary:memorial_page",
+    "context": "memorial-cause",
+    "original": "drowned after fainting in the freezing water",
+    "translation": "在冰冷的水中昏迷后溺亡",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "0f63b67336078a416797",
+    "source": "binary:memorial_page",
+    "context": "showtext",
+    "original": "Drowned after fainting in the freezing water.",
+    "translation": "在冰冷的水中昏迷后溺亡。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "7cc8d1c4da3748e7bf96",
+    "source": "binary:memorial_page",
+    "context": "memorial-cause",
+    "original": "drowned",
+    "translation": "溺亡",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "da1956e30885613c4ee3",
+    "source": "binary:memorial_page",
+    "context": "showtext",
+    "original": "Drowned.",
+    "translation": "溺亡。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "0d2ca3fb271e96793027",
+    "source": "binary:memorial_page",
+    "context": "memorial-cause",
+    "original": "froze to death",
+    "translation": "冻死",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d3c0ab8ddc6e5372d3a2",
+    "source": "binary:memorial_page",
+    "context": "showtext",
+    "original": "Froze to death.",
+    "translation": "冻死。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f94d3c171fdce5050681",
+    "source": "binary:memorial_page",
+    "context": "memorial-cause",
+    "original": "starved to death",
+    "translation": "饿死",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "42dcb6a2803c69157977",
+    "source": "binary:memorial_page",
+    "context": "showtext",
+    "original": "Starved to death.",
+    "translation": "饿死。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "c5413fba49b2698aaf7b",
+    "source": "binary:memorial_page",
+    "context": "memorial-cause",
+    "original": "died from lack of water",
+    "translation": "因缺水死亡",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "cdf5cb4393172d996b77",
+    "source": "binary:memorial_page",
+    "context": "showtext",
+    "original": "Died from lack of water.",
+    "translation": "因缺水死亡。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f04bc58cbcd035164780",
+    "source": "binary:memorial_page",
+    "context": "memorial-cause",
+    "original": "died from severe injuries",
+    "translation": "因重伤死亡",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "725be672be7546beaf91",
+    "source": "binary:memorial_page",
+    "context": "showtext",
+    "original": "Died from severe injuries.",
+    "translation": "因重伤死亡。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a14bbc0f121ee2cc8753",
+    "source": "binary:memorial_page",
+    "context": "memorial-cause",
+    "original": "died from a fall",
+    "translation": "因坠落身亡",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "99042421166cec19ce27",
+    "source": "binary:memorial_page",
+    "context": "showtext",
+    "original": "Died from a fall.",
+    "translation": "因坠落身亡。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "006233106d35d042153b",
+    "source": "binary:memorial_page",
+    "context": "memorial-cause",
+    "original": "burned to death",
+    "translation": "被火烧死",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a9391f0b31b7837f1ad9",
+    "source": "binary:memorial_page",
+    "context": "showtext",
+    "original": "Burned to death.",
+    "translation": "被火烧死。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "012f5d280ce0929b7a78",
+    "source": "binary:memorial_page",
+    "context": "memorial-cause",
+    "original": "bled to death",
+    "translation": "因失血过多死亡",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "26d5386438716e59d94f",
+    "source": "binary:memorial_page",
+    "context": "showtext",
+    "original": "Bled to death.",
+    "translation": "因失血过多死亡。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d7eed5f05af228eb1194",
+    "source": "binary:memorial_page",
+    "context": "memorial-cause",
+    "original": "killed by a trap",
+    "translation": "死于陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4ff1ec92b7f1ec864038",
+    "source": "binary:memorial_page",
+    "context": "showtext",
+    "original": "Killed by a trap.",
+    "translation": "死于陷阱。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "bee5fbf3dbd184827db9",
+    "source": "binary:memorial_page",
+    "context": "memorial-cause",
+    "original": "quit living",
+    "translation": "结束了自己的生命",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "af7bc7d9a57fe11d1c31",
+    "source": "binary:memorial_page",
+    "context": "showtext",
+    "original": "Quit living.",
+    "translation": "结束了自己的生命。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "848b5d59dee4c6248876",
+    "source": "binary:memorial_page",
+    "context": "memorial-cause",
+    "original": "killed by death",
+    "translation": "死去",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "0a4cfa797d4669c56fdd",
+    "source": "binary:memorial_page",
+    "context": "showtext",
+    "original": "Killed by death.",
+    "translation": "死去。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "76e1ecdf034692846cde",
+    "source": "binary:pagantime",
+    "context": "memorial-season",
+    "original": "summer season",
+    "translation": "夏季",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "c91579a3663e2988afcc",
+    "source": "binary:pagantime",
+    "context": "memorial-season",
+    "original": "latter summer",
+    "translation": "夏季后半段",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "831387823a86b6011ab9",
+    "source": "binary:pagantime",
+    "context": "memorial-season",
+    "original": "winter season",
+    "translation": "冬季",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "9cff7cef8d4a137f2739",
+    "source": "binary:pagantime",
+    "context": "memorial-season",
+    "original": "latter winter",
+    "translation": "冬季后半段",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "40ecd7def83f240c2172",
+    "source": "binary:monthphase",
+    "context": "memorial-phase",
+    "original": "beginning of",
+    "translation": "初",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "632384e0de38f9167612",
+    "source": "binary:monthphase",
+    "context": "memorial-phase",
+    "original": "early",
+    "translation": "上旬",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a657cd85a66deda03210",
+    "source": "binary:monthphase",
+    "context": "memorial-phase",
+    "original": "late",
+    "translation": "下旬",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "5a21c700e341eff9244f",
+    "source": "binary:monthphase",
+    "context": "memorial-phase",
+    "original": "end of",
+    "translation": "末",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b1df165f24491ae9a481",
+    "source": "messages:MONTH_NAME",
+    "context": "memorial-month",
+    "original": "Swidden month",
+    "translation": "烧荒月",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "7a19f4d3b83d5e1612c2",
+    "source": "messages:MONTH_NAME",
+    "context": "memorial-month",
+    "original": "Seedtime month",
+    "translation": "播种月",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "69ab1f54ae3eae51d12b",
+    "source": "messages:MONTH_NAME",
+    "context": "memorial-month",
+    "original": "Fallow month",
+    "translation": "休耕月",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "69be4fab609b7f5a318a",
+    "source": "messages:MONTH_NAME",
+    "context": "memorial-month",
+    "original": "Hay month",
+    "translation": "割草月",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b0bdcf6f50b5714fc72a",
+    "source": "messages:MONTH_NAME",
+    "context": "memorial-month",
+    "original": "Harvest month",
+    "translation": "收获月",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "590943a141c727503896",
+    "source": "messages:MONTH_NAME",
+    "context": "memorial-month",
+    "original": "Fall month",
+    "translation": "落叶月",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "cdbdfbe0da640170f1e9",
+    "source": "messages:MONTH_NAME",
+    "context": "memorial-month",
+    "original": "Dirt month",
+    "translation": "泥土月",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "91bcbfce7b435bc4fdcb",
+    "source": "messages:MONTH_NAME",
+    "context": "memorial-month",
+    "original": "Dead month",
+    "translation": "寂静月",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "fe6a5b803168ad681219",
+    "source": "messages:MONTH_NAME",
+    "context": "memorial-month",
+    "original": "Winter month",
+    "translation": "寒冬月",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "331eed031abaaa660877",
+    "source": "messages:MONTH_NAME",
+    "context": "memorial-month",
+    "original": "Center month",
+    "translation": "仲冬月",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4c968c07bfc156128075",
+    "source": "messages:MONTH_NAME",
+    "context": "memorial-month",
+    "original": "Pearl month",
+    "translation": "珍珠月",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "bb1fedb53eb63cd0ba57",
+    "source": "messages:MONTH_NAME",
+    "context": "memorial-month",
+    "original": "Soil month",
+    "translation": "土壤月",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4c0ff82d910f64e6cd4e",
+    "source": "binary:draw_profile",
+    "context": "paragraph",
+    "original": "Your cultural background and startup selections are now completed, and your character profile looks like this. Are you happy with these attributes?",
+    "translation": "你已选好文化背景和开局设定。这里是你的角色档案，你满意这些属性吗？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1603a55d994e556e06f0",
+    "source": "binary:draw_profile",
+    "context": "paragraph",
+    "original": "Your physical and mental attributes now look like this. Press any key to continue.",
+    "translation": "你的身体与精神属性如下。按任意键继续。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ed6ea9699d0a45ad3207",
+    "source": "binary:draw_profile",
+    "context": "showtext",
+    "original": "Reroll",
+    "translation": "重掷属性",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "692a09e6374ed4135dca",
+    "source": "binary:draw_profile",
+    "context": "showtext",
+    "original": "Choose a season",
+    "translation": "选择季节",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "913d0c2bf5627b0361a8",
+    "source": "binary:draw_profile",
+    "context": "showtext",
+    "original": "Spring",
+    "translation": "春季",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a50b5998cf029e0d7ccf",
+    "source": "binary:draw_profile",
+    "context": "showtext",
+    "original": "Summer",
+    "translation": "夏季",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "0889d7e1caba27c60cd7",
+    "source": "binary:draw_profile",
+    "context": "showtext",
+    "original": "Autumn",
+    "translation": "秋季",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "73d776b7edb2fd8f2b55",
+    "source": "binary:draw_profile",
+    "context": "showtext",
+    "original": "Winter",
+    "translation": "冬季",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "74eaac284b9eddeb21e5",
+    "source": "binary:choose_culture",
+    "context": "culture-menu",
+    "original": "Kaumolainen",
+    "translation": "考莫族",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "446f9bc1c237b9dcdd49",
+    "source": "GAME.NFO",
+    "context": "encyclopedia-title",
+    "original": "KAUMOLAISET",
+    "translation": "考莫族",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b3f5579c8ed437fddbf1",
+    "source": "GAME.NFO",
+    "context": "encyclopedia-summary",
+    "original": "KAUMOLAISET",
+    "translation": "住在广袤的森林里，以狩猎和捕鱼为生。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a916f28f3b42015b4a5f",
+    "source": "binary:choose_culture",
+    "context": "culture-menu",
+    "original": "Driikiläinen",
+    "translation": "德里克族",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "8094c423ec48b3012665",
+    "source": "GAME.NFO",
+    "context": "encyclopedia-title",
+    "original": "DRIIKILÄISET",
+    "translation": "德里克族",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a8da440e5b829d9e8386",
+    "source": "GAME.NFO",
+    "context": "encyclopedia-summary",
+    "original": "DRIIKILÄISET",
+    "translation": "住在西南沿海，靠航海与内陆及外地往来贸易。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d51f9bcea7244a14949c",
+    "source": "binary:choose_culture",
+    "context": "culture-menu",
+    "original": "Kiesseläinen",
+    "translation": "基耶塞族",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e7ecd0da03b33191f4ed",
+    "source": "GAME.NFO",
+    "context": "encyclopedia-title",
+    "original": "KIESSELÄISET",
+    "translation": "基耶塞族",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "2bf14d37d940e2a70dcd",
+    "source": "GAME.NFO",
+    "context": "encyclopedia-summary",
+    "original": "KIESSELÄISET",
+    "translation": "沿湖泊和河流聚居，捕鱼、狩猎，也开垦烧荒田。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "646ab3e4d7ef3a9a0ac0",
+    "source": "binary:choose_culture",
+    "context": "culture-menu",
+    "original": "Reemiläinen",
+    "translation": "雷米族",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a505ae7f50339cd64587",
+    "source": "GAME.NFO",
+    "context": "encyclopedia-title",
+    "original": "REEMILÄISET",
+    "translation": "雷米族",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ab8cbb05b6e8eedc2d45",
+    "source": "GAME.NFO",
+    "context": "encyclopedia-summary",
+    "original": "REEMILÄISET",
+    "translation": "居住在东南部的富庶村落，以耕作为生。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "085eb3af9dc897abf177",
+    "source": "binary:choose_culture",
+    "context": "culture-menu",
+    "original": "Sartolainen",
+    "translation": "萨尔托拉族",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "343d0944ea8b8a45adfa",
+    "source": "GAME.NFO",
+    "context": "encyclopedia-title",
+    "original": "SARTOLAISET",
+    "translation": "萨尔托拉族",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1d7ff6ae16843d0da030",
+    "source": "GAME.NFO",
+    "context": "encyclopedia-summary",
+    "original": "SARTOLAISET",
+    "translation": "住在西部沿海，以耕作、捕猎和捕鱼为生。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "2fdf045b59bf7e9c9043",
+    "source": "binary:choose_culture",
+    "context": "culture-menu",
+    "original": "Islander",
+    "translation": "岛民",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "997de70bcee5e89b813c",
+    "source": "GAME.NFO",
+    "context": "encyclopedia-title",
+    "original": "ISLANDERS",
+    "translation": "岛民",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a669fceb74e4ef971ff3",
+    "source": "GAME.NFO",
+    "context": "encyclopedia-summary",
+    "original": "ISLANDERS",
+    "translation": "住在西南群岛，擅长木工，以捕鱼和猎海豹为生。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "3535635302c055aeb608",
+    "source": "binary:choose_culture",
+    "context": "culture-menu",
+    "original": "Koivulainen",
+    "translation": "科伊武拉族",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "26e960ae4ad79c5ca109",
+    "source": "GAME.NFO",
+    "context": "encyclopedia-title",
+    "original": "KOIVULAISET",
+    "translation": "科伊武拉族",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "bc473ea75147cca28eb4",
+    "source": "GAME.NFO",
+    "context": "encyclopedia-summary",
+    "original": "KOIVULAISET",
+    "translation": "住在中西部水域附近，以种植和畜牧为生。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ca3d6ad7ee3909d4593f",
+    "source": "binary:choose_culture",
+    "context": "culture-menu",
+    "original": "Kuikka-tribe",
+    "translation": "库伊卡部族",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "7771c79da04a3016c536",
+    "source": "GAME.NFO",
+    "context": "encyclopedia-title",
+    "original": "KUIKKA-TRIBE",
+    "translation": "库伊卡部族",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b93c3bf4af050c570627",
+    "source": "GAME.NFO",
+    "context": "encyclopedia-summary",
+    "original": "KUIKKA-TRIBE",
+    "translation": "以黑喉潜鸟为图腾，靠捕鱼、狩猎和放牧驯鹿为生。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "8e590da62af04c1673f3",
+    "source": "binary:choose_culture",
+    "context": "culture-menu",
+    "original": "Owl-tribe",
+    "translation": "猫头鹰部族",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "9cd6c210199b2053bbdc",
+    "source": "GAME.NFO",
+    "context": "encyclopedia-title",
+    "original": "OWL-TRIBE",
+    "translation": "猫头鹰部族",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "db8e96ab6a07f22f802c",
+    "source": "GAME.NFO",
+    "context": "encyclopedia-summary",
+    "original": "OWL-TRIBE",
+    "translation": "以迁徙放牧驯鹿为生，夏季北上，冬季回到南部森林。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "9ff78319532a8c8ec363",
+    "source": "binary:choose_culture",
+    "context": "culture-menu",
+    "original": "Seal-tribe",
+    "translation": "海豹部族",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "dec6047005c7425ea6b2",
+    "source": "GAME.NFO",
+    "context": "encyclopedia-title",
+    "original": "SEAL-TRIBE",
+    "translation": "海豹部族",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "83f6671955eb08ba5ab4",
+    "source": "GAME.NFO",
+    "context": "encyclopedia-summary",
+    "original": "SEAL-TRIBE",
+    "translation": "住在极北海岸，以海豹为图腾，也把它视为重要猎物。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "933f732fad0ce2fc3c65",
+    "source": "GAME.NFO",
+    "context": "showtext",
+    "original": "Kaumolaiset (Kaumoan People, Those Who Live In The Kaumo) live in the vast forests.",
+    "translation": "考莫族生活在广袤的森林里。",
+    "status": "reviewed",
+    "runtime_verified": false
+  }
+]

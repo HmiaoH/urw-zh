@@ -1,0 +1,197 @@
+[
+  {
+    "id": "eb7b3e2daa8efc91f6dc",
+    "source": "runtime-capture",
+    "context": "showtext",
+    "kind": "template",
+    "original": "Day {day:int} of {week:int}th week before midsummer point",
+    "translation": "距仲夏 {week} 周，第 {day} 天",
+    "status": "reviewed"
+  },
+  {
+    "id": "3fea4d764a43c817d89f",
+    "source": "runtime-capture",
+    "context": "showtext",
+    "kind": "exact",
+    "original": "HELP AND GAME OPTIONS",
+    "translation": "帮助与游戏选项",
+    "status": "reviewed"
+  },
+  {
+    "id": "7092004b4f3991cb1ff6",
+    "source": "runtime-capture",
+    "context": "showtext",
+    "kind": "exact",
+    "original": "Keyboard commands",
+    "translation": "键盘命令",
+    "status": "reviewed"
+  },
+  {
+    "id": "cf593c1960d1af63cfd7",
+    "source": "runtime-capture",
+    "context": "showtext",
+    "kind": "exact",
+    "original": "Quit and optionally save",
+    "translation": "退出（可选择保存）",
+    "status": "reviewed"
+  },
+  {
+    "id": "58f31c66aa0e3dea85c8",
+    "source": "runtime-capture",
+    "context": "showtext",
+    "kind": "exact",
+    "original": "Setup options",
+    "translation": "游戏设置",
+    "status": "reviewed"
+  },
+  {
+    "id": "e56e61e42f4fce077ccd",
+    "source": "runtime-capture",
+    "context": "showtext",
+    "kind": "exact",
+    "original": "Game encyclopedia",
+    "translation": "游戏百科",
+    "status": "reviewed"
+  },
+  {
+    "id": "cddad5b89497b9009618",
+    "source": "runtime-capture",
+    "context": "showtext",
+    "kind": "exact",
+    "original": "Save the game",
+    "translation": "保存游戏",
+    "status": "reviewed"
+  },
+  {
+    "id": "e49644f20e55a1e96ef4",
+    "source": "runtime-capture",
+    "context": "showtext",
+    "kind": "exact",
+    "original": "Morning",
+    "translation": "清晨",
+    "status": "reviewed"
+  },
+  {
+    "id": "f3e4c91df23a3c0e0739",
+    "source": "runtime-capture",
+    "context": "showtext",
+    "kind": "exact",
+    "original": "Summer season",
+    "translation": "夏季",
+    "status": "reviewed"
+  },
+  {
+    "id": "3ef12e9c40ccb87df455",
+    "source": "runtime-capture",
+    "context": "showtext",
+    "kind": "exact",
+    "original": "Carrying",
+    "translation": "负重",
+    "status": "reviewed"
+  },
+  {
+    "id": "8f83b37e0e52832ca7d3",
+    "source": "runtime-capture",
+    "context": "showtext",
+    "kind": "exact",
+    "original": "Fatigue",
+    "translation": "疲劳",
+    "status": "reviewed"
+  },
+  {
+    "id": "9fc802dfff0698017bfe",
+    "source": "runtime-capture",
+    "context": "showtext",
+    "kind": "exact",
+    "original": "Injury",
+    "translation": "伤势",
+    "status": "reviewed"
+  },
+  {
+    "id": "211024f1d3e6d9987879",
+    "source": "runtime-capture",
+    "context": "showtext",
+    "kind": "exact",
+    "original": "Starvation",
+    "translation": "饥饿虚弱",
+    "status": "reviewed"
+  },
+  {
+    "id": "09899cefceb4ce3a5ad4",
+    "source": "runtime-capture",
+    "context": "showtext",
+    "kind": "exact",
+    "original": "Bloodloss",
+    "translation": "失血",
+    "status": "reviewed"
+  },
+  {
+    "id": "89586915b79ebeab35c3",
+    "source": "runtime-capture",
+    "context": "showtext",
+    "kind": "exact",
+    "original": "Penalty:",
+    "translation": "减益：",
+    "status": "reviewed"
+  },
+  {
+    "id": "e147aa560308a8f398ae",
+    "source": "runtime-capture",
+    "context": "showtext",
+    "kind": "exact",
+    "original": "Walking",
+    "translation": "步行",
+    "status": "reviewed"
+  },
+  {
+    "id": "79975bd23a2de6dbd0fe",
+    "source": "runtime-capture",
+    "context": "showtext",
+    "kind": "exact",
+    "original": "Wielded weapons/tools",
+    "translation": "手持武器／工具",
+    "status": "reviewed"
+  },
+  {
+    "id": "8802303422596a540f75",
+    "source": "runtime-capture",
+    "context": "showtext",
+    "kind": "exact",
+    "original": "Command:",
+    "translation": "命令：",
+    "status": "reviewed"
+  },
+  {
+    "id": "ae45855c999fcbe180c3",
+    "source": "runtime-capture",
+    "context": "paragraph",
+    "kind": "exact",
+    "original": "Use numpad or cursor keys to move as described above. UrW movement system may feel tricky at first, but after a while you get used to it. The darkened movement commands are rarely needed. You may also switch to traditional roguelike movement in setup options.",
+    "translation": "按上图使用小键盘或方向键移动。UrW 的移动方式起初可能有些难上手，熟悉后就能习惯。图中暗色的移动命令很少用到。你也可以在游戏设置中切换为传统 Roguelike 游戏的移动方式。",
+    "status": "reviewed"
+  },
+  {
+    "id": "8c08975a5024cef484b4",
+    "source": "runtime-capture",
+    "context": "message",
+    "original": ":You feel comfortably warm.",
+    "translation": "你感到暖和舒适。",
+    "status": "reviewed"
+  },
+  {
+    "id": "38c26789c8c09579cdf3",
+    "source": "runtime-capture",
+    "context": "message",
+    "original": "You feel comfortably warm.",
+    "translation": "你感到暖和舒适。",
+    "status": "reviewed"
+  },
+  {
+    "id": "439a6b14199067c50ea0",
+    "source": "runtime-capture",
+    "context": "message",
+    "original": "!There is nothing here to pick up.",
+    "translation": "这里没有可以拾取的物品。",
+    "status": "reviewed"
+  }
+]

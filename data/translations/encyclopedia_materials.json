@@ -1,0 +1,2152 @@
+[
+  {
+    "id": "a99ebe59e150a54050b6",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "A tendon is a fibrous connective tissue that attaches muscle to bone. Tendons of butchered animals are used in",
+    "translation": "肌腱是把肌肉连接到骨骼上的纤维结缔组织。屠宰[[ANIMALS|动物]]时取得的肌腱可用来",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "ANIMALS"
+    ],
+    "evidence": {
+      "topic": ".TENDON.TENDONS.",
+      "line": 1297,
+      "chunk": 1,
+      "source_link_candidates": [
+        "ANIMALS"
+      ]
+    }
+  },
+  {
+    "id": "13629160979e75421b00",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "making of sinew yarn.",
+    "translation": "制作[[SINEW YARN|筋线]]。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "SINEW YARN"
+    ],
+    "evidence": {
+      "topic": ".TENDON.TENDONS.",
+      "line": 1298,
+      "chunk": 1,
+      "source_link_candidates": [
+        "SINEW YARN"
+      ]
+    }
+  },
+  {
+    "id": "7148520ba141700a7206",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Sinew fibre is separated from dried animal tendons by using your textilecraft skill. The dried tendons are pounded on",
+    "translation": "利用[[TEXTILECRAFT|纺织]]技能，可以从干燥的动物[[TENDONS|肌腱]]中分离筋纤维。把干肌腱放在",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "TEXTILECRAFT",
+      "TENDONS"
+    ],
+    "evidence": {
+      "topic": ".SINEW FIBRE.SINEW FIBRES.",
+      "line": 1304,
+      "chunk": 1,
+      "source_link_candidates": [
+        "TENDONS",
+        "TEXTILECRAFT"
+      ]
+    }
+  },
+  {
+    "id": "1de23a4d615ccfb18b8c",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "hard surface to break and soften them until fluffy fibres can be pulled apart.",
+    "translation": "硬面上敲打，直到它们碎裂变软，能拉出蓬松的纤维。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".SINEW FIBRE.SINEW FIBRES.",
+      "line": 1305,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "2b65e9f1187fdeb10c57",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Sinew fibres can be then twisted together to make sinew yarn.",
+    "translation": "把这些筋纤维捻在一起，就能制成[[SINEW YARN|筋线]]。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "SINEW YARN"
+    ],
+    "evidence": {
+      "topic": ".SINEW FIBRE.SINEW FIBRES.",
+      "line": 1306,
+      "chunk": 1,
+      "source_link_candidates": [
+        "SINEW YARN"
+      ]
+    }
+  },
+  {
+    "id": "cebda32681126eb630b5",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Cloth is a base material for crafting various garments. Cloth can be woven from linen, hemp, nettle or wool yarn",
+    "translation": "布料是制作各类[[GARMENTS|衣物]]的基本材料，可用[[LINEN|亚麻]]、[[HEMP|大麻]]、[[NETTLE|荨麻]]或[[WOOL|羊毛]][[YARN|纱线]]织成，",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "GARMENTS",
+      "LINEN",
+      "HEMP",
+      "NETTLE",
+      "WOOL",
+      "YARN"
+    ],
+    "evidence": {
+      "topic": ".CLOTH.",
+      "line": 1334,
+      "chunk": 1,
+      "source_link_candidates": [
+        "GARMENTS",
+        "LINEN",
+        "HEMP",
+        "NETTLE",
+        "WOOL",
+        "YARN"
+      ]
+    }
+  },
+  {
+    "id": "47c6933b0757e3c76a9c",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "and it is produced in a standard width of two feet. Cloth lengths vary from a few feet to a maximum length of around",
+    "translation": "标准宽度为两英尺，长度从几英尺到约",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".CLOTH.",
+      "line": 1335,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "2e22837e8dfb7fc66452",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "10 feet. As cloth is woven on an upright loom, often indoors, there is a limit to its practical length.",
+    "translation": "十英尺。布料通常在室内用立式织机织造，因此长度有实际限制。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".CLOTH.",
+      "line": 1336,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "0423dde8d13cb7a593ef",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Cultivated plant-fibre cloth is the most valuable type of cloth. Linen being the most expensive, followed by hemp.",
+    "translation": "栽培植物的纤维织成的布料最贵，其中[[LINEN|亚麻]]布最贵，[[HEMP|大麻]]布次之。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "LINEN",
+      "HEMP"
+    ],
+    "evidence": {
+      "topic": ".CLOTH.",
+      "line": 1338,
+      "chunk": 1,
+      "source_link_candidates": [
+        "LINEN",
+        "HEMP"
+      ]
+    }
+  },
+  {
+    "id": "4e85b0d0e0cc6d881b1d",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Wool cloth is more affordable and thus more commonly used, especially for making outer garments, than plant-fibre-based cloth.",
+    "translation": "相比植物纤维布，[[WOOL|羊毛]]布便宜些，也更常用，尤其适合制作外穿的[[GARMENTS|衣物]]。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "WOOL",
+      "GARMENTS"
+    ],
+    "evidence": {
+      "topic": ".CLOTH.",
+      "line": 1339,
+      "chunk": 1,
+      "source_link_candidates": [
+        "WOOL",
+        "GARMENTS"
+      ]
+    }
+  },
+  {
+    "id": "107b60b8db657aaac09a",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Wool cloth is roughly half the price of linen cloth. This is because of the much higher workload required to produce",
+    "translation": "[[WOOL|羊毛]]布的价格约为[[LINEN|亚麻]]布的一半，因为后者生产时要花费更多工夫",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "WOOL",
+      "LINEN"
+    ],
+    "evidence": {
+      "topic": ".CLOTH.",
+      "line": 1340,
+      "chunk": 1,
+      "source_link_candidates": [
+        "WOOL",
+        "LINEN"
+      ]
+    }
+  },
+  {
+    "id": "f0884d5441b3d710d660",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "plant-fibre cloth. Nettle cloth is the least expensive, but nevertheless a practical and commonly used alternative to more",
+    "translation": "来加工植物纤维。[[NETTLE|荨麻]]布最便宜，也实用，是常用来替代",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "NETTLE"
+    ],
+    "evidence": {
+      "topic": ".CLOTH.",
+      "line": 1341,
+      "chunk": 1,
+      "source_link_candidates": [
+        "NETTLE"
+      ]
+    }
+  },
+  {
+    "id": "b302c3c4df4c1c72e71d",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "luxurious linen.<br>",
+    "translation": "高档[[LINEN|亚麻]]布的材料。<br>",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "LINEN"
+    ],
+    "evidence": {
+      "topic": ".CLOTH.",
+      "line": 1342,
+      "chunk": 1,
+      "source_link_candidates": [
+        "LINEN"
+      ]
+    }
+  },
+  {
+    "id": "3be40e002354e733a10d",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "All the eastern and western cultures, except for the islanders, can produce cloth, and depending on the exact culture,",
+    "translation": "除了[[ISLANDERS|岛民]]，东部和西部的各个[[CULTURES|文化]]都会织布。具体能找到什么布料取决于当地文化，",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "ISLANDERS",
+      "CULTURES"
+    ],
+    "evidence": {
+      "topic": ".CLOTH.",
+      "line": 1343,
+      "chunk": 1,
+      "source_link_candidates": [
+        "CULTURES",
+        "ISLANDERS"
+      ]
+    }
+  },
+  {
+    "id": "55ee085f987495e3de1c",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "lengths of linen, hemp, nettle or wool cloth are sometimes available for trade in their villages.<br>",
+    "translation": "有时能在他们的[[VILLAGES|村落]]买到成段的[[LINEN|亚麻]]布、[[HEMP|大麻]]布、[[NETTLE|荨麻]]布或[[WOOL|羊毛]]布。<br>",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "VILLAGES",
+      "LINEN",
+      "HEMP",
+      "NETTLE",
+      "WOOL"
+    ],
+    "evidence": {
+      "topic": ".CLOTH.",
+      "line": 1344,
+      "chunk": 1,
+      "source_link_candidates": [
+        "LINEN",
+        "HEMP",
+        "NETTLE",
+        "WOOL",
+        "VILLAGES"
+      ]
+    }
+  },
+  {
+    "id": "9225836e27ff63b2f0c5",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Netting needle is a wooden tool used to make nets. It is quite simple but essential tool that allows",
+    "translation": "织网[[NEEDLE|针]]是制作[[NETS|渔网]]的木制工具。它虽然简单，却必不可少，",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "NEEDLE",
+      "NETS"
+    ],
+    "evidence": {
+      "topic": ".NETTING NEEDLE.",
+      "line": 1909,
+      "chunk": 1,
+      "source_link_candidates": [
+        "NEEDLE",
+        "NETS"
+      ]
+    }
+  },
+  {
+    "id": "19ea96d9367da67a1b7b",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "weaving the net with proper knots and forming a tightly fastened mesh of uniform size.",
+    "translation": "可用来给[[NET|网]]打结，织出结实、大小均匀的网眼。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "NET"
+    ],
+    "evidence": {
+      "topic": ".NETTING NEEDLE.",
+      "line": 1910,
+      "chunk": 1,
+      "source_link_candidates": [
+        "NET"
+      ]
+    }
+  },
+  {
+    "id": "3875e9e3c3fd991caaac",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "A spindle is a tool made from wood used for spinning plant fibres into yarn.<br>",
+    "translation": "纺锤是木制工具，用来把[[PLANT|植物]]纤维纺成[[YARN|纱线]]。<br>",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "PLANT",
+      "YARN"
+    ],
+    "evidence": {
+      "topic": ".SPINDLE.",
+      "line": 1916,
+      "chunk": 1,
+      "source_link_candidates": [
+        "PLANT",
+        "YARN"
+      ]
+    }
+  },
+  {
+    "id": "63604c80a6079214ce94",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "All the fibre processing is carried out by using your TEXTILECRAFT skill.",
+    "translation": "加工纤维的各道工序都用到[[TEXTILECRAFT|纺织]]技能。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "TEXTILECRAFT"
+    ],
+    "evidence": {
+      "topic": ".SPINDLE.",
+      "line": 1917,
+      "chunk": 1,
+      "source_link_candidates": [
+        "TEXTILECRAFT"
+      ]
+    }
+  },
+  {
+    "id": "3c0575281d90815138fd",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Clothes can be made of wide variety of materials with variying techniques.",
+    "translation": "[[CLOTHES|衣物]]可用多种材料和不同工艺制成。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "CLOTHES"
+    ],
+    "evidence": {
+      "topic": ".ARMOUR MATERIALS.",
+      "line": 2195,
+      "chunk": 1,
+      "source_link_candidates": [
+        "CLOTHES"
+      ]
+    }
+  },
+  {
+    "id": "1dc6124081bd71da0658",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Materials used in clothing in the UnReal World can be separated into two groups.<br>",
+    "translation": "[[THE UNREAL WORLD|虚幻世界]]用来制作[[CLOTHING|衣物]]的材料可分成两大类。<br>",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "THE UNREAL WORLD",
+      "CLOTHING"
+    ],
+    "evidence": {
+      "topic": ".ARMOUR MATERIALS.",
+      "line": 2196,
+      "chunk": 1,
+      "source_link_candidates": [
+        "CLOTHING",
+        "THE UNREAL WORLD"
+      ]
+    }
+  },
+  {
+    "id": "4977940b6b0baa2d7703",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Those originating from the vegetable kingdom are:",
+    "translation": "植物来源的材料有",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".ARMOUR MATERIALS.",
+      "line": 2197,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "9a5c309eb238f46a6e3c",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "CLOTH and BIRCH-BARK",
+    "translation": "[[CLOTH|布料]]和[[BIRCH-BARK|桦树皮]]。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "CLOTH",
+      "BIRCH-BARK"
+    ],
+    "evidence": {
+      "topic": ".ARMOUR MATERIALS.",
+      "line": 2199,
+      "chunk": 1,
+      "source_link_candidates": [
+        "CLOTH",
+        "BIRCH-BARK"
+      ]
+    }
+  },
+  {
+    "id": "f04a8dc170737c410150",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "and those originating from the animal kingdom are:",
+    "translation": "动物来源的材料有",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".ARMOUR MATERIALS.",
+      "line": 2201,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "9a150d6406b7d18b7e83",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "WOOL, LEATHER and FUR<br>",
+    "translation": "[[WOOL|羊毛]]、[[LEATHER|皮革]]和[[FUR|毛皮]]。<br>",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "WOOL",
+      "LEATHER",
+      "FUR"
+    ],
+    "evidence": {
+      "topic": ".ARMOUR MATERIALS.",
+      "line": 2203,
+      "chunk": 1,
+      "source_link_candidates": [
+        "WOOL",
+        "LEATHER",
+        "FUR"
+      ]
+    }
+  },
+  {
+    "id": "62f459c5738edebdeb02",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Metal armours are not usually worn nor made among the local cultures of The UnReal World.",
+    "translation": "[[THE UNREAL WORLD|虚幻世界]]的本地[[CULTURES|文化]]一般很少制作或穿戴金属[[ARMOURS|护甲]]。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "THE UNREAL WORLD",
+      "CULTURES",
+      "ARMOURS"
+    ],
+    "evidence": {
+      "topic": ".ARMOUR MATERIALS.",
+      "line": 2206,
+      "chunk": 1,
+      "source_link_candidates": [
+        "ARMOURS",
+        "CULTURES",
+        "THE UNREAL WORLD"
+      ]
+    }
+  },
+  {
+    "id": "2594bf6249bfca82f6b9",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "They are brought in with foreign traders and warriors. In general metal armours are very rare,",
+    "translation": "这些[[ARMOURS|护甲]]多由外地商人和战士带来。金属护甲总的来说十分罕见，",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "ARMOURS"
+    ],
+    "evidence": {
+      "topic": ".ARMOUR MATERIALS.",
+      "line": 2207,
+      "chunk": 1,
+      "source_link_candidates": [
+        "ARMOURS"
+      ]
+    }
+  },
+  {
+    "id": "d9fa94f6047444bc1cb0",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "and even the foreign warriors need to rely mostly on fur and leather for protection.",
+    "translation": "连外来的战士也多半得靠[[FUR|毛皮]]和[[LEATHER|皮革]]来保护自己。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "FUR",
+      "LEATHER"
+    ],
+    "evidence": {
+      "topic": ".ARMOUR MATERIALS.",
+      "line": 2208,
+      "chunk": 1,
+      "source_link_candidates": [
+        "FUR",
+        "LEATHER"
+      ]
+    }
+  },
+  {
+    "id": "5dac9d2fcb03381f4751",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Helms, cowls and pieces for spot protection are far more common than body armours.",
+    "translation": "[[HELMS|头盔]]、[[COWLS|头罩]]和局部护具比护身[[ARMOURS|甲胄]]常见得多。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "HELMS",
+      "COWLS",
+      "ARMOURS"
+    ],
+    "evidence": {
+      "topic": ".ARMOUR MATERIALS.",
+      "line": 2209,
+      "chunk": 1,
+      "source_link_candidates": [
+        "HELMS",
+        "COWLS",
+        "ARMOURS"
+      ]
+    }
+  },
+  {
+    "id": "75e046dfcc7487101956",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Wealthy villages of Driikiläiset, Sartolaiset, Koivulaiset and Reemiläiset may very",
+    "translation": "[[DRIIK|德里克人]]、[[SARTOLAISET|萨尔托拉人]]、[[KOIVULAISET|科伊武拉人]]和[[REEMI|雷米人]]的富裕[[VILLAGES|村落]]",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "DRIIK",
+      "SARTOLAISET",
+      "KOIVULAISET",
+      "REEMI",
+      "VILLAGES"
+    ],
+    "evidence": {
+      "topic": ".ARMOUR MATERIALS.",
+      "line": 2210,
+      "chunk": 1,
+      "source_link_candidates": [
+        "VILLAGES",
+        "DRIIKILÄISET",
+        "SARTOLAISET",
+        "KOIVULAISET",
+        "REEMILÄISET"
+      ]
+    }
+  },
+  {
+    "id": "82058eaa03aaca3ce1c8",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "rarely have some traded metal armours available.",
+    "translation": "极少数时候会有从外地换来的金属[[ARMOURS|护甲]]。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "ARMOURS"
+    ],
+    "evidence": {
+      "topic": ".ARMOUR MATERIALS.",
+      "line": 2211,
+      "chunk": 1,
+      "source_link_candidates": [
+        "ARMOURS"
+      ]
+    }
+  },
+  {
+    "id": "e91def46e95ce16b294d",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Metal armour materials and techniques are:",
+    "translation": "金属[[ARMOUR|护甲]]所用的材料和工艺包括",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "ARMOUR"
+    ],
+    "evidence": {
+      "topic": ".ARMOUR MATERIALS.",
+      "line": 2213,
+      "chunk": 1,
+      "source_link_candidates": [
+        "ARMOUR"
+      ]
+    }
+  },
+  {
+    "id": "bf146b5910f8fccd10bf",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "MAIL, IRON and LAMELLAR",
+    "translation": "[[MAIL|锁子甲]]、[[IRON|铁甲]]和[[LAMELLAR|札甲]]。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "MAIL",
+      "IRON",
+      "LAMELLAR"
+    ],
+    "evidence": {
+      "topic": ".ARMOUR MATERIALS.",
+      "line": 2215,
+      "chunk": 1,
+      "source_link_candidates": [
+        "MAIL",
+        "IRON",
+        "LAMELLAR"
+      ]
+    }
+  },
+  {
+    "id": "92d3cfa41634079063ee",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Nettle is a useful wild plant used also as a source of fibre.",
+    "translation": "荨麻是一种有用的野生[[PLANT|植物]]，也能用来提取纤维。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "PLANT"
+    ],
+    "evidence": {
+      "topic": ".NETTLE.",
+      "line": 2222,
+      "chunk": 1,
+      "source_link_candidates": [
+        "PLANT"
+      ]
+    }
+  },
+  {
+    "id": "ff6bc46279bfbaff133b",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "In UnReal Language the word for flax (pellava) originally referred to nettle plant which speaks about its importance as a textile plant.",
+    "translation": "在游戏世界的[[LANGUAGE|语言]]中，[[FLAX|亚麻]]一词（pellava）最初指荨麻，可见荨麻作为纺织[[PLANT|植物]]的重要性。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "LANGUAGE",
+      "FLAX",
+      "PLANT"
+    ],
+    "evidence": {
+      "topic": ".NETTLE.",
+      "line": 2223,
+      "chunk": 1,
+      "source_link_candidates": [
+        "LANGUAGE",
+        "FLAX",
+        "PLANT"
+      ]
+    }
+  },
+  {
+    "id": "eb9df96be64b0efb0368",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Nettle fibres can be extracted and spun into yarn by using TEXTILECRAFT skill. Nettle fibres speciality is that they can be",
+    "translation": "利用[[TEXTILECRAFT|纺织]]技能，可以提取荨麻纤维并纺成[[YARN|纱线]]。荨麻纤维的特点是",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "TEXTILECRAFT",
+      "YARN"
+    ],
+    "evidence": {
+      "topic": ".NETTLE.",
+      "line": 2224,
+      "chunk": 1,
+      "source_link_candidates": [
+        "YARN",
+        "TEXTILECRAFT"
+      ]
+    }
+  },
+  {
+    "id": "c1bc550da0fa90e8bfa1",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "extracted also directly from fresh plants. For this reason it's used when there's urgent need for spinning short yarn quickly.<br>",
+    "translation": "可以直接从新鲜的[[PLANTS|植株]]中提取，因此急需纺出一小段[[YARN|纱线]]时就会用到荨麻。<br>",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "PLANTS",
+      "YARN"
+    ],
+    "evidence": {
+      "topic": ".NETTLE.",
+      "line": 2225,
+      "chunk": 1,
+      "source_link_candidates": [
+        "PLANTS",
+        "YARN"
+      ]
+    }
+  },
+  {
+    "id": "87c6383c67f3f4cb84f7",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Nettle is commonly used, but not as largely as linen, for all sorts of clothes.",
+    "translation": "荨麻常用于制作各种[[CLOTHES|衣物]]，不过没有[[LINEN|亚麻]]布用得那么多。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "CLOTHES",
+      "LINEN"
+    ],
+    "evidence": {
+      "topic": ".NETTLE.",
+      "line": 2226,
+      "chunk": 1,
+      "source_link_candidates": [
+        "LINEN",
+        "CLOTHES"
+      ]
+    }
+  },
+  {
+    "id": "839a1503aa5673ed4c4d",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Some say that garments made out of nettle fibre are more beautiful than the ones made of linen.",
+    "translation": "有人认为，用荨麻纤维做成的[[GARMENTS|衣物]]比[[LINEN|亚麻]]布做的更好看。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "GARMENTS",
+      "LINEN"
+    ],
+    "evidence": {
+      "topic": ".NETTLE.",
+      "line": 2227,
+      "chunk": 1,
+      "source_link_candidates": [
+        "GARMENTS",
+        "LINEN"
+      ]
+    }
+  },
+  {
+    "id": "478cbaf1dfa23ce1ee19",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Flax is an old cultivated textile plant. It doesn't survive in the very north and is grown only by cultures south of Kaumo.",
+    "translation": "亚麻是一种古老的栽培纺织[[PLANT|植物]]。它无法在极北地区生长，只有[[KAUMO|考莫]]以南的[[CULTURES|文化]]会种植。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "PLANT",
+      "KAUMO",
+      "CULTURES"
+    ],
+    "evidence": {
+      "topic": ".FLAX.",
+      "line": 2233,
+      "chunk": 1,
+      "source_link_candidates": [
+        "PLANT",
+        "CULTURES",
+        "KAUMO"
+      ]
+    }
+  },
+  {
+    "id": "51b9e008843378e9eadb",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Kiesseläiset and Reemiläiset in the east, and Driikiläiset, Sartolaiset and Koivulaiset in the west do grow flax.",
+    "translation": "东部的[[KIESSE|基耶塞人]]和[[REEMI|雷米人]]，以及西部的[[DRIIK|德里克人]]、[[SARTOLAISET|萨尔托拉人]]和[[KOIVULAISET|科伊武拉人]]都种亚麻。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "KIESSE",
+      "REEMI",
+      "DRIIK",
+      "SARTOLAISET",
+      "KOIVULAISET"
+    ],
+    "evidence": {
+      "topic": ".FLAX.",
+      "line": 2234,
+      "chunk": 1,
+      "source_link_candidates": [
+        "KIESSELÄISET",
+        "REEMILÄISET",
+        "DRIIKILÄISET",
+        "SARTOLAISET",
+        "KOIVULAISET"
+      ]
+    }
+  },
+  {
+    "id": "420f38c17953d352eef9",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Flax fibres can be extracted and spun into yarn by using TEXTILECRAFT skill.",
+    "translation": "利用[[TEXTILECRAFT|纺织]]技能，可以提取亚麻纤维并纺成[[YARN|纱线]]。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "TEXTILECRAFT",
+      "YARN"
+    ],
+    "evidence": {
+      "topic": ".FLAX.",
+      "line": 2235,
+      "chunk": 1,
+      "source_link_candidates": [
+        "YARN",
+        "TEXTILECRAFT"
+      ]
+    }
+  },
+  {
+    "id": "c66b766bd5ab9a8dcd7b",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Of other textile plants the hemp is more commonly grown, and the nettle traditionally used by all the cultures.",
+    "translation": "其他[[TEXTILE PLANTS|纺织植物]]中，[[HEMP|大麻]]种得更普遍，而所有[[CULTURES|文化]]都有使用[[NETTLE|荨麻]]的传统。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "TEXTILE PLANTS",
+      "HEMP",
+      "CULTURES",
+      "NETTLE"
+    ],
+    "evidence": {
+      "topic": ".FLAX.",
+      "line": 2236,
+      "chunk": 1,
+      "source_link_candidates": [
+        "TEXTILE PLANTS",
+        "HEMP",
+        "NETTLE",
+        "CULTURES"
+      ]
+    }
+  },
+  {
+    "id": "6b5d9ef3add9a2fd0022",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Hemp is the most common of the cultivated textile plants. All the eastern and western cultures do grow hemp.",
+    "translation": "大麻是栽培最广的[[TEXTILE PLANTS|纺织植物]]，东部和西部的各个[[CULTURES|文化]]都种植大麻。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "TEXTILE PLANTS",
+      "CULTURES"
+    ],
+    "evidence": {
+      "topic": ".HEMP.",
+      "line": 2242,
+      "chunk": 1,
+      "source_link_candidates": [
+        "TEXTILE PLANTS",
+        "CULTURES"
+      ]
+    }
+  },
+  {
+    "id": "892ca06df3bac9a03514",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Hemp fibres can be extracted and spun into yarn by using TEXTILECRAFT skill.",
+    "translation": "利用[[TEXTILECRAFT|纺织]]技能，可以提取大麻纤维并纺成[[YARN|纱线]]。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "TEXTILECRAFT",
+      "YARN"
+    ],
+    "evidence": {
+      "topic": ".HEMP.",
+      "line": 2243,
+      "chunk": 1,
+      "source_link_candidates": [
+        "YARN",
+        "TEXTILECRAFT"
+      ]
+    }
+  },
+  {
+    "id": "f0373a8a76f28f449c72",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Linen is produced from fibres of a flax which is an old cultivated textile plant.",
+    "translation": "亚麻布用[[FLAX|亚麻]]纤维织成，亚麻是一种古老的栽培纺织[[PLANT|植物]]。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "FLAX",
+      "PLANT"
+    ],
+    "evidence": {
+      "topic": ".LINEN.",
+      "line": 2249,
+      "chunk": 1,
+      "source_link_candidates": [
+        "FLAX",
+        "PLANT"
+      ]
+    }
+  },
+  {
+    "id": "85ba8e88d48f0d637755",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Linen, like wool, is largely used material for clothes but the process to make serviceable",
+    "translation": "亚麻布和[[WOOL|羊毛]]一样，广泛用于制作[[CLOTHES|衣物]]，但要做出实用的",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "WOOL",
+      "CLOTHES"
+    ],
+    "evidence": {
+      "topic": ".LINEN.",
+      "line": 2250,
+      "chunk": 1,
+      "source_link_candidates": [
+        "WOOL",
+        "CLOTHES"
+      ]
+    }
+  },
+  {
+    "id": "471cc06b9a115f45e2db",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "linen is more laborious than in the case of wool. For the wealthy this is no problem since there is also imported linen in the",
+    "translation": "亚麻布，比加工[[WOOL|羊毛]]更费工。富人倒不用发愁，因为也能在",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "WOOL"
+    ],
+    "evidence": {
+      "topic": ".LINEN.",
+      "line": 2251,
+      "chunk": 1,
+      "source_link_candidates": [
+        "WOOL"
+      ]
+    }
+  },
+  {
+    "id": "ece1daa66b5eeb7a4dcd",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "UnReal World.<br>",
+    "translation": "[[WORLD|虚幻世界]]买到进口的亚麻布。<br>",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "WORLD"
+    ],
+    "evidence": {
+      "topic": ".LINEN.",
+      "line": 2252,
+      "chunk": 1,
+      "source_link_candidates": [
+        "WORLD"
+      ]
+    }
+  },
+  {
+    "id": "dd6b8773390b8e406cf5",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Linen clothes are very comfortable. The more you wear a specific linen garment the softer and more comfortable it will become.",
+    "translation": "亚麻[[CLOTHES|衣物]]穿起来很舒服，同一件穿得越久，就越柔软、越舒服。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "CLOTHES"
+    ],
+    "evidence": {
+      "topic": ".LINEN.",
+      "line": 2253,
+      "chunk": 1,
+      "source_link_candidates": [
+        "CLOTHES"
+      ]
+    }
+  },
+  {
+    "id": "c3a90272968c914ed072",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "You'll also feel cool in a linen garment when the weather is hot but still it will keep you warm when it's cold.",
+    "translation": "在炎热的[[WEATHER|天气]]里，穿亚麻衣物会感到凉爽，天气寒冷时也能保暖。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "WEATHER"
+    ],
+    "evidence": {
+      "topic": ".LINEN.",
+      "line": 2254,
+      "chunk": 1,
+      "source_link_candidates": [
+        "WEATHER"
+      ]
+    }
+  },
+  {
+    "id": "ce664031f303f65362f5",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Sheep's wool is largely used material for all kind of clothes.",
+    "translation": "绵羊毛广泛用于制作各种[[CLOTHES|衣物]]。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "CLOTHES"
+    ],
+    "evidence": {
+      "topic": ".WOOLLEN.WOOL.",
+      "line": 2259,
+      "chunk": 1,
+      "source_link_candidates": [
+        "CLOTHES"
+      ]
+    }
+  },
+  {
+    "id": "50055103926fd1b2b0e0",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Occasionally little amounts of fur or hair from other animals is",
+    "translation": "有时也会把少量其他[[ANIMALS|动物]]的[[FUR|毛皮]]或毛发",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "ANIMALS",
+      "FUR"
+    ],
+    "evidence": {
+      "topic": ".WOOLLEN.WOOL.",
+      "line": 2260,
+      "chunk": 1,
+      "source_link_candidates": [
+        "FUR",
+        "ANIMALS"
+      ]
+    }
+  },
+  {
+    "id": "0bd2ef9ec3d4c59cf1b4",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "added to shorn wool as well. Woollen clothes are warm to wear",
+    "translation": "掺进剪下的羊毛。羊毛[[CLOTHES|衣物]]穿起来很暖和，",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "CLOTHES"
+    ],
+    "evidence": {
+      "topic": ".WOOLLEN.WOOL.",
+      "line": 2261,
+      "chunk": 1,
+      "source_link_candidates": [
+        "CLOTHES"
+      ]
+    }
+  },
+  {
+    "id": "2aabbe19e33adc99bacf",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "and also give a little defense against concussion. To wear",
+    "translation": "也能稍微缓冲撞击。刚开始贴身穿",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".WOOLLEN.WOOL.",
+      "line": 2262,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "601aeffce9e9a3646304",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "a woollen cloth directly against your skin may however tickle at",
+    "translation": "羊毛[[CLOTH|布料]]时，皮肤可能会觉得发痒，",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "CLOTH"
+    ],
+    "evidence": {
+      "topic": ".WOOLLEN.WOOL.",
+      "line": 2263,
+      "chunk": 1,
+      "source_link_candidates": [
+        "CLOTH"
+      ]
+    }
+  },
+  {
+    "id": "ed1ea962dd6b9052cc33",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "first before you get accustomed to it.",
+    "translation": "穿习惯了就好。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".WOOLLEN.WOOL.",
+      "line": 2264,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "8884338d482fc971162a",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "In clothing leather is used mainly for shoes, boots and belts. It's",
+    "translation": "[[CLOTHING|衣物]]方面，皮革主要用来制作[[SHOES|鞋]]、[[BOOTS|靴]]和腰带。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "CLOTHING",
+      "SHOES",
+      "BOOTS"
+    ],
+    "evidence": {
+      "topic": ".LEATHER.",
+      "line": 2268,
+      "chunk": 1,
+      "source_link_candidates": [
+        "CLOTHING",
+        "SHOES",
+        "BOOTS"
+      ]
+    }
+  },
+  {
+    "id": "a4c6d87ba1a467082d29",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "also used to complete some other garment for example with bands and",
+    "translation": "也可以把它做成带子、皮条等配件，",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".LEATHER.",
+      "line": 2269,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "064426206e0bd854944c",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "thongs. More commonly leather is used in making of numerous pieces",
+    "translation": "用来完善其他衣物。更常见的是用皮革制作",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".LEATHER.",
+      "line": 2270,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "e7aa7fd744a0f7a81141",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "of equipment.",
+    "translation": "各种装备。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".LEATHER.",
+      "line": 2271,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "32e1b347889dfb75bbfb",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Fur is mainly used in the winter-time when many pieces of clothing",
+    "translation": "毛皮主要在冬天使用。这时许多平常穿的[[CLOTHING|衣物]]，",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "CLOTHING"
+    ],
+    "evidence": {
+      "topic": ".FUR.",
+      "line": 2275,
+      "chunk": 1,
+      "source_link_candidates": [
+        "CLOTHING"
+      ]
+    }
+  },
+  {
+    "id": "905232cfebc200894d21",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "which are usually made of linen or wool are replaced by fur",
+    "translation": "原本用[[LINEN|亚麻]]或[[WOOL|羊毛]]制作，现在会换成毛皮",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "LINEN",
+      "WOOL"
+    ],
+    "evidence": {
+      "topic": ".FUR.",
+      "line": 2276,
+      "chunk": 1,
+      "source_link_candidates": [
+        "LINEN",
+        "WOOL"
+      ]
+    }
+  },
+  {
+    "id": "d2620928c2f2ba88d923",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "counterparts. Fur is mainly used to keep its' wearer warm but it",
+    "translation": "制品。毛皮主要用于保暖，",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".FUR.",
+      "line": 2277,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "836c380407a257162503",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "can also give some considerable protection - although it's cumbersome",
+    "translation": "也能提供相当可观的防护，不过穿起来不太灵便，",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".FUR.",
+      "line": 2278,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "12f031a7696ac9e6a662",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "to move about especially in very big, heavy fur garments.",
+    "translation": "特别是又大又重的毛皮[[GARMENTS|衣物]]。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "GARMENTS"
+    ],
+    "evidence": {
+      "topic": ".FUR.",
+      "line": 2279,
+      "chunk": 1,
+      "source_link_candidates": [
+        "GARMENTS"
+      ]
+    }
+  },
+  {
+    "id": "24959801367b9c79e9ff",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Birch-bark is usually peeled and removed from a tree in long strips which are then wound to a ball",
+    "translation": "通常把桦树皮从树上剥成长条，再卷成一团",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".BIRCH-BARK.",
+      "line": 2298,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "3042cdcefb92e59c9938",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "for storage. This kind of balls are called 'Sommelo' in UnReal language. Alternatively, birch-bark can be also removed",
+    "translation": "储存。在当地[[LANGUAGE|语言]]中，这种桦树皮卷叫作 Sommelo。桦树皮也可以",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "LANGUAGE"
+    ],
+    "evidence": {
+      "topic": ".BIRCH-BARK.",
+      "line": 2299,
+      "chunk": 1,
+      "source_link_candidates": [
+        "LANGUAGE"
+      ]
+    }
+  },
+  {
+    "id": "635bd7d6814419e595b5",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "in sheets.<br>",
+    "translation": "整张剥下来。<br>",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".BIRCH-BARK.",
+      "line": 2300,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "73cb50a5eff3dbd5682b",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "When birch-bark is used in clothing its use is restricted to birch-bark shoes, birch-bark caps and small pieces for spot protection or to",
+    "translation": "制作[[CLOTHING|衣物]]时，桦树皮一般只用来做[[BIRCH-BARK SHOES|桦树皮鞋]]、[[BIRCH-BARK CAPS|桦树皮帽]]、小型局部护具",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "CLOTHING",
+      "BIRCH-BARK SHOES",
+      "BIRCH-BARK CAPS"
+    ],
+    "evidence": {
+      "topic": ".BIRCH-BARK.",
+      "line": 2301,
+      "chunk": 1,
+      "source_link_candidates": [
+        "CLOTHING",
+        "BIRCH-BARK SHOES",
+        "BIRCH-BARK CAPS"
+      ]
+    }
+  },
+  {
+    "id": "fa78f221e9963790dc13",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "be used as ornaments etc. This is because finished birch-bark equipment isn't very elastic and feels coarse against the skin.",
+    "translation": "或饰物等。这是因为制成的桦树皮用品缺乏弹性，贴着皮肤也很粗糙。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".BIRCH-BARK.",
+      "line": 2302,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "1c92186c9008b09b56bc",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Birch-bark garments give some protection against edge and tear attacks but for point or blunt strikes they are somewhat useless.<br>",
+    "translation": "桦树皮[[GARMENTS|衣物]]能在一定程度上抵挡切割和撕扯，但很难防住尖刺或钝击。<br>",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "GARMENTS"
+    ],
+    "evidence": {
+      "topic": ".BIRCH-BARK.",
+      "line": 2303,
+      "chunk": 1,
+      "source_link_candidates": [
+        "GARMENTS"
+      ]
+    }
+  },
+  {
+    "id": "91ebc41c7567b923bb2b",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "More commonly birch-bark is used in making of various artifacts, for example boxes, baskets, ropes or net floats.",
+    "translation": "桦树皮更常用来做各种器物，例如盒子、篮子、[[ROPES|绳索]]或[[NET|渔网]]浮子。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "ROPES",
+      "NET"
+    ],
+    "evidence": {
+      "topic": ".BIRCH-BARK.",
+      "line": 2304,
+      "chunk": 1,
+      "source_link_candidates": [
+        "ROPES",
+        "NET"
+      ]
+    }
+  },
+  {
+    "id": "61edc6b1a2d6d2ebf148",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "In the wilderness situations it can be also used for preparing simple cooking vessels such as a birch-bark pot.",
+    "translation": "在野外，也可以用它做简单的炊具，比如[[BIRCH-BARK POT|桦树皮锅]]。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "BIRCH-BARK POT"
+    ],
+    "evidence": {
+      "topic": ".BIRCH-BARK.",
+      "line": 2305,
+      "chunk": 1,
+      "source_link_candidates": [
+        "BIRCH-BARK POT"
+      ]
+    }
+  },
+  {
+    "id": "b63a559b970b1d9c1dff",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Lamellar is eastern armour type used by Njerpezit. Lamellar armours are made of square",
+    "translation": "札甲是[[NJERPEZIT|涅尔佩兹人]]使用的一种东部[[ARMOUR|护甲]]。这种[[ARMOURS|护甲]]用方形",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "NJERPEZIT",
+      "ARMOUR",
+      "ARMOURS"
+    ],
+    "evidence": {
+      "topic": ".LAMELLAR.",
+      "line": 2309,
+      "chunk": 1,
+      "source_link_candidates": [
+        "ARMOUR",
+        "NJERPEZIT",
+        "ARMOURS"
+      ]
+    }
+  },
+  {
+    "id": "098baf6b7cc13b6e5866",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "or rectangular iron plates tightly fastened to each other with leather straps passed through",
+    "translation": "或长方形的[[IRON|铁]]片制成，用[[LEATHER|皮革]]带穿过",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "IRON",
+      "LEATHER"
+    ],
+    "evidence": {
+      "topic": ".LAMELLAR.",
+      "line": 2310,
+      "chunk": 1,
+      "source_link_candidates": [
+        "IRON",
+        "LEATHER"
+      ]
+    }
+  },
+  {
+    "id": "81c9ab3dce11786cf72c",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "openings along the edges of the plates. Lamellar technique is used mainly to create cuirass",
+    "translation": "甲片边缘的孔，将甲片紧紧连在一起。札甲工艺主要用于制作[[CUIRASS|胸甲]]",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "CUIRASS"
+    ],
+    "evidence": {
+      "topic": ".LAMELLAR.",
+      "line": 2311,
+      "chunk": 1,
+      "source_link_candidates": [
+        "CUIRASS"
+      ]
+    }
+  },
+  {
+    "id": "dcfeb8daf470207add35",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "and hauberk type armors, but it's also suitable for some spot protection pieces like shin guards",
+    "translation": "和[[HAUBERK|长身甲]]一类的护甲，也适合用来制作[[SHIN GUARDS|护胫]]、",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "HAUBERK",
+      "SHIN GUARDS"
+    ],
+    "evidence": {
+      "topic": ".LAMELLAR.",
+      "line": 2312,
+      "chunk": 1,
+      "source_link_candidates": [
+        "HAUBERK",
+        "SHIN GUARDS"
+      ]
+    }
+  },
+  {
+    "id": "301da2fa8f3d4d286a43",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "and forearm guards. Lamellar armour offers better protection than mail, especially in case of blunt attacks.",
+    "translation": "[[FOREARM GUARDS|护臂]]等局部护具。这种[[ARMOUR|护甲]]比[[MAIL|锁子甲]]防护更好，尤其能抵挡钝击。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "FOREARM GUARDS",
+      "ARMOUR",
+      "MAIL"
+    ],
+    "evidence": {
+      "topic": ".LAMELLAR.",
+      "line": 2313,
+      "chunk": 1,
+      "source_link_candidates": [
+        "FOREARM GUARDS",
+        "ARMOUR",
+        "MAIL"
+      ]
+    }
+  },
+  {
+    "id": "b355d637ade0e733ac9c",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Interlocking metal rings, usually half an inch or less in diameter.",
+    "translation": "锁子甲由相互套扣的金属环组成，环的直径通常不超过半英寸。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".MAIL.",
+      "line": 2317,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "f81702b9cd4753c5cf14",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Mail may be butted, coiled or rivetted, these considerations are",
+    "translation": "金属环可以对合、绕圈或用铆钉铆接，这些做法",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".MAIL.",
+      "line": 2318,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "0c35866d7d9b1d8d1ac8",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "reflected by armour quality. While mail is a superb defence against",
+    "translation": "会影响[[ARMOUR|护甲]]的品质。锁子甲防斩击的效果很好，",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "ARMOUR"
+    ],
+    "evidence": {
+      "topic": ".MAIL.",
+      "line": 2319,
+      "chunk": 1,
+      "source_link_candidates": [
+        "ARMOUR"
+      ]
+    }
+  },
+  {
+    "id": "7fd4794ecd314a7d8baf",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "edged weapons, and reasonable against the point, it does little to",
+    "translation": "也能挡住一定的刺击，但对[[WEAPONS|武器]]的冲击力",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "WEAPONS"
+    ],
+    "evidence": {
+      "topic": ".MAIL.",
+      "line": 2320,
+      "chunk": 1,
+      "source_link_candidates": [
+        "WEAPONS"
+      ]
+    }
+  },
+  {
+    "id": "214a84ece27fc13f46af",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "reduce force of a blow, and may be driven into its wearer's flesh.",
+    "translation": "缓冲有限，甲环甚至可能被打进穿戴者的皮肉。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".MAIL.",
+      "line": 2321,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "818b69d762766dad4070",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Because of this, leather or wool garments are usually worn underneath.",
+    "translation": "因此人们通常会在锁子甲下面穿[[LEATHER|皮革]]或[[WOOL|羊毛]]制成的[[GARMENTS|衣物]]。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "LEATHER",
+      "WOOL",
+      "GARMENTS"
+    ],
+    "evidence": {
+      "topic": ".MAIL.",
+      "line": 2322,
+      "chunk": 1,
+      "source_link_candidates": [
+        "LEATHER",
+        "WOOL",
+        "GARMENTS"
+      ]
+    }
+  },
+  {
+    "id": "87651424a1e76fec0f90",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Armour which forms a rigid continuous covering and is made of iron.",
+    "translation": "铁甲是由铁制成的硬质[[ARMOUR|护甲]]，能连续覆盖所保护的部位。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "ARMOUR"
+    ],
+    "evidence": {
+      "topic": ".IRON.",
+      "line": 2326,
+      "chunk": 1,
+      "source_link_candidates": [
+        "ARMOUR"
+      ]
+    }
+  },
+  {
+    "id": "3e7fa3d71ec9ef072755",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Iron armours are relatively rare. Its use is generally restricted helms, and small plates for spot",
+    "translation": "铁制[[ARMOURS|护甲]]相当罕见，通常只用在[[HELMS|头盔]]和保护局部的",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "ARMOURS",
+      "HELMS"
+    ],
+    "evidence": {
+      "topic": ".IRON.",
+      "line": 2327,
+      "chunk": 1,
+      "source_link_candidates": [
+        "ARMOURS",
+        "HELMS"
+      ]
+    }
+  },
+  {
+    "id": "d6748edffc7366683307",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "protection. Iron armours offer good to excellent defense against all strikes.",
+    "translation": "小甲片上。铁制[[ARMOURS|护甲]]对各种攻击都有良好乃至出色的防护。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "ARMOURS"
+    ],
+    "evidence": {
+      "topic": ".IRON.",
+      "line": 2328,
+      "chunk": 1,
+      "source_link_candidates": [
+        "ARMOURS"
+      ]
+    }
+  },
+  {
+    "id": "1a7a9fa982ee33b3992c",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Nalbinding is a technique for making clothes from wool yarn using a needle to form and connect stitches",
+    "translation": "单针编结是一种用[[WOOL|羊毛]][[YARN|纱线]]制作[[CLOTHES|衣物]]的技法。用一根[[NEEDLE|针]]做出线圈并把它们",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "WOOL",
+      "YARN",
+      "CLOTHES",
+      "NEEDLE"
+    ],
+    "evidence": {
+      "topic": ".NALBINDING.NALBOUND.",
+      "line": 2334,
+      "chunk": 1,
+      "source_link_candidates": [
+        "CLOTHES",
+        "WOOL",
+        "YARN",
+        "NEEDLE"
+      ]
+    }
+  },
+  {
+    "id": "b91292b00af2a45e2ecb",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "in a specific sequence, creating a continuous textile. The yarn is used in lengths of a few metres, with the",
+    "translation": "按特定顺序连起来，就能编成连续的织物。编结用的每段[[YARN|纱线]]长几米，",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "YARN"
+    ],
+    "evidence": {
+      "topic": ".NALBINDING.NALBOUND.",
+      "line": 2335,
+      "chunk": 1,
+      "source_link_candidates": [
+        "YARN"
+      ]
+    }
+  },
+  {
+    "id": "0881e20bf8e15d8113d9",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "needle held in one hand and the thumb of the other hand used to regulate the size of the stitches.",
+    "translation": "一手拿[[NEEDLE|针]]，另一手用拇指控制线圈的大小。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "NEEDLE"
+    ],
+    "evidence": {
+      "topic": ".NALBINDING.NALBOUND.",
+      "line": 2336,
+      "chunk": 1,
+      "source_link_candidates": [
+        "NEEDLE"
+      ]
+    }
+  },
+  {
+    "id": "e22558048d77efd382df",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "The method is time-consuming, but creates elastic and warm clothes. It is most commonly used to produce rather small but",
+    "translation": "这种方法很费时，但制成的[[CLOTHES|衣物]]有弹性又暖和。最常用它做些尺寸虽小、",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "CLOTHES"
+    ],
+    "evidence": {
+      "topic": ".NALBINDING.NALBOUND.",
+      "line": 2337,
+      "chunk": 1,
+      "source_link_candidates": [
+        "CLOTHES"
+      ]
+    }
+  },
+  {
+    "id": "b4f6ed68ba77205f7bb6",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "important wintertime garments such as nalbound socks, cowls and mittens.",
+    "translation": "冬天却很重要的[[GARMENTS|衣物]]，例如[[NALBOUND SOCKS|单针编结袜]]、[[COWLS|头罩]]和[[MITTENS|连指手套]]。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "GARMENTS",
+      "NALBOUND SOCKS",
+      "COWLS",
+      "MITTENS"
+    ],
+    "evidence": {
+      "topic": ".NALBINDING.NALBOUND.",
+      "line": 2338,
+      "chunk": 1,
+      "source_link_candidates": [
+        "GARMENTS",
+        "NALBOUND SOCKS",
+        "COWLS",
+        "MITTENS"
+      ]
+    }
+  },
+  {
+    "id": "a53db0579b0afcfc2099",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "A makeshift cord fashioned from strips of clothes. It's not a quality tying equipment at all, but serves as emergency option.",
+    "translation": "这种临时[[CORD|细绳]]是用[[CLOTHES|衣物]]上裁下的布条做的，质量不高，但可以应急。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "CORD",
+      "CLOTHES"
+    ],
+    "evidence": {
+      "topic": ".CLOTH CORD.",
+      "line": 3491,
+      "chunk": 1,
+      "source_link_candidates": [
+        "CORD",
+        "CLOTHES"
+      ]
+    }
+  },
+  {
+    "id": "daaaf113224ca4b334f6",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Cords are tying equipment thicker than a yarn, but thinner than a rope. Most commonly cords are made of yarn by twisting several single strands toget",
+    "translation": "细绳用来捆扎，比[[YARN|纱线]]粗，比[[ROPE|绳索]]细。最常见的细绳是把多股单线",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "YARN",
+      "ROPE"
+    ],
+    "evidence": {
+      "topic": ".CORD.LEATHER CORD.CORDS.",
+      "line": 3497,
+      "chunk": 1,
+      "source_link_candidates": [
+        "YARN",
+        "ROPE"
+      ]
+    }
+  },
+  {
+    "id": "f98ddebd9558bdc974ee",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "her, but",
+    "translation": "捻在一起做成的，不过",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".CORD.LEATHER CORD.CORDS.",
+      "line": 3497,
+      "chunk": 2,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "94950620ed6df87937ea",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "they can be also made out of leather - or in case of emergency a cloth cord can be fashioned. Cords may vary in length, thickness and firmness.",
+    "translation": "也可以用[[LEATHER|皮革]]来做，紧急时还能做成[[CLOTH CORD|细布绳]]。细绳的长度、粗细和牢固程度各不相同。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "LEATHER",
+      "CLOTH CORD"
+    ],
+    "evidence": {
+      "topic": ".CORD.LEATHER CORD.CORDS.",
+      "line": 3498,
+      "chunk": 1,
+      "source_link_candidates": [
+        "LEATHER",
+        "CLOTH CORD"
+      ]
+    }
+  },
+  {
+    "id": "bfa78148984b74a3edc8",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Ropes are strongest and thickest type of tying equipment. Ropes can be made of yarn, leather or birch-bark. Most commonly ropes are made out of cords",
+    "translation": "绳索是最结实、最粗的捆扎用品，可以用[[YARN|纱线]]、[[LEATHER|皮革]]或[[BIRCH-BARK|桦树皮]]制作。最常见的做法是用[[CORDS|细绳]]",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "YARN",
+      "LEATHER",
+      "BIRCH-BARK",
+      "CORDS"
+    ],
+    "evidence": {
+      "topic": ".LEATHER ROPE.ROPE.ROPES.",
+      "line": 3504,
+      "chunk": 1,
+      "source_link_candidates": [
+        "YARN",
+        "LEATHER",
+        "BIRCH-BARK",
+        "CORDS"
+      ]
+    }
+  },
+  {
+    "id": "4aa92e17c4187f02cfb6",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "of yarn",
+    "translation": "（由[[YARN|纱线]]捻成），",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "YARN"
+    ],
+    "evidence": {
+      "topic": ".LEATHER ROPE.ROPE.ROPES.",
+      "line": 3504,
+      "chunk": 2,
+      "source_link_candidates": [
+        "YARN"
+      ]
+    }
+  },
+  {
+    "id": "f8be9019108199473e3d",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "which are twisted together in bundles to form a rope. Ropes may vary in length, thickness and firmness.",
+    "translation": "把它们分束捻在一起，做成绳索。绳索的长度、粗细和牢固程度各不相同。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".LEATHER ROPE.ROPE.ROPES.",
+      "line": 3505,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "cfb147ebe1027cf81465",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "Yarn is made either by spinning plant fibres or twisting sinew fibres into long strands. It is commonly used for sewing clothes,",
+    "translation": "纱线是将[[PLANT|植物]]纤维纺成细长的线，或将[[SINEW FIBRES|筋纤维]]捻成的。纱线常用来缝[[CLOTHES|衣物]]，",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "PLANT",
+      "SINEW FIBRES",
+      "CLOTHES"
+    ],
+    "evidence": {
+      "topic": ".YARN.",
+      "line": 3509,
+      "chunk": 1,
+      "source_link_candidates": [
+        "PLANT",
+        "SINEW FIBRES",
+        "CLOTHES"
+      ]
+    }
+  },
+  {
+    "id": "15ed5147bf087a8b3aa6",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "but has many other uses too. For example in crafting of a loop snare or line of a fishing rod.<br>",
+    "translation": "也有很多其他用途，例如制作[[LOOP SNARE|套索陷阱]]，或作为[[FISHING ROD|钓竿]]的钓线。<br>",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "LOOP SNARE",
+      "FISHING ROD"
+    ],
+    "evidence": {
+      "topic": ".YARN.",
+      "line": 3510,
+      "chunk": 1,
+      "source_link_candidates": [
+        "LOOP SNARE",
+        "FISHING ROD"
+      ]
+    }
+  },
+  {
+    "id": "6006076564ad14d94143",
+    "source": "GAME.NFO:reviewed-material-lines",
+    "context": "encyclopedia",
+    "original": "There is also wool yarn which can be used be to make nalbound clothes. For spinning yarn by yourself refer to your TEXTILECRAFT skill.",
+    "translation": "[[WOOL|羊毛]]纱线可用来做[[NALBOUND|单针编结]]的[[CLOTHES|衣物]]。自行纺线要使用[[TEXTILECRAFT|纺织]]技能。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "WOOL",
+      "NALBOUND",
+      "CLOTHES",
+      "TEXTILECRAFT"
+    ],
+    "evidence": {
+      "topic": ".YARN.",
+      "line": 3511,
+      "chunk": 1,
+      "source_link_candidates": [
+        "WOOL",
+        "NALBOUND",
+        "CLOTHES",
+        "TEXTILECRAFT"
+      ]
+    }
+  }
+]

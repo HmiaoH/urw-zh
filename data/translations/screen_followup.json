@@ -1,0 +1,1019 @@
+[
+  {
+    "id": "b6f6e7ec3c4c2db7611a",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "LORE & CRAFT SKILLS",
+    "translation": "知识与手艺",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "cc018f1fd3b12f2b98de",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "PHYSICAL SKILLS",
+    "translation": "身体技能",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "cea1f81527e6abe3d97c",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "COMBAT SKILLS",
+    "translation": "战斗技能",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1b1fdc6f04e5fb542405",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "BUILDING",
+    "translation": "建造",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d67332452e8abf10623a",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "COOKERY",
+    "translation": "烹饪",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "05f974ae067784df80b4",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "HERBLORE",
+    "translation": "草药学",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4ae0e6fabf9f56090677",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "FISHING",
+    "translation": "捕鱼",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "383e8bdefad9a4ca13ce",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "CLOTHCRAFT",
+    "translation": "制衣",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "0fba728584ac9ee3a966",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "HIDEWORKING",
+    "translation": "皮革加工",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ed59df5296f4eed0f4e4",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "TIMBERCRAFT",
+    "translation": "伐木",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a9325d03ec1fb1d9f353",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "NETMAKING",
+    "translation": "织网",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "2196ad07da5e231a11f5",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "BOWYER",
+    "translation": "制弓",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e1791fa5d8f8974aa9bf",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "PHYSICIAN",
+    "translation": "医术",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f5ed335385ab34c522e2",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "TRAPPING",
+    "translation": "设陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "49cb75b48e8f0ebf1e92",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "TRACKING",
+    "translation": "追踪",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e2394f46211a0e8824ea",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "WEATHERLORE",
+    "translation": "观天",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "877a56a2c17374e6a262",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "TEXTILECRAFT",
+    "translation": "纺织",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a064e3cb6e43538e2262",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "CARPENTRY",
+    "translation": "木工",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "28a5ed95b97e8f2800d4",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "SKIING",
+    "translation": "滑雪",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "db4171bb68b0fb56c9c2",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "STEALTH",
+    "translation": "潜行",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4951db17d14858a3ab2e",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "CLIMBING",
+    "translation": "攀爬",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "75726d4460318f9deaf0",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "SWIMMING",
+    "translation": "游泳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "7d5e15d4d765001e7cf7",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "DODGE",
+    "translation": "闪避",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "959c510c67596f767370",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "SHIELD",
+    "translation": "盾牌",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f9f7e398c6fa7dcc5541",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "KNIFE",
+    "translation": "刀",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "08fd1cbe988ed72bb7b8",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "SWORD",
+    "translation": "剑",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "54aef9557aa82c58b788",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "CLUB",
+    "translation": "棍棒",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "89937f322c7da6bd7d6a",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "AXE",
+    "translation": "斧",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "7c755a28c5e28c838edc",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "SPEAR",
+    "translation": "矛",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "9e8d78c81658cab1ab44",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "BOW",
+    "translation": "弓",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "8bd53a628f9e0decd8c2",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "CROSSBOW",
+    "translation": "弩",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "5ad6eb9e3d55759034f2",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "UNARMED",
+    "translation": "徒手格斗",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "435f08ce0452f7a09f88",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "(novice)",
+    "translation": "（新手）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "181671dbfe59a0a1bab0",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "(adequate)",
+    "translation": "（基本掌握）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "af725d54a078a7b01dfc",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "(competent)",
+    "translation": "（胜任）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "301aa26d9b78f6ebddfe",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "(skilled)",
+    "translation": "（熟练）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ec17cc2c923a8f2b9e1d",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "(expert)",
+    "translation": "（专家）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b295f84ee5e35acf1d69",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "(talented)",
+    "translation": "（精通）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "851e1f58acb18545ed40",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "(amateur)",
+    "translation": "（初学）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f642e0a7ed0f1049d941",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "Use skills",
+    "translation": "使用技能",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "9ce68e573940b244ac36",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "Chat mode",
+    "translation": "交谈方式",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "5725f1077df72c4f606d",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "Greet",
+    "translation": "打招呼",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "040e0c181f83c5604723",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "Ask for directions",
+    "translation": "问路",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "21e61e8fdae3b7e430f2",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "Command",
+    "translation": "下达指令",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e0b7076ef8a87839dd47",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "Ask help/company",
+    "translation": "请求帮助或结伴",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4148460483c6dabf135c",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "Deliver an item",
+    "translation": "交付物品",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4dbe1e72dc0c65a47ea0",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "Trade items",
+    "translation": "交易物品",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e4551a59ea0d1cfe6317",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "Back to chat mode selection",
+    "translation": "返回交谈方式选择",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "22bcdec647a71fab3955",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "\"Who are you?\"",
+    "translation": "“你是谁？”",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "2eb294a6df75cb75a18d",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "\"How is it going?\"",
+    "translation": "“近来如何？”",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "afc39c9698967d3b6b1b",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "\"Goodbye\"",
+    "translation": "“再见。”",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "43776f263893b1841f09",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "\"I'm looking for a village.\"",
+    "translation": "“我在找村庄。”",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "5bc5aeec76586ab77774",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "\"I need to find a lake.\"",
+    "translation": "“我想找一处湖泊。”",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1d35cf568976265aba35",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "\"Are there any caves around here?\"",
+    "translation": "“这附近有洞穴吗？”",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "c8455d7f9deacb8008e0",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "\"Yes, I know. How about more distant settlements?\"",
+    "translation": "“是的，我知道。更远的聚落呢？”",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "019e056d586b12706f29",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "Close a door or gate",
+    "translation": "关闭门或栅门",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b066d5560e46cd7e1a4d",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "DOOR YOU WISH TO CLOSE",
+    "translation": "选择要关闭的门",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "dac8a3eaf24ab0faf4d2",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "Talk to someone",
+    "translation": "与人交谈",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "c333038b324ff573b67f",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "CHOOSE TARGET",
+    "translation": "选择目标",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "17014401456541f96e46",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "Select",
+    "translation": "选择",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1032ab42818cc4c92d7f",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "Next, or",
+    "translation": "下一个，或",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4996d69465a0264921ec",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "Previous creature",
+    "translation": "上一个生物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "6d9343dd76c9c35c663d",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "Walking",
+    "translation": "步行",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f09a914326379034f241",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "Spruce mire",
+    "translation": "云杉沼泽",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "52d1710b2b542388f139",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "Beginning of",
+    "translation": "初期",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b222966e1c380262f8c9",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "Fallow month",
+    "translation": "休耕月",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "c7ae37e23389e2402ea2",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "Repeat:",
+    "translation": "重复：",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "3396dc8953f405b56f5e",
+    "source": "runtime:screenshot-followup",
+    "context": "renshow",
+    "original": "NORTH",
+    "translation": "北",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "3d348d11bbaf89d06e16",
+    "source": "runtime:screenshot-followup",
+    "context": "renshow",
+    "original": "SOUTH",
+    "translation": "南",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "70a794bdf21207a35f43",
+    "source": "runtime:screenshot-followup",
+    "context": "renshow",
+    "original": "EAST",
+    "translation": "东",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "bbcce25fb33463bd6e53",
+    "source": "runtime:screenshot-followup",
+    "context": "renshow",
+    "original": "WEST",
+    "translation": "西",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "42c30897cf9e6b6930fb",
+    "source": "runtime:screenshot-followup",
+    "context": "renshow",
+    "original": "NORTH-WEST",
+    "translation": "西北",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "7f1708cb0da5479097e4",
+    "source": "runtime:screenshot-followup",
+    "context": "renshow",
+    "original": "NORTH-EAST",
+    "translation": "东北",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d5cc79e50b6be7aa116b",
+    "source": "runtime:screenshot-followup",
+    "context": "renshow",
+    "original": "SOUTH-WEST",
+    "translation": "西南",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "189d5d6fd05e9e78148b",
+    "source": "runtime:screenshot-followup",
+    "context": "renshow",
+    "original": "SOUTH-EAST",
+    "translation": "东南",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "fabab8570379cf8bad6d",
+    "source": "runtime:screenshot-followup",
+    "context": "renshow",
+    "original": "Walking",
+    "translation": "步行",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4c22c0e6d7feb542f32f",
+    "source": "runtime:screenshot-followup",
+    "context": "paragraph",
+    "original": "Select door you wish to close with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用这些表示方向的方向键或数字小键盘选择要关闭的门，也可以用鼠标点击所在位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "286460382ff435f1ebbb",
+    "source": "runtime:screenshot-followup",
+    "context": "paragraph",
+    "original": "Choose target by pointing and clicking the location by mouse, or by moving the cursor using these cursor/numpad keys.",
+    "translation": "用鼠标点击位置选择目标，也可以用方向键或数字小键盘移动光标。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ba2e8f1e8165a8507a33",
+    "source": "runtime:screenshot-followup",
+    "context": "message",
+    "original": "!That is not a door or gate.",
+    "translation": "那不是门或栅门。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "cdb3fad7e19356f57cbe",
+    "source": "runtime:screenshot-followup",
+    "context": "message",
+    "original": "!There's a spruce blocking your way!",
+    "translation": "一棵云杉挡住了你的去路！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "7bd3c0a1313d6cc2195a",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "The ability to grow crops and harvest wild plants for seeds and leaves.",
+    "translation": "种植作物，以及采集野生植物种子和叶片的能力。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "75c3c74fb8498ac924d6",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "Building is the ability to construct forms of shelters and housing.",
+    "translation": "建造各种庇护所和房屋的能力。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "47d5d151bf4facb65ba9",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "Cookery is the ability to prepare and preserve food.",
+    "translation": "制作和保存食物的能力。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "dbaea1263efd95688ece",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "The ability to recognize individual plants and their properties.",
+    "translation": "辨认植物并了解其特性的能力。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b0bd0457bf3aab1b74cf",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "Clothcraft is a general skill for making clothes from a variety of materials.",
+    "translation": "使用各种材料制作衣物的综合技能。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ea5b665391cfe9e95fe8",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "Hideworking is used to skin animals and process the resulting hides.",
+    "translation": "剥取兽皮并进行加工的技能。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "46074a2c19bbdb9edb1f",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "Netmaking is a skill for weaving and constructing fishing nets, and crafting a lippo.",
+    "translation": "编织渔网以及制作长柄捞网（lippo）的技能。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "38c6831222fbd2bbe522",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "Chatting with {person:text}",
+    "translation": "正在与 {person} 交谈",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "2be312667559f622fa7c",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "Kuikka-tribe Woman",
+    "translation": "库伊卡部族女子",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "33ba70be80b4fd7ddef5",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "\"I am {name:text}.\"",
+    "translation": "“我是 {name}。”",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "19c45a23352eebb58401",
+    "source": "runtime:screenshot-followup",
+    "context": "npc-talk",
+    "original": "\"Who are you?\"",
+    "translation": "“你是谁？”",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f19b2a6eef2bf73e0d63",
+    "source": "runtime:screenshot-followup",
+    "context": "npc-talk",
+    "original": "\"I'm looking for a village.\"",
+    "translation": "“我在找村庄。”",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "2da3ec5351488d2d9004",
+    "source": "runtime:screenshot-followup",
+    "context": "npc-talk",
+    "original": "Good morning, stranger.",
+    "translation": "早上好，陌生人。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1f085a0c2b32207e95d0",
+    "source": "runtime:screenshot-followup",
+    "context": "npc-talk",
+    "original": "What's on your mind?",
+    "translation": "你想聊些什么？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "11346e65be889f996460",
+    "source": "runtime:screenshot-followup",
+    "context": "npc-talk",
+    "original": "What do you need to know?",
+    "translation": "你想打听什么？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "21ff059b443e2ee76a0d",
+    "source": "runtime:screenshot-followup",
+    "context": "npc-talk",
+    "original": "I'm known as {name:text}.",
+    "translation": "大家都叫我 {name}。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "f9b87c998c84513bf4f6",
+    "source": "runtime:screenshot-followup",
+    "context": "npc-talk",
+    "original": "\"I am {name:text}.\"",
+    "translation": "“我是 {name}。”",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "03a4aaa4502a960b8550",
+    "source": "runtime:screenshot-followup",
+    "context": "npc-talk",
+    "original": "Good to know you, {name:text}.",
+    "translation": "很高兴认识你，{name}。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "b362a487b967f37ed3c9",
+    "source": "runtime:screenshot-followup",
+    "context": "player-talk",
+    "original": "\"Who are you?\"",
+    "translation": "“你是谁？”",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "6da696338991b954422d",
+    "source": "runtime:screenshot-followup",
+    "context": "player-talk",
+    "original": "\"I'm looking for a village.\"",
+    "translation": "“我在找村庄。”",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e626658bfa1fc38d488d",
+    "source": "runtime:screenshot-followup",
+    "context": "player-talk",
+    "original": "Good morning, stranger.",
+    "translation": "早上好，陌生人。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "3e744203643d1174c82a",
+    "source": "runtime:screenshot-followup",
+    "context": "player-talk",
+    "original": "What's on your mind?",
+    "translation": "你想聊些什么？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "9fea64bd25a459323d23",
+    "source": "runtime:screenshot-followup",
+    "context": "player-talk",
+    "original": "What do you need to know?",
+    "translation": "你想打听什么？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "01e43895120789a44ae9",
+    "source": "runtime:screenshot-followup",
+    "context": "player-talk",
+    "original": "I'm known as {name:text}.",
+    "translation": "大家都叫我 {name}。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "ef99120cb02d1d81367b",
+    "source": "runtime:screenshot-followup",
+    "context": "player-talk",
+    "original": "\"I am {name:text}.\"",
+    "translation": "“我是 {name}。”",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "4041fc94e8dc7eca7382",
+    "source": "runtime:screenshot-followup",
+    "context": "player-talk",
+    "original": "Good to know you, {name:text}.",
+    "translation": "很高兴认识你，{name}。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "537e356ce9ac02772df1",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "Magga the Kuikka-tribe Woman",
+    "translation": "Magga（库伊卡部族女子）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "17b2b5390fb13a9ab976",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "Chatting with Magga the Kuikka-tribe Woman",
+    "translation": "正在与库伊卡部族女子 Magga 交谈",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "3c8565a5fa389edcfed4",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "Back to \"HUNTING KNIFE\"",
+    "translation": "返回“猎刀”",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "30ad015f3ef8e2d70232",
+    "source": "runtime:screenshot-followup",
+    "context": "showtext",
+    "original": "Back to \"{topic:text}\"",
+    "translation": "返回“{topic}”",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "c04628275e23f4f8939a",
+    "source": "runtime:screenshot-followup",
+    "context": "paragraph",
+    "original": "Beginning of Fallow month",
+    "translation": "休耕月初",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4144bbb3bea986209c99",
+    "source": "runtime:screenshot-followup",
+    "context": "newshow",
+    "original": "Spruce mire",
+    "translation": "云杉沼泽",
+    "status": "reviewed",
+    "runtime_verified": false
+  }
+]

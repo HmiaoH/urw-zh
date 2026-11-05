@@ -1,0 +1,98 @@
+[
+  {
+    "id": "action-note-1deb317bf7c3138f",
+    "source": "runtime:captured-action-notices",
+    "context": "message",
+    "original": "#Things that are here:",
+    "translation": "这里的物品：",
+    "status": "reviewed"
+  },
+  {
+    "id": "action-note-36b3552514315d0f",
+    "source": "runtime:captured-action-notices",
+    "context": "message",
+    "original": "#There are several objects here:",
+    "translation": "这里有多件物品：",
+    "status": "reviewed"
+  },
+  {
+    "id": "action-note-36c2c1b2fab0f361",
+    "source": "runtime:captured-action-notices",
+    "context": "message",
+    "original": "&You run.",
+    "translation": "你开始奔跑。",
+    "status": "reviewed"
+  },
+  {
+    "id": "action-note-81c418c6655d4739",
+    "source": "runtime:captured-action-notices",
+    "context": "message",
+    "original": "&You walk.",
+    "translation": "你开始步行。",
+    "status": "reviewed"
+  },
+  {
+    "id": "action-note-433fdc1088631bc8",
+    "source": "runtime:captured-action-notices",
+    "context": "message",
+    "original": "&You fall prone.",
+    "translation": "你趴了下来。",
+    "status": "reviewed"
+  },
+  {
+    "id": "action-note-801e42386fe9d02c",
+    "source": "runtime:captured-action-notices",
+    "context": "message",
+    "original": "&You get back on your feet.",
+    "translation": "你重新站了起来。",
+    "status": "reviewed"
+  },
+  {
+    "id": "action-note-a971b8ffef315004",
+    "source": "runtime:captured-action-notices",
+    "context": "message",
+    "original": "#You are about discard some items for ever.",
+    "translation": "你将永久丢弃一些物品。",
+    "status": "reviewed"
+  },
+  {
+    "id": "action-note-a7a0656ffe4e5d4b",
+    "source": "runtime:captured-action-notices",
+    "context": "message",
+    "original": "These items here can be discarded:",
+    "translation": "这里可以丢弃的物品：",
+    "status": "reviewed"
+  },
+  {
+    "id": "action-note-c61268e2d2885f44",
+    "source": "runtime:captured-action-notices",
+    "context": "message",
+    "original": "!There are no items to discard here!",
+    "translation": "这里没有可以丢弃的物品！",
+    "status": "reviewed"
+  },
+  {
+    "id": "action-note-03c8020c20b3f64b",
+    "source": "runtime:captured-action-notices",
+    "context": "message",
+    "original": "_First drop the items you wish to discard and use this command as you are standing on them.",
+    "translation": "先放下要丢弃的物品，站在物品所在的位置，再使用此命令。",
+    "status": "reviewed"
+  },
+  {
+    "id": "action-note-8ad29eb7728d8543",
+    "source": "runtime:captured-action-notices",
+    "context": "message",
+    "original": "_Notice that you can only discard items that are considered to be yours.",
+    "translation": "注意：你只能丢弃属于自己的物品。",
+    "status": "reviewed"
+  },
+  {
+    "id": "action-note-febecf105b8d1c97",
+    "source": "runtime:captured-action-notices",
+    "context": "message",
+    "original": "?Items at your feet will be moved to an adjacent location or packed on an animal.",
+    "translation": "将把脚下的物品移到邻近位置，或装载到动物身上。",
+    "status": "reviewed"
+  }
+]

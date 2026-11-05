@@ -1,0 +1,146 @@
+[
+  {
+    "id": "eeebf8712821388dab27",
+    "source": "native:obstacle-message",
+    "context": "message",
+    "original": "!There's a northern wall of a kota blocking your way!",
+    "translation": "科塔帐篷的北侧帐壁挡住了你的路！",
+    "status": "reviewed",
+    "evidence": "an() article + obstacle description; captured eastern wall and other compass variants"
+  },
+  {
+    "id": "eded90b96b5d93f8a9b3",
+    "source": "native:obstacle-message",
+    "context": "message",
+    "original": "!There's a northern corner of a kota blocking your way!",
+    "translation": "科塔帐篷的北侧角挡住了你的路！",
+    "status": "reviewed",
+    "evidence": "an() article + obstacle description; captured eastern wall and other compass variants"
+  },
+  {
+    "id": "540373a3502dc02fe2a4",
+    "source": "native:obstacle-message",
+    "context": "message",
+    "original": "!There's a southern wall of a kota blocking your way!",
+    "translation": "科塔帐篷的南侧帐壁挡住了你的路！",
+    "status": "reviewed",
+    "evidence": "an() article + obstacle description; captured eastern wall and other compass variants"
+  },
+  {
+    "id": "0cef98065bce371b7a29",
+    "source": "native:obstacle-message",
+    "context": "message",
+    "original": "!There's a southern corner of a kota blocking your way!",
+    "translation": "科塔帐篷的南侧角挡住了你的路！",
+    "status": "reviewed",
+    "evidence": "an() article + obstacle description; captured eastern wall and other compass variants"
+  },
+  {
+    "id": "5854c8e3d16fceec76fd",
+    "source": "native:obstacle-message",
+    "context": "message",
+    "original": "!There's an eastern wall of a kota blocking your way!",
+    "translation": "科塔帐篷的东侧帐壁挡住了你的路！",
+    "status": "reviewed",
+    "evidence": "an() article + obstacle description; captured eastern wall and other compass variants"
+  },
+  {
+    "id": "065cb83a7575612aec9f",
+    "source": "native:obstacle-message",
+    "context": "message",
+    "original": "!There's an eastern corner of a kota blocking your way!",
+    "translation": "科塔帐篷的东侧角挡住了你的路！",
+    "status": "reviewed",
+    "evidence": "an() article + obstacle description; captured eastern wall and other compass variants"
+  },
+  {
+    "id": "fdc1ee0b1d4b8ce40d1e",
+    "source": "native:obstacle-message",
+    "context": "message",
+    "original": "!There's a western wall of a kota blocking your way!",
+    "translation": "科塔帐篷的西侧帐壁挡住了你的路！",
+    "status": "reviewed",
+    "evidence": "an() article + obstacle description; captured eastern wall and other compass variants"
+  },
+  {
+    "id": "b4bec1818900f6401d44",
+    "source": "native:obstacle-message",
+    "context": "message",
+    "original": "!There's a western corner of a kota blocking your way!",
+    "translation": "科塔帐篷的西侧角挡住了你的路！",
+    "status": "reviewed",
+    "evidence": "an() article + obstacle description; captured eastern wall and other compass variants"
+  },
+  {
+    "id": "32247f9f2a9c44b07a0a",
+    "source": "native:obstacle-message",
+    "context": "message",
+    "original": "!There's a north-east wall of a kota blocking your way!",
+    "translation": "科塔帐篷的东北帐壁挡住了你的路！",
+    "status": "reviewed",
+    "evidence": "an() article + obstacle description; captured eastern wall and other compass variants"
+  },
+  {
+    "id": "49bc6f88df7a6a60214b",
+    "source": "native:obstacle-message",
+    "context": "message",
+    "original": "!There's a north-east corner of a kota blocking your way!",
+    "translation": "科塔帐篷的东北角挡住了你的路！",
+    "status": "reviewed",
+    "evidence": "an() article + obstacle description; captured eastern wall and other compass variants"
+  },
+  {
+    "id": "2ea3a7b49557a232f923",
+    "source": "native:obstacle-message",
+    "context": "message",
+    "original": "!There's a north-west wall of a kota blocking your way!",
+    "translation": "科塔帐篷的西北帐壁挡住了你的路！",
+    "status": "reviewed",
+    "evidence": "an() article + obstacle description; captured eastern wall and other compass variants"
+  },
+  {
+    "id": "4b46d861b76e38109901",
+    "source": "native:obstacle-message",
+    "context": "message",
+    "original": "!There's a north-west corner of a kota blocking your way!",
+    "translation": "科塔帐篷的西北角挡住了你的路！",
+    "status": "reviewed",
+    "evidence": "an() article + obstacle description; captured eastern wall and other compass variants"
+  },
+  {
+    "id": "ee2baec9794cbf71bbf6",
+    "source": "native:obstacle-message",
+    "context": "message",
+    "original": "!There's a south-east wall of a kota blocking your way!",
+    "translation": "科塔帐篷的东南帐壁挡住了你的路！",
+    "status": "reviewed",
+    "evidence": "an() article + obstacle description; captured eastern wall and other compass variants"
+  },
+  {
+    "id": "512e560f7ac8bfe8f3da",
+    "source": "native:obstacle-message",
+    "context": "message",
+    "original": "!There's a south-east corner of a kota blocking your way!",
+    "translation": "科塔帐篷的东南角挡住了你的路！",
+    "status": "reviewed",
+    "evidence": "an() article + obstacle description; captured eastern wall and other compass variants"
+  },
+  {
+    "id": "d52cf1bd0b34f6b28a21",
+    "source": "native:obstacle-message",
+    "context": "message",
+    "original": "!There's a south-west wall of a kota blocking your way!",
+    "translation": "科塔帐篷的西南帐壁挡住了你的路！",
+    "status": "reviewed",
+    "evidence": "an() article + obstacle description; captured eastern wall and other compass variants"
+  },
+  {
+    "id": "69ec7cf69cafad6c8c78",
+    "source": "native:obstacle-message",
+    "context": "message",
+    "original": "!There's a south-west corner of a kota blocking your way!",
+    "translation": "科塔帐篷的西南角挡住了你的路！",
+    "status": "reviewed",
+    "evidence": "an() article + obstacle description; captured eastern wall and other compass variants"
+  }
+]

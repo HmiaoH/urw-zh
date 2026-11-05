@@ -1,0 +1,1310 @@
+[
+  {
+    "id": "ffe3ad1dbe2ac79e4658",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "The bream is a relatively common fish living in the inland lakes and slow flowing rivers.",
+    "translation": "鳊鱼是内陆湖泊和缓流河段中较常见的一种鱼。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".BREAM.BREAMS.",
+      "line": 606,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "97ab7f33824be1e0029f",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "Breams prefer large lakes and tend to move in swarms. They are usually caught using nets,",
+    "translation": "鳊鱼偏爱大湖，常成群游动。通常用[[NETS|渔网]]捕捞，",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "NETS"
+    ],
+    "evidence": {
+      "topic": ".BREAM.BREAMS.",
+      "line": 607,
+      "chunk": 1,
+      "source_link_candidates": [
+        "NETS"
+      ]
+    }
+  },
+  {
+    "id": "a925c2f229f6025e7e15",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "but can also be caught with a common fishing rod.<br>",
+    "translation": "也可用普通[[FISHING ROD|钓竿]]钓到。<br>",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "FISHING ROD"
+    ],
+    "evidence": {
+      "topic": ".BREAM.BREAMS.",
+      "line": 608,
+      "chunk": 1,
+      "source_link_candidates": [
+        "FISHING ROD"
+      ]
+    }
+  },
+  {
+    "id": "79549bb68543c6fe0c4d",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "During their spawning season, breams can also be caught by spear fishing.",
+    "translation": "在鳊鱼产卵的季节，也可以用[[SPEAR|矛]][[FISHING|捕鱼]]。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "SPEAR",
+      "FISHING"
+    ],
+    "evidence": {
+      "topic": ".BREAM.BREAMS.",
+      "line": 610,
+      "chunk": 1,
+      "source_link_candidates": [
+        "SPEAR",
+        "FISHING"
+      ]
+    }
+  },
+  {
+    "id": "fc99880d7b0038aa6d25",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "Much like pikes, breams also spawn at vegetation rich, shallow shoreline waters.",
+    "translation": "鳊鱼和[[PIKES|狗鱼]]一样，会在水草丰茂的近岸浅水产卵。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "PIKES"
+    ],
+    "evidence": {
+      "topic": ".BREAM.BREAMS.",
+      "line": 611,
+      "chunk": 1,
+      "source_link_candidates": [
+        "PIKES"
+      ]
+    }
+  },
+  {
+    "id": "40c9d658611e5c1ac4f2",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "Spawning breams are easily spotted in the shallow waters and can be speared or scooped",
+    "translation": "产卵的鳊鱼在浅水里容易发现，可以站在岸边用矛刺捕，",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".BREAM.BREAMS.",
+      "line": 612,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "9a48e1eb4ca09b7d80b9",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "into a lippo from the shore.<br>",
+    "translation": "也可以用[[LIPPO|利波抄网]]捞取。<br>",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "LIPPO"
+    ],
+    "evidence": {
+      "topic": ".BREAM.BREAMS.",
+      "line": 613,
+      "chunk": 1,
+      "source_link_candidates": [
+        "LIPPO"
+      ]
+    }
+  },
+  {
+    "id": "dd12fbd2a73a75732ae0",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "Spawning of the bream usually takes place from seedtime to fallow month when the water",
+    "translation": "鳊鱼通常在播种月到休耕[[MONTH|月]]产卵，这时水温",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "MONTH"
+    ],
+    "evidence": {
+      "topic": ".BREAM.BREAMS.",
+      "line": 615,
+      "chunk": 1,
+      "source_link_candidates": [
+        "MONTH"
+      ]
+    }
+  },
+  {
+    "id": "b0e534da9ec27d607455",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "is suitably warm for the purpose. The spawning happens in cycles that can last for quite a long time.",
+    "translation": "正合适。鳊鱼会分批产卵，整个产卵季可能持续相当长的时间。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".BREAM.BREAMS.",
+      "line": 616,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "cbac03ed1b1a2a9590dc",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "Salmon is a large and valued migratory fish that can be encountered in rivers and",
+    "translation": "鲑鱼是一种大型洄游鱼，颇有价值。河流、",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".SALMON.SALMONS.",
+      "line": 623,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "e99b72f38bc3769b5fae",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "inland lakes, as well as in the sea and coastal areas. As a migratory fish, salmon",
+    "translation": "内陆湖泊、海域和近岸都能遇到它。鲑鱼洄游时",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".SALMON.SALMONS.",
+      "line": 624,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "8a706fd039967ffc3098",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "travels through the rivers.<br>",
+    "translation": "会沿河流迁移。<br>",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".SALMON.SALMONS.",
+      "line": 625,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "1ee7962fdb6596c7c2ae",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "Salmons hatch in freshwater headstreams and spend their juvenile years in rivers and lakes.",
+    "translation": "鲑鱼在淡水河流的上游孵化，幼鱼在河流和湖泊中成长。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".SALMON.SALMONS.",
+      "line": 627,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "8be505d907d11ffab5a9",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "Upon maturing, they migrate to the sea, and return back to rivers to spawn. It is said that",
+    "translation": "成熟后，鲑鱼会迁往海里，再回到河里产卵。据说",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".SALMON.SALMONS.",
+      "line": 628,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "e9e86623b5a2ad03bfe3",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "salmons return to spawn in the very same river that they originated from.<br>",
+    "translation": "它们会回到自己出生的那条河产卵。<br>",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".SALMON.SALMONS.",
+      "line": 629,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "11545d4a93ee6e914bbb",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "During the salmon migration and spawning they are caught from the rivers and rapids especially",
+    "translation": "鲑鱼洄游和产卵期间，在河流和急流中",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".SALMON.SALMONS.",
+      "line": 631,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "ba8006097bea45ba6dbd",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "well with a lippo. Salmon migrates from the sea up the rivers throughout the summer.",
+    "translation": "用[[LIPPO|利波抄网]]特别容易捕到它们。整个夏季，鲑鱼都会从海里沿河逆流而上。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "LIPPO"
+    ],
+    "evidence": {
+      "topic": ".SALMON.SALMONS.",
+      "line": 632,
+      "chunk": 1,
+      "source_link_candidates": [
+        "LIPPO"
+      ]
+    }
+  },
+  {
+    "id": "413f1c1ed3b6537fbe88",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "They do dwell in the rivers until the spawning starts in late autumn, usually around",
+    "translation": "它们在河里待到深秋开始产卵，通常是",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".SALMON.SALMONS.",
+      "line": 633,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "52104af1cf75435b3dc3",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "fall or dirt month. The actual spawning time depends on the water temperature which needs to be",
+    "translation": "落叶月或泥[[MONTH|月]]前后。具体产卵时间取决于水温，水温必须",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "MONTH"
+    ],
+    "evidence": {
+      "topic": ".SALMON.SALMONS.",
+      "line": 634,
+      "chunk": 1,
+      "source_link_candidates": [
+        "MONTH"
+      ]
+    }
+  },
+  {
+    "id": "0634d37cd50812589243",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "fairly cold for the salmons to start their spawning. When the spawning starts, it lasts for a few weeks.<br>",
+    "translation": "降得足够低，鲑鱼才会[[START|开始]]产卵。产卵会持续数周。<br>",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "START"
+    ],
+    "evidence": {
+      "topic": ".SALMON.SALMONS.",
+      "line": 635,
+      "chunk": 1,
+      "source_link_candidates": [
+        "START"
+      ]
+    }
+  },
+  {
+    "id": "c4b3e4932fb442f79741",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "The lavaret is a diverse fish species with distinct populations living in different environments,",
+    "translation": "白鲑是一个分化多样的鱼种，不同种群生活在不同的环境中，",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".LAVARET.LAVARETS.",
+      "line": 641,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "3d6717a06bd550484ac9",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "with slightly differing appearances and habits. Lavarets are commonly found in lakes throughout",
+    "translation": "外形和习性也略有不同。白鲑常见于",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".LAVARET.LAVARETS.",
+      "line": 642,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "6f10758ec9d60e0ddda8",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "the UnReal World, but are also present in rivers and the sea.<br>",
+    "translation": "[[THE UNREAL WORLD|虚幻世界]]各地的湖泊，也生活在河流和海里。<br>",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "THE UNREAL WORLD"
+    ],
+    "evidence": {
+      "topic": ".LAVARET.LAVARETS.",
+      "line": 643,
+      "chunk": 1,
+      "source_link_candidates": [
+        "THE UNREAL WORLD"
+      ]
+    }
+  },
+  {
+    "id": "1c6ab06e4eda41bdd1e5",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "Like salmon, the lavaret also spawns in late autumn. For the lavaret, this happens between fall month and dead month,",
+    "translation": "白鲑和[[SALMON|鲑鱼]]一样在深秋产卵，一般在落叶[[MONTH|月]]到死寂月之间，",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "SALMON",
+      "MONTH"
+    ],
+    "evidence": {
+      "topic": ".LAVARET.LAVARETS.",
+      "line": 645,
+      "chunk": 1,
+      "source_link_candidates": [
+        "SALMON",
+        "MONTH"
+      ]
+    }
+  },
+  {
+    "id": "5ee5150f24599df9b74f",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "depending on the water temperature. The waters need to be fairly cold for the lavarets to start their spawning.<br>",
+    "translation": "具体时间取决于水温。水必须相当冷，白鲑才会[[START|开始]]产卵。<br>",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "START"
+    ],
+    "evidence": {
+      "topic": ".LAVARET.LAVARETS.",
+      "line": 646,
+      "chunk": 1,
+      "source_link_candidates": [
+        "START"
+      ]
+    }
+  },
+  {
+    "id": "ba339f5b2d667483d0f7",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "Different lavaret populations spawn in different places. Some migrate upstream to spawn in rivers, whereas some",
+    "translation": "白鲑的产卵地点随种群而异。有些会逆流而上，到河里产卵，另一些则",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".LAVARET.LAVARETS.",
+      "line": 648,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "4430153bf81c08e03798",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "spawn in the sea or in lakes by the rocks, skerries and shores. In all waters, the lavaret spawning takes",
+    "translation": "在海中或湖中的岩石、礁岛和岸边产卵。无论在哪种水域，白鲑",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".LAVARET.LAVARETS.",
+      "line": 649,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "0e41877367f1506a8069",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "place in relatively shallow water, and during this period they are commonly caught when lippo fishing.",
+    "translation": "都在相对较浅的地方产卵，此时用[[LIPPO|利波抄网]][[FISHING|捕鱼]]常能捞到它们。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "LIPPO",
+      "FISHING"
+    ],
+    "evidence": {
+      "topic": ".LAVARET.LAVARETS.",
+      "line": 650,
+      "chunk": 1,
+      "source_link_candidates": [
+        "LIPPO",
+        "FISHING"
+      ]
+    }
+  },
+  {
+    "id": "0981559e22a1eaf4c24f",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "Pike is a common predatory fish living in the inland lakes.",
+    "translation": "狗鱼是内陆湖泊中常见的掠食性鱼类。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".PIKE.PIKES.",
+      "line": 659,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "ebd28b7d1ee14a490c67",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "It is one of the largest fish in the whole unreal world and thus a valuable catch for a fisherman.<br>",
+    "translation": "它是整个虚幻[[WORLD|世界]]体型最大的鱼类之一，对捕鱼人来说是很有价值的渔获。<br>",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "WORLD"
+    ],
+    "evidence": {
+      "topic": ".PIKE.PIKES.",
+      "line": 660,
+      "chunk": 1,
+      "source_link_candidates": [
+        "WORLD"
+      ]
+    }
+  },
+  {
+    "id": "e2a3be424aeabd0fa83a",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "Pikes spawn in early spring, after the lake ice has melted and aquatic vegetation",
+    "translation": "狗鱼在早春产卵，这时湖冰已经融化，水生植物",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".PIKE.PIKES.",
+      "line": 662,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "5ad11e070618684b5aa5",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "starts to grow. This usually happens between late swidden month to early seedtime month.",
+    "translation": "开始生长。一般是烧荒[[MONTH|月]]末到播种月初。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "MONTH"
+    ],
+    "evidence": {
+      "topic": ".PIKE.PIKES.",
+      "line": 663,
+      "chunk": 1,
+      "source_link_candidates": [
+        "MONTH"
+      ]
+    }
+  },
+  {
+    "id": "39ce8cf970ad606b9cb4",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "Pikes gather to spawn at vegetation rich, shallow shoreline waters and people take advantage of this by",
+    "translation": "狗鱼聚集在水草丰茂的近岸浅水处产卵，人们趁此机会",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".PIKE.PIKES.",
+      "line": 664,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "771019432788a4aa2bc7",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "fishing them with tridents and spears or even with a lippo. Spawning pikes are easily spotted in the shallow",
+    "translation": "用[[TRIDENTS|三叉戟]]、矛甚至[[LIPPO|利波抄网]][[FISHING|捕鱼]]。产卵的狗鱼在浅水中容易发现，",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "TRIDENTS",
+      "LIPPO",
+      "FISHING"
+    ],
+    "evidence": {
+      "topic": ".PIKE.PIKES.",
+      "line": 665,
+      "chunk": 1,
+      "source_link_candidates": [
+        "FISHING",
+        "TRIDENTS",
+        "LIPPO"
+      ]
+    }
+  },
+  {
+    "id": "48a6593c4270cc0ee361",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "waters and can be speared or scooped into a lippo from the shore.<br>",
+    "translation": "可以站在岸边用矛刺捕，或用[[LIPPO|利波抄网]]捞上来。<br>",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "LIPPO"
+    ],
+    "evidence": {
+      "topic": ".PIKE.PIKES.",
+      "line": 666,
+      "chunk": 1,
+      "source_link_candidates": [
+        "LIPPO"
+      ]
+    }
+  },
+  {
+    "id": "ea3766aa0ad047a99c48",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "In addition to fishing the spawning pikes, they can be caught thorough the year with",
+    "translation": "除了在产卵季[[FISHING|捕鱼]]，一[[YEAR|年]]四季也都可以",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "FISHING",
+      "YEAR"
+    ],
+    "evidence": {
+      "topic": ".PIKE.PIKES.",
+      "line": 668,
+      "chunk": 1,
+      "source_link_candidates": [
+        "FISHING",
+        "YEAR"
+      ]
+    }
+  },
+  {
+    "id": "965aa63788834dcd2eac",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "nets or using a fishing rod - especially if a smaller fish is used as bait. With good luck, spear fishing in",
+    "translation": "用[[NETS|渔网]]捕或用[[FISHING ROD|钓竿]]钓，用小鱼作饵尤其有效。运气好的话，用[[SPEAR|矛]]捕鱼时，",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "NETS",
+      "FISHING ROD",
+      "SPEAR"
+    ],
+    "evidence": {
+      "topic": ".PIKE.PIKES.",
+      "line": 669,
+      "chunk": 1,
+      "source_link_candidates": [
+        "NETS",
+        "FISHING ROD",
+        "SPEAR"
+      ]
+    }
+  },
+  {
+    "id": "2732b8ee9a31e83ed720",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "shallow waters regardless of the time of the year, may sometimes provide a lone roaming pike.",
+    "translation": "无论一[[YEAR|年]]中的哪个时节，都可能在浅水捕到一条游荡的狗鱼。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "YEAR"
+    ],
+    "evidence": {
+      "topic": ".PIKE.PIKES.",
+      "line": 670,
+      "chunk": 1,
+      "source_link_candidates": [
+        "YEAR"
+      ]
+    }
+  },
+  {
+    "id": "7d2357826d408d1e241c",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "A shovel made out of single piece of wood. It's designed mainly for digging soft soil, and",
+    "translation": "这是一把由整块木头做成的[[SHOVEL|铲]]，主要用来挖松软的泥土。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "SHOVEL"
+    ],
+    "evidence": {
+      "topic": ".WOODEN SHOVEL.WOODEN SHOVELS.",
+      "line": 1989,
+      "chunk": 1,
+      "source_link_candidates": [
+        "SHOVEL"
+      ]
+    }
+  },
+  {
+    "id": "87344d1f1c32bfbe2fa5",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "is less effective and durable than a proper shovel with metal blade.",
+    "translation": "它没有带金属铲刃的正规[[SHOVEL|铲]]那么好用，也没那么耐用。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "SHOVEL"
+    ],
+    "evidence": {
+      "topic": ".WOODEN SHOVEL.WOODEN SHOVELS.",
+      "line": 1990,
+      "chunk": 1,
+      "source_link_candidates": [
+        "SHOVEL"
+      ]
+    }
+  },
+  {
+    "id": "e4dccce6675674aef263",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "Shovel is a tool used for TRAPPING and AGRICULTURE purposes. It is used to dig trap-pits and",
+    "translation": "铲用于[[TRAPPING|设陷阱]]和[[AGRICULTURE|农耕]]，可以挖[[TRAP-PITS|陷坑]]，",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "TRAPPING",
+      "AGRICULTURE",
+      "TRAP-PITS"
+    ],
+    "evidence": {
+      "topic": ".SHOVEL.",
+      "line": 1996,
+      "chunk": 1,
+      "source_link_candidates": [
+        "TRAPPING",
+        "AGRICULTURE",
+        "TRAP-PITS"
+      ]
+    }
+  },
+  {
+    "id": "211792912fc6c8d0e29c",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "to prepare the soil for sowing. A proper shovel consists of a metal blade and wooden handle.",
+    "translation": "也可以在播种前翻土。正规的铲由金属铲刃和木柄组成。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [],
+    "evidence": {
+      "topic": ".SHOVEL.",
+      "line": 1997,
+      "chunk": 1,
+      "source_link_candidates": []
+    }
+  },
+  {
+    "id": "afd4aae5076affbda742",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "There are also wooden shovels which are naturally less effective especially for the hard soil, and less durable in general.",
+    "translation": "也有[[WOODEN SHOVELS|木铲]]，但挖硬土时效果较差，通常也更容易磨损。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "WOODEN SHOVELS"
+    ],
+    "evidence": {
+      "topic": ".SHOVEL.",
+      "line": 1998,
+      "chunk": 1,
+      "source_link_candidates": [
+        "WOODEN SHOVELS"
+      ]
+    }
+  },
+  {
+    "id": "1d8859f4e100d9f7b2ad",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "The blade of a shovel is the lowermost part of the tool, which makes contact with the ground.",
+    "translation": "铲刃在[[SHOVEL|铲]]的最下端，挖土时直接接触地面。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "SHOVEL"
+    ],
+    "evidence": {
+      "topic": ".SHOVEL BLADE.",
+      "line": 2004,
+      "chunk": 1,
+      "source_link_candidates": [
+        "SHOVEL"
+      ]
+    }
+  },
+  {
+    "id": "7b59337e90631f0aca96",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "Shovel blades are made of iron, and need to be hafted with a wooden handle in order to assemble a working shovel.",
+    "translation": "铲刃用[[IRON|铁]]制成，装上木柄就能组成一把可用的[[SHOVEL|铲]]。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "IRON",
+      "SHOVEL"
+    ],
+    "evidence": {
+      "topic": ".SHOVEL BLADE.",
+      "line": 2005,
+      "chunk": 1,
+      "source_link_candidates": [
+        "SHOVEL",
+        "IRON"
+      ]
+    }
+  },
+  {
+    "id": "7e59e087e70b87a3905a",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "Shovel haft is the wooden handle of an iron bladed shovel. Hafts can wear out and break over time",
+    "translation": "铲柄是带[[IRON|铁]]刃的[[SHOVEL|铲]]的木柄。用久了，铲柄会磨损、断裂，",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "IRON",
+      "SHOVEL"
+    ],
+    "evidence": {
+      "topic": ".SHOVEL HAFT.",
+      "line": 2011,
+      "chunk": 1,
+      "source_link_candidates": [
+        "SHOVEL",
+        "IRON"
+      ]
+    }
+  },
+  {
+    "id": "d2c9d6aa26165e384fb9",
+    "source": "GAME.NFO:reviewed-fish-tool-lines",
+    "context": "encyclopedia",
+    "original": "and then the shovel blade needs to be hafted again to assemble a working shovel.",
+    "translation": "这时就要给[[SHOVEL BLADE|铲刃]]换个柄，才能继续使用这把铲。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "link_targets": [
+      "SHOVEL BLADE"
+    ],
+    "evidence": {
+      "topic": ".SHOVEL HAFT.",
+      "line": 2012,
+      "chunk": 1,
+      "source_link_candidates": [
+        "SHOVEL BLADE"
+      ]
+    }
+  },
+  {
+    "id": "c8c639e6c26c3d453c61",
+    "source": "GAME.NFO:reviewed-fish-tool-hotspots",
+    "context": "showtext",
+    "original": "BREAM",
+    "translation": "鳊鱼",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".BREAM.BREAMS.",
+      "line": 605,
+      "display_call": "0x100048e92",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "5e4beb2ecfb09b34c39e",
+    "source": "GAME.NFO:reviewed-fish-tool-hotspots",
+    "context": "showtext",
+    "original": "BREAMS",
+    "translation": "鳊鱼",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".BREAM.BREAMS.",
+      "line": 605,
+      "display_call": "0x100048e92",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "8404dbbddd2dc9c4dd6f",
+    "source": "GAME.NFO:reviewed-fish-tool-hotspots",
+    "context": "showtext",
+    "original": "The bream is a relatively common fish living in the i..",
+    "translation": "鳊鱼常见于内陆湖泊和缓流河段。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".BREAM.BREAMS.",
+      "line": 606,
+      "display_call": "0x100048f4f",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "c6c505dcc1358ae34f78",
+    "source": "GAME.NFO:reviewed-fish-tool-hotspots",
+    "context": "showtext",
+    "original": "The bream is a relatively common fish living in the inland lakes and slow flowing rivers.",
+    "translation": "鳊鱼常见于内陆湖泊和缓流河段。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".BREAM.BREAMS.",
+      "line": 606,
+      "display_call": "0x100048f4f",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "bfabfbf6c9cf28780968",
+    "source": "GAME.NFO:reviewed-fish-tool-hotspots",
+    "context": "showtext",
+    "original": "SALMON",
+    "translation": "鲑鱼",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SALMON.SALMONS.",
+      "line": 622,
+      "display_call": "0x100048e92",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "d0965e8f9d4ce02aa305",
+    "source": "GAME.NFO:reviewed-fish-tool-hotspots",
+    "context": "showtext",
+    "original": "SALMONS",
+    "translation": "鲑鱼",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SALMON.SALMONS.",
+      "line": 622,
+      "display_call": "0x100048e92",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "a63add8b814fb66974d8",
+    "source": "GAME.NFO:reviewed-fish-tool-hotspots",
+    "context": "showtext",
+    "original": "Salmon is a large and valued migratory fish that can ..",
+    "translation": "鲑鱼是体型较大的洄游鱼，生活在河流、湖泊和海域。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SALMON.SALMONS.",
+      "line": 623,
+      "display_call": "0x100048f4f",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "edd169a4bb3e78e28ee0",
+    "source": "GAME.NFO:reviewed-fish-tool-hotspots",
+    "context": "showtext",
+    "original": "Salmon is a large and valued migratory fish that can be encountered in rivers and inland lak..",
+    "translation": "鲑鱼是体型较大的洄游鱼，生活在河流、湖泊和海域。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SALMON.SALMONS.",
+      "line": 623,
+      "display_call": "0x100048f4f",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "0832fe2e115bc557cab7",
+    "source": "GAME.NFO:reviewed-fish-tool-hotspots",
+    "context": "showtext",
+    "original": "LAVARET",
+    "translation": "白鲑",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LAVARET.LAVARETS.",
+      "line": 640,
+      "display_call": "0x100048e92",
+      "captured_source": true
+    }
+  },
+  {
+    "id": "77dec05b627316af17a2",
+    "source": "GAME.NFO:reviewed-fish-tool-hotspots",
+    "context": "showtext",
+    "original": "LAVARETS",
+    "translation": "白鲑",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LAVARET.LAVARETS.",
+      "line": 640,
+      "display_call": "0x100048e92",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "7352ac6e533d88c423d9",
+    "source": "GAME.NFO:reviewed-fish-tool-hotspots",
+    "context": "showtext",
+    "original": "The lavaret is a diverse fish species with distinct p..",
+    "translation": "白鲑的不同种群生活在不同环境中，外形和习性各有差别。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LAVARET.LAVARETS.",
+      "line": 641,
+      "display_call": "0x100048f4f",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "9576ad65d9eaaa084ae1",
+    "source": "GAME.NFO:reviewed-fish-tool-hotspots",
+    "context": "showtext",
+    "original": "The lavaret is a diverse fish species with distinct populations living in different environm..",
+    "translation": "白鲑的不同种群生活在不同环境中，外形和习性各有差别。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LAVARET.LAVARETS.",
+      "line": 641,
+      "display_call": "0x100048f4f",
+      "captured_source": true
+    }
+  },
+  {
+    "id": "8d1dcefc16784640394b",
+    "source": "GAME.NFO:reviewed-fish-tool-hotspots",
+    "context": "showtext",
+    "original": "PIKE",
+    "translation": "狗鱼",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".PIKE.PIKES.",
+      "line": 658,
+      "display_call": "0x100048e92",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "5ca2b934b644b2b71fe0",
+    "source": "GAME.NFO:reviewed-fish-tool-hotspots",
+    "context": "showtext",
+    "original": "PIKES",
+    "translation": "狗鱼",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".PIKE.PIKES.",
+      "line": 658,
+      "display_call": "0x100048e92",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "27ee32bb0638973ecf74",
+    "source": "GAME.NFO:reviewed-fish-tool-hotspots",
+    "context": "showtext",
+    "original": "Pike is a common predatory fish living in the inland ..",
+    "translation": "狗鱼是内陆湖泊中常见的掠食性鱼类。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".PIKE.PIKES.",
+      "line": 659,
+      "display_call": "0x100048f4f",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "91af25899cd93de3e063",
+    "source": "GAME.NFO:reviewed-fish-tool-hotspots",
+    "context": "showtext",
+    "original": "Pike is a common predatory fish living in the inland lakes.",
+    "translation": "狗鱼是内陆湖泊中常见的掠食性鱼类。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".PIKE.PIKES.",
+      "line": 659,
+      "display_call": "0x100048f4f",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "5fda535781ecd3e6be7b",
+    "source": "GAME.NFO:reviewed-fish-tool-hotspots",
+    "context": "showtext",
+    "original": "WOODEN SHOVEL",
+    "translation": "木铲",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOODEN SHOVEL.WOODEN SHOVELS.",
+      "line": 1988,
+      "display_call": "0x100048e92",
+      "captured_source": true
+    }
+  },
+  {
+    "id": "f8e459ec27ca6ff8217c",
+    "source": "GAME.NFO:reviewed-fish-tool-hotspots",
+    "context": "showtext",
+    "original": "WOODEN SHOVELS",
+    "translation": "木铲",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOODEN SHOVEL.WOODEN SHOVELS.",
+      "line": 1988,
+      "display_call": "0x100048e92",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "1578c8962f036388ff20",
+    "source": "GAME.NFO:reviewed-fish-tool-hotspots",
+    "context": "showtext",
+    "original": "A shovel made out of single piece of wood.",
+    "translation": "用整块木头制成的铲。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOODEN SHOVEL.WOODEN SHOVELS.",
+      "line": 1989,
+      "display_call": "0x100048f4f",
+      "captured_source": true
+    }
+  },
+  {
+    "id": "501287de5a94e78910ae",
+    "source": "GAME.NFO:reviewed-fish-tool-hotspots",
+    "context": "showtext",
+    "original": "SHOVEL",
+    "translation": "铲",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHOVEL.",
+      "line": 1995,
+      "display_call": "0x100048e92",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "dd9e01765c4445f18775",
+    "source": "GAME.NFO:reviewed-fish-tool-hotspots",
+    "context": "showtext",
+    "original": "Shovel is a tool used for TRAPPING and AGRICULTURE pu..",
+    "translation": "用于设陷阱和农耕的工具，可挖陷坑或翻土。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHOVEL.",
+      "line": 1996,
+      "display_call": "0x100048f4f",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "129a23b2142846027241",
+    "source": "GAME.NFO:reviewed-fish-tool-hotspots",
+    "context": "showtext",
+    "original": "Shovel is a tool used for TRAPPING and AGRICULTURE purposes.",
+    "translation": "用于设陷阱和农耕的工具，可挖陷坑或翻土。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHOVEL.",
+      "line": 1996,
+      "display_call": "0x100048f4f",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "ec2df5e6264c4b766665",
+    "source": "GAME.NFO:reviewed-fish-tool-hotspots",
+    "context": "showtext",
+    "original": "SHOVEL BLADE",
+    "translation": "铲刃",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHOVEL BLADE.",
+      "line": 2003,
+      "display_call": "0x100048e92",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "699bdb8f407dc9cf320a",
+    "source": "GAME.NFO:reviewed-fish-tool-hotspots",
+    "context": "showtext",
+    "original": "The blade of a shovel is the lowermost part of the to..",
+    "translation": "铲的最下端，挖土时直接接触地面。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHOVEL BLADE.",
+      "line": 2004,
+      "display_call": "0x100048f4f",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "20768253256116ddc60c",
+    "source": "GAME.NFO:reviewed-fish-tool-hotspots",
+    "context": "showtext",
+    "original": "The blade of a shovel is the lowermost part of the tool, which makes contact with the ground..",
+    "translation": "铲的最下端，挖土时直接接触地面。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHOVEL BLADE.",
+      "line": 2004,
+      "display_call": "0x100048f4f",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "28e6320845f20c0940cc",
+    "source": "GAME.NFO:reviewed-fish-tool-hotspots",
+    "context": "showtext",
+    "original": "SHOVEL HAFT",
+    "translation": "铲柄",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHOVEL HAFT.",
+      "line": 2010,
+      "display_call": "0x100048e92",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "f4b554072d4aa0db5721",
+    "source": "GAME.NFO:reviewed-fish-tool-hotspots",
+    "context": "showtext",
+    "original": "Shovel haft is the wooden handle of an iron bladed sh..",
+    "translation": "带铁刃的铲所用的木柄。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHOVEL HAFT.",
+      "line": 2011,
+      "display_call": "0x100048f4f",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "b3f0de43687063aed8ab",
+    "source": "GAME.NFO:reviewed-fish-tool-hotspots",
+    "context": "showtext",
+    "original": "Shovel haft is the wooden handle of an iron bladed shovel.",
+    "translation": "带铁刃的铲所用的木柄。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHOVEL HAFT.",
+      "line": 2011,
+      "display_call": "0x100048f4f",
+      "captured_source": false
+    }
+  }
+]

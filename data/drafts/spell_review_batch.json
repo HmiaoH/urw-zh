@@ -1,0 +1,50 @@
+[
+  {
+    "id": "346f55e840cae1f6ac74",
+    "source": "urw3-bin:__cstring",
+    "original": "blood-stanching incantation",
+    "translation": "止血咒",
+    "context": "binary",
+    "status": "draft"
+  },
+  {
+    "id": "098fc2803c4fd39f1918",
+    "source": "urw3-bin:__cstring",
+    "original": "Incantation to stop the wounds from bleeding.",
+    "translation": "用于止住伤口出血的咒语。",
+    "context": "binary",
+    "status": "draft"
+  },
+  {
+    "id": "95fbd5dd667b70eeb7b4",
+    "source": "urw3-bin:__cstring",
+    "original": "greeting the earth upon going to sleep",
+    "translation": "入睡时向大地致意",
+    "context": "binary",
+    "status": "draft"
+  },
+  {
+    "id": "3bc8683e7708e32f66f4",
+    "source": "urw3-bin:__cstring",
+    "original": "Incantation to greet earth dwellers and underground creatures upon sleeping on the ground at unfamiliar terrain. Performed to assure good night sleep and to avoid being harmed by the possibly angered underground folk.",
+    "translation": "在陌生地形露宿地面时，念诵咒语向大地上的居民和地下生灵致意。这样做是为了安稳入睡，也避免受到可能被激怒的地下居民伤害。",
+    "context": "binary",
+    "status": "draft"
+  },
+  {
+    "id": "c16bfc0b846a6127193c",
+    "source": "urw3-bin:__cstring",
+    "original": "persuading the forest with a bread",
+    "translation": "用面包劝说森林",
+    "context": "binary",
+    "status": "draft"
+  },
+  {
+    "id": "c9389372db84ba0443c2",
+    "source": "urw3-bin:__cstring",
+    "original": "The forest can be persuaded to not to hide its thingies when going hunting. It is done by carrying a bread with you which is dropped and left at a spruce on a hill or cliff, and then this specific incantation is cast.",
+    "translation": "狩猎时，可以劝说森林不要藏起猎物。随身带一块面包，把它丢在山丘或峭壁上的云杉旁边，然后念诵这道特定的咒语。",
+    "context": "binary",
+    "status": "draft"
+  }
+]

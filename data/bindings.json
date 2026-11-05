@@ -1,0 +1,206 @@
+{
+  "version": "3.89.1",
+  "sha256": "124f89da263b7dabb323fd4f94718261abbe0ef76371a7e5ed5d6b50492ae112",
+  "hooks": {
+    "choose_culture": {
+      "symbol": "__Z14choose_culturev",
+      "address": 4295052320,
+      "bytes": "554889e54157415641554154534881ec88000000"
+    },
+    "game_info_preview": {
+      "symbol": "__Z16GameInfo_HotspotPcS_i",
+      "address": 4295265536,
+      "bytes": "554889e54157415641554154534881ecf8000000"
+    },
+    "texture_info_preview": {
+      "symbol": "__Z22toTex_GameInfo_HotspotP11SDL_TexturePcS1_",
+      "address": 4295266304,
+      "bytes": "554889e54157415641554154534881ec28040000"
+    },
+    "status_text_box": {
+      "symbol": "__Z7TextBoxiiiPci",
+      "address": 4296356288,
+      "bytes": "554889e54157415641554154534883ec28"
+    },
+    "flip_screen_portion": {
+      "symbol": "__Z17FlipScreenPortioniiiii",
+      "address": 4296322768,
+      "bytes": "554889e54157415641554154534883ec78"
+    },
+    "message_log": {
+      "symbol": "__Z6MsgLogv",
+      "address": 4296233968,
+      "bytes": "554889e54157415641554154534881ec780d0000"
+    },
+    "message_log_words": {
+      "symbol": "__Z18SANATAULUKKO_LisaaiPc",
+      "address": 4296776560,
+      "bytes": "554889e54157415641554154534883ec78"
+    },
+    "armor_button": {
+      "symbol": "__Z14Piirra_NappainiiPc",
+      "address": 4296343776,
+      "bytes": "554889e54157415641554154534881ecc8000000"
+    },
+    "centered_text": {
+      "symbol": "__Z7centextiiiPcji",
+      "address": 4296344592,
+      "bytes": "554889e54157415641554154534881ec18080000"
+    },
+    "hyper_show": {
+      "symbol": "__Z9link_showPcS_",
+      "address": 4295269024,
+      "bytes": "554889e54157415641554154534881ecb80f0000"
+    },
+    "npc_talk": {
+      "symbol": "__Z6CrTalkPc",
+      "address": 4296516784,
+      "bytes": "554889e54157415641554154534881ec08080000"
+    },
+    "player_talk": {
+      "symbol": "__Z7PlrTalkPc",
+      "address": 4296521696,
+      "bytes": "554889e54157415641554154534881ece8000000"
+    },
+    "inventory_entry": {
+      "symbol": "__Z20LIST_ButtonSpotEntryiiiPc",
+      "address": 4295998000,
+      "bytes": "554889e54157415641554154534881ec18040000"
+    },
+    "list_draw": {
+      "symbol": "__Z9LIST_Drawv",
+      "address": 4295999856,
+      "bytes": "554889e541574156415541545350"
+    },
+    "held_item_bar": {
+      "symbol": "__Z12TekstiPalkkiiiiPci",
+      "address": 4296376368,
+      "bytes": "554889e54157415641554154534883ec28"
+    },
+    "note": {
+      "symbol": "__Z4NotePc",
+      "address": 4296200272,
+      "bytes": "554889e54157415641554154534881eca8080000"
+    },
+    "note_bottom": {
+      "symbol": "__Z11note_bottomv",
+      "address": 4296198944,
+      "bytes": "554889e5415741564154534883ec20"
+    },
+    "paragraph": {
+      "symbol": "__Z21showtext_sanataulukkoiiiiji",
+      "address": 4296345056,
+      "bytes": "554889e54157415641554154534881ec280c0000"
+    },
+    "renparagraph": {
+      "symbol": "__Z19render_sanataulukkoP12SDL_Rendereriiii9SDL_Colori",
+      "address": 4296346000,
+      "bytes": "554889e54157415641554154534881ec380c0000"
+    },
+    "show": {
+      "symbol": "__Z8showtextiiPcji",
+      "address": 4296342160,
+      "bytes": "554889e54157415641554154534881ec78020000"
+    },
+    "text": {
+      "symbol": "__Z7textputiiPc",
+      "address": 4296337680,
+      "bytes": "554889e54157415641554154534881ec38010000"
+    },
+    "renshow": {
+      "symbol": "__Z11renshowtextP12SDL_RendereriiPc9SDL_Colorj",
+      "address": 4296339680,
+      "bytes": "554889e54157415641554154534881ec98020000"
+    },
+    "rentext": {
+      "symbol": "__Z10rentextputP12SDL_RendereriiPc9SDL_Colorj",
+      "address": 4296337936,
+      "bytes": "554889e54157415641554154534881ec68010000"
+    },
+    "newtext": {
+      "symbol": "__Z11New_rentextP12SDL_RendereriiPc9SDL_Colorj",
+      "address": 4296339296,
+      "bytes": "554889e54157415641554154534881ec68010000"
+    },
+    "newshow": {
+      "symbol": "__Z11NewShowtextP11SDL_TextureiiPc9SDL_Colorj",
+      "address": 4296319248,
+      "bytes": "554889e54157415641554154534881ec98020000"
+    },
+    "asc": {
+      "symbol": "__Z6putasciih",
+      "address": 4296325264,
+      "bytes": "554889e54157415641554154534883ec18"
+    },
+    "renasc": {
+      "symbol": "__Z9renderascP12SDL_Rendereriihiiij",
+      "address": 4296326000,
+      "bytes": "554889e54157415641554154534883ec38"
+    },
+    "newasc": {
+      "symbol": "__Z13New_renderascP12SDL_Rendereriihiiij",
+      "address": 4296338320,
+      "bytes": "554889e54157415641554154534883ec48"
+    }
+  },
+  "globals": {
+    "note": 4404144800,
+    "notebox": 4404143600,
+    "textlineh": 4296324656,
+    "flipmap": 4296322256,
+    "words": 4472259632,
+    "screen": 4404681712,
+    "ren": 4404681672,
+    "color": 4404685204,
+    "x": 4404685196,
+    "y": 4404685200,
+    "convert": 4296326352,
+    "hyper_x": 4297313612,
+    "hyper_y": 4297313616,
+    "hyper_line": 4298403288,
+    "link_pos": 4298403072,
+    "link_list": 4298377072,
+    "topics": 4298077072,
+    "npc_x": 4297351944,
+    "npc_y": 4297351940,
+    "player_x": 4297351952,
+    "player_y": 4297351948,
+    "spot_entry": 4295997728,
+    "line": 4296341248,
+    "flip": 4296321616,
+    "message_log_text": 4404148176,
+    "message_log_format": 4404219856,
+    "heading_box": 4404143664,
+    "screen_texture": 4404681680
+  },
+  "global_symbols": {
+    "note": "_NOTE",
+    "notebox": "_noteboxGui",
+    "textlineh": "__Z9textlinehf",
+    "flipmap": "__Z11FlipWithMapv",
+    "words": "_SanaTaulukko",
+    "screen": "_screen",
+    "ren": "_ren",
+    "color": "_CURRENT_COLOR",
+    "x": "_scr_xpos",
+    "y": "_scr_ypos",
+    "convert": "__Z28NativeResolution_RectConvertP8SDL_Rect",
+    "hyper_x": "_HYPER_X",
+    "hyper_y": "_HYPER_Y",
+    "hyper_line": "_yie",
+    "link_pos": "_lpos",
+    "link_list": "_list",
+    "topics": "_topics",
+    "npc_x": "_CRTALKCOL",
+    "npc_y": "_CRTALKLINE",
+    "player_x": "_PLRTALKCOL",
+    "player_y": "_PLRTALKLINE",
+    "spot_entry": "__Z14LIST_SpotEntryiiiii",
+    "line": "__Z4lineiiii",
+    "flip": "__Z4Flipv",
+    "message_log_text": "_notebuf",
+    "message_log_format": "_formatbuf",
+    "heading_box": "_headingGui",
+    "screen_texture": "_tex"
+  }
+}

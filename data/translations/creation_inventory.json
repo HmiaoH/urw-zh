@@ -1,0 +1,806 @@
+[
+  {
+    "id": "0d1211317608b5cab51b",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "CHARACTER CREATION",
+    "translation": "创建角色",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1c47bbccac4e9cf9408b",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Quick and easy",
+    "translation": "快速简易创建",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a35e8a873c203518f8d0",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Custom",
+    "translation": "自定义",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "417ced7d7f4054477995",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Custom - easy",
+    "translation": "自定义（简单）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d81224dd7d239516a5d8",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Custom - too easy",
+    "translation": "自定义（非常简单）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "8ede24d7d281747491b3",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Exit",
+    "translation": "退出",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "6f089943b2bda13ee6fd",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "A NEW CHARACTER WILL BE BROUGHT INTO THE UNREAL WORLD ... ",
+    "translation": "一位新角色即将进入虚幻世界……",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1297a62197912c60414e",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Choose a culture",
+    "translation": "选择文化",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e7aaf9a8ea096ecb549d",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Choose sex",
+    "translation": "选择性别",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "9c578316311400e59dd9",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Male",
+    "translation": "男性",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "8966dad3ab8aa0ede4f1",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Female",
+    "translation": "女性",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "97dcba618b00a4dd1016",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "CHARACTER NAME",
+    "translation": "角色姓名",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "91650e2e5877b0a42f8f",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Random",
+    "translation": "随机",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "37b1a4be8445cc54ff05",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Cultures",
+    "translation": "文化",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "343a0fd53c8d3a066662",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Back",
+    "translation": "返回",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "44f1268d5e6eebf06141",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Launch UnReal World encyclopedia and learn more",
+    "translation": "打开游戏百科，了解更多",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "403d3ac52551feb71dbe",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "RANDOM WORLD GENERATION",
+    "translation": "随机生成世界",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "65d5f548fadc6f060767",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Initializing ... ",
+    "translation": "正在初始化……",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "8f6f96ee53b31479e29a",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Generating coastline ...",
+    "translation": "正在生成海岸线……",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b596f9765693be4c2d08",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Generating mountains ...",
+    "translation": "正在生成山脉……",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "912c28b72961156b4e44",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Generating lakes ... ",
+    "translation": "正在生成湖泊……",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "10194de21fab9eb16b66",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Generating forests ... ",
+    "translation": "正在生成森林……",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "3ed835ebd810def93267",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Generating rivers ... ",
+    "translation": "正在生成河流……",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "fda68171f9e3869c836c",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Generating cultures ... ",
+    "translation": "正在生成文化分布……",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "643836cda2eb8fa20d5b",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Finalizing map ... ",
+    "translation": "正在完成地图……",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ef2e989d5c74aa021b6c",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Zoom in",
+    "translation": "放大",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "6e2fe607cb1ee23a66f5",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Zoom out",
+    "translation": "缩小",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "c37bdf4f015f1f6a1654",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Cultural regions toggle",
+    "translation": "切换文化区域显示",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "92a19637746e30e1b71e",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Culture color indicators toggle",
+    "translation": "切换文化颜色标记",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "c6028d90b908fb8a64bf",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Start within your home culture",
+    "translation": "从本族文化区域出发",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "c350c16c679db45b8b5e",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Re-randomize start location",
+    "translation": "重新随机起始位置",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "eee84c108f8a8792541d",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Re-randomize the world",
+    "translation": "重新生成世界",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "faf3f7de5750267ca76a",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Enter and play this world",
+    "translation": "进入这个世界",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "cdf0b6490bb3bb7df0b0",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Saving ... ",
+    "translation": "正在保存……",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "fae7df51861a5144829b",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "SELECT A START-UP SCENARIO",
+    "translation": "选择开局剧本",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f2c7270b739f2d07a415",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "FIRST TIMER INFO",
+    "translation": "初次游玩提示",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "90caabbbbbb1d40b4611",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Start page",
+    "translation": "首页",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "705cb61e2dfadb49e976",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Type a keyword",
+    "translation": "输入关键词",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "805df27a00e083489036",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Wilderness map",
+    "translation": "荒野地图",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d1ffc42a072f339d1ef3",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Help and game options",
+    "translation": "帮助与游戏选项",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "61b57cd312b64a75e913",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Total:",
+    "translation": "总计：",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "de3b4bbbcda2f3cb6597",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Hunger:",
+    "translation": "饥饿：",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e979dfd5e28d462fbfea",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Thirst:",
+    "translation": "口渴：",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d6ab447bb9cb1a0cdc0f",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Nutrition:",
+    "translation": "营养：",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "90a3c4af0ea97cc7c790",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Warmth:",
+    "translation": "体温：",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "3c6e0748b6921f740f25",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Vigour:",
+    "translation": "精力：",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1f2ead4b2fdfe1cddaae",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Nourished",
+    "translation": "营养充足",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b3ffc42a15d2583f47a7",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Comfortably warm",
+    "translation": "温暖舒适",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "3e30626fedaae5b3bd5f",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Vigorous",
+    "translation": "精力充沛",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "3c13cabb3d6bace57be7",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "None",
+    "translation": "无",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "c570f433ff356805e6b8",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "LOADING MAP ... ",
+    "translation": "正在载入地图……",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "eb8d1b6ddb864c7f0ea0",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Zoom (in/out)",
+    "translation": "缩放地图",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "3054ff4b084cbeec5c8d",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Zoom map",
+    "translation": "缩放地图",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "24b84bc2d07b05db3fe7",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Quit and optionally save..",
+    "translation": "退出并选择是否保存……",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "84e750f5a9d5944ffb1e",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Are you sure?",
+    "translation": "确定吗？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "6f4a8263501ffd624304",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Save your character?",
+    "translation": "保存角色吗？",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "19fa5b3a805f171fad6c",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Pick up something",
+    "translation": "拾取物品",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "c3052bf55c87f01b4463",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "You are carrying the following items.",
+    "translation": "你携带着以下物品。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "3f5b92f2e036a08a064e",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Select an item to ",
+    "translation": "选择一件物品以",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f9b5eda2e4f84906d8fc",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "examine (weapon or armour)",
+    "translation": "查看详情（武器或护甲）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "0e662ef2353575544964",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Weapons",
+    "translation": "武器",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "7c8f05bb4a7eb9e494ac",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "wear",
+    "translation": "磨损",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "aedf2b12f7483bba6a3d",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "weight",
+    "translation": "重量",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a37a6a01d6dbf376ec00",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "wielded",
+    "translation": "已持用",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "045f6a903d705bd08392",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Armours & Clothes",
+    "translation": "护甲与衣物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "155560d48c34d96b6abe",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "  worn ",
+    "translation": "已穿戴",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "03556696a328237a8523",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Tools",
+    "translation": "工具",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "6db35901b78538741a50",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": " in use",
+    "translation": "使用中",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "df813bdaf1b7f70d4b07",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Foods",
+    "translation": "食物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "48a5a9b5de1e76e72460",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "usage",
+    "translation": "用途",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "eeb84b7cfa7a3e3cb3e2",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Use hotkeys, mouse click or .ENTER to select.",
+    "translation": "使用快捷键或鼠标点击，或按选择。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "segments": [
+      {
+        "offset": 0,
+        "width": 216,
+        "text": "使用快捷键或鼠标点击，或按"
+      },
+      {
+        "offset": 272,
+        "width": 64,
+        "text": "选择。"
+      }
+    ]
+  },
+  {
+    "id": "07fb5a1baa4c195bfc0f",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Move",
+    "translation": "移动",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "93bc35f063e87015f611",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Next page",
+    "translation": "下一页",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "808391fc614f3076451f",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Prev page",
+    "translation": "上一页",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f9f04e8eb062858ecbc6",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Viewing: All items",
+    "translation": "正在查看：全部物品",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "0a9eb83b01ec7c82ea01",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Viewing:",
+    "translation": "正在查看：",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "c1c5121b3bdbe66d2fb0",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Filter",
+    "translation": "筛选",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "53a59e2cc199d867c7a9",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "HUNTING KNIFE",
+    "translation": "猎刀",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "8ee161d2fcd595589da4",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "The hunting knife has a blade usually more than five inches long.",
+    "translation": "猎刀的刀刃通常长于五英寸。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f783aed659ffe0f23347",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "SKILLS",
+    "translation": "技能",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ebe24db0481d38c46af3",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "SKILLS AND MASTERY LEVELS:",
+    "translation": "技能与熟练等级：",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "5ff68272222517bd8cfa",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "RITUALS AND COMMUNICATING WITH THE SPIRITS AND THE OTHERWORLD",
+    "translation": "仪式以及与精灵和异界的交流",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a7ec39833e7997e42ad2",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Entering into UnReal World - please wait ... ",
+    "translation": "正在进入虚幻世界，请稍候……",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f6d998748c31a5e3c578",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Sound init ... ",
+    "translation": "正在初始化音效……",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "5791147249467464276f",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Could not open audio! -- Press a key to continue --",
+    "translation": "无法启用音频！——按任意键继续——",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "79bf876d974d4cec0d52",
+    "source": "runtime:character-world-inventory",
+    "context": "showtext",
+    "original": "Loading intro ...",
+    "translation": "正在载入序章……",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "3b34081d4ff05fdbb6d1",
+    "source": "runtime:character-creation",
+    "context": "paragraph",
+    "original": "Choose your characters sex.",
+    "translation": "选择角色的性别。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "6284353207a4810e394a",
+    "source": "runtime:character-creation",
+    "context": "paragraph",
+    "original": "Select a portrait for your character.",
+    "translation": "为角色选择一幅肖像。",
+    "status": "reviewed",
+    "runtime_verified": false
+  }
+]

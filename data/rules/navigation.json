@@ -1,0 +1,277 @@
+{
+  "version": 1,
+  "game_version": "3.89.1",
+  "binary_sha256": "124f89da263b7dabb323fd4f94718261abbe0ef76371a7e5ed5d6b50492ae112",
+  "development_only": false,
+  "source_family": "hardcoded-native",
+  "display_context": "npc-talk",
+  "producer": "PARSE_EtsimassahPci",
+  "evidence": {
+    "direction_table": "0x10023ed20",
+    "direction_lookup": "0x100187d0d",
+    "culture_table": "0x10023c850",
+    "culture_lookup": "0x100187da1",
+    "distance_flags_9": "0x1001b6307",
+    "distance_no_walk_branch": "0x1000ba4b6",
+    "distance_away_suffix": "0x1000ba6c8",
+    "region_description": "0x1001b6190"
+  },
+  "maps": {
+    "direction": [
+      {
+        "index": 0,
+        "address": "0x1001e9bad",
+        "source_bytes_hex": "65617374",
+        "source": "east",
+        "target": "东"
+      },
+      {
+        "index": 1,
+        "address": "0x1001f6b92",
+        "source_bytes_hex": "6e6f7274682d65617374",
+        "source": "north-east",
+        "target": "东北"
+      },
+      {
+        "index": 2,
+        "address": "0x1001e9bb7",
+        "source_bytes_hex": "6e6f727468",
+        "source": "north",
+        "target": "北"
+      },
+      {
+        "index": 3,
+        "address": "0x1001f6b9d",
+        "source_bytes_hex": "6e6f7274682d77657374",
+        "source": "north-west",
+        "target": "西北"
+      },
+      {
+        "index": 4,
+        "address": "0x1001e9bb2",
+        "source_bytes_hex": "77657374",
+        "source": "west",
+        "target": "西"
+      },
+      {
+        "index": 5,
+        "address": "0x1001f6ba8",
+        "source_bytes_hex": "736f7574682d77657374",
+        "source": "south-west",
+        "target": "西南"
+      },
+      {
+        "index": 6,
+        "address": "0x1001f6bb3",
+        "source_bytes_hex": "736f757468",
+        "source": "south",
+        "target": "南"
+      },
+      {
+        "index": 7,
+        "address": "0x1001f6bb9",
+        "source_bytes_hex": "736f7574682d65617374",
+        "source": "south-east",
+        "target": "东南"
+      }
+    ],
+    "culture": [
+      {
+        "index": 0,
+        "address": "0x1001eadb6",
+        "source_bytes_hex": "6b61756d6f6c616973",
+        "source": "kaumolais"
+      },
+      {
+        "index": 1,
+        "address": "0x1001eadc0",
+        "source_bytes_hex": "647269696b696ce46973",
+        "source": "driikil\\xe4is"
+      },
+      {
+        "index": 2,
+        "address": "0x1001eadcb",
+        "source_bytes_hex": "6b69657373656ce46973",
+        "source": "kiessel\\xe4is"
+      },
+      {
+        "index": 3,
+        "address": "0x1001eadd6",
+        "source_bytes_hex": "7265656d696ce46973",
+        "source": "reemil\\xe4is"
+      },
+      {
+        "index": 4,
+        "address": "0x1001eade0",
+        "source_bytes_hex": "736172746f6c616973",
+        "source": "sartolais"
+      },
+      {
+        "index": 5,
+        "address": "0x1001eadea",
+        "source_bytes_hex": "69736c616e646572",
+        "source": "islander"
+      },
+      {
+        "index": 6,
+        "address": "0x1001eadf3",
+        "source_bytes_hex": "6b6f6976756c616973",
+        "source": "koivulais"
+      },
+      {
+        "index": 7,
+        "address": "0x1001eadfd",
+        "source_bytes_hex": "6b75696b6b612d7472696265",
+        "source": "kuikka-tribe",
+        "target": "库伊卡部族"
+      },
+      {
+        "index": 8,
+        "address": "0x1001eae0a",
+        "source_bytes_hex": "6f776c2d7472696265",
+        "source": "owl-tribe"
+      },
+      {
+        "index": 9,
+        "address": "0x1001eae14",
+        "source_bytes_hex": "7365616c2d7472696265",
+        "source": "seal-tribe"
+      },
+      {
+        "index": 10,
+        "address": "0x1001eae1f",
+        "source_bytes_hex": "76616761626f6e64",
+        "source": "vagabond"
+      },
+      {
+        "index": 11,
+        "address": "0x1001eae28",
+        "source_bytes_hex": "6e6a657270657a",
+        "source": "njerpez"
+      },
+      {
+        "index": 12,
+        "address": "0x1001eae30",
+        "source_bytes_hex": "666f726569676e",
+        "source": "foreign"
+      },
+      {
+        "index": 13,
+        "address": "0x1001eae38",
+        "source_bytes_hex": "666f726573746572",
+        "source": "forester"
+      }
+    ],
+    "place_type": [
+      {
+        "source": "settlement",
+        "target": "一处聚落",
+        "source_instructions": [
+          "0x10018d7ea",
+          "0x10018d828"
+        ]
+      },
+      {
+        "source": "lake",
+        "target": "一片湖泊",
+        "source_instructions": [
+          "0x10018d869"
+        ]
+      },
+      {
+        "source": "cave",
+        "target": "一处洞穴",
+        "source_instructions": [
+          "0x10018d8d7"
+        ]
+      }
+    ],
+    "distance": [
+      {
+        "source": "about {amount:uint} kilometers",
+        "target": "约{amount}公里",
+        "source_instruction": "0x1000ba384"
+      },
+      {
+        "source": "less than a kilometer",
+        "target": "不到一公里",
+        "source_instruction": "0x1000ba3ae"
+      },
+      {
+        "source": "half a kilometer",
+        "target": "半公里",
+        "source_instruction": "0x1000ba3d7"
+      },
+      {
+        "source": "just a couple of kilometers",
+        "target": "只有几公里",
+        "source_instruction": "0x1000ba475"
+      },
+      {
+        "source": "about {amount:uint} miles",
+        "target": "约{amount}英里",
+        "source_instruction": "0x1000ba3f7"
+      },
+      {
+        "source": "less than a mile",
+        "target": "不到一英里",
+        "source_instruction": "0x1000ba41d"
+      },
+      {
+        "source": "half a mile",
+        "target": "半英里",
+        "source_instruction": "0x1000ba43c"
+      },
+      {
+        "source": "just a couple of miles",
+        "target": "只有几英里",
+        "source_instruction": "0x1000ba499"
+      }
+    ]
+  },
+  "templates": [
+    {
+      "source": "There is a {type:place_type} in the {direction:direction} at the region called {place:text}.",
+      "target": "在{direction}方名叫 {place} 的地区有{type}。",
+      "source_instructions": [
+        "0x100187d30",
+        "0x1001b624f"
+      ],
+      "display_call": "0x100187d54"
+    },
+    {
+      "source": "There is a {type:place_type} in the {direction:direction} here at {place:text}.",
+      "target": "就在这一带的 {place}，往{direction}方有{type}。",
+      "source_instructions": [
+        "0x100187d30",
+        "0x1001b625f"
+      ],
+      "display_call": "0x100187d54"
+    },
+    {
+      "source": "It is {distance:distance} away.",
+      "target": "离这里{distance}。",
+      "source_instructions": [
+        "0x100187d67",
+        "0x1000ba6c8"
+      ],
+      "display_call": "0x100187d7e"
+    },
+    {
+      "source": "It is {culture:culture} village.",
+      "target": "那是{culture}的村庄。",
+      "source_instructions": [
+        "0x100187dac"
+      ],
+      "display_call": "0x100187dc7",
+      "require_mapped_value": true
+    }
+  ],
+  "observed_english_examples": [
+    "There is a settlement in the south-west at the region called Nuokkukallio \"Nodcliff\".",
+    "It is just a couple of miles away.",
+    "It is kuikka-tribe village."
+  ],
+  "status": "reviewed",
+  "review_notes": "Bounded navigation templates checked against instruction evidence; generated place names preserved; only culture values with reviewed targets enabled."
+}

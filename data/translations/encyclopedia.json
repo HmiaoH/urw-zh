@@ -1,0 +1,57 @@
+[
+  {
+    "id": "fae1b0cd11d17f200985",
+    "source": "GAME.NFO:reviewed-lines",
+    "context": "encyclopedia",
+    "original": "The hunting knife has a blade usually more than five inches long.",
+    "translation": "这种用于[[HUNTING|狩猎]]的[[KNIFE|刀]]，刀刃通常超过五英寸。",
+    "status": "reviewed",
+    "runtime_verified": true,
+    "link_targets": [
+      "HUNTING",
+      "KNIFE"
+    ]
+  },
+  {
+    "id": "80aa86ed9502945815d1",
+    "source": "GAME.NFO:reviewed-lines",
+    "context": "encyclopedia",
+    "original": "It is designed especially for efficient butchering and cutting the carcass, but works as a good",
+    "translation": "它主要用于高效屠宰、分割猎物尸体，也是一件实用的通用工具，",
+    "status": "reviewed",
+    "runtime_verified": true,
+    "link_targets": []
+  },
+  {
+    "id": "f289347e1d87e7051fdd",
+    "source": "GAME.NFO:reviewed-lines",
+    "context": "encyclopedia",
+    "original": "overall tool in many different hunting related tasks.",
+    "translation": "可用于多种[[HUNTING|狩猎]]相关工作。",
+    "status": "reviewed",
+    "runtime_verified": true,
+    "link_targets": [
+      "HUNTING"
+    ]
+  },
+  {
+    "id": "792379fe0dab7208f01a",
+    "source": "GAME.NFO:reviewed-lines",
+    "context": "encyclopedia",
+    "original": "The all-round tool used when eating, making handcrafts, fighting",
+    "translation": "这是一种用途广泛的工具，可用于进食、制作手工艺品、战斗",
+    "status": "reviewed",
+    "runtime_verified": true,
+    "link_targets": []
+  },
+  {
+    "id": "7170cf0cb72223616133",
+    "source": "GAME.NFO:reviewed-lines",
+    "context": "encyclopedia",
+    "original": "and so on.",
+    "translation": "等活动。",
+    "status": "reviewed",
+    "runtime_verified": true,
+    "link_targets": []
+  }
+]

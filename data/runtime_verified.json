@@ -1,0 +1,32 @@
+[
+  {
+    "source_id": "ac6b2e02d6c90fe8ee28",
+    "result": "passed",
+    "date": "2026-11-05",
+    "notes": "隔离测试实机观察：完整中文、换行与控件范围；村庄正文保留图片外围空行。"
+  },
+  {
+    "source_id": "dcc8398241a67a9368ed",
+    "result": "passed",
+    "date": "2026-11-05",
+    "notes": "隔离测试实机观察：完整中文、换行与控件范围；村庄正文保留图片外围空行。"
+  },
+  {
+    "source_id": "7ce561f63df63acf3a9e",
+    "result": "passed",
+    "date": "2026-11-05",
+    "notes": "隔离测试实机观察：完整中文、换行与控件范围；村庄正文保留图片外围空行。"
+  },
+  {
+    "source_id": "8f4203f5d10a9fc1e056",
+    "result": "passed",
+    "date": "2026-11-05",
+    "notes": "完整中文正文实机；猎刀中的刀链接鼠标及键盘跳转均进入 KNIFE，BackSpace 返回。未验证全百科。"
+  },
+  {
+    "source_id": "9c44ac1c76ffe36cb0e9",
+    "result": "passed",
+    "date": "2026-11-05",
+    "notes": "完整中文正文实机；猎刀中的刀链接鼠标及键盘跳转均进入 KNIFE，BackSpace 返回。未验证全百科。"
+  }
+]

@@ -1,0 +1,561 @@
+{
+  "status": "reviewed",
+  "development_only": false,
+  "rows": [
+    {
+      "source_id": "bc2db7aab7f5aa977fbd",
+      "line": 3,
+      "section": ".TRADE_LETS_BARTER.(trading mood)",
+      "original": ":( -And just what did you <reptitle_trading> think of offering?",
+      "translation": ":( -<reptitle_trading>，你到底打算拿什么来换？"
+    },
+    {
+      "source_id": "76e139cad258e0ca6f60",
+      "line": 4,
+      "section": ".TRADE_LETS_BARTER.(trading mood)",
+      "original": ":| -So let's barter! What have you got to offer, <plr_identity>?",
+      "translation": ":| -那就来做交易吧！<plr_identity>，你有什么可以拿来换？"
+    },
+    {
+      "source_id": "10c4456c7f3323edba24",
+      "line": 5,
+      "section": ".TRADE_LETS_BARTER.(trading mood)",
+      "original": ":) -My pleasure to start trading with <reptitle_trading_ind>.",
+      "translation": ":) -很高兴能和<reptitle_trading_ind>做交易。"
+    },
+    {
+      "source_id": "16dfd6273afd709965c0",
+      "line": 8,
+      "section": ".TRADE_ACCEPT_OFFER.(trading mood)",
+      "original": ":( -Maybe I just might accept this offer. Do we have a deal now, <plr_bad_name>?",
+      "translation": ":( -这笔交易嘛，或许可以接受。<plr_bad_name>，这就算成交了吗？"
+    },
+    {
+      "source_id": "09ac8021027f78de047a",
+      "line": 9,
+      "section": ".TRADE_ACCEPT_OFFER.(trading mood)",
+      "original": ":| -I do accept your offer. Shall we close the deal then?",
+      "translation": ":| -我接受你的提议。那我们成交吧？"
+    },
+    {
+      "source_id": "6fca2d994bf26e8edc48",
+      "line": 10,
+      "section": ".TRADE_ACCEPT_OFFER.(trading mood)",
+      "original": ":) -This will do just fine. I'm happy with this deal if you are?",
+      "translation": ":) -这样就挺好。你要是也满意，咱们就成交？"
+    },
+    {
+      "source_id": "2c38f1488b17a7497699",
+      "line": 13,
+      "section": ".TRADE_DEAL.(trading mood)",
+      "original": ":( -So be it, <plr_bad_name>.",
+      "translation": ":( -好吧，<plr_bad_name>。"
+    },
+    {
+      "source_id": "f199096be0298f62c824",
+      "line": 14,
+      "section": ".TRADE_DEAL.(trading mood)",
+      "original": ":| -We have to come to an agreement over this trade.",
+      "translation": ":| -这笔交易咱们得谈出个结果。"
+    },
+    {
+      "source_id": "07e5623d883875f462f1",
+      "line": 15,
+      "section": ".TRADE_DEAL.(trading mood)",
+      "original": ":) -Thank you once again, <plr_identity>.",
+      "translation": ":) -再次感谢你，<plr_identity>。"
+    },
+    {
+      "source_id": "899c49622159c7ca8c2d",
+      "line": 18,
+      "section": ".TRADE_GENEROUS_DEAL.(trading mood)",
+      "original": ":( -I'm pleasantly surprised. Maybe you are not <reptitle_trading_ind> after all.",
+      "translation": ":( -这倒让我刮目相看。看来你也未必是<reptitle_trading_ind>。"
+    },
+    {
+      "source_id": "0c13c212cb3e7484021e",
+      "line": 19,
+      "section": ".TRADE_GENEROUS_DEAL.(trading mood)",
+      "original": ":| -Thank you, <plr_identity>. That was generous.",
+      "translation": ":| -谢谢你，<plr_identity>。你真慷慨。"
+    },
+    {
+      "source_id": "d7a418fd5dc8368396d2",
+      "line": 20,
+      "section": ".TRADE_GENEROUS_DEAL.(trading mood)",
+      "original": ":) -Many thanks, <plr_identity>! You are not only <reptitle_trading_ind>, but generous too.",
+      "translation": ":) -太感谢了，<plr_identity>！你不只是<reptitle_trading_ind>，还这么慷慨。",
+      "exclusion_reason": "Multiple text slots can match more than one split in the current display matcher."
+    },
+    {
+      "source_id": "986ffda930b395753a27",
+      "line": 24,
+      "section": ".NPC_CAN_TRADE.(tra rep)",
+      "original": ":( -There are few things I could trade away, <plr_bad_name>, although I would prefer to do so with someone other than you.",
+      "translation": ":( -我倒是有几样东西可以拿来交易，<plr_bad_name>，不过我更愿意和别人做交易。"
+    },
+    {
+      "source_id": "ad48b95ea55b1d1fe07d",
+      "line": 25,
+      "section": ".NPC_CAN_TRADE.(tra rep)",
+      "original": ":| -I have some goods to trade.",
+      "translation": ":| -我有些货物可以交易。"
+    },
+    {
+      "source_id": "ecb1cb81c24c11f11d14",
+      "line": 26,
+      "section": ".NPC_CAN_TRADE.(tra rep)",
+      "original": ":) -If you find my goods interesting I'm happy to trade with you, <plr_identity>.",
+      "translation": ":) -要是有看得上眼的货，<plr_identity>，我很乐意跟你交易。"
+    },
+    {
+      "source_id": "fecc9a32b633e85771fa",
+      "line": 29,
+      "section": ".NPC_CANT_TRADE.(tra rep)",
+      "original": ":( -I do not trade my goods.",
+      "translation": ":( -我的东西不拿来交易。"
+    },
+    {
+      "source_id": "d4fd59ecdf5b6decf5e0",
+      "line": 30,
+      "section": ".NPC_CANT_TRADE.(tra rep)",
+      "original": ":| -Sorry, <plr_identity>. I've got nothing to trade.",
+      "translation": ":| -抱歉，<plr_identity>。我没什么可交易的。"
+    },
+    {
+      "source_id": "0a4c0f02d344667ea5a5",
+      "line": 31,
+      "section": ".NPC_CANT_TRADE.(tra rep)",
+      "original": ":) -I'm sorry to disappoint <reptitle_tra_ind>, but I don't have anything to trade.",
+      "translation": ":) -恐怕要让<reptitle_tra_ind>失望了，我没什么东西可交易。"
+    },
+    {
+      "source_id": "abe9e1761570af7757fc",
+      "line": 34,
+      "section": ".TRADE_BRIEFING.(trading mood)",
+      "original": ":| -If you like the goods around here, just pick up the ones you need and come talk to me about trading for them.",
+      "translation": ":| -看中这里的货，就拿起你要的东西，来找我谈价。"
+    },
+    {
+      "source_id": "933ab1d538a86bd63387",
+      "line": 37,
+      "section": ".TRADE_BANNED.",
+      "original": "-Leave our goods alone! We do not trade.",
+      "translation": "-别动我们的东西！我们不做交易。"
+    },
+    {
+      "source_id": "6264c4893c7696974712",
+      "line": 43,
+      "section": ".TRADE_STOPPAGE.(fam rep)",
+      "original": "-For the time being we keep our goods to ourselves and do not trade with anyone.",
+      "translation": "-我们的货暂时都留着，谁来都不交易。"
+    },
+    {
+      "source_id": "eb01e5303e4ec393d229",
+      "line": 47,
+      "section": ".DEMAND_PAYMENT.(stealing mood)",
+      "original": ":( -You <reptitle_stealing> need to pay your debt right now!",
+      "translation": ":( -你这个<reptitle_stealing>，现在就把欠的东西还清！"
+    },
+    {
+      "source_id": "4f8d3ecb8830ad6aa3d3",
+      "line": 48,
+      "section": ".DEMAND_PAYMENT.(stealing mood)",
+      "original": ":| -You owe us for the goods you have picked.",
+      "translation": ":| -拿了我们的货，就得付账。"
+    },
+    {
+      "source_id": "b0dfa91d67be87a49d4e",
+      "line": 49,
+      "section": ".DEMAND_PAYMENT.(stealing mood)",
+      "original": ":) -Would you care to barter for the goods you've gotten?",
+      "translation": ":) -你愿意拿些东西来换已经拿走的货吗？"
+    },
+    {
+      "source_id": "254eb117d4f7ea44c765",
+      "line": 52,
+      "section": ".FAILED_PAYMENT.(trading mood)",
+      "original": ":( -Bah! You better be prepared next time!",
+      "translation": ":( -哼！下次你最好做好准备！"
+    },
+    {
+      "source_id": "22abec255d81281ebdf3",
+      "line": 53,
+      "section": ".FAILED_PAYMENT.(trading mood)",
+      "original": ":| -Next time come barter only when you are up to it.",
+      "translation": ":| -下回有能力付账了，再来谈交易。"
+    },
+    {
+      "source_id": "62ab4d38e3847cbf9e49",
+      "line": 54,
+      "section": ".FAILED_PAYMENT.(trading mood)",
+      "original": ":) -Hmph! I though you were reliable when it comes to trading.",
+      "translation": ":) -哼！我还以为你做交易挺可靠的。"
+    },
+    {
+      "source_id": "b98df08d48e7d91baa98",
+      "line": 58,
+      "section": ".MISCHIEF_TELL_OFF.(mischief)",
+      "original": ":( -How many times does <reptitle_mischief_ind> like you need to be told off before you stop!",
+      "translation": ":( -像你这样的<reptitle_mischief_ind>，还要被骂几次才肯罢手！"
+    },
+    {
+      "source_id": "25eebe00278cf5719eed",
+      "line": 59,
+      "section": ".MISCHIEF_TELL_OFF.(mischief)",
+      "original": ":| -There are certain things you are not allowed to do!",
+      "translation": ":| -有些事情你不准做！"
+    },
+    {
+      "source_id": "a17424060b45698034eb",
+      "line": 60,
+      "section": ".MISCHIEF_TELL_OFF.(mischief)",
+      "original": ":) -You need to follow certain rules around here.",
+      "translation": ":) -你得遵守这里的规矩。"
+    },
+    {
+      "source_id": "1d34a0e16fb130e8c6cf",
+      "line": 64,
+      "section": ".DROP_OUR_GOODS.(stealing mood)",
+      "original": ":( -Drop our goods right now, you <reptitle_stealing>!",
+      "translation": ":( -马上放下我们的东西，你这个<reptitle_stealing>！"
+    },
+    {
+      "source_id": "0e15f6ff8211fb4182aa",
+      "line": 65,
+      "section": ".DROP_OUR_GOODS.(stealing mood)",
+      "original": ":| -Drop our goods right now!",
+      "translation": ":| -马上放下我们的东西！"
+    },
+    {
+      "source_id": "045fbf791b0c2c1089d5",
+      "line": 66,
+      "section": ".DROP_OUR_GOODS.(stealing mood)",
+      "original": ":) -I have to ask you to drop our goods now!",
+      "translation": ":) -麻烦你现在把我们的货放下！"
+    },
+    {
+      "source_id": "d1153e95ecefba88ff56",
+      "line": 69,
+      "section": ".ADULT_TOPIC.(fam rep)",
+      "original": ":| -Talk to the adults.",
+      "translation": ":| -去和成年人说话。"
+    },
+    {
+      "source_id": "9161b893cab979f071a3",
+      "line": 73,
+      "section": ".GREET_MORNING.(overall rep)",
+      "original": ":( -Hmpf.",
+      "translation": ":( -哼。"
+    },
+    {
+      "source_id": "db261652700d751b00af",
+      "line": 74,
+      "section": ".GREET_MORNING.(overall rep)",
+      "original": ":| -Good morning, <plr_identity>.",
+      "translation": ":| -早上好，<plr_identity>。"
+    },
+    {
+      "source_id": "2ac4c0b29f53dab043c8",
+      "line": 75,
+      "section": ".GREET_MORNING.(overall rep)",
+      "original": ":) -Good morning and an even better day to you, <plr_identity>!",
+      "translation": ":) -早上好，<plr_identity>！愿你今天过得愉快！"
+    },
+    {
+      "source_id": "b1212bb8ad968a224c63",
+      "line": 78,
+      "section": ".GREET_NIGHT.(overall rep)",
+      "original": ":( -Why are you bothering me at this hour, <plr_bad_name>?",
+      "translation": ":( -这么晚了，你为什么来烦我，<plr_bad_name>？"
+    },
+    {
+      "source_id": "abe80e15e33bd5184a6a",
+      "line": 79,
+      "section": ".GREET_NIGHT.(overall rep)",
+      "original": ":| -You are bothering us at unusual hour, <plr_identity>.",
+      "translation": ":| -<plr_identity>，你怎么挑这个时候来打扰我们。"
+    },
+    {
+      "source_id": "a7336fafe178ad83c224",
+      "line": 80,
+      "section": ".GREET_NIGHT.(overall rep)",
+      "original": ":) -Don't you ever sleep, <plr_identity>?",
+      "translation": ":) -你从来不睡觉吗，<plr_identity>？"
+    },
+    {
+      "source_id": "9e449e53986449bf9fc3",
+      "line": 83,
+      "section": ".GREET.(overall rep)",
+      "original": ":( -I am listening, <plr_bad_name>.",
+      "translation": ":( -我在听，<plr_bad_name>。"
+    },
+    {
+      "source_id": "527a9f11f709add8bd70",
+      "line": 84,
+      "section": ".GREET.(overall rep)",
+      "original": ":| -Greetings, <plr_identity>.",
+      "translation": ":| -你好，<plr_identity>。"
+    },
+    {
+      "source_id": "cb9b849f5705c690b584",
+      "line": 85,
+      "section": ".GREET.(overall rep)",
+      "original": ":) -Good day, <plr_identity>.",
+      "translation": ":) -你好，<plr_identity>。"
+    },
+    {
+      "source_id": "72f5d035d07c03e0f28c",
+      "line": 88,
+      "section": ".GREET_LONG_TIME.(overall rep)",
+      "original": ":( -So you <plr_bad_name> have returned.",
+      "translation": ":( -<plr_bad_name>，你居然又回来了。"
+    },
+    {
+      "source_id": "2a626f47683af9c661ce",
+      "line": 89,
+      "section": ".GREET_LONG_TIME.(overall rep)",
+      "original": ":| -I haven't seen you much around here lately!",
+      "translation": ":| -我最近很少在这里见到你！"
+    },
+    {
+      "source_id": "dc523ecd59e8afa143fc",
+      "line": 90,
+      "section": ".GREET_LONG_TIME.(overall rep)",
+      "original": ":) -It's good to see you again!",
+      "translation": ":) -很高兴再次见到你！"
+    },
+    {
+      "source_id": "d781859cad98a89fff22",
+      "line": 93,
+      "section": ".GREET_LONGER_TIME.(overall rep)",
+      "original": ":( -I hoped you <plr_bad_name> wouldn't ever return.",
+      "translation": ":( -<plr_bad_name>，我还盼着你再也别回来呢。"
+    },
+    {
+      "source_id": "da4e91cd5a3a51d91dbe",
+      "line": 94,
+      "section": ".GREET_LONGER_TIME.(overall rep)",
+      "original": ":| -Where have you been hiding yourself?",
+      "translation": ":| -你躲到哪里去了？"
+    },
+    {
+      "source_id": "2d03e3c7c5af4bcd5d24",
+      "line": 95,
+      "section": ".GREET_LONGER_TIME.(overall rep)",
+      "original": ":) -Good to see you after such a long time!",
+      "translation": ":) -这么久没见，真高兴又见到你！"
+    },
+    {
+      "source_id": "c4e0d1ec7c57c78f7059",
+      "line": 98,
+      "section": ".GREET_QUERY.(overall rep)",
+      "original": ":( -What do you want?",
+      "translation": ":( -你有什么事？"
+    },
+    {
+      "source_id": "ac3891288e6dc6479ce6",
+      "line": 99,
+      "section": ".GREET_QUERY.(overall rep)",
+      "original": ":| -What's on your mind?",
+      "translation": ":| -你想聊些什么？"
+    },
+    {
+      "source_id": "15eceba37661e2677888",
+      "line": 100,
+      "section": ".GREET_QUERY.(overall rep)",
+      "original": ":) -What can I do for you?",
+      "translation": ":) -我能为你做些什么？"
+    },
+    {
+      "source_id": "b6ddbe060f3e325a5ac8",
+      "line": 103,
+      "section": ".INTRODUCTION_REMARK.(fam rep)",
+      "original": ":( -Good to know you, <plr_name>.",
+      "translation": ":( -很高兴认识你，<plr_name>。"
+    },
+    {
+      "source_id": "2533dc082f7810f845f4",
+      "line": 104,
+      "section": ".INTRODUCTION_REMARK.(fam rep)",
+      "original": ":| -I'm pleased to meet you, <plr_name>.",
+      "translation": ":| -很高兴认识你，<plr_name>。"
+    },
+    {
+      "source_id": "aaf3c816f3c48e8f924f",
+      "line": 105,
+      "section": ".INTRODUCTION_REMARK.(fam rep)",
+      "original": ":) -<plr_name>, it was about time to hear your name at last.",
+      "translation": ":) -<plr_name>，我可算知道你的名字了。"
+    },
+    {
+      "source_id": "335d0326ed6b4938d75c",
+      "line": 109,
+      "section": ".WOM_BAD_INFO.",
+      "original": "-Our neighbours came to warn us about %s.",
+      "translation": "-邻居特意来提醒我们，要提防%s。"
+    },
+    {
+      "source_id": "88aa38c95b9dd8d59ff4",
+      "line": 110,
+      "section": ".WOM_BAD_INFO.",
+      "original": "many: -We've been warned about %s at this area.",
+      "translation": "many: -有人警告我们，在这一带要提防%s。"
+    },
+    {
+      "source_id": "e02ff5d45d71480e3588",
+      "line": 113,
+      "section": ".WOM_BAD_NEWS.",
+      "original": "-Unpleasant news about %s have reached us.",
+      "translation": "-关于%s的坏消息已经传到我们这里。"
+    },
+    {
+      "source_id": "e35880fb20a8a6c8344d",
+      "line": 114,
+      "section": ".WOM_BAD_NEWS.",
+      "original": "many: -We have received many news about %s.",
+      "translation": "many: -我们听到了不少关于%s的消息。"
+    },
+    {
+      "source_id": "da598a0fa9937a15b28a",
+      "line": 117,
+      "section": ".WOM_BAD_RUMORS.",
+      "original": "-Disturbing rumor about %s has been spreading around here lately.",
+      "translation": "-最近这里一直在传一件关于%s的坏事。"
+    },
+    {
+      "source_id": "31e74e9b7f479d4f0550",
+      "line": 118,
+      "section": ".WOM_BAD_RUMORS.",
+      "original": "many: -Many unpleasant rumors about %s have come to our attention.",
+      "translation": "many: -我们听到了不少关于%s的坏传闻。"
+    },
+    {
+      "source_id": "0ae18449cdb11745b86e",
+      "line": 121,
+      "section": ".BANISH_PRECAUTION.(fam rep)",
+      "original": ":( -We don't want you around here, <plr_bad_name>. Go away!",
+      "translation": ":( -<plr_bad_name>，我们不想再在这里见到你。走开！"
+    },
+    {
+      "source_id": "3234c03ce8341c60a37b",
+      "line": 122,
+      "section": ".BANISH_PRECAUTION.(fam rep)",
+      "original": ":| -You are not welcome here now, <plr_identity>.",
+      "translation": ":| -现在这里不欢迎你，<plr_identity>。"
+    },
+    {
+      "source_id": "9e5c073bbd605328b9e5",
+      "line": 123,
+      "section": ".BANISH_PRECAUTION.(fam rep)",
+      "original": ":) -We have to ask you to leave for some time, <plr_identity>.",
+      "translation": ":) -我们得请你暂时离开一段时间，<plr_identity>。"
+    },
+    {
+      "source_id": "59479ee7c8a5ae00078f",
+      "line": 126,
+      "section": ".THEFT_SUSPICION.(fam rep)",
+      "original": "-We keep an eye out for thieves, <plr_identity>.",
+      "translation": "-我们会留意小偷，<plr_identity>。"
+    },
+    {
+      "source_id": "33747beef5886d039d76",
+      "line": 129,
+      "section": ".THEFT_CHARGE.(fam rep)",
+      "original": "-You seem to be one shameless thief, <plr_identity>!",
+      "translation": "-你真是个厚颜无耻的小偷，<plr_identity>！"
+    },
+    {
+      "source_id": "cecb25f97cac7aedaf20",
+      "line": 132,
+      "section": ".MURDER_SUSPICION.",
+      "original": "-We keep an eye out for you too, <plr_identity>.",
+      "translation": "-我们也会留意你，<plr_identity>。"
+    },
+    {
+      "source_id": "4fd0d3afe62edbbdbf05",
+      "line": 135,
+      "section": ".MURDER_CHARGE.",
+      "original": "-You have blood on your hands, <plr_identity>!",
+      "translation": "-你手上沾了血，<plr_identity>！"
+    },
+    {
+      "source_id": "5bfec35e9c117185055c",
+      "line": 140,
+      "section": ".DELIVER_GENERAL.(fam rep)",
+      "original": ":( -For me? Well thank you, <plr_identity>.",
+      "translation": ":( -是给我的吗？那就谢谢你了，<plr_identity>。"
+    },
+    {
+      "source_id": "28e2869d3b8e9dc6cac5",
+      "line": 141,
+      "section": ".DELIVER_GENERAL.(fam rep)",
+      "original": ":| -I accept your offerings, <plr_identity>.",
+      "translation": ":| -你的礼物我收下了，<plr_identity>。"
+    },
+    {
+      "source_id": "1fa6136311a61231df60",
+      "line": 142,
+      "section": ".DELIVER_GENERAL.(fam rep)",
+      "original": ":) -Thanks, <plr_identity>. This might come in handy.",
+      "translation": ":) -谢了，<plr_identity>。说不定能派上用场。"
+    },
+    {
+      "source_id": "e751f449c9218f9e905b",
+      "line": 146,
+      "section": ".DELIVER_HELP.(help rep)",
+      "original": ":( -This is much appreciated, <plr_identity>.",
+      "translation": ":( -我很感激，<plr_identity>。"
+    },
+    {
+      "source_id": "00783fcf608dfd0bbd9b",
+      "line": 147,
+      "section": ".DELIVER_HELP.(help rep)",
+      "original": ":| -My humble thanks, <plr_identity>. Your favours will be remembered.",
+      "translation": ":| -多谢了，<plr_identity>。你帮过我们，这份情我们会记着。"
+    },
+    {
+      "source_id": "291d839aab9726762ab1",
+      "line": 148,
+      "section": ".DELIVER_HELP.(help rep)",
+      "original": ":) -You are such <reptitle_help_ind>, <plr_identity>! I hope we can repay your favours one day.",
+      "translation": ":) -<plr_identity>，你真是<reptitle_help_ind>！希望有一天我们能报答你的恩情。",
+      "exclusion_reason": "Multiple text slots can match more than one split in the current display matcher."
+    },
+    {
+      "source_id": "2ee510647c7a03a9e033",
+      "line": 152,
+      "section": ".DELIVER_COMP.",
+      "original": ":| -Alright, companion. I got it.",
+      "translation": ":| -好，伙伴，我收下了。"
+    },
+    {
+      "source_id": "dcceedfb120a4780b331",
+      "line": 157,
+      "section": ".LOWREP_REFUSAL.",
+      "original": "-Bah! I don't feel like helping you on that matter, <plr_bad_name>.",
+      "translation": "-呸！我可不想帮你处理这件事，<plr_bad_name>。"
+    },
+    {
+      "source_id": "c0dcb4dd188e1f4762ed",
+      "line": 161,
+      "section": ".BLACKSMITH_UNCLAIMED_ORDER.(trading mood)",
+      "original": ":( -You dare to ask, <reptitle_trading>! You didn't come to claim it in time, so I don't have it for you anymore.",
+      "translation": ":( -你还敢来问，<reptitle_trading>！你没按时来取，东西已经不在我这儿了。"
+    },
+    {
+      "source_id": "40f5f1997b3ad38dddf4",
+      "line": 162,
+      "section": ".BLACKSMITH_UNCLAIMED_ORDER.(trading mood)",
+      "original": ":| -Phew, it is too late to ask now! You <plr_bad_name> didn't come to claim it in time, so I gave it to somebody else.",
+      "translation": ":| -唉，你现在才来问，太晚了！<plr_bad_name>，你没按时来取，我已经把东西给别人了。"
+    },
+    {
+      "source_id": "514caa7fb0ff264fd151",
+      "line": 163,
+      "section": ".BLACKSMITH_UNCLAIMED_ORDER.(trading mood)",
+      "original": ":) -I'm sorry, <plr_identity>, but as you didn't come to claim it in time I gave it to somebody else.",
+      "translation": ":) -抱歉，<plr_identity>，你没按时来取，我已经把东西给别人了。"
+    }
+  ]
+}

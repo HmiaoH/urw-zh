@@ -1,0 +1,1177 @@
+[
+  {
+    "id": "09b502be8e83a31cfb35",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Move forwards",
+    "translation": "向前移动",
+    "status": "reviewed"
+  },
+  {
+    "id": "18f483f6f6b46ded235d",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": " Turn 90ø left",
+    "translation": " 左转 90°",
+    "status": "reviewed"
+  },
+  {
+    "id": "97bf8e7fe0821ef98024",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "7",
+    "translation": "7",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "0a00a9b8de8dee80d8a8",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": " Turn 45ø left",
+    "translation": " 左转 45°",
+    "status": "reviewed"
+  },
+  {
+    "id": "40f89d0ca74df62940fb",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "\u001b",
+    "translation": "\u001b",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "4298d3331ba9207ce2d6",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Turn 180ø left",
+    "translation": "左转 180°",
+    "status": "reviewed"
+  },
+  {
+    "id": "75fba8933413c91f7661",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "1",
+    "translation": "1",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "01ef7ff4f46a3d27ca7d",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Move backwards",
+    "translation": "向后移动",
+    "status": "reviewed"
+  },
+  {
+    "id": "ffa8c20339ebda7669c2",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "9",
+    "translation": "9",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "d56c9a9455695f710c6a",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Turn 90ø right",
+    "translation": "右转 90°",
+    "status": "reviewed"
+  },
+  {
+    "id": "90482ef5c639e65633a8",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "\u001a",
+    "translation": "\u001a",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "ead1da269953d3ffefe2",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Turn 45ø right",
+    "translation": "右转 45°",
+    "status": "reviewed"
+  },
+  {
+    "id": "afa14feb1e55811803b4",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Turn 180ø right",
+    "translation": "右转 180°",
+    "status": "reviewed"
+  },
+  {
+    "id": "38d2ac17361fc4bf9908",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "CTRL",
+    "translation": "CTRL",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "4c870e814ef5e42f7df1",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": " + movement key to strafe",
+    "translation": " + 移动按键：侧移",
+    "status": "reviewed"
+  },
+  {
+    "id": "cd4ef8aeaf08d6c3a21e",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "ENTER",
+    "translation": "ENTER",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "5d07b0492b7b8b802777",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Zoom in/out between wilderness and terrain map",
+    "translation": "在荒野地图与近景地图之间缩放",
+    "status": "reviewed"
+  },
+  {
+    "id": "4d7b86125a57d9e37188",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": ".",
+    "translation": ".",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "b9d848e7bbda88224357",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Wait for one turn",
+    "translation": "等待一回合",
+    "status": "reviewed"
+  },
+  {
+    "id": "7ce29bd67f4f8475741a",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "/",
+    "translation": "/",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "94f3bcef99c6238d21e0",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": " or ",
+    "translation": " 或 ",
+    "status": "reviewed"
+  },
+  {
+    "id": "7ca29445edcc336b825d",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "DEL",
+    "translation": "DEL",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "765f137d39d421df2b83",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": " Movement and rest actions",
+    "translation": " 移动与休息操作",
+    "status": "reviewed"
+  },
+  {
+    "id": "2437be2705e250d814d1",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Following hotkeys can be used to quickly access \"Movement and rest actions\":",
+    "translation": "以下快捷键可用于快速执行“移动与休息操作”：",
+    "status": "reviewed"
+  },
+  {
+    "id": "c14448b025b5a471ac49",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "R",
+    "translation": "R",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "87636adc9fbf675f62e6",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Run",
+    "translation": "奔跑",
+    "status": "reviewed"
+  },
+  {
+    "id": "9741c5a25e5c907848f3",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "h",
+    "translation": "h",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "5d52e7b51e2082a658ad",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Hide",
+    "translation": "隐蔽",
+    "status": "reviewed"
+  },
+  {
+    "id": "f857fc482e67be6a665c",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "u",
+    "translation": "u",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "4c45701f52c6be5d9d68",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Get up or lay down",
+    "translation": "起身或躺下",
+    "status": "reviewed"
+  },
+  {
+    "id": "db9e22120d14d54c91cf",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "-",
+    "translation": "-",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "e3d557bad1defba42cb8",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Wait and rest until cancelled",
+    "translation": "等待并休息，直到取消",
+    "status": "reviewed"
+  },
+  {
+    "id": "c59f463ab947ed42712a",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "ALT -",
+    "translation": "ALT -",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "73355555769fffa790a7",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Rest until not fatigued",
+    "translation": "休息至不再疲劳",
+    "status": "reviewed"
+  },
+  {
+    "id": "c7752c4172e6f90f03b3",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Z",
+    "translation": "Z",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "c88b5821e0ff291c1534",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Sleep",
+    "translation": "睡觉",
+    "status": "reviewed"
+  },
+  {
+    "id": "92f187f93d042a81919f",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "LOOKING AROUND",
+    "translation": "环顾四周",
+    "status": "reviewed"
+  },
+  {
+    "id": "7c072fd3a943461ac0f9",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "l",
+    "translation": "l",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "04d45c5d282771d53384",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "F3",
+    "translation": "F3",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "daebb5b26e98afa898bb",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": " Look what is at the chosen location",
+    "translation": " 查看所选位置的情况",
+    "status": "reviewed"
+  },
+  {
+    "id": "a30722991966ec0ae27c",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "x",
+    "translation": "x",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "f1a303601fb5ff8a0e06",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Look in a direction",
+    "translation": "查看某个方向",
+    "status": "reviewed"
+  },
+  {
+    "id": "0c5979e2bc65552d5702",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": ":",
+    "translation": ":",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "25eb3807fdc2dd687278",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Look what is at the current location",
+    "translation": "查看当前位置的情况",
+    "status": "reviewed"
+  },
+  {
+    "id": "3569111c0206bfb08a01",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Zoom map view at any time by mouse wheel or with the following keys:",
+    "translation": "随时可用鼠标滚轮或以下按键缩放地图：",
+    "status": "reviewed"
+  },
+  {
+    "id": "6b21ae0e214e24812c19",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "CTRL -",
+    "translation": "CTRL -",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "03a2bc42ae54b4ae89e4",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": " Zoom out ",
+    "translation": " 缩小地图 ",
+    "status": "reviewed"
+  },
+  {
+    "id": "311d19b730dee97bd83a",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "CTRL +",
+    "translation": "CTRL +",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "394c604eb60f2d45704e",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": " Zoom in ",
+    "translation": " 放大地图 ",
+    "status": "reviewed"
+  },
+  {
+    "id": "af1da7aa97d29adbdf78",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "CTRL 0",
+    "translation": "CTRL 0",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "8783d4af0a69e9f860c7",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": " Reset or max out",
+    "translation": " 重置或放至最大",
+    "status": "reviewed"
+  },
+  {
+    "id": "a0c8771138b60c59a3db",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "PICKING AND MOVING ITEMS",
+    "translation": "拾取与搬运物品",
+    "status": "reviewed"
+  },
+  {
+    "id": "474d344de81c46adec3a",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "g",
+    "translation": "g",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "e32326e6e0d7e31f5846",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": ",",
+    "translation": ",",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "ff708a16b747a9c84bbd",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": " Pick up something",
+    "translation": " 拾取物品",
+    "status": "reviewed"
+  },
+  {
+    "id": "a41d97eb89ae62368d13",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "G",
+    "translation": "G",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "ac38cdf285bb650d01e4",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": ";",
+    "translation": ";",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "2a59087cd6131182621a",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": " Pick up from adjacent tile, pack animal or companion",
+    "translation": " 从相邻格、驮畜或同伴处拾取物品",
+    "status": "reviewed"
+  },
+  {
+    "id": "60808e16aaf960646c6e",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "m",
+    "translation": "m",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "59a2bd46536f399bb9d0",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Move items -- haul items around with you",
+    "translation": "搬运物品——随身带着物品四处移动",
+    "status": "reviewed"
+  },
+  {
+    "id": "3f210eb7e40d447ed457",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "p",
+    "translation": "p",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "74e8851e82c531589939",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Push/pack -- push items at your feet to an adjacent location or pack them on an animal",
+    "translation": "推送/装载——把脚边物品推到相邻位置，或装到动物身上",
+    "status": "reviewed"
+  },
+  {
+    "id": "0cb6ab7b42af60b2303a",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "INVENTORY AND USING ITEMS",
+    "translation": "物品栏与物品使用",
+    "status": "reviewed"
+  },
+  {
+    "id": "b49ba6f60ca32498921e",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "i",
+    "translation": "i",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "a982bcc23aa77752dfd5",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Inventory -- look at what you are carrying ",
+    "translation": "物品栏——查看随身携带的物品 ",
+    "status": "reviewed"
+  },
+  {
+    "id": "63ac5a1a1906c8fc1bca",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "d",
+    "translation": "d",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "835718b1ecb2597f7273",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Drop something",
+    "translation": "丢下物品",
+    "status": "reviewed"
+  },
+  {
+    "id": "b2b70bfab9d12e63e515",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "w",
+    "translation": "w",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "a3220624bf1c2e01e8ab",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Wield a weapon or tool",
+    "translation": "手持武器或工具",
+    "status": "reviewed"
+  },
+  {
+    "id": "5b2cbe8e02b3e3ab3a36",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "W",
+    "translation": "W",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "a12b1df0a03fd95870d2",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Wear clothes or armor",
+    "translation": "穿戴衣物或护甲",
+    "status": "reviewed"
+  },
+  {
+    "id": "a043dd7fa778e8851cb1",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "a",
+    "translation": "a",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "2d968d901ad2bf088673",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Apply (use) a tool or container",
+    "translation": "使用工具或容器",
+    "status": "reviewed"
+  },
+  {
+    "id": "1ae7d58bc144f03da7f1",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "T",
+    "translation": "T",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "9f2828161bdfe20d968c",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Take off worn clothes or wielded weapons",
+    "translation": "脱下穿戴的衣物或卸下手持的武器",
+    "status": "reviewed"
+  },
+  {
+    "id": "6af03d131093c68b3dd8",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "e",
+    "translation": "e",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "9bf7d83168d526cb9ae6",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Eat something",
+    "translation": "进食",
+    "status": "reviewed"
+  },
+  {
+    "id": "308d54c1c5659cf471e9",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "q",
+    "translation": "q",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "fc07a76503f17bcd7627",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Quaff (drink) something",
+    "translation": "饮水或喝饮品",
+    "status": "reviewed"
+  },
+  {
+    "id": "1398f2a26927b0408d99",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "INTERACTING AND CRAFTING",
+    "translation": "互动与制作",
+    "status": "reviewed"
+  },
+  {
+    "id": "d8adbde3329bf581d77c",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "s",
+    "translation": "s",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "6f8f5cde652d0919ff3e",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Skills -- view and use your skills",
+    "translation": "技能——查看并使用技能",
+    "status": "reviewed"
+  },
+  {
+    "id": "48013eefe6efd0d20643",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "M",
+    "translation": "M",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "1460ab2d93365df27b4c",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "+",
+    "translation": "+",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "688291878ab70c54828c",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": " Make items and constructions",
+    "translation": " 制作物品和建造设施",
+    "status": "reviewed"
+  },
+  {
+    "id": "91270cd272d778a127ab",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "r",
+    "translation": "r",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "87c980507ba6f3d7f2e0",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Repeat the last action",
+    "translation": "重复上一个动作",
+    "status": "reviewed"
+  },
+  {
+    "id": "79beec0ea11c0d042404",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "O",
+    "translation": "O",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "b7805a975202efd7674b",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Make modded handcrafts",
+    "translation": "制作模组手工物品",
+    "status": "reviewed"
+  },
+  {
+    "id": "110b011d60587402e67c",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "o",
+    "translation": "o",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "8e2933922bb824b1e0a7",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Open a door or gate",
+    "translation": "打开门或闸门",
+    "status": "reviewed"
+  },
+  {
+    "id": "931cc701fcdaf08ddbb0",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "c",
+    "translation": "c",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "81b7570ee62dc1edf7d9",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Close a door or gate",
+    "translation": "关上门或闸门",
+    "status": "reviewed"
+  },
+  {
+    "id": "1291a66812ba29b87dae",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "f",
+    "translation": "f",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "dc4c6781de78a7db2f92",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Start a fire",
+    "translation": "生火",
+    "status": "reviewed"
+  },
+  {
+    "id": "4998d6c17589f2695299",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "b",
+    "translation": "b",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "a3d9e3044b8181e0748f",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Butcher -- cut a carcass for meat",
+    "translation": "分割兽尸，获取肉食",
+    "status": "reviewed"
+  },
+  {
+    "id": "a344ffa356c22373c467",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "C",
+    "translation": "C",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "1e0077f6c3f77775d6a0",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Chat (talk) with someone",
+    "translation": "与他人交谈",
+    "status": "reviewed"
+  },
+  {
+    "id": "e5d12bd6d2c25a32228c",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "!",
+    "translation": "!",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "c7f85ac777157c53e419",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Command pets and companions",
+    "translation": "指挥宠物和同伴",
+    "status": "reviewed"
+  },
+  {
+    "id": "40fcaf072aabbdfe53b3",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "COMBAT",
+    "translation": "战斗",
+    "status": "reviewed"
+  },
+  {
+    "id": "d0e0e0c73209089b0e1c",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Attack with 1st weapon",
+    "translation": "用第一把武器攻击",
+    "status": "reviewed"
+  },
+  {
+    "id": "0966eff1d03d04656124",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "2",
+    "translation": "2",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "4c9ade66b8cdff2a251d",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Attack with 2nd weapon",
+    "translation": "用第二把武器攻击",
+    "status": "reviewed"
+  },
+  {
+    "id": "e8e8c01169157861f3b9",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Repeat the last attack",
+    "translation": "重复上一次攻击",
+    "status": "reviewed"
+  },
+  {
+    "id": "7c35d735248c3f54b69e",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "0",
+    "translation": "0",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "7a33996601215e1d1bae",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Kick",
+    "translation": "踢击",
+    "status": "reviewed"
+  },
+  {
+    "id": "4115b8e3da51aee7394b",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Punch",
+    "translation": "出拳",
+    "status": "reviewed"
+  },
+  {
+    "id": "52a8362db061b458f27e",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "X",
+    "translation": "X",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "5a8cb90ccf71a049f3af",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Exchange wielded weapons",
+    "translation": "交换手持的武器",
+    "status": "reviewed"
+  },
+  {
+    "id": "61afc05000f091429188",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "t",
+    "translation": "t",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "ef013ce882a40dbc044c",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Throw something, or shoot an arrow",
+    "translation": "投掷物品或射箭",
+    "status": "reviewed"
+  },
+  {
+    "id": "edcbab68fb3e2706b9ab",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "INFORMATION AND PROFILES",
+    "translation": "信息与角色档案",
+    "status": "reviewed"
+  },
+  {
+    "id": "5a475a831a39520656c0",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "F2",
+    "translation": "F2",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "60e482950e694fa1d758",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Quest journal",
+    "translation": "任务日志",
+    "status": "reviewed"
+  },
+  {
+    "id": "938cd18854625f4acd63",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "F4",
+    "translation": "F4",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "704ff748051c3c3044db",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Spells and magic means",
+    "translation": "咒术与魔法手段",
+    "status": "reviewed"
+  },
+  {
+    "id": "6bce2c7faa979b4bc022",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "F5",
+    "translation": "F5",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "890e475d19e0b682c630",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Game course information",
+    "translation": "教学任务信息",
+    "status": "reviewed"
+  },
+  {
+    "id": "0d97a406e28651e8e220",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "F6",
+    "translation": "F6",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "17b7f0b0546d92ef2f89",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Map of known areas",
+    "translation": "已知区域地图",
+    "status": "reviewed"
+  },
+  {
+    "id": "a3b40e8309cd2cdbf89b",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "F7",
+    "translation": "F7",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "465639d03cb86c2848ec",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Wounds and injuries",
+    "translation": "伤口与受伤情况",
+    "status": "reviewed"
+  },
+  {
+    "id": "bf9a3d5154e4ae085069",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "A",
+    "translation": "A",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "a515b26437f2e96dd89f",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Armour coverage statistics",
+    "translation": "护甲覆盖统计",
+    "status": "reviewed"
+  },
+  {
+    "id": "8a533d2b8efcd5c308f5",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "P",
+    "translation": "P",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "f52e2f4de07f55ab94c7",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Character profile",
+    "translation": "角色档案",
+    "status": "reviewed"
+  },
+  {
+    "id": "5c9b8d633d72196ee849",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "v",
+    "translation": "v",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "e69a7d99220cd8a3a3da",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "View message log",
+    "translation": "查看消息记录",
+    "status": "reviewed"
+  },
+  {
+    "id": "d2aa0555ba0b0bb3630e",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Help and game options",
+    "translation": "帮助与游戏选项",
+    "status": "reviewed"
+  },
+  {
+    "id": "c6586acde0eac922d61e",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Following hotkeys can be used to quickly access \"Help and game options\":",
+    "translation": "以下快捷键可用于快速打开“帮助与游戏选项”：",
+    "status": "reviewed"
+  },
+  {
+    "id": "05219112a54f478f86af",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "F1",
+    "translation": "F1",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "e1fb5e5925c93ecd6bdf",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Game encyclopedia; a hypertext guide",
+    "translation": "游戏百科：超文本指南",
+    "status": "reviewed"
+  },
+  {
+    "id": "99e92cb1932fa0576379",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "?",
+    "translation": "?",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "19c7e1eccccdd3749261",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "This list of keyboard commands",
+    "translation": "此键盘指令列表",
+    "status": "reviewed"
+  },
+  {
+    "id": "c908c28a0ef6b670f0fc",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Q",
+    "translation": "Q",
+    "status": "reviewed",
+    "passthrough": true
+  },
+  {
+    "id": "b6d98166992c06000ee0",
+    "source": "runtime:keyboard-help",
+    "context": "renshow",
+    "original": "Quit and optionally save the game",
+    "translation": "退出并可选择保存游戏",
+    "status": "reviewed"
+  },
+  {
+    "id": "32784d8d7fb2b5c0794b",
+    "source": "runtime:keyboard-help",
+    "context": "paragraph",
+    "original": "That is all. Into the far north these keys shall take you.",
+    "translation": "以上就是全部按键。用它们踏上遥远北方的旅途吧。",
+    "status": "reviewed"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "9248a2ae92f4a5d56109",
+    "source": "urw3-bin:blacksmith-dialogue",
+    "context": "npc-talk",
+    "original": "If you're in a need of metalworks feel free to ask.",
+    "translation": "要是需要打制铁器，尽管来找我。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "TryChatOption_Blacksmith",
+      "callsite": "0x10017d18b",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "c6b60ba0f54883f160d4",
+    "source": "urw3-bin:blacksmith-dialogue",
+    "context": "npc-talk",
+    "original": "So what do you need?",
+    "translation": "你想做点什么？",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Blacksmith_Service_Query",
+      "callsite": "0x100189869",
+      "captured_source": true
+    }
+  },
+  {
+    "id": "a2b5ceadbbb86eb0dff6",
+    "source": "urw3-bin:blacksmith-dialogue",
+    "context": "npc-talk",
+    "original": "Sorry, but I am all too busy at the moment and can't take new orders now.",
+    "translation": "我这会儿实在太忙，暂时接不了新活。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Blacksmith_Service_Query",
+      "callsite": "0x1001896db",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "e4c0029cfe3678908022",
+    "source": "urw3-bin:blacksmith-dialogue",
+    "context": "npc-talk",
+    "original": "I surely hope I can trust you this time.",
+    "translation": "这回希望我能信得过你。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Blacksmith_Service_Query",
+      "callsite": "0x10018985d",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "eaec81acbf015ccdc01c",
+    "source": "urw3-bin:blacksmith-dialogue",
+    "context": "npc-talk",
+    "original": "I'm sorry. There's a bug. I can't forge that.",
+    "translation": "出了点问题，我没法打制这个。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Blacksmith_Tilausesine_Valinta / Hyvaksynta / Hintakysely",
+      "callsite": "0x100188e99 / 0x100189241 / 0x100188882",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "ba3f2dd6f7aabf7f6208",
+    "source": "urw3-bin:blacksmith-dialogue",
+    "context": "npc-talk",
+    "original": "Come back then, and bring some goods to pay for it. Alright?",
+    "translation": "到时候再来，记得带些东西来换。行吗？",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Blacksmith_Tilausesine_Valinta",
+      "callsite": "0x100188f1d",
+      "captured_source": true
+    }
+  },
+  {
+    "id": "a1c7e599afbb5ca24556",
+    "source": "urw3-bin:blacksmith-dialogue",
+    "context": "npc-talk",
+    "original": "Come back then, and bring some goods to pay for them. Alright?",
+    "translation": "到时候再来，记得带些东西来换这批货。行吗？",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Blacksmith_Tilausesine_Valinta",
+      "callsite": "0x100188f1d",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "cab2299caeafc9dc7c55",
+    "source": "urw3-bin:blacksmith-dialogue",
+    "context": "npc-talk",
+    "original": "Alright.",
+    "translation": "行。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Blacksmith_Tilausesine_Hyvaksynta",
+      "callsite": "0x1001892b5",
+      "captured_source": true
+    }
+  },
+  {
+    "id": "992cbfa83bb922e8882f",
+    "source": "urw3-bin:blacksmith-dialogue",
+    "context": "npc-talk",
+    "original": "Looking at what you are carrying now... Hmm.",
+    "translation": "让我看看你身上带了什么……嗯。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "BlacksmithTalk_Tilausesine_Hintakysely",
+      "callsite": "0x10018886b",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "c2ba6538d30a05c259a3",
+    "source": "urw3-bin:blacksmith-dialogue",
+    "context": "npc-talk",
+    "original": "Just fine. Rushing doesn't help, though.",
+    "translation": "进展顺利，不过急也没用。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "NPCpuhe_tilaus",
+      "callsite": "0x10018bfe3",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "ee6461e276e1605778dd",
+    "source": "urw3-bin:blacksmith-dialogue",
+    "context": "npc-talk",
+    "original": "It's ready. I left it around, and if you haven't found it then I can't help you.",
+    "translation": "已经做好了，我就放在附近。要是没找着，我也帮不上忙。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "NPCpuhe_tilaus",
+      "callsite": "0x10018c067",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "9739b7dca0b525dfab25",
+    "source": "urw3-bin:blacksmith-dialogue",
+    "context": "npc-talk",
+    "original": "It's ready and you can go get it. I trust you can find it around here by yourself.",
+    "translation": "已经做好了，就放在这附近，你自己去取吧。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "NPCpuhe_tilaus",
+      "callsite": "0x10018c067",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "66b42866e782f2a72112",
+    "source": "urw3-bin:blacksmith-dialogue",
+    "context": "npc-talk",
+    "original": "It's ready and I have it right here, so let's start trading.",
+    "translation": "已经做好了，就在我这儿。咱们来交易吧。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "NPCpuhe_tilaus",
+      "callsite": "0x10018c127",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "ae47b6892891687948e6",
+    "source": "urw3-bin:blacksmith-dialogue",
+    "context": "npc-talk",
+    "original": "They are ready and I got them right here, so let's start trading.",
+    "translation": "这批货都做好了，就在我这儿。咱们来交易吧。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "NPCpuhe_tilaus",
+      "callsite": "0x10018c127",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "a22a754e1ea331e4c70b",
+    "source": "urw3-bin:blacksmith-dialogue",
+    "context": "npc-talk",
+    "original": "Now you are fully rewarded from our behalf.",
+    "translation": "我们答应的报酬已经全部付清。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Trade_Complete",
+      "callsite": "0x10017fe4c / 0x10017f6ca",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "3b46a170b1d99313e52a",
+    "source": "urw3-bin:blacksmith-dialogue",
+    "context": "npc-talk",
+    "original": "I'm really sorry. Something came up and I couldn't make it this time.",
+    "translation": "实在过意不去，临时出了点事，这次没能做成。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "NPCpuhe_tilaus",
+      "callsite": "0x10018c3a9",
+      "captured_source": false
+    }
+  },
+  {
+    "id": "5091bf2ce8ee511a32e3",
+    "source": "urw3-bin:blacksmith-dialogue",
+    "context": "showtext",
+    "original": "\"Ok, it's a deal.\"",
+    "translation": "“好，就这么定了。”",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Blacksmith_Tilausesine_Valinta",
+      "callsite": "0x100188f59",
+      "captured_source": true
+    }
+  },
+  {
+    "id": "0344b5cb9e031215c33d",
+    "source": "urw3-bin:blacksmith-dialogue",
+    "context": "player-talk",
+    "original": "\"Ok, it's a deal.\"",
+    "translation": "“好，就这么定了。”",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Blacksmith_Tilausesine_Valinta",
+      "callsite": "0x100188f59",
+      "captured_source": true
+    }
+  },
+  {
+    "id": "3e3a756481eb79af50d2",
+    "source": "urw3-bin:blacksmith-dialogue",
+    "context": "showtext",
+    "original": "\"What do you want as a payment?\"",
+    "translation": "“你想要什么当报酬？”",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Blacksmith_Tilausesine_Valinta",
+      "callsite": "0x100188f7e",
+      "captured_source": true
+    }
+  },
+  {
+    "id": "64f6d38f2f6c9cda928b",
+    "source": "urw3-bin:blacksmith-dialogue",
+    "context": "player-talk",
+    "original": "\"What do you want as a payment?\"",
+    "translation": "“你想要什么当报酬？”",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Blacksmith_Tilausesine_Valinta",
+      "callsite": "0x100188f7e",
+      "captured_source": true
+    }
+  }
+]

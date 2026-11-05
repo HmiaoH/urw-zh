@@ -1,0 +1,718 @@
+{
+  "status": "reviewed",
+  "evidence": [
+    "docs/notification-rule-reverse.md",
+    "docs/dialogue-rule-reverse.md",
+    "messages/guide_values.txt"
+  ],
+  "scope": "完整的动作、环境、采集、物品操作和战斗通知。初始译文来自 data/drafts/messages-*.json，按目录来源 ID 校对。显示模板以 Note 展开后的正文匹配。",
+  "exclusions": [
+    "未审定嵌套方括号、条件分支或 printf 二次格式化。物品检查的技能、攻防加成和双手惩罚依赖这些语法，留待单独核对。",
+    "跳过战斗轨迹、伤势状态与攻击连接词等可能拼接的片段，以及用途未明的提示。",
+    "只允许一个已知来源的文字槽。人物、物品和数量用同一个捕获片段传递，保留原生冠词、品质和数量。",
+    "只识别已审校的 FIRE 与 BURP 音效头。颜色前缀保留在匹配键中。",
+    "保留部分进食的专用句式；完整进食的宽泛句式也会匹配部分进食，暂不生成。"
+  ],
+  "entries": [
+    {
+      "source_id": "bc26f3e901215349677c",
+      "original": "!You can not strike with <item_ind>.",
+      "translation": "!你无法用<item_ind>进行攻击。"
+    },
+    {
+      "source_id": "5b04e6b6bbb53c9a5017",
+      "original": "!Both parties manage to hurt each other.",
+      "translation": "!双方都伤到了对方。"
+    },
+    {
+      "source_id": "5a27d7c736661b0f8667",
+      "original": "+<item> hits the ground.",
+      "translation": "+<item>掉到了地上。"
+    },
+    {
+      "source_id": "68ce0d10a9038a488e1d",
+      "original": "!You fail to complete your ranged attack!",
+      "translation": "!你的远程攻击未能完成！"
+    },
+    {
+      "source_id": "e8b9a50a12b85530f515",
+      "original": "!You have no weapon wielded in that hand!",
+      "translation": "!你那只手上没有装备武器！"
+    },
+    {
+      "source_id": "06a87de1d088f4886774",
+      "original": "!You've been attacked from out of sight!",
+      "translation": "!你遭到了视线之外的攻击！"
+    },
+    {
+      "source_id": "e4d00f005e6e317e7659",
+      "original": "&Your serious leg injuries make it impossible to stay on your feet!",
+      "translation": "&你的腿伤太重，已经站不住了！"
+    },
+    {
+      "source_id": "098223fadb71671065c5",
+      "original": ":You regain consciousness...",
+      "translation": ":你恢复了意识……"
+    },
+    {
+      "source_id": "7a0e81a8604003c951f9",
+      "original": "!There's <npc_desc> in your way!",
+      "translation": "!<npc_desc>挡住了你的路！"
+    },
+    {
+      "source_id": "d6b021152df65e55cdb8",
+      "original": "!You cannot treat this wound any further now. Try again tomorrow.",
+      "translation": "!你现在无法再继续治疗这处伤口。请明天再试。"
+    },
+    {
+      "source_id": "94512e110e21f22587c4",
+      "original": "&You are not tired!",
+      "translation": "&你并不疲倦！"
+    },
+    {
+      "source_id": "19766cec8f7d616dfd36",
+      "original": "!This item is not suitable for that!",
+      "translation": "!这件物品不适合这样使用！"
+    },
+    {
+      "source_id": "90ab7b32d57e934e6673",
+      "original": "!Your both hands are in use! Take off something to wield a new item.",
+      "translation": "!你双手都在使用中！先卸下一件物品，才能装备新物品。"
+    },
+    {
+      "source_id": "ad5e7c54945b0af1e6b5",
+      "original": "!You aren't wielding anything!",
+      "translation": "!你手上什么也没拿！"
+    },
+    {
+      "source_id": "780010d447026328fcec",
+      "original": "!Huh? It's not possible to haft <items_nonum>!",
+      "translation": "!嗯？无法给<items_nonum>装柄！"
+    },
+    {
+      "source_id": "a2e1acb193ebe386304a",
+      "original": "!That is not a door or gate.",
+      "translation": "!那不是门或栅门。"
+    },
+    {
+      "source_id": "490c50584632afe3992a",
+      "original": "!This door is already open.",
+      "translation": "!这扇门已经打开了。"
+    },
+    {
+      "source_id": "1e62c18c03a7535a03db",
+      "original": "!This door is already closed.",
+      "translation": "!这扇门已经关上了。"
+    },
+    {
+      "source_id": "cb18ea5031fe72c33b25",
+      "original": "!This gate is already open.",
+      "translation": "!这扇栅门已经开了。"
+    },
+    {
+      "source_id": "a02d3c3486e1984c3417",
+      "original": "!This gate is already closed.",
+      "translation": "!这扇栅门已经关了。"
+    },
+    {
+      "source_id": "db62d21524509f329788",
+      "original": "!There is nothing here to pick up.",
+      "translation": "!这里没有可以拾取的物品。"
+    },
+    {
+      "source_id": "a0f5c8ce8dff0aadbb58",
+      "original": "!You cannot drop something you are wearing.",
+      "translation": "!你不能丢下身上穿着的东西。"
+    },
+    {
+      "source_id": "534ca233add8e9516a4c",
+      "original": "!There's no special way to apply <the_item>.",
+      "translation": "!<the_item>没有特殊的使用方法。"
+    },
+    {
+      "source_id": "3ae863663b7282f6bf1e",
+      "original": "!You are carrying too much! Drop excess items to continue your extensive gathering.",
+      "translation": "!你带的东西太多了！丢下一些多余物品，才能继续大量采集。"
+    },
+    {
+      "source_id": "f6bd8cd54ef88086d66d",
+      "original": "+<the_item> is buried in the bog.",
+      "translation": "+<the_item>陷在泥沼里。"
+    },
+    {
+      "source_id": "4d2da0e90340728cc227",
+      "original": "<npc_defdesc> withdraws from your way.",
+      "translation": "<npc_defdesc>让开了你的去路。"
+    },
+    {
+      "source_id": "acea7f258c6afdd5b798",
+      "original": "<npc_defdesc> gets some distance.",
+      "translation": "<npc_defdesc>拉开了距离。"
+    },
+    {
+      "source_id": "d5f3917cb54228b0cdbb",
+      "original": "_You get no response. Go closer.",
+      "translation": "_你没有得到回应。再靠近一些。"
+    },
+    {
+      "source_id": "a5266344e43bb8c4bbc0",
+      "original": "!<npc_desc> doesn't respond.",
+      "translation": "!<npc_desc>没有回应。"
+    },
+    {
+      "source_id": "2e7d30c1b973df34c8cc",
+      "original": "!<npc_desc> is startled by your attempt to make a conversation.",
+      "translation": "!<npc_desc>被你搭话的举动吓了一跳。"
+    },
+    {
+      "source_id": "1cd112ee1db56958ca6d",
+      "original": "<npc_desc> starts talking to you...",
+      "translation": "<npc_desc>开始和你说话……"
+    },
+    {
+      "source_id": "3e11e4cf00e5519fa389",
+      "original": ":<npc_defdesc> is now put on the leash.",
+      "translation": ":<npc_defdesc>现在被拴上了。"
+    },
+    {
+      "source_id": "73e4a48b00b2813eb5b5",
+      "original": "!Nay, that won't do. Tie it to a tree instead.",
+      "translation": "!不行，这样不行。把它拴在树上。"
+    },
+    {
+      "source_id": "4fd2b5ef5571234464c6",
+      "original": "!The <item> doesn't fly quite that far.",
+      "translation": "!<item>没能飞那么远。"
+    },
+    {
+      "source_id": "0b55d7f357a261da3dbd",
+      "original": "+The <item> hits the slope in between.",
+      "translation": "+<item>击中了中间的斜坡。"
+    },
+    {
+      "source_id": "44c8a79e107b009c473f",
+      "original": "!You are in melee range! It's better to strike with your <item>, than to throw it.",
+      "translation": "!已经进入近战距离了！用<item>攻击比把它投出去更好。"
+    },
+    {
+      "source_id": "6d6b9633b6b4fe9ffbbd",
+      "original": "+You swing your arm back preparing to throw <the_fullitem>.",
+      "translation": "+你向后摆臂，准备投掷<the_fullitem>。"
+    },
+    {
+      "source_id": "5959c10e09a623b05c6a",
+      "original": "+You draw your <fullitem> and prepare to shoot.",
+      "translation": "+你拉开<fullitem>，准备射击。"
+    },
+    {
+      "source_id": "ad9ad64e674da291ba37",
+      "original": "+You prepare to fire your <fullitem>.",
+      "translation": "+你准备发射<fullitem>。"
+    },
+    {
+      "source_id": "83da2b747cfe6dc7749d",
+      "original": "!There are no items at your feet!",
+      "translation": "!你脚边没有物品！"
+    },
+    {
+      "source_id": "1292a2232101b31cad23",
+      "original": "#You start packing items on <npc_defdesc>.",
+      "translation": "#你开始把物品装到<npc_defdesc>上。"
+    },
+    {
+      "source_id": "48117d2e02458e2f1752",
+      "original": ":You push <the_item> into water and jump aboard.",
+      "translation": ":你把<the_item>推入水中，跳上去。"
+    },
+    {
+      "source_id": "f0177fac8a9210681059",
+      "original": "#Your <item> is overloaded and won't move until you ease the load.",
+      "translation": "#你的<item>超载了；减轻负载之前，它无法移动。"
+    },
+    {
+      "source_id": "e9facebe4a58c3f336de",
+      "original": "&You sit down, spit in the water and start to angle, dreaming of a huge catch.",
+      "translation": "&你坐下来，朝水里吐了口唾沫，开始垂钓，幻想着能钓到一大批鱼。"
+    },
+    {
+      "source_id": "b5b0d1defe93cc517f6e",
+      "original": "&You lower <the_item> into the water and start dragging it to find a fish to scoop in.",
+      "translation": "&你把<the_item>放入水中，开始拖动它，寻找可以捞起的鱼。"
+    },
+    {
+      "source_id": "9ec3a31e85a11652cd0d",
+      "original": "&You prepare to strike your <item> at the fish that may approach here.",
+      "translation": "&你握好<item>，准备刺向游过来的鱼。"
+    },
+    {
+      "source_id": "0f1f0ac24b5db96ce28c",
+      "original": "!This is shallow waters fishing method. It's too deep to fish with <item> here.",
+      "translation": "!这是浅水捕鱼法。这里水太深，无法用<item>捕鱼。"
+    },
+    {
+      "source_id": "32ed17c618b9e5e105f2",
+      "original": "You didn't manage to catch any fish.",
+      "translation": "你没能捕到鱼。"
+    },
+    {
+      "source_id": "0faaad3a09328846f290",
+      "original": "_The catch now awaits at your feet to be picked up.",
+      "translation": "_渔获就在你的脚边，等你捡起。"
+    },
+    {
+      "source_id": "119936770cbbf9ade1f0",
+      "original": "!There are no nets beside you. Nothing to retrieve.",
+      "translation": "!你身边没有渔网。没有东西可收。"
+    },
+    {
+      "source_id": "e9ec4374f7233f5f2cb5",
+      "original": "&You start retrieving the net from the water...",
+      "translation": "&你开始从水中收回渔网……"
+    },
+    {
+      "source_id": "a0e94fe79dfb4b8caf47",
+      "original": "There are no fish in this net.",
+      "translation": "网里没有鱼。"
+    },
+    {
+      "source_id": "ec5f54220b7806482aee",
+      "original": "+That <fullitem> is damaged and worn out beyond usable condition.",
+      "translation": "+那张<fullitem>已经破损，无法继续使用。"
+    },
+    {
+      "source_id": "45aee5fe432850cd363e",
+      "original": "!Huh? There's no water.",
+      "translation": "!咦？这里没有水。"
+    },
+    {
+      "source_id": "c3cddaf1ab77e7ad97eb",
+      "original": ":You finish eating some of that <item_raw>.",
+      "translation": ":你吃完了部分<item_raw>。"
+    },
+    {
+      "source_id": "d5ea46b4c38682ec79fe",
+      "original": "{BURP}=Burp! Your stomach is full.",
+      "translation": "{BURP}=嗝！你吃饱了。"
+    },
+    {
+      "source_id": "2ef4aa7ecb0c48b61348",
+      "original": "&You are full and satiated and can't eat more right now!",
+      "translation": "&你已经饱足，现在吃不下更多东西了！"
+    },
+    {
+      "source_id": "9b2a063064850534cada",
+      "original": "!It's not possible to consume plain <item_raw>!",
+      "translation": "!不能直接食用未加工的<item_raw>！"
+    },
+    {
+      "source_id": "1a95e3280a0c645b54bb",
+      "original": ":You begin sneaking, trying to stay hidden and move as quietly as possible.",
+      "translation": ":你开始潜行，尽量不被发现，并且安静地移动。"
+    },
+    {
+      "source_id": "8a6fe163c562cfd706d7",
+      "original": ":You quit hiding and sneaking.",
+      "translation": ":你停止躲藏和潜行。"
+    },
+    {
+      "source_id": "c4ae7902d09dbab05353",
+      "original": "!You can't hide now as you are clearly seen at this location.",
+      "translation": "!你现在无法躲藏，因为你在这里明显可见。"
+    },
+    {
+      "source_id": "0fc5cbb4e02788386b8c",
+      "original": "!You make some noise while trying to sneak.",
+      "translation": "!你潜行时弄出了声响。"
+    },
+    {
+      "source_id": "0c30a90a7e00126fd20d",
+      "original": "!You find nothing to harvest there.",
+      "translation": "!那里没有可采收的东西。"
+    },
+    {
+      "source_id": "850051b63140b13a919e",
+      "original": "!<item_def> needs to be gathered by harvesting!",
+      "translation": "!必须收割<item_def>才能采集！"
+    },
+    {
+      "source_id": "a3556b1e1c0f677f7ddd",
+      "original": "!<item> doesn't require harvesting, but is gathered by picking up.",
+      "translation": "!<item>无需收割，直接捡起即可。"
+    },
+    {
+      "source_id": "6da565bcf359e7e72c09",
+      "original": "!To gather the seeds as well you need to harvest <item_def> by using your AGRICULTURE-skill.",
+      "translation": "!若还要收集种子，你必须使用 AGRICULTURE 技能采收<item_def>。"
+    },
+    {
+      "source_id": "dcf1e1668cc52ecfdee0",
+      "original": "!To gather the seeds, harvest <item_def> after its flowering period.",
+      "translation": "!要收集种子，请在<item_def>花期结束后收割。"
+    },
+    {
+      "source_id": "37788ed26a0b84f116fb",
+      "original": "!<item_def> here is past its flowering period and will not yield flowers.",
+      "translation": "!这里的<item_def>已经过了花期，不会再长出花朵。"
+    },
+    {
+      "source_id": "65f17fbb15eb4fc6ada6",
+      "original": "!This <item> no longer provides any yield nor carries any usable parts.",
+      "translation": "!这株<item>已经没有收成，也没有可用的部分。"
+    },
+    {
+      "source_id": "300f331a861fcebf6f7b",
+      "original": "!This early-harvested <item> doesn't provide any yield.",
+      "translation": "!过早采收的<item>不会有任何收成。"
+    },
+    {
+      "source_id": "8f6707bccbf54389d516",
+      "original": "!This <item> doesn't carry usable parts to pick, try to harvest and thresh it.",
+      "translation": "!这种<item>没有可采摘的有用部分，请尝试收割并脱粒。"
+    },
+    {
+      "source_id": "f18051b8f901b9201a80",
+      "original": "!The <item> here has been picked already!",
+      "translation": "!这里的<item>已经被采摘过了！"
+    },
+    {
+      "source_id": "928083e9a7471baef1fa",
+      "original": "Ok. You harvested down <items_ind>.",
+      "translation": "好了。你采收了<items_ind>。"
+    },
+    {
+      "source_id": "95f9edbd34ebb35b6f3f",
+      "original": "!It's too late to plant <item> this year.",
+      "translation": "!今年种植<item>已经太迟了。"
+    },
+    {
+      "source_id": "d30028b06eb6edc9693f",
+      "original": "=Ok. You planted a patch of <item> here. Time will tell how many will sprout.",
+      "translation": "=完成。你在这里种下了一片<item>。过段时间就知道有多少能发芽了。"
+    },
+    {
+      "source_id": "8cd4f619f8f4cb21c161",
+      "original": "You don't notice any tracks around here.",
+      "translation": "你没有注意到附近有任何足迹。"
+    },
+    {
+      "source_id": "63246f813577652f6839",
+      "original": "=You find some tracks here.",
+      "translation": "=你在这里发现了一些踪迹。"
+    },
+    {
+      "source_id": "4f5a10a8b6bebddb7918",
+      "original": "=You spot some tracks close by.",
+      "translation": "=你发现附近有一些踪迹。"
+    },
+    {
+      "source_id": "a7acc3d04ad3b479dd41",
+      "original": "You peer into the water. Your reflection peers back at you.",
+      "translation": "你朝水里窥望，水中的倒影也回望着你。"
+    },
+    {
+      "source_id": "7fd38ae30b9c7abce4da",
+      "original": "You think you see something moving in the depths but then it's gone.",
+      "translation": "你觉得深处似乎有什么东西在移动，但转眼就不见了。"
+    },
+    {
+      "source_id": "9db68db6c8c62d0fcc95",
+      "original": "!That is something you can't pour into a container!",
+      "translation": "!那东西不能倒进容器里！"
+    },
+    {
+      "source_id": "66d4e57147817d03f2c5",
+      "original": "+Ok, <raw_item> will be poured in there.",
+      "translation": "+好的，<raw_item>会被倒进去。"
+    },
+    {
+      "source_id": "868d6dc03c9b59b22e6b",
+      "original": "!There's nothing to fill your <item> with.",
+      "translation": "!没有东西可以装进你的<item>。"
+    },
+    {
+      "source_id": "b61ac32c663f0623dea3",
+      "original": "=You fill <the_item_container> with water.",
+      "translation": "=你把水装满了<the_item_container>。"
+    },
+    {
+      "source_id": "88c4a2e7165415bf7f4b",
+      "original": "!<npc_defdesc> makes it clear that you are not allowed to milk her.",
+      "translation": "!<npc_defdesc>明确表示不允许你给她挤奶。"
+    },
+    {
+      "source_id": "681b3b745244be9c6f07",
+      "original": "!Milk <npc_defdesc>? Nay, think again.",
+      "translation": "!给<npc_defdesc>挤奶？不，想都别想。"
+    },
+    {
+      "source_id": "b5717f6886fc8668088b",
+      "original": "+Alright. Thank you for the milk, <npc_desc>.",
+      "translation": "+好的。谢谢你的奶，<npc_desc>。"
+    },
+    {
+      "source_id": "e411c2184501faeb5b97",
+      "original": "!It seems <npc_defdesc> can't yield any more milk today.",
+      "translation": "!看来<npc_defdesc>今天已经不能再产奶了。"
+    },
+    {
+      "source_id": "6829ee62f832fbde18b0",
+      "original": "!<npc_defdesc> is having a dry period. No milk until the next spring.",
+      "translation": "!<npc_defdesc>正处于停乳期。要等到下一个春天才有奶。"
+    },
+    {
+      "source_id": "ac24ebf11f300544f151",
+      "original": "+You empty <the_item> to have it filled again.",
+      "translation": "+你倒空了<the_item>，以便再次装满它。"
+    },
+    {
+      "source_id": "6efaa7e12f76f4dc3b32",
+      "original": "!You fail to maintain the quality of <item_def_verbose> during this step.",
+      "translation": "!这一步中，你没能保持<item_def_verbose>的品质。"
+    },
+    {
+      "source_id": "491dbe5a96c8366a720d",
+      "original": "Ok. <the_fullitem> you have will be used.",
+      "translation": "好了。将使用你携带的<the_fullitem>。"
+    },
+    {
+      "source_id": "363be19f82907968e6b3",
+      "original": "!You should have the carcass nearby on the ground, one step away at the most.",
+      "translation": "!地上附近应该有动物尸体，最远不能超过一步。"
+    },
+    {
+      "source_id": "da418e013c6bebde861e",
+      "original": "#You finalize cleaning the skin and set it properly in place for curing.",
+      "translation": "#你完成了清理兽皮的工作，并将它放好以便保存。"
+    },
+    {
+      "source_id": "7ccaf4a3262f5334a60d",
+      "original": "+The skin is now left to dry completely, after which it will keep for future usage.",
+      "translation": "+兽皮现在会彻底晾干，之后可以保存待用。"
+    },
+    {
+      "source_id": "f116e3ea4c2d16fa006e",
+      "original": "#You start to scrape and rinse the skin clean from any remaining flesh and fat.",
+      "translation": "#你开始刮洗兽皮，清除残留的肉和脂肪。"
+    },
+    {
+      "source_id": "362e7833a3838ad5d637",
+      "original": "#You start to rub the tanning material on the skin.",
+      "translation": "#你开始把鞣制材料揉擦到兽皮上。"
+    },
+    {
+      "source_id": "5cad95d0e562163ee21a",
+      "original": "#The skin is now left alone for the tanning material to get working.",
+      "translation": "#现在将兽皮放在一旁，让鞣制材料发挥作用。"
+    },
+    {
+      "source_id": "ba413355ecddab53cffb",
+      "original": "#You scrape off the tanning mixture and rinse the skin clean.",
+      "translation": "#你刮掉鞣制混合物，并把兽皮冲洗干净。"
+    },
+    {
+      "source_id": "7fcc2f6d65419a9b58ba",
+      "original": "#The skin is now left to hang until it's dry enough to continue tanning.",
+      "translation": "#兽皮现在会悬挂晾晒，直到干燥到可以继续鞣制。"
+    },
+    {
+      "source_id": "8df061c3b9a3d68906be",
+      "original": "#You start softening the skin by pounding, stretching, squeezing and cursing - the final and the most laborious stage of tanning.",
+      "translation": "#你开始捶打、拉伸、挤压兽皮，还一边咒骂，以此软化兽皮——这是鞣制过程中最后也是最费力的阶段。"
+    },
+    {
+      "source_id": "d9ff3eefaf814f71d26d",
+      "original": "!The water is too cold for retting! It is not possible now.",
+      "translation": "!水温太低，无法浸沤！现在不能进行这项操作。"
+    },
+    {
+      "source_id": "e71d384e4945380ed570",
+      "original": "#You proceed to start pounding the tendon to separate the sinew fibres.",
+      "translation": "#你开始敲打筋腱，以分离筋腱纤维。"
+    },
+    {
+      "source_id": "54877caf748b94253cf3",
+      "original": "#You proceed to extract fibres from <the_item> simply by hand.",
+      "translation": "#你接下来直接用手从<the_item>中抽取纤维。"
+    },
+    {
+      "source_id": "f81dded25b27a019d691",
+      "original": "!That is too few! You need at least <items> to extract practical amount of fibre.",
+      "translation": "!数量太少！至少需要<items>，才能提取出实用数量的纤维。"
+    },
+    {
+      "source_id": "6df2442baaf720bf94b3",
+      "original": "#Now you need to break and clean away the stems to release and obtain the fibres.",
+      "translation": "#现在需要打碎茎秆并清理掉它们，才能释放并取得纤维。"
+    },
+    {
+      "source_id": "d4699e982b077fb88fce",
+      "original": "+You throw some water on the sauna stove.",
+      "translation": "+你往桑拿炉上泼了些水。"
+    },
+    {
+      "source_id": "6612106e894da14a735c",
+      "original": "!You should be located near heated sauna stove in order to throw water on it for steam to rise.",
+      "translation": "!要把水泼到桑拿炉上产生蒸汽，你必须站在已经烧热的桑拿炉附近。"
+    },
+    {
+      "source_id": "41c259511b9428d56a29",
+      "original": "!You get no steam out of the sauna stove as the stones are not hot enough.",
+      "translation": "!石头还不够热，桑拿炉没有产生蒸汽。"
+    },
+    {
+      "source_id": "66aeecea2011736fafa8",
+      "original": ":The stones aren't too hot but mild steam rises from the sauna stove.",
+      "translation": ":石头不算太热，但桑拿炉上升起了温和的蒸汽。"
+    },
+    {
+      "source_id": "82135094524de8a8d4a9",
+      "original": ":The sauna oven hisses and hot steam rises and fills the room.",
+      "translation": ":桑拿炉发出嘶嘶声，热蒸汽升起并弥漫整个房间。"
+    },
+    {
+      "source_id": "f028928baa24bbb727a0",
+      "original": ":The water here is shallow enough to wade.",
+      "translation": ":这里的水够浅，可以涉水通过。"
+    },
+    {
+      "source_id": "5baf5337ec210e9114ca",
+      "original": "!It's deep water there! You need to swim, or go by watercraft.",
+      "translation": "!那里水很深！你得游过去，或乘船前往。"
+    },
+    {
+      "source_id": "3b6b0fbed74f393b3613",
+      "original": ":You get out of the water.",
+      "translation": ":你上了岸。"
+    },
+    {
+      "source_id": "61cf4d6664b4ff09f0f9",
+      "original": ":It smells like <the_item> is ready.",
+      "translation": ":闻起来<the_item>已经做好了。"
+    },
+    {
+      "source_id": "8268b0ebc27f3506fcea",
+      "original": ":It smells like <the_item> is burning soon.",
+      "translation": ":闻起来<the_item>快要烧焦了。"
+    },
+    {
+      "source_id": "140db315b8715c49d93a",
+      "original": "!It's not possible to grind <items_nonum> for flour.",
+      "translation": "!不能把<items_nonum>磨成面粉。"
+    },
+    {
+      "source_id": "7247b505f07495de84d8",
+      "original": "You do know that's <item_ind>.",
+      "translation": "你知道那是<item_ind>。"
+    },
+    {
+      "source_id": "2e40d556c73d2ddc3a61",
+      "original": "=You recognize that being <item_ind>.",
+      "translation": "=你认出这是<item_ind>。"
+    },
+    {
+      "source_id": "4c030c5aeae9c9e149a8",
+      "original": "=You reckon it must be <item_ind>.",
+      "translation": "=你觉得那一定是<item_ind>。"
+    },
+    {
+      "source_id": "59bd2f71a79ba0c57bbf",
+      "original": "=You have learned something new about <the_item>.",
+      "translation": "=你对<the_item>有了新的认识。"
+    },
+    {
+      "source_id": "02818c8609561397b205",
+      "original": "You do not recognize what <the_item> might be.",
+      "translation": "你认不出<the_item>是什么。"
+    },
+    {
+      "source_id": "db911389ebb6bcfa9eb5",
+      "original": "_It's impossible for you to repair <the_fullitem>.",
+      "translation": "_<the_fullitem>无法修理。"
+    },
+    {
+      "source_id": "d6e11f53f12326760b73",
+      "original": "!You are already wearing that.",
+      "translation": "!你已经穿着那件东西了。"
+    },
+    {
+      "source_id": "5d5306b1f74a258f4537",
+      "original": "!You cannot wear double <item>.",
+      "translation": "!你不能同时穿戴两件<item>。"
+    },
+    {
+      "source_id": "4dbd9d3be16e5ca5c46b",
+      "original": "!Nay, not that one! You are supposed to take off things you are wearing or items you are wielding.",
+      "translation": "!不行，不是那个！你应该脱下身上穿着的衣物，或放下手中拿着的物品。"
+    },
+    {
+      "source_id": "e2ed2fe480047a075c08",
+      "original": "+You take off your <fullitem>.",
+      "translation": "+你脱下了<fullitem>。"
+    },
+    {
+      "source_id": "5ae217f6f5bbba87855a",
+      "original": "#Whoa, items all over the place! Hoard wisely and spread your stuff over a larger area.",
+      "translation": "#哇，到处都是物品！留心存放位置，把东西分散开。"
+    },
+    {
+      "source_id": "9aa612e0466f3737881a",
+      "original": "!Huh? There's no creature there.",
+      "translation": "!咦？那里没有生物。"
+    },
+    {
+      "source_id": "178d9cc9e10e72dad55d",
+      "original": ":Meanwhile, <npc_ind> enters your view...",
+      "translation": ":与此同时，<npc_ind>进入了你的视野……"
+    },
+    {
+      "source_id": "9aab3157ad71ee2b0c87",
+      "original": "!Meanwhile, an aggressive <npc_desc> enters your view...",
+      "translation": "!与此同时，一只具有攻击性的<npc_desc>进入了你的视野……"
+    },
+    {
+      "source_id": "f2d8c28954c62c169242",
+      "original": "!Meanwhile, an aggressive <npc_desc> approaches...",
+      "translation": "!与此同时，一只具有攻击性的<npc_desc>正在靠近……"
+    },
+    {
+      "source_id": "1531cd1774a41ac886ca",
+      "original": "!Meanwhile, <npc_desc> turns hostile on you...",
+      "translation": "!与此同时，<npc_desc>开始对你怀有敌意……"
+    },
+    {
+      "source_id": "4022c4bead162b95cba9",
+      "original": "{FIRE}You managed to make a fire.",
+      "translation": "{FIRE}你成功生起了火。"
+    },
+    {
+      "source_id": "12d1b38f5e416f71225e",
+      "original": "You did not succeed in making a fire.",
+      "translation": "你没能生起火。"
+    },
+    {
+      "source_id": "53d4ffc66fd23a823d29",
+      "original": "!More firewood is required there.",
+      "translation": "!那里需要更多柴火。"
+    },
+    {
+      "source_id": "d4f576227e03f5e4fd8f",
+      "original": "!Some smaller kindling such as branches is required there.",
+      "translation": "!这里需要一些较小的引火物，例如树枝。"
+    },
+    {
+      "source_id": "94c60ac1446f97668312",
+      "original": "!More kindling such as branches is required there.",
+      "translation": "!那里还需要树枝等更多引火物。"
+    },
+    {
+      "source_id": "a74ecbb75c8364f5fe13",
+      "original": "+You put out <item_def>.",
+      "translation": "+你熄灭了<item_def>。"
+    },
+    {
+      "source_id": "a4cc09cd6cac9ec27dc5",
+      "original": "+You gently set <the_item> on the ground as a sacrifice.",
+      "translation": "+你轻轻地把<the_item>作为祭品放在地上。"
+    }
+  ]
+}

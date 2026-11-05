@@ -1,0 +1,1531 @@
+[
+  {
+    "id": "aa8edbf0332846936825",
+    "source": "binary:draw_profile",
+    "context": "showtext",
+    "original": "PHYSICAL PROFILE",
+    "translation": "角色档案",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "62945eeb74db95564d89",
+    "source": "binary:draw_profile",
+    "context": "showtext",
+    "original": "PHYSIQUE",
+    "translation": "体格",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1153b6cfada2aae1d5b2",
+    "source": "binary:draw_profile",
+    "context": "showtext",
+    "original": "STRENGTH",
+    "translation": "力量",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "bfb0dee8b9d4008b94a1",
+    "source": "binary:draw_profile",
+    "context": "showtext",
+    "original": "ENDURANCE",
+    "translation": "耐力",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f863c93975ae754913f4",
+    "source": "binary:draw_profile",
+    "context": "showtext",
+    "original": "DEXTERITY",
+    "translation": "灵巧",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d6af363635a399e7b6c9",
+    "source": "binary:draw_profile",
+    "context": "showtext",
+    "original": "AGILITY",
+    "translation": "敏捷",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d8cad566e87c252dfeec",
+    "source": "binary:draw_profile",
+    "context": "showtext",
+    "original": "SPEED",
+    "translation": "速度",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4167af7364ec18f19e00",
+    "source": "binary:draw_profile",
+    "context": "showtext",
+    "original": "EYESIGHT",
+    "translation": "视力",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a369c76876076d8f80d8",
+    "source": "binary:draw_profile",
+    "context": "showtext",
+    "original": "HEARING",
+    "translation": "听力",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "9114e954c69fe8c51460",
+    "source": "binary:draw_profile",
+    "context": "showtext",
+    "original": "SMELL/TASTE",
+    "translation": "嗅觉／味觉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "c31a9f2d4164d7ccc593",
+    "source": "binary:draw_profile",
+    "context": "showtext",
+    "original": "TOUCH",
+    "translation": "触觉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "3e2f09980c24364b0063",
+    "source": "binary:draw_profile",
+    "context": "showtext",
+    "original": "PERSONALITY",
+    "translation": "性格",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "dfd7a2fc0ed87213e414",
+    "source": "binary:draw_profile",
+    "context": "showtext",
+    "original": "INTELLIGENCE",
+    "translation": "智力",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "506e59b9c43aead33451",
+    "source": "binary:draw_profile",
+    "context": "showtext",
+    "original": "WILL",
+    "translation": "意志",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "67e459a2aed673a50fa0",
+    "source": "binary:draw_profile",
+    "context": "showtext",
+    "original": "APPEARANCE",
+    "translation": "外貌",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "9756e3fc686c03902b40",
+    "source": "binary:draw_profile",
+    "context": "showtext",
+    "original": "HEIGHT",
+    "translation": "身高",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "9e5284f8c3fa98194026",
+    "source": "binary:draw_profile",
+    "context": "showtext",
+    "original": "WEIGHT",
+    "translation": "体重",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "2a9d48d529d379461a3d",
+    "source": "binary:draw_profile",
+    "context": "showtext",
+    "original": "You are {age:int} winters old as you start your journeys and adventures.",
+    "translation": "你{age}岁，旅途和冒险就此开始。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "58ad6fbd12f321e6bb70",
+    "source": "binary:draw_profile",
+    "context": "paragraph",
+    "original": "You are {age:int} winters old as you start your journeys and adventures.",
+    "translation": "你{age}岁，旅途和冒险就此开始。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "1c8b5f0ebf913f853683",
+    "source": "binary:draw_profile",
+    "context": "showtext",
+    "original": "You are {age:int} winters old, this being the first day of your adventures.",
+    "translation": "你{age}岁，今天是冒险的第一天。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "9129378e701b91bc2b4a",
+    "source": "binary:draw_profile",
+    "context": "paragraph",
+    "original": "You are {age:int} winters old, this being the first day of your adventures.",
+    "translation": "你{age}岁，今天是冒险的第一天。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "3a0f815ae591a089a5c9",
+    "source": "binary:draw_profile",
+    "context": "showtext",
+    "original": "You are {age:int} winters old, and have lived one day of adventuring life.",
+    "translation": "你{age}岁，已经度过了一天冒险生涯。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "6838ba8cf7d7c2e2d707",
+    "source": "binary:draw_profile",
+    "context": "paragraph",
+    "original": "You are {age:int} winters old, and have lived one day of adventuring life.",
+    "translation": "你{age}岁，已经度过了一天冒险生涯。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "057aeec14bb0d4b7ee28",
+    "source": "binary:draw_profile",
+    "context": "showtext",
+    "original": "You are {age:int} winters old, and have lived {days:int} days of adventuring life.",
+    "translation": "你{age}岁，已在冒险中度过{days}天。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "8be48ace2e9f2a529b87",
+    "source": "binary:draw_profile",
+    "context": "paragraph",
+    "original": "You are {age:int} winters old, and have lived {days:int} days of adventuring life.",
+    "translation": "你{age}岁，已在冒险中度过{days}天。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "03901b9e615d917dff45",
+    "source": "binary:draw_profile",
+    "context": "profile-unit",
+    "original": "{value:number} in",
+    "translation": "{value} 英寸",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "15870978909fb67df617",
+    "source": "binary:draw_profile",
+    "context": "profile-unit",
+    "original": "{value:number} ft",
+    "translation": "{value} 英尺",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "83e0aedb0fafab861d65",
+    "source": "binary:draw_profile",
+    "context": "profile-unit",
+    "original": "{value:number} cm",
+    "translation": "{value} 厘米",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "e2be8e08e3e569d8642a",
+    "source": "binary:draw_profile",
+    "context": "profile-unit",
+    "original": "{value:number} m",
+    "translation": "{value} 米",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "16b9ce275f5e6549ed7a",
+    "source": "binary:draw_profile",
+    "context": "profile-unit",
+    "original": "{value:number} lb",
+    "translation": "{value} 磅",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "60d63ebf0229c5051a9f",
+    "source": "binary:draw_profile",
+    "context": "profile-unit",
+    "original": "{value:number} lbs",
+    "translation": "{value} 磅",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "bdfa51a4c397a094144d",
+    "source": "binary:draw_profile",
+    "context": "profile-unit",
+    "original": "{value:number} oz",
+    "translation": "{value} 盎司",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "bfc925813cef2d8cd0c4",
+    "source": "binary:draw_profile",
+    "context": "profile-unit",
+    "original": "{value:number} g",
+    "translation": "{value} 克",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "87af6e9059a32c3d9ab8",
+    "source": "binary:draw_profile",
+    "context": "profile-unit",
+    "original": "{value:number} kg",
+    "translation": "{value} 千克",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "334f2e59c833ee247c20",
+    "source": "binary:armour_screen",
+    "context": "showtext",
+    "original": "ARMOUR COVERAGE STATISTICS",
+    "translation": "护甲防护统计",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "bdba3523f90e26bbfb0b",
+    "source": "binary:armour_screen",
+    "context": "showtext",
+    "original": "COVERAGE ASPECTS:",
+    "translation": "防护类别",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "64c733e34ec418bc3ebf",
+    "source": "binary:armour_screen",
+    "context": "showtext",
+    "original": "INFERIOR PROTECTION",
+    "translation": "低度防护",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "c0c164e71b4d0b06a764",
+    "source": "binary:armour_screen",
+    "context": "showtext",
+    "original": " AVERAGE PROTECTION",
+    "translation": "中度防护",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "76a919d2df607d1c9b73",
+    "source": "binary:armour_screen",
+    "context": "showtext",
+    "original": "SUPERIOR PROTECTION",
+    "translation": "高度防护",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "15fe615bcb93452e241d",
+    "source": "binary:armour_screen",
+    "context": "showtext",
+    "original": "Various coverage aspects show your armour protection",
+    "translation": "各防护类别显示你穿戴的护甲",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "34d9941a898de0d3c41b",
+    "source": "binary:armour_screen",
+    "context": "showtext",
+    "original": "against different kind of attacks. Some armours can",
+    "translation": "抵挡不同攻击的能力。某些护甲",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "24a06322d49cef9ea770",
+    "source": "binary:armour_screen",
+    "context": "showtext",
+    "original": "be very protective against some attacks but can't maybe",
+    "translation": "能有效抵挡一种攻击，",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "15b63c77ee06e462a8a8",
+    "source": "binary:armour_screen",
+    "context": "showtext",
+    "original": "absorb other kind of attacks at all. This is mostly",
+    "translation": "却可能完全挡不住另一种。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a3f16a3e0899ba93e5d1",
+    "source": "binary:armour_screen",
+    "context": "showtext",
+    "original": "a matter of armour material. See more information from",
+    "translation": "这主要取决于护甲材质。详情",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "11cc497a1f250dddf79c",
+    "source": "binary:armour_screen",
+    "context": "showtext",
+    "original": "the game info browser.",
+    "translation": "可查阅游戏百科。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "37b19585df58032b5fe0",
+    "source": "binary:armour_coverage",
+    "context": "showtext",
+    "original": "OVERALL ARMOUR COVERAGE",
+    "translation": "总体护甲防护",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e5e28fa801a50883928c",
+    "source": "binary:armour_coverage",
+    "context": "showtext",
+    "original": "ARMOUR COVERAGE",
+    "translation": "护甲防护",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "aa14ef95c484187fcd4b",
+    "source": "binary:armour_coverage",
+    "context": "showtext",
+    "original": "Armour coverage",
+    "translation": "护甲防护",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4978d7a99eb799b9485e",
+    "source": "binary:armour_coverage",
+    "context": "showtext",
+    "original": "ARMOUR MATERIALS",
+    "translation": "护甲材质",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "cfff70d3be6a35333f07",
+    "source": "binary:armour_coverage",
+    "context": "showtext",
+    "original": "Coverage against specific attacks depends on the armour material.",
+    "translation": "对各类攻击的防护效果取决于护甲材质。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "913e96d59be9eaae5b46",
+    "source": "binary:armour_coverage",
+    "context": "showtext",
+    "original": "SELECTED ARMOUR COVERAGE",
+    "translation": "所选护甲的防护",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "69069e468e3eceda2f5a",
+    "source": "binary:armour_coverage",
+    "context": "showtext",
+    "original": "...against: BLUNT",
+    "translation": "…抵挡钝击",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f466f6cadc1e137e5ddb",
+    "source": "binary:armour_coverage",
+    "context": "showtext",
+    "original": "...against: POINT",
+    "translation": "…抵挡刺击",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "13875e093d4071d213d2",
+    "source": "binary:armour_coverage",
+    "context": "showtext",
+    "original": "...against: SQUEEZE",
+    "translation": "…抵挡挤压",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "db27cf23fe530472522c",
+    "source": "binary:armour_coverage",
+    "context": "showtext",
+    "original": "...against: EDGE",
+    "translation": "…抵挡斩切",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "0faf1929296522a5a55d",
+    "source": "binary:armour_coverage",
+    "context": "showtext",
+    "original": "...against: TEAR",
+    "translation": "…抵挡撕咬抓挠",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "846be670ee5a210617d7",
+    "source": "binary:armour_coverage",
+    "context": "showtext",
+    "original": "...against: WARMTH",
+    "translation": "…抵御寒冷",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4f9b8abf5d3c40e3f303",
+    "source": "binary:armour_coverage",
+    "context": "showtext",
+    "original": "...against: ALL (AVERAGE)",
+    "translation": "…综合平均防护",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e1af89cffbd85b71f403",
+    "source": "binary:armour_coverage",
+    "context": "showtext",
+    "original": "...against:",
+    "translation": "…抵御",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "13b345482aed993e3003",
+    "source": "binary:armour_coverage",
+    "context": "showtext",
+    "original": "Blunt attacks",
+    "translation": "钝器攻击",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "c1e722e24aeedc9b6696",
+    "source": "binary:armour_coverage",
+    "context": "showtext",
+    "original": "Point (stab) attacks",
+    "translation": "尖锐武器的刺击",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "19cb5e96606c37cb0460",
+    "source": "binary:armour_coverage",
+    "context": "showtext",
+    "original": "Squeezing attacks",
+    "translation": "挤压攻击",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "13b56e9d029c1b0e5f55",
+    "source": "binary:armour_coverage",
+    "context": "showtext",
+    "original": "Edge attacks",
+    "translation": "锋刃的斩切",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ecd7d279f63766a19a6b",
+    "source": "binary:armour_coverage",
+    "context": "showtext",
+    "original": "Tear (bite/claw) attacks",
+    "translation": "撕扯攻击（咬、抓）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "aea10db2ed1a7868ffdf",
+    "source": "binary:armour_coverage",
+    "context": "showtext",
+    "original": "Protection against cold",
+    "translation": "抵御寒冷",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ea24d528dcf303197471",
+    "source": "binary:armour_coverage",
+    "context": "showtext",
+    "original": "Average (excluding warmth)",
+    "translation": "平均防护（不含保暖）",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "5c2a23b7809595c51359",
+    "source": "binary:armour_coverage",
+    "context": "armor-button",
+    "original": "BLUNT",
+    "translation": "钝击",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "5b81205d223e9b614919",
+    "source": "binary:armour_coverage",
+    "context": "armor-button",
+    "original": "POINT",
+    "translation": "刺击",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "3d3929be039615a190a5",
+    "source": "binary:armour_coverage",
+    "context": "armor-button",
+    "original": "SQUEEZE",
+    "translation": "挤压",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ea7e6bd7b264b04d9604",
+    "source": "binary:armour_coverage",
+    "context": "armor-button",
+    "original": "EDGE",
+    "translation": "斩切",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "582058cbddb0d227411a",
+    "source": "binary:armour_coverage",
+    "context": "armor-button",
+    "original": "TEAR",
+    "translation": "撕扯",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "0d49018f4dcdceb121d5",
+    "source": "binary:armour_coverage",
+    "context": "armor-button",
+    "original": "WARMTH",
+    "translation": "保暖",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "331db22237eb9a01d7b3",
+    "source": "binary:armour_coverage",
+    "context": "armor-button",
+    "original": "AVERAGE",
+    "translation": "平均",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a9b673bb562c256b97c8",
+    "source": "binary:armour_coverage",
+    "context": "encyclopedia",
+    "original": "ARMOUR MATERIALS",
+    "translation": "护甲材质",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "6d8f3f550b843930bc72",
+    "source": "binary:armour_coverage",
+    "context": "paragraph",
+    "original": "Coverage against specific attacks depends on the armour material.",
+    "translation": "对各类攻击的防护效果取决于护甲材质。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "5710f9b886980739024e",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "skull",
+    "translation": "头部",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "9b47bb342ee768f96495",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "eye",
+    "translation": "眼睛",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "466c3cee9cb4710ff25f",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "face",
+    "translation": "面部",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "cbaf03304d191bfe0689",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "shoulder",
+    "translation": "肩部",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "6e46dddf5af8e5c8ff73",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "upper arm",
+    "translation": "上臂",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "0646f7803e19c328e0fd",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "elbow",
+    "translation": "肘部",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "09d1c6acd55b0fcf022a",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "forearm",
+    "translation": "前臂",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f9a5ee3365f100177a21",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "hand",
+    "translation": "手部",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "dd48a4a2de34d8237db9",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "thorax",
+    "translation": "胸部",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "add329f737dff31b9af4",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "hip",
+    "translation": "髋部",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "7d81f7438d45e0486908",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "thigh",
+    "translation": "大腿",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "fdb97632ce5caa58e038",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "knee",
+    "translation": "膝部",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "3fb0ca12dfa74819a163",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "calf",
+    "translation": "小腿",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ec6ff765eb03517c4dce",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "foot",
+    "translation": "脚部",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "3fae0c20e42a144656ee",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "tail",
+    "translation": "尾部",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "44a7af69a88ea144cf90",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "wing",
+    "translation": "翼部",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "33a80979aea1dbe25765",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "head",
+    "translation": "头部",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d566b88e485913751dc7",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "neck",
+    "translation": "颈部",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "bebaff58be1c1e46637c",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "torso",
+    "translation": "躯干",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "8a24be33ca20aeb2ea3d",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "chest",
+    "translation": "胸部",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "fc9510883986ed1493a7",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "abdomen",
+    "translation": "腹部",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b0d0370706180bd637dd",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "back",
+    "translation": "背部",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "10ca45283d3825b7c13c",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "groin",
+    "translation": "腹股沟",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "aac682393cf295b7b026",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "right arm",
+    "translation": "右臂",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ee99443a10af5efa86dc",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "left arm",
+    "translation": "左臂",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e8d15d26b486299fdc53",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "right upper arm",
+    "translation": "右上臂",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "fd2d2249c47a24553785",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "left upper arm",
+    "translation": "左上臂",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "db175974fa63d771dbde",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "right forearm",
+    "translation": "右前臂",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "eb53dabec3de4219227c",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "left forearm",
+    "translation": "左前臂",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "494b0581ce9a63cc2037",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "right hand",
+    "translation": "右手",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "7c8a111881234d1e904b",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "left hand",
+    "translation": "左手",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "dc64be72d15c573badba",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "right leg",
+    "translation": "右腿",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "7a5b77baf0537fe05037",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "left leg",
+    "translation": "左腿",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b543bb51d318944a058c",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "right thigh",
+    "translation": "右大腿",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "58cd6b320a7e2b67af96",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "left thigh",
+    "translation": "左大腿",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b8294d54d8482bc886a2",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "right shin",
+    "translation": "右小腿",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a002492124a751cae661",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "left shin",
+    "translation": "左小腿",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d7e5aebab2912e0b3499",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "right foot",
+    "translation": "右脚",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "8aa8ed25b2069d1e603f",
+    "source": "binary:armour_bodyparts",
+    "context": "showtext",
+    "original": "left foot",
+    "translation": "左脚",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "6216f2eeb69632594eeb",
+    "source": "binary:CULTURE_ADJECTIVE",
+    "context": "look-culture",
+    "original": "kaumolais",
+    "translation": "考莫族",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "daf45359f3dbabb80753",
+    "source": "binary:CULTURE_ADJECTIVE",
+    "context": "look-culture",
+    "original": "driikiläis",
+    "translation": "德里克族",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "6896edca95844cb85a95",
+    "source": "binary:CULTURE_ADJECTIVE",
+    "context": "look-culture",
+    "original": "kiesseläis",
+    "translation": "基耶塞族",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d8585382c42f2efb7e7d",
+    "source": "binary:CULTURE_ADJECTIVE",
+    "context": "look-culture",
+    "original": "reemiläis",
+    "translation": "雷米族",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1344146fab1a19f16527",
+    "source": "binary:CULTURE_ADJECTIVE",
+    "context": "look-culture",
+    "original": "sartolais",
+    "translation": "萨尔托拉族",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "87ec4458b22a2163fdec",
+    "source": "binary:CULTURE_ADJECTIVE",
+    "context": "look-culture",
+    "original": "islander",
+    "translation": "岛民",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "91e213044ba4c8671e2c",
+    "source": "binary:CULTURE_ADJECTIVE",
+    "context": "look-culture",
+    "original": "koivulais",
+    "translation": "科伊武拉族",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "55dc88f2c358d1c6b6d5",
+    "source": "binary:CULTURE_ADJECTIVE",
+    "context": "look-culture",
+    "original": "kuikka-tribe",
+    "translation": "库伊卡部族",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d6b2e5eca90766142353",
+    "source": "binary:CULTURE_ADJECTIVE",
+    "context": "look-culture",
+    "original": "owl-tribe",
+    "translation": "猫头鹰部族",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e43ccac69fdee8dfd9ea",
+    "source": "binary:CULTURE_ADJECTIVE",
+    "context": "look-culture",
+    "original": "seal-tribe",
+    "translation": "海豹部族",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "5ae591d9109ec0d39d5a",
+    "source": "binary:CULTURE_ADJECTIVE",
+    "context": "look-culture",
+    "original": "vagabond",
+    "translation": "流浪",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "44c31df32030058e211b",
+    "source": "binary:CULTURE_ADJECTIVE",
+    "context": "look-culture",
+    "original": "wandering",
+    "translation": "流浪",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "962d90a3ed4ea99397d0",
+    "source": "binary:CULTURE_ADJECTIVE",
+    "context": "look-culture",
+    "original": "njerpez",
+    "translation": "涅尔佩兹族",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "cea933c581355386d72c",
+    "source": "binary:CULTURE_ADJECTIVE",
+    "context": "look-culture",
+    "original": "foreign",
+    "translation": "外族",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "8cb4a17bc58ee2576e15",
+    "source": "binary:CULTURE_ADJECTIVE",
+    "context": "look-culture",
+    "original": "forester",
+    "translation": "林地居民",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "caf812e55f2a4975036b",
+    "source": "binary:human_birth",
+    "context": "look-role",
+    "original": "girl",
+    "translation": "女孩",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "72bbaed2a9230c9bdb63",
+    "source": "binary:human_birth",
+    "context": "look-role",
+    "original": "boy",
+    "translation": "男孩",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "29d18ed30b5ddd1fc457",
+    "source": "binary:human_birth",
+    "context": "look-role",
+    "original": "woman",
+    "translation": "女子",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "6a4d133dfa35bbb8c353",
+    "source": "binary:human_birth",
+    "context": "look-role",
+    "original": "housewife",
+    "translation": "主妇",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e453ffca12e4dbfab09b",
+    "source": "binary:human_birth",
+    "context": "look-role",
+    "original": "man",
+    "translation": "男子",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "fdb3f8b08ec505bc0211",
+    "source": "binary:human_birth",
+    "context": "look-role",
+    "original": "old man",
+    "translation": "老人",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e95b1ed6b0c1db069210",
+    "source": "binary:human_birth",
+    "context": "look-role",
+    "original": "old woman",
+    "translation": "老妇人",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f43fefc74d3538c282f2",
+    "source": "binary:human_birth",
+    "context": "look-role",
+    "original": "peasant",
+    "translation": "农民",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "85427b478322492f9654",
+    "source": "binary:human_birth",
+    "context": "look-role",
+    "original": "tribesman",
+    "translation": "族人",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "add0b0e61321ecdd6b52",
+    "source": "binary:human_birth",
+    "context": "look-role",
+    "original": "craftsman",
+    "translation": "工匠",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "2045f0109d4281e559da",
+    "source": "binary:human_birth",
+    "context": "look-role",
+    "original": "blacksmith",
+    "translation": "铁匠",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "0ab17b96e3a8fe75545c",
+    "source": "binary:human_birth",
+    "context": "look-role",
+    "original": "adventurer",
+    "translation": "冒险者",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f93c59fe2b4992bcd194",
+    "source": "binary:human_birth",
+    "context": "look-role",
+    "original": "hunter",
+    "translation": "猎人",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f912c42a80fd8b7e2b54",
+    "source": "binary:human_birth",
+    "context": "look-role",
+    "original": "woodsman",
+    "translation": "林地猎人",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "c5e0877b42591051add0",
+    "source": "binary:human_birth",
+    "context": "look-role",
+    "original": "sage",
+    "translation": "贤者",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "5ff5c9ac4019a518bc7c",
+    "source": "binary:human_birth",
+    "context": "look-role",
+    "original": "fisherman",
+    "translation": "渔夫",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "05876c12212e4f6e69c5",
+    "source": "binary:human_birth",
+    "context": "look-role",
+    "original": "bandit",
+    "translation": "强盗",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "3e56876805e632cfca49",
+    "source": "binary:human_birth",
+    "context": "look-role",
+    "original": "robber",
+    "translation": "强盗",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "9ab961312992ab72c4e9",
+    "source": "binary:human_birth",
+    "context": "look-role",
+    "original": "warrior",
+    "translation": "战士",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "0829e51853ba0ae4361f",
+    "source": "binary:human_birth",
+    "context": "look-role",
+    "original": "trader",
+    "translation": "商人",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "600dfaac2db256d608c8",
+    "source": "binary:human_birth",
+    "context": "look-role",
+    "original": "traveller",
+    "translation": "旅人",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "be0172077a8fd932b8c4",
+    "source": "binary:human_birth",
+    "context": "look-role",
+    "original": "villager",
+    "translation": "村民",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "82f029aa73348f31c25f",
+    "source": "binary:human_birth",
+    "context": "look-label",
+    "original": "elder tribesman",
+    "translation": "部族长者",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "3134054ff35ba12e7a0b",
+    "source": "binary:human_birth",
+    "context": "look-label",
+    "original": "old man with long grey beard",
+    "translation": "留着灰色长须的老人",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "2b3c6c76b72ec5112bc2",
+    "source": "binary:human_birth",
+    "context": "look-label",
+    "original": "long grey bearded old man",
+    "translation": "留着灰色长须的老人",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "3362c9e0c6dffa6b0953",
+    "source": "binary:human_birth",
+    "context": "look-label",
+    "original": "bearded old man",
+    "translation": "留着胡须的老人",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "9f96b19d3e63408b0d3f",
+    "source": "binary:human_birth",
+    "context": "look-label",
+    "original": "foreign trader",
+    "translation": "外族商人",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "79ee703ae1f12a6f6afe",
+    "source": "messages/urw_msg.txt:NPC_IS_WEARING",
+    "context": "look-action",
+    "original": "she is wearing",
+    "translation": "她穿着",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "196fe601afd1e4c31b34",
+    "source": "messages/urw_msg.txt:NPC_IS_WEARING",
+    "context": "look-action",
+    "original": "he is wearing",
+    "translation": "他穿着",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "04f56859d439b45df9b5",
+    "source": "messages/urw_msg.txt:NPC_IS_WEARING",
+    "context": "look-action",
+    "original": "it is wearing",
+    "translation": "它穿着",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "0a558ce67b0d2c1d0e31",
+    "source": "messages/urw_msg.txt:NPC_IS_WEARING",
+    "context": "look-action",
+    "original": "she is carrying",
+    "translation": "她带着",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1f9759863d486f1f4a7c",
+    "source": "messages/urw_msg.txt:NPC_IS_WEARING",
+    "context": "look-action",
+    "original": "he is carrying",
+    "translation": "他带着",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "c596111c20d61185024f",
+    "source": "messages/urw_msg.txt:NPC_IS_WEARING",
+    "context": "look-action",
+    "original": "it is carrying",
+    "translation": "它带着",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e7bbf72a30c4b5268552",
+    "source": "messages/urw_msg.txt:NPC_IS_WEARING",
+    "context": "look-action",
+    "original": "she is wielding",
+    "translation": "她手持",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "2e8ae0d4c632af5fd9a8",
+    "source": "messages/urw_msg.txt:NPC_IS_WEARING",
+    "context": "look-action",
+    "original": "he is wielding",
+    "translation": "他手持",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "45eb85cef2c15b38a33f",
+    "source": "messages/urw_msg.txt:NPC_IS_WEARING",
+    "context": "look-action",
+    "original": "it is wielding",
+    "translation": "它手持",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "5fc7cf6e2b961f8c9858",
+    "source": "messages/urw_msg.txt:NPC_IS_WEARING",
+    "context": "look-action",
+    "original": "she is holding",
+    "translation": "她拿着",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "afc0cb81acef43381f66",
+    "source": "messages/urw_msg.txt:NPC_IS_WEARING",
+    "context": "look-action",
+    "original": "he is holding",
+    "translation": "他拿着",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "c6b3154a9ac6ef5fe795",
+    "source": "messages/urw_msg.txt:NPC_IS_WEARING",
+    "context": "look-action",
+    "original": "it is holding",
+    "translation": "它拿着",
+    "status": "reviewed",
+    "runtime_verified": false
+  }
+]

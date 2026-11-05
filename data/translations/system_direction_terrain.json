@@ -1,0 +1,1433 @@
+[
+  {
+    "id": "bd3442135b3722faba0",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "THE PLANTS TO HARVEST",
+    "translation": "选择要采收的植物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "293b6ae5a7d4a038e89",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select the plants to harvest with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择要采收的植物，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "981142643d25b8b6b5c",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "LOCATION OF THE TRAP",
+    "translation": "选择陷阱的位置",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "dbd2504448019acc65e",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select location of the trap with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择陷阱的位置，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "66d3deb4184b8c8bcc1",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "WHERE IS YOUR TRAP PIT",
+    "translation": "选择陷坑的位置",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "6a258d453a12086712a",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select where is your trap pit with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择陷坑的位置，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1b4dec0f438af3ddc4a",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "A TRAP TO TRIGGER AGAIN",
+    "translation": "选择要重新触发的陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "df60983f4b64e7b04c8",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select a trap to trigger again with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择要重新触发的陷阱，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f980591f83dbb586114",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "WHERE TO SET THE TRAP",
+    "translation": "选择设置陷阱的位置",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a92cb69b34bcabf12f5",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select where to set the trap with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择设置陷阱的位置，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "908d10e1e3e2b268cda",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "SELECT A TRAP",
+    "translation": "选择一个陷阱",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b9ab571f4bb8836fbb8",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select select a trap with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择一个陷阱，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "5ce4860fd38e32b1191",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "WHERE TO SET THIS NET",
+    "translation": "选择下网的位置",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "110a7043e1582a15676",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select where to set this net with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择下网的位置，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d17b2fd02f52e03a61f",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "WHAT TO DECONSTRUCT",
+    "translation": "选择要拆除的对象",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e14c14ba70f6d70b41e",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select what to deconstruct with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择要拆除的对象，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b021eb2b96d7ce97536",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "FROM WHERE TO PICK",
+    "translation": "选择拾取物品的位置",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "75ad6f3e7ce43672e91",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select from where to pick with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择拾取物品的位置，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "0f6ef33d0835d6ddf51",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "WATER SOURCE OR AN ANIMAL TO MILK",
+    "translation": "选择水源或要挤奶的动物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "942a11240148883c4bc",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select water source or an animal to milk with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择水源或要挤奶的动物，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "cf1f2f1e8ba3daa51aa",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "DOOR YOU WISH TO OPEN",
+    "translation": "选择要打开的门",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "37474284c512295b88f",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select door you wish to open with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择要打开的门，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "9d767401affbc1e45a1",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "WHERE TO MAKE A HOLE",
+    "translation": "选择凿孔的位置",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "bf5ce34fc899e12f0c1",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select where to make a hole with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择凿孔的位置，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "437976583c26b41609a",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "TREE TO PEEL BARK FROM",
+    "translation": "选择要剥取树皮的树",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "0af92d769eb4b6795e4",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select tree to peel bark from with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择要剥取树皮的树，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "cdbcb6825cfecaab78f",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "A YOUNG SPRUCE TO FELL",
+    "translation": "选择要砍倒的幼云杉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "60db17372c570ca18a3",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select a young spruce to fell with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择要砍倒的幼云杉，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ccca66a98bad4f3604e",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "A TREE TO FELL",
+    "translation": "选择要砍倒的树",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "733593db0cd6218f64d",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select a tree to fell with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择要砍倒的树，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "338a6e24567db618293",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "TRUNK TO CARVE INTO A LOG",
+    "translation": "选择要修成原木的树干",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1ade152c5c9d0c0e1ef",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select trunk to carve into a log with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择要修成原木的树干，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1c2df3c410d652bb201",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "TRUNK TO CHOP",
+    "translation": "选择要砍成木块的树干",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "00f64dbb5f83a90c74e",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select trunk to chop with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择要砍成木块的树干，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "8c77297429e77cf359a",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "BLOCK OF WOOD TO SPLIT",
+    "translation": "选择要劈开的木块",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4ab19250e599e2c4af9",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select block of wood to split with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择要劈开的木块，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "3c43aceff3df3bd3d76",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "TRUNK TO MAKE BOARDS FROM",
+    "translation": "选择要制成木板的树干",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a3b7b9cd625fac63c53",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select trunk to make boards from with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择要制成木板的树干，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "260f77a341fae561f40",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "WHERE TO CLIMB",
+    "translation": "选择要攀爬的位置",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "27783a95ae88446c3ba",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select where to climb with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择要攀爬的位置，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "564f9280477ed37809a",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "PREFERRED TREE",
+    "translation": "选择想使用的树",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d276608f6bfa21557c5",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select preferred tree with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择想使用的树，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f144a51e438e0fd0e99",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "WHERE IS YOUR ENEMY",
+    "translation": "选择敌人的位置",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "564bf9df30f613a1f60",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select where is your enemy with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择敌人的位置，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "9896d56ebfe79b62396",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "WHERE TO DIG A PIT",
+    "translation": "选择挖坑的位置",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b08f8c2621286496a09",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select where to dig a pit with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择挖坑的位置，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b3a60e1337e415b3478",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "WHERE TO TIE",
+    "translation": "选择拴系的位置",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e5661f336e0ac2c37ba",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select where to tie with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择拴系的位置，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "42fa6d4a4c2f57f89d7",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "CREATURE TO BE TIED",
+    "translation": "选择要拴住的生物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "46071a07fa74939be0d",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select creature to be tied with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择要拴住的生物，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "163007235aebd11af76",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "PLANT TO EXAMINE",
+    "translation": "选择要查看的植物",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "38a5db72f9652556c34",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select plant to examine with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择要查看的植物，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e79f04b0713a9e52817",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "WHERE TO PUSH THE ITEMS",
+    "translation": "选择要把物品推往的位置",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "52fd09b33e733592875",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select where to push the items with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择要把物品推往的位置，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1dab75ed0c9d515a322",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "LOCATION OF CONSTRUCTION",
+    "translation": "选择施工位置",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e08452c479a3c6e26ac",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select location of construction with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择施工位置，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "077934c3dedd198e198",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "WORK UNDER CONSTRUCTION",
+    "translation": "选择施工中的工程",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "74326a5e36c48e584b6",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select work under construction with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择施工中的工程，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "94e8386de9352ae87e0",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "WHERE TO LOOK",
+    "translation": "选择观察方向",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1e5533c4e98c580fcbc",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select where to look with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择观察方向，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "06152b0319d44d8efd2",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "WHERE TO BUILD A FIRE",
+    "translation": "选择生火的位置",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "91db01d94144779215d",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select where to build a fire with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择生火的位置，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a8eb94802b582259a76",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "WHERE TO KICK",
+    "translation": "选择要踢的位置",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1f711f1e2a169704fcc",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select where to kick with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择要踢的位置，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "70ac9fa8f7da782a56b",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "DIRECTION WHERE TO LOOK",
+    "translation": "选择观察方向",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e281676b166456e8931",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "paragraph",
+    "original": "Select direction where to look with these cursor/numpad keys representing the cardinal directions, or by clicking the location with the mouse.",
+    "translation": "用方向键或数字小键盘选择观察方向，也可以用鼠标点击目标位置。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "08a55a0c1ddd7b83aaf",
+    "source": "urw3-bin:ValitseLokaatio",
+    "context": "showtext",
+    "original": "MIHIN SIHTAA",
+    "translation": "选择瞄准方向",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "cf229d7a67aa44ff806",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Your settlement",
+    "translation": "你的聚落",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d20191697e7ffaf4d66",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Small lake",
+    "translation": "小湖",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "9153f6877c8f9599fbf",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Lake",
+    "translation": "湖泊",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "6bb1a6c68914815a904",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Water",
+    "translation": "水域",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "c3fed5c6ae98aab6bf8",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Ground",
+    "translation": "地面",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "18149eeacae1a65f8ea",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Ford",
+    "translation": "浅滩渡口",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "94da3a111f6ccfc13e2",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "River",
+    "translation": "河流",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "860caf85b370ad549a2",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Rapids",
+    "translation": "急流",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "08ae37219b319a4ed5d",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Spring",
+    "translation": "泉水",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f5c1fd64452154ee2bf",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Sea",
+    "translation": "海域",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b09c7df7a7088a0dbc7",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Big rock",
+    "translation": "巨石",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "c61b329f8d6011ee9f7",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Fence",
+    "translation": "围栏",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e2ea4bf9c5194a0e7f5",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Fence gate",
+    "translation": "栅门",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e7db4dd1423cb7d9435",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Road",
+    "translation": "道路",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b3904e407fe5f946b22",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Cave",
+    "translation": "洞穴",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "fcb70d97d44dd59fcd2",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Sauna stove",
+    "translation": "桑拿炉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4e3472553e841fd4657",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Fireplace",
+    "translation": "壁炉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d59f56798e71b3797ac",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Sleeping bunk",
+    "translation": "床铺",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "2cf9e2605f5e46cdfea",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Open door",
+    "translation": "敞开的门",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ee3d16e8fc61fd26a7c",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Bench",
+    "translation": "长凳",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e82e4f353611d2f9055",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Camp",
+    "translation": "营地",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "134cce2b37cb1099d08",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Shelter",
+    "translation": "庇护所",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "80fb033e1270744d419",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "ant nest",
+    "translation": "蚁巢",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "029b03fb357dc7ecbbc",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Spruce",
+    "translation": "云杉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "7f43499a51f982307dc",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Birch",
+    "translation": "桦树",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "2becaacf35d13c92ed3",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Inside of a kota",
+    "translation": "科塔帐篷内部",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a5e9d22230a890dbc70",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Framework",
+    "translation": "骨架",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "25794e575034137a281",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Kota doorway",
+    "translation": "科塔帐篷入口",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4130d16f4319ce04319",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Rowan",
+    "translation": "花楸",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "989dc100ea69322d40e",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Alder",
+    "translation": "桤木",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "c4d09610b492726b8be",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Aspen",
+    "translation": "山杨",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "5c98c494647c03b1776",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "pit",
+    "translation": "坑",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e7523e5c282b6db865d",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Young spruce",
+    "translation": "幼云杉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b1f2518b3a749704990",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Young birch",
+    "translation": "幼桦树",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "94c02ff968f7e5074ea",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "post spruce",
+    "translation": "支柱云杉",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1db72a458759140ab68",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Coniferous forest",
+    "translation": "针叶林",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e09f2d982191f58f9fd",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Lichenous pine forest",
+    "translation": "地衣松林",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "6c2d2ae95537e3cb394",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Cliff",
+    "translation": "悬崖",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "0d8afa3892519b498c1",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Grove",
+    "translation": "林丛",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e53153e8664fa1f6244",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Heathland",
+    "translation": "石南荒地",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "161b2f2f16794b53677",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Young pine",
+    "translation": "幼松",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "cfe69833e8644c9cad5",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Pine",
+    "translation": "松树",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "78f78d30219943a4603",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Spruce mire",
+    "translation": "云杉沼泽",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "dd500a95fc86ab811ea",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Thicket",
+    "translation": "灌木丛",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d30b78d328226bd0e8b",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Cellar",
+    "translation": "地窖",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "09ff0e9bf04152fe77a",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Prepared soil",
+    "translation": "整过的土壤",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "58c0d3162200fea7fbb",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Settlement",
+    "translation": "聚落",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "5e5cda84c0bae296d0a",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Mountain",
+    "translation": "山地",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "0989d59bf053177c18f",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Hill",
+    "translation": "丘陵",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "3712194bdb2a0e1d142",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Pine mire",
+    "translation": "松树沼泽",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "fa557ee7f007ba83d84",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Open mire",
+    "translation": "开阔沼泽",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ec2d2d55103ca150956",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Bushes",
+    "translation": "灌木",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "2c03dad36eec24345d6",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Village",
+    "translation": "村落",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "95ede78cc1e7bfad52d",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Fortified village",
+    "translation": "设防村落",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "81601f7ab47fe01a334",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Table",
+    "translation": "桌子",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4fb1033458e32512f38",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Field",
+    "translation": "田地",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "500bdddb5e1c61dc986",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Pasture",
+    "translation": "牧场",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "23c8eccee6d25e72943",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Door",
+    "translation": "门",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b3bf28347732851dd16",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Surface of the Earth",
+    "translation": "地表",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "423e720439daabdf9d3",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Inside of a building",
+    "translation": "建筑物内部",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ab134130a23d0eb81c2",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Cave floor",
+    "translation": "洞穴地面",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a3ec32c130e214d7e7d",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "High cliff",
+    "translation": "高崖",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "de65d9aa1ada47c93e9",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Northern wall",
+    "translation": "北墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a30adb87a3f34f131ac",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Northern wall of a kota",
+    "translation": "科塔帐篷的北墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "9960c3ce917d8229725",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Southern wall",
+    "translation": "南墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a77cf1f32a45c06a48c",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Southern wall of a kota",
+    "translation": "科塔帐篷的南墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "8dc471d17bd47d19608",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Eastern wall",
+    "translation": "东墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ea1cc792089ef02bf99",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Eastern wall of a kota",
+    "translation": "科塔帐篷的东墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "bd8ead6b073cab16b72",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Western wall",
+    "translation": "西墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "8bfbd0fd7fdbb21ca72",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "Western wall of a kota",
+    "translation": "科塔帐篷的西墙",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ede0c5f05388f22384a",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "North-west corner",
+    "translation": "西北角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "89e7d1408c562a21231",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "North-west corner of a kota",
+    "translation": "科塔帐篷的西北角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "7115d66e44dcba64f75",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "North-east corner",
+    "translation": "东北角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "28332c571b2453ee0f5",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "North-east corner of a kota",
+    "translation": "科塔帐篷的东北角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "9bd0462c5fae9273b3d",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "South-west corner",
+    "translation": "西南角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "93b5cc69f503a2d97ca",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "South-west corner of a kota",
+    "translation": "科塔帐篷的西南角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "dae49983bad8df89f26",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "South-east corner",
+    "translation": "东南角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "dbe6a4409a29d1240c6",
+    "source": "urw3-bin:init_terrain_struct",
+    "context": "terrain-name",
+    "original": "South-east corner of a kota",
+    "translation": "科塔帐篷的东南角",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "c4a0e3fa408ddf2fc73",
+    "source": "urw3-bin:CurrentMapName",
+    "context": "terrain-name",
+    "original": "Kaumolais Village",
+    "translation": "Kaumolais村落",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "6f7ebc2c4d60665c3fb",
+    "source": "urw3-bin:CurrentMapName",
+    "context": "terrain-name",
+    "original": "Driikiläis Village",
+    "translation": "Driikiläis村落",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1c4c335d35b9ab57c04",
+    "source": "urw3-bin:CurrentMapName",
+    "context": "terrain-name",
+    "original": "Kiesseläis Village",
+    "translation": "Kiesseläis村落",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "dc52e6e4a2d03fbf24c",
+    "source": "urw3-bin:CurrentMapName",
+    "context": "terrain-name",
+    "original": "Reemiläis Village",
+    "translation": "Reemiläis村落",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "beae0f86151f4c7fa47",
+    "source": "urw3-bin:CurrentMapName",
+    "context": "terrain-name",
+    "original": "Sartolais Village",
+    "translation": "Sartolais村落",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "0449a94d21af6ed39b4",
+    "source": "urw3-bin:CurrentMapName",
+    "context": "terrain-name",
+    "original": "Islander Village",
+    "translation": "岛民村落",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "c576d840e33dfcbcee6",
+    "source": "urw3-bin:CurrentMapName",
+    "context": "terrain-name",
+    "original": "Koivulais Village",
+    "translation": "Koivulais村落",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "2a14a1658d60ca744cc",
+    "source": "urw3-bin:CurrentMapName",
+    "context": "terrain-name",
+    "original": "Kuikka-tribe Village",
+    "translation": "库伊卡部族村落",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "9b53f30f0a91a1974d5",
+    "source": "urw3-bin:CurrentMapName",
+    "context": "terrain-name",
+    "original": "Owl-tribe Village",
+    "translation": "猫头鹰部族村落",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "9ee1241c445a5bae82a",
+    "source": "urw3-bin:CurrentMapName",
+    "context": "terrain-name",
+    "original": "Seal-tribe Village",
+    "translation": "海豹部族村落",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "5952dd8b3c31dee2acf",
+    "source": "urw3-bin:CurrentMapName",
+    "context": "terrain-name",
+    "original": "Vagabond Village",
+    "translation": "流浪者村落",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "5683ff9c423c0404b32",
+    "source": "urw3-bin:CurrentMapName",
+    "context": "terrain-name",
+    "original": "Njerpez Village",
+    "translation": "Njerpez村落",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "9585f0a01c31a196147",
+    "source": "urw3-bin:CurrentMapName",
+    "context": "terrain-name",
+    "original": "Foreign Village",
+    "translation": "外族村落",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f8887fbabab7b444bff",
+    "source": "urw3-bin:CurrentMapName",
+    "context": "terrain-name",
+    "original": "Forester Village",
+    "translation": "林地居民村落",
+    "status": "reviewed",
+    "runtime_verified": false
+  }
+]

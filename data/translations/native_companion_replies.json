@@ -1,0 +1,2473 @@
+[
+  {
+    "id": "8c1f69ec6d359ec7cb11",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I am listening...",
+    "translation": "我在听……",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": true,
+    "evidence": {
+      "function": "Alusta_Puheenaihe_VARVAA",
+      "production": "0x10017dabd",
+      "callsite": "0x10017dac4"
+    }
+  },
+  {
+    "id": "c9d6b3c59af3c7eff74e",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "No, I'm not interested.",
+    "translation": "不了，我没兴趣。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": true,
+    "evidence": {
+      "function": "onko_NPC_varvattavissa → PARSE_Kumppani",
+      "production": "0x1000c8b69",
+      "callsite": "0x1001872dd"
+    }
+  },
+  {
+    "id": "3eb8f1670194e98c2a8a",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "Not now, but maybe in the future.",
+    "translation": "现在不行，以后说不定可以。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "onko_NPC_varvattavissa → PARSE_Kumppani",
+      "production": "0x1000c8a66 / 0x1000c8b9f",
+      "callsite": "0x1001872dd"
+    }
+  },
+  {
+    "id": "31014a56b37eea97af05",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I don't think so.",
+    "translation": "我看还是算了吧。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "onko_NPC_varvattavissa → PARSE_Kumppani",
+      "production": "0x1000c8a78",
+      "callsite": "0x1001872dd"
+    }
+  },
+  {
+    "id": "9e5d3e7cff0b0cff696a",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "That doesn't suit me. I have things of my own to take care of.",
+    "translation": "我不方便，还有自己的事要忙。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "onko_NPC_varvattavissa → PARSE_Kumppani",
+      "production": "0x1000c8ab9",
+      "callsite": "0x1001872dd"
+    }
+  },
+  {
+    "id": "1c6405170b1e26d36579",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I really can't leave from here.",
+    "translation": "我实在走不开。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "onko_NPC_varvattavissa → PARSE_Kumppani",
+      "production": "0x1000c8c4e",
+      "callsite": "0x1001872dd"
+    }
+  },
+  {
+    "id": "591749cdbb23e4625899",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I don't think you'll find a companion here until our {companion:text} gets payed.",
+    "translation": "你得先付清欠我们{companion}的报酬，否则这里恐怕没人愿意和你结伴。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "onko_NPC_varvattavissa → PARSE_Kumppani",
+      "production": "0x1000c8d48 → 0x1000c8d56",
+      "callsite": "0x1001872dd",
+      "arguments": {
+        "companion": "monnam(int, 8) at 0x1000c8d3c"
+      }
+    }
+  },
+  {
+    "id": "7b4ae9b3793164f5d11c",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "No. Not until we see {companion:text} who left with you again.",
+    "translation": "不行。等我们再见到跟你一起离开的{companion}再说。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "PARSE_Kumppani",
+      "production": "0x1001872bf → 0x1001872d5",
+      "callsite": "0x1001872dd",
+      "arguments": {
+        "companion": "monnam(499, 2) at 0x1001872ba"
+      }
+    }
+  },
+  {
+    "id": "977f57258a4d5e094609",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "No, no, no... I don't think I can handle adventures or longer expeditions right now.",
+    "translation": "不行，不行……我现在恐怕应付不来冒险或长途跋涉。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "PARSE_Kumppani",
+      "production": "0x100187341",
+      "callsite": "0x1001872dd"
+    }
+  },
+  {
+    "id": "77569122bee64562fc07",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "But let me think if I have all the equipment I might need.",
+    "translation": "不过，我得想想可能用得上的装备都带齐了没有。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "PARSE_Kumppani",
+      "production": "0x100187508",
+      "callsite": "0x10018750f"
+    }
+  },
+  {
+    "id": "d85f054ea986b5c0bdfc",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I think I'd like to have more food with me.",
+    "translation": "我想再带些吃的。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Tarkasta_Palkkio",
+      "production": "0x10017e3b3",
+      "callsite": "0x10017e3ba"
+    }
+  },
+  {
+    "id": "16cfc8c547c1271c619b",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I could use some extra weapons.",
+    "translation": "我还需要几件武器。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Tarkasta_Palkkio",
+      "production": "0x10017e46d",
+      "callsite": "0x10017e474"
+    }
+  },
+  {
+    "id": "8f90e2c83b82939f18e0",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I am hungry. It's your duty to provide me with enough food.",
+    "translation": "我饿了。你有义务给我备足食物。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017de11",
+      "callsite": "0x10017de18"
+    }
+  },
+  {
+    "id": "9325c1694d1ecad12c85",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I am starving. Some food needs to come my way, and soon!",
+    "translation": "我快饿死了。快给我弄点吃的来！",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017df1c",
+      "callsite": "0x10017df23"
+    }
+  },
+  {
+    "id": "365f93c7a0e218c1e798",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "You must remember that we are still companions.",
+    "translation": "别忘了，我们还是同伴。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017df52",
+      "callsite": "0x10017df59"
+    }
+  },
+  {
+    "id": "9c6ae833a87de8eb45e4",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I warn you not neglect me again or I will head elsewhere.",
+    "translation": "再这么不管我，我可就要另找去处了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017df78",
+      "callsite": "0x10017df7f"
+    }
+  },
+  {
+    "id": "82f29eabf4966e6ead6e",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "This was the final straw of your ignorance.",
+    "translation": "你一次又一次不管我，我已经忍够了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dfcc",
+      "callsite": "0x10017dfd3"
+    }
+  },
+  {
+    "id": "cb12fe2093d169c8b87d",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "Our paths will separate now!",
+    "translation": "咱们就此分道扬镳吧！",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dff2",
+      "callsite": "0x10017dff9"
+    }
+  },
+  {
+    "id": "4dac3327b908d4e390e3",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "You don't seem to be able to escort me where I wanted. I will continue on my own now.",
+    "translation": "看来你没法护送我到我要去的地方。接下来我自己走。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017de89–0x10017ded9",
+      "callsite": "0x10017def1"
+    }
+  },
+  {
+    "id": "f88515bda28ab6677209",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "It was nice to know you.",
+    "translation": "很高兴认识你。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "NPCTALK_yhteiselo_ohi",
+      "production": "0x10017c917",
+      "callsite": "0x10017c91e"
+    }
+  },
+  {
+    "id": "068c1a2c9079ce35c546",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "Bye now and take care of yourself!",
+    "translation": "再见了，多保重！",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "NPCTALK_yhteiselo_ohi",
+      "production": "0x10017c923",
+      "callsite": "0x10017c92a"
+    }
+  },
+  {
+    "id": "c75cb263dbf202f57d4d",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "We are still not even.",
+    "translation": "咱们的账还没结清。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CompanionInvDebt",
+      "production": "0x10017cb32",
+      "callsite": "0x10017cb39"
+    }
+  },
+  {
+    "id": "0d0dce6dacc1937e9699",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "We are even now. Better late than never.",
+    "translation": "咱们两清了。迟到总比不给好。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CompanionInvDebt",
+      "production": "0x10017ccdd",
+      "callsite": "0x10017cce4"
+    }
+  },
+  {
+    "id": "85c81e757a9a246b2422",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I'm happy to leave with my current equipment. If you let me keep it now my services are paid for.",
+    "translation": "我愿意带着现在这些装备离开。你要是让我留下它们，就当付清了我的报酬。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CompanionInvDebt",
+      "production": "0x10017ccfa",
+      "callsite": "0x10017cd01"
+    }
+  },
+  {
+    "id": "8336a8ed46c03a32077c",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I'm happy to leave with my current equipment.",
+    "translation": "我愿意带着现在这些装备离开。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CompanionInvDebt",
+      "production": "0x10017cd0f",
+      "callsite": "0x10017cd16"
+    }
+  },
+  {
+    "id": "570074de370463a63603",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I'm not happy to leave with my current equipment. I expect you to hand out some decent goods to pay for my services. Let's settle this today.",
+    "translation": "光拿现在这些装备走可不行。你得拿些像样的东西当我的报酬。咱们今天就把账结了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CompanionInvDebt",
+      "production": "0x10017cd26",
+      "callsite": "0x10017cd2d"
+    }
+  },
+  {
+    "id": "5bbd328675f6658550cd",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I expect you to hand out some decent goods at once to pay for my services.",
+    "translation": "你现在就得拿些像样的东西来付我的报酬。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CompanionInvDebt",
+      "production": "0x10017cd3c",
+      "callsite": "0x10017cd43"
+    }
+  },
+  {
+    "id": "a4f4ea37f3be85c48b11",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "Now it's time for me to go back home. I won't be wandering around with you any longer.",
+    "translation": "我该回家了，不能再和你四处走走了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017de58 → 0x10017de6b",
+      "callsite": "0x10017def1",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6357"
+      }
+    }
+  },
+  {
+    "id": "c1aca7f8b5b467dfd9ab",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be wandering around with you a day more. Then it's time for me to go back home.",
+    "translation": "我还能和你四处走走一天。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6357",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:62"
+      }
+    }
+  },
+  {
+    "id": "d7275b37982419b68c8e",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be wandering around with you two days more. Then it's time for me to go back home.",
+    "translation": "我还能和你四处走走两天。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6357",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:63"
+      }
+    }
+  },
+  {
+    "id": "d5c36f638844c654cb70",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be wandering around with you few days more. Then it's time for me to go back home.",
+    "translation": "我还能和你四处走走几天。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6357",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:64"
+      }
+    }
+  },
+  {
+    "id": "988681cc8d357726d25f",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be wandering around with you half a week more. Then it's time for me to go back home.",
+    "translation": "我还能和你四处走走半周。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6357",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:65,66"
+      }
+    }
+  },
+  {
+    "id": "de2a719fb53faaf9443e",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be wandering around with you a week more. Then it's time for me to go back home.",
+    "translation": "我还能和你四处走走一周。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6357",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:67"
+      }
+    }
+  },
+  {
+    "id": "91860e6de25cb5c47a0b",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be wandering around with you two weeks more. Then it's time for me to go back home.",
+    "translation": "我还能和你四处走走两周。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6357",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:68"
+      }
+    }
+  },
+  {
+    "id": "93fde2e0049145cfe57f",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be wandering around with you couple of weeks more. Then it's time for me to go back home.",
+    "translation": "我还能和你四处走走两三周。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6357",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:69"
+      }
+    }
+  },
+  {
+    "id": "368ef73a601f918d4ee7",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be wandering around with you a month more. Then it's time for me to go back home.",
+    "translation": "我还能和你四处走走一个月。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6357",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:70"
+      }
+    }
+  },
+  {
+    "id": "559a31d0c1f018f1c123",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be wandering around with you over a month more. Then it's time for me to go back home.",
+    "translation": "我还能和你四处走走一个多月。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6357",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:71"
+      }
+    }
+  },
+  {
+    "id": "ace94a9f82eb87c3ff09",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be wandering around with you nearly two months more. Then it's time for me to go back home.",
+    "translation": "我还能和你四处走走将近两个月。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6357",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:72"
+      }
+    }
+  },
+  {
+    "id": "71d9760222c83a8450b0",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be wandering around with you few months more. Then it's time for me to go back home.",
+    "translation": "我还能和你四处走走几个月。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6357",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:73"
+      }
+    }
+  },
+  {
+    "id": "9b71ec43021dcc8e3f1a",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be wandering around with you couple of months more. Then it's time for me to go back home.",
+    "translation": "我还能和你四处走走两三个月。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6357",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:74"
+      }
+    }
+  },
+  {
+    "id": "d69c2d243934e4502da0",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be wandering around with you several months more. Then it's time for me to go back home.",
+    "translation": "我还能和你四处走走好几个月。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6357",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:75"
+      }
+    }
+  },
+  {
+    "id": "9ed73ec16d9e7f6f318e",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be wandering around with you many months more. Then it's time for me to go back home.",
+    "translation": "我还能和你四处走走许多个月。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6357",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:76"
+      }
+    }
+  },
+  {
+    "id": "023c32590d8625c958d9",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be wandering around with you half a year more. Then it's time for me to go back home.",
+    "translation": "我还能和你四处走走半年。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6357",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:77"
+      }
+    }
+  },
+  {
+    "id": "8ac1d4beecfbba8505f9",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be wandering around with you a year more. Then it's time for me to go back home.",
+    "translation": "我还能和你四处走走一年。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6357",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:78"
+      }
+    }
+  },
+  {
+    "id": "d840be9acb3fd0a13977",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be wandering around with you over a year more. Then it's time for me to go back home.",
+    "translation": "我还能和你四处走走一年多。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6357",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:79"
+      }
+    }
+  },
+  {
+    "id": "c48a3eeda347a2710ec4",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be wandering around with you nearly two years more. Then it's time for me to go back home.",
+    "translation": "我还能和你四处走走将近两年。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6357",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:80"
+      }
+    }
+  },
+  {
+    "id": "c126825e206120165a6c",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be wandering around with you few years more. Then it's time for me to go back home.",
+    "translation": "我还能和你四处走走几年。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6357",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:81"
+      }
+    }
+  },
+  {
+    "id": "7fc13e55ea54eb2af78d",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be wandering around with you unknown time more. Then it's time for me to go back home.",
+    "translation": "我还能和你四处走走一段时间。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6357",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:82"
+      }
+    }
+  },
+  {
+    "id": "4c93dd90b23f18b0a99a",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "That's fine with me. I can come working for you. Just be prepared to reward my days of service afterwards.",
+    "translation": "行，我可以给你干活。事后记得付我这几天的报酬。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "PARSE_Kumppani",
+      "production": "0x1001874e5 → 0x1001874fb",
+      "callsite": "0x100187503",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6375"
+      }
+    }
+  },
+  {
+    "id": "9d27c89f8666e9aeaca9",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "Well, I think I have everything I need to start working for you now!",
+    "translation": "好，该带的都带齐了，现在可以给你干活了！",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Tarkasta_Palkkio",
+      "production": "0x10017e5af → 0x10017e5c5",
+      "callsite": "0x10017e5cd",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6375"
+      }
+    }
+  },
+  {
+    "id": "9692e4b112da5a1943cf",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "Now it's time for me to go back home. I won't be working for you any longer.",
+    "translation": "我该回家了，不能再给你干活了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017de58 → 0x10017de6b",
+      "callsite": "0x10017def1",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6375"
+      }
+    }
+  },
+  {
+    "id": "fbd461415d45b25fa360",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be working for you a day more. Then it's time for me to go back home.",
+    "translation": "我还能给你干活一天。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6375",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:62"
+      }
+    }
+  },
+  {
+    "id": "c260da83fbd6892ca2be",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be working for you two days more. Then it's time for me to go back home.",
+    "translation": "我还能给你干活两天。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6375",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:63"
+      }
+    }
+  },
+  {
+    "id": "cbcb76be309fca0f81ee",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be working for you few days more. Then it's time for me to go back home.",
+    "translation": "我还能给你干活几天。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6375",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:64"
+      }
+    }
+  },
+  {
+    "id": "ba11ca8ae308a57cd1ed",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be working for you half a week more. Then it's time for me to go back home.",
+    "translation": "我还能给你干活半周。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6375",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:65,66"
+      }
+    }
+  },
+  {
+    "id": "a7df9654752fc853caf7",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be working for you a week more. Then it's time for me to go back home.",
+    "translation": "我还能给你干活一周。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6375",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:67"
+      }
+    }
+  },
+  {
+    "id": "5cec866b3f4e6a6afdb5",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be working for you two weeks more. Then it's time for me to go back home.",
+    "translation": "我还能给你干活两周。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6375",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:68"
+      }
+    }
+  },
+  {
+    "id": "d2ed4516b528564c6514",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be working for you couple of weeks more. Then it's time for me to go back home.",
+    "translation": "我还能给你干活两三周。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6375",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:69"
+      }
+    }
+  },
+  {
+    "id": "e897a6c903702d809254",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be working for you a month more. Then it's time for me to go back home.",
+    "translation": "我还能给你干活一个月。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6375",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:70"
+      }
+    }
+  },
+  {
+    "id": "f608bb54566e2056139d",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be working for you over a month more. Then it's time for me to go back home.",
+    "translation": "我还能给你干活一个多月。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6375",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:71"
+      }
+    }
+  },
+  {
+    "id": "121bd0cec9a389fec8c7",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be working for you nearly two months more. Then it's time for me to go back home.",
+    "translation": "我还能给你干活将近两个月。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6375",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:72"
+      }
+    }
+  },
+  {
+    "id": "57a38a61c33a2cf12012",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be working for you few months more. Then it's time for me to go back home.",
+    "translation": "我还能给你干活几个月。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6375",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:73"
+      }
+    }
+  },
+  {
+    "id": "8828ec0fe2eeb677eb02",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be working for you couple of months more. Then it's time for me to go back home.",
+    "translation": "我还能给你干活两三个月。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6375",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:74"
+      }
+    }
+  },
+  {
+    "id": "e06c24ccc3049abad352",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be working for you several months more. Then it's time for me to go back home.",
+    "translation": "我还能给你干活好几个月。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6375",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:75"
+      }
+    }
+  },
+  {
+    "id": "19c0846494d6e1977b6d",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be working for you many months more. Then it's time for me to go back home.",
+    "translation": "我还能给你干活许多个月。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6375",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:76"
+      }
+    }
+  },
+  {
+    "id": "d87522a74df17065fc0a",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be working for you half a year more. Then it's time for me to go back home.",
+    "translation": "我还能给你干活半年。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6375",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:77"
+      }
+    }
+  },
+  {
+    "id": "57e0be89b9e57f350f7d",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be working for you a year more. Then it's time for me to go back home.",
+    "translation": "我还能给你干活一年。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6375",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:78"
+      }
+    }
+  },
+  {
+    "id": "ff19b3daebc110f59a78",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be working for you over a year more. Then it's time for me to go back home.",
+    "translation": "我还能给你干活一年多。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6375",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:79"
+      }
+    }
+  },
+  {
+    "id": "31bf670a20dbf117aa9b",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be working for you nearly two years more. Then it's time for me to go back home.",
+    "translation": "我还能给你干活将近两年。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6375",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:80"
+      }
+    }
+  },
+  {
+    "id": "1b768403dc68edcf1fc0",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be working for you few years more. Then it's time for me to go back home.",
+    "translation": "我还能给你干活几年。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6375",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:81"
+      }
+    }
+  },
+  {
+    "id": "b3c6ceab56110fb94004",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be working for you unknown time more. Then it's time for me to go back home.",
+    "translation": "我还能给你干活一段时间。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6375",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:82"
+      }
+    }
+  },
+  {
+    "id": "c61701db631c2845e6aa",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "That's fine with me. I can come hunting with you. Just be prepared to reward my days of service afterwards.",
+    "translation": "行，我可以和你一起打猎。事后记得付我这几天的报酬。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "PARSE_Kumppani",
+      "production": "0x1001874e5 → 0x1001874fb",
+      "callsite": "0x100187503",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6393"
+      }
+    }
+  },
+  {
+    "id": "678f851d8ce00e444531",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "Well, I think I have everything I need to start hunting with you now!",
+    "translation": "好，该带的都带齐了，现在可以和你一起打猎了！",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Tarkasta_Palkkio",
+      "production": "0x10017e5af → 0x10017e5c5",
+      "callsite": "0x10017e5cd",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6393"
+      }
+    }
+  },
+  {
+    "id": "9f87a12a740e0793e170",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "Now it's time for me to go back home. I won't be hunting with you any longer.",
+    "translation": "我该回家了，不能再和你一起打猎了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017de58 → 0x10017de6b",
+      "callsite": "0x10017def1",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6393"
+      }
+    }
+  },
+  {
+    "id": "7bc9b1d14032d5698e4a",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be hunting with you a day more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起打猎一天。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6393",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:62"
+      }
+    }
+  },
+  {
+    "id": "eca4ad8387ab1f95ea03",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be hunting with you two days more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起打猎两天。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6393",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:63"
+      }
+    }
+  },
+  {
+    "id": "15f641b29706236d7a32",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be hunting with you few days more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起打猎几天。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6393",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:64"
+      }
+    }
+  },
+  {
+    "id": "7c1da34dc26aea621caa",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be hunting with you half a week more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起打猎半周。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6393",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:65,66"
+      }
+    }
+  },
+  {
+    "id": "1c19e1a35546284dd006",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be hunting with you a week more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起打猎一周。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6393",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:67"
+      }
+    }
+  },
+  {
+    "id": "36adb4d4974e24df968f",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be hunting with you two weeks more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起打猎两周。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6393",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:68"
+      }
+    }
+  },
+  {
+    "id": "21cf5dfdcbf7b8efa345",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be hunting with you couple of weeks more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起打猎两三周。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6393",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:69"
+      }
+    }
+  },
+  {
+    "id": "f581d248068912ef563f",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be hunting with you a month more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起打猎一个月。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6393",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:70"
+      }
+    }
+  },
+  {
+    "id": "2494c5f980779752eb0a",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be hunting with you over a month more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起打猎一个多月。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6393",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:71"
+      }
+    }
+  },
+  {
+    "id": "09de9ad63de9a9469a36",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be hunting with you nearly two months more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起打猎将近两个月。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6393",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:72"
+      }
+    }
+  },
+  {
+    "id": "46b497cc1fed35ba61ca",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be hunting with you few months more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起打猎几个月。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6393",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:73"
+      }
+    }
+  },
+  {
+    "id": "13f6906882fa2a787eb8",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be hunting with you couple of months more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起打猎两三个月。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6393",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:74"
+      }
+    }
+  },
+  {
+    "id": "47637167055b0bbd9849",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be hunting with you several months more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起打猎好几个月。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6393",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:75"
+      }
+    }
+  },
+  {
+    "id": "4569bcc6e09d33ec0a27",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be hunting with you many months more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起打猎许多个月。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6393",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:76"
+      }
+    }
+  },
+  {
+    "id": "9dbd2371ee7a9bb3b53d",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be hunting with you half a year more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起打猎半年。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6393",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:77"
+      }
+    }
+  },
+  {
+    "id": "3437974124740535d514",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be hunting with you a year more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起打猎一年。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6393",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:78"
+      }
+    }
+  },
+  {
+    "id": "6185a4059f7ab39bc9eb",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be hunting with you over a year more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起打猎一年多。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6393",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:79"
+      }
+    }
+  },
+  {
+    "id": "fd8fbf89e8bafc07ff0c",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be hunting with you nearly two years more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起打猎将近两年。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6393",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:80"
+      }
+    }
+  },
+  {
+    "id": "8a50ad34c08140373005",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be hunting with you few years more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起打猎几年。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6393",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:81"
+      }
+    }
+  },
+  {
+    "id": "3ad00666e3c68db75861",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be hunting with you unknown time more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起打猎一段时间。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b6393",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:82"
+      }
+    }
+  },
+  {
+    "id": "f772935d8100bade872c",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "That's fine with me. I can come exploring the wilderness and adventuring with you. Just be prepared to reward my days of service afterwards.",
+    "translation": "行，我可以和你一起探索荒野。事后记得付我这几天的报酬。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "PARSE_Kumppani",
+      "production": "0x1001874e5 → 0x1001874fb",
+      "callsite": "0x100187503",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b63d4"
+      }
+    }
+  },
+  {
+    "id": "a9a5e2db3cfc4caca070",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "Well, I think I have everything I need to start exploring the wilderness and adventuring with you now!",
+    "translation": "好，该带的都带齐了，现在可以和你一起探索荒野了！",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Tarkasta_Palkkio",
+      "production": "0x10017e5af → 0x10017e5c5",
+      "callsite": "0x10017e5cd",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b63d4"
+      }
+    }
+  },
+  {
+    "id": "d0dc363ff4671a65c3fc",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "Now it's time for me to go back home. I won't be exploring the wilderness and adventuring with you any longer.",
+    "translation": "我该回家了，不能再和你一起探索荒野了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017de58 → 0x10017de6b",
+      "callsite": "0x10017def1",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b63d4"
+      }
+    }
+  },
+  {
+    "id": "36511806a0d9d2b1a985",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be exploring the wilderness and adventuring with you a day more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起探索荒野一天。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b63d4",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:62"
+      }
+    }
+  },
+  {
+    "id": "64bc6051785163a37a02",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be exploring the wilderness and adventuring with you two days more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起探索荒野两天。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b63d4",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:63"
+      }
+    }
+  },
+  {
+    "id": "798d9d96d45aae98fd48",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be exploring the wilderness and adventuring with you few days more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起探索荒野几天。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b63d4",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:64"
+      }
+    }
+  },
+  {
+    "id": "727ef2722b51adb9f88f",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be exploring the wilderness and adventuring with you half a week more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起探索荒野半周。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b63d4",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:65,66"
+      }
+    }
+  },
+  {
+    "id": "b0ae530ebc66aea9a170",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be exploring the wilderness and adventuring with you a week more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起探索荒野一周。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b63d4",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:67"
+      }
+    }
+  },
+  {
+    "id": "101d97d565f7d1bec2a4",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be exploring the wilderness and adventuring with you two weeks more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起探索荒野两周。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b63d4",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:68"
+      }
+    }
+  },
+  {
+    "id": "95573a0a9356d693d495",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be exploring the wilderness and adventuring with you couple of weeks more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起探索荒野两三周。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b63d4",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:69"
+      }
+    }
+  },
+  {
+    "id": "ce9996c3a508fb17ee18",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be exploring the wilderness and adventuring with you a month more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起探索荒野一个月。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b63d4",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:70"
+      }
+    }
+  },
+  {
+    "id": "706b63249ac308cb9531",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be exploring the wilderness and adventuring with you over a month more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起探索荒野一个多月。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b63d4",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:71"
+      }
+    }
+  },
+  {
+    "id": "09262429b57fe55c6bf1",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be exploring the wilderness and adventuring with you nearly two months more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起探索荒野将近两个月。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b63d4",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:72"
+      }
+    }
+  },
+  {
+    "id": "2bff77bc950d7292fbe8",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be exploring the wilderness and adventuring with you few months more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起探索荒野几个月。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b63d4",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:73"
+      }
+    }
+  },
+  {
+    "id": "f42f6c51957c568f84eb",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be exploring the wilderness and adventuring with you couple of months more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起探索荒野两三个月。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b63d4",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:74"
+      }
+    }
+  },
+  {
+    "id": "e67af50d618d44dfbec3",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be exploring the wilderness and adventuring with you several months more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起探索荒野好几个月。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b63d4",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:75"
+      }
+    }
+  },
+  {
+    "id": "e0999036611a804ffaf5",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be exploring the wilderness and adventuring with you many months more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起探索荒野许多个月。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b63d4",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:76"
+      }
+    }
+  },
+  {
+    "id": "6701da16567323b01cee",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be exploring the wilderness and adventuring with you half a year more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起探索荒野半年。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b63d4",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:77"
+      }
+    }
+  },
+  {
+    "id": "c40be8a019144559767d",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be exploring the wilderness and adventuring with you a year more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起探索荒野一年。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b63d4",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:78"
+      }
+    }
+  },
+  {
+    "id": "e4521c66b1f2108aba73",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be exploring the wilderness and adventuring with you over a year more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起探索荒野一年多。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b63d4",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:79"
+      }
+    }
+  },
+  {
+    "id": "d0f420fd293206551a64",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be exploring the wilderness and adventuring with you nearly two years more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起探索荒野将近两年。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b63d4",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:80"
+      }
+    }
+  },
+  {
+    "id": "ebc6339ced8e481b9f1a",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be exploring the wilderness and adventuring with you few years more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起探索荒野几年。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b63d4",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:81"
+      }
+    }
+  },
+  {
+    "id": "f983c189e04c6739269a",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "I will be exploring the wilderness and adventuring with you unknown time more. Then it's time for me to go back home.",
+    "translation": "我还能和你一起探索荒野一段时间。到时候我就该回家了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dcca → 0x10017dce0",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "activity": "YhteiselamanTeksti: 0x1001b63d4",
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:82"
+      }
+    }
+  },
+  {
+    "id": "67e6cf032021e8d4593e",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "If we don't get where I wanted within a day I think I have to continue on my own.",
+    "translation": "要是一天之内还到不了我要去的地方，我恐怕得自己走了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dd0c → 0x10017dd1f",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:62"
+      }
+    }
+  },
+  {
+    "id": "0743d902aa1f0eda6ad0",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "If we don't get where I wanted within two days I think I have to continue on my own.",
+    "translation": "要是两天之内还到不了我要去的地方，我恐怕得自己走了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dd0c → 0x10017dd1f",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:63"
+      }
+    }
+  },
+  {
+    "id": "807cb84578b1832f85e0",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "If we don't get where I wanted within few days I think I have to continue on my own.",
+    "translation": "要是几天之内还到不了我要去的地方，我恐怕得自己走了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dd0c → 0x10017dd1f",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:64"
+      }
+    }
+  },
+  {
+    "id": "48ed0474aa333fdb273f",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "If we don't get where I wanted within half a week I think I have to continue on my own.",
+    "translation": "要是半周之内还到不了我要去的地方，我恐怕得自己走了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dd0c → 0x10017dd1f",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:65,66"
+      }
+    }
+  },
+  {
+    "id": "2fd31106287cc1ba71bb",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "If we don't get where I wanted within a week I think I have to continue on my own.",
+    "translation": "要是一周之内还到不了我要去的地方，我恐怕得自己走了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dd0c → 0x10017dd1f",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:67"
+      }
+    }
+  },
+  {
+    "id": "8008e319cc6c2fc6e5b1",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "If we don't get where I wanted within two weeks I think I have to continue on my own.",
+    "translation": "要是两周之内还到不了我要去的地方，我恐怕得自己走了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dd0c → 0x10017dd1f",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:68"
+      }
+    }
+  },
+  {
+    "id": "d2f479571127b57d58e9",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "If we don't get where I wanted within couple of weeks I think I have to continue on my own.",
+    "translation": "要是两三周之内还到不了我要去的地方，我恐怕得自己走了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dd0c → 0x10017dd1f",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:69"
+      }
+    }
+  },
+  {
+    "id": "21c905ea8a316b0c31e8",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "If we don't get where I wanted within a month I think I have to continue on my own.",
+    "translation": "要是一个月之内还到不了我要去的地方，我恐怕得自己走了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dd0c → 0x10017dd1f",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:70"
+      }
+    }
+  },
+  {
+    "id": "2bef069bc0fd91f48e07",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "If we don't get where I wanted within over a month I think I have to continue on my own.",
+    "translation": "要是一个多月之内还到不了我要去的地方，我恐怕得自己走了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dd0c → 0x10017dd1f",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:71"
+      }
+    }
+  },
+  {
+    "id": "655a949b445ff6629157",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "If we don't get where I wanted within nearly two months I think I have to continue on my own.",
+    "translation": "要是将近两个月之内还到不了我要去的地方，我恐怕得自己走了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dd0c → 0x10017dd1f",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:72"
+      }
+    }
+  },
+  {
+    "id": "1a77f392a704e9a767a0",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "If we don't get where I wanted within few months I think I have to continue on my own.",
+    "translation": "要是几个月之内还到不了我要去的地方，我恐怕得自己走了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dd0c → 0x10017dd1f",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:73"
+      }
+    }
+  },
+  {
+    "id": "b1ad0ae190a7bd330846",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "If we don't get where I wanted within couple of months I think I have to continue on my own.",
+    "translation": "要是两三个月之内还到不了我要去的地方，我恐怕得自己走了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dd0c → 0x10017dd1f",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:74"
+      }
+    }
+  },
+  {
+    "id": "1b2952546558c9e531aa",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "If we don't get where I wanted within several months I think I have to continue on my own.",
+    "translation": "要是好几个月之内还到不了我要去的地方，我恐怕得自己走了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dd0c → 0x10017dd1f",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:75"
+      }
+    }
+  },
+  {
+    "id": "411871df96bd64207d55",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "If we don't get where I wanted within many months I think I have to continue on my own.",
+    "translation": "要是许多个月之内还到不了我要去的地方，我恐怕得自己走了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dd0c → 0x10017dd1f",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:76"
+      }
+    }
+  },
+  {
+    "id": "dcee295b63c50167d030",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "If we don't get where I wanted within half a year I think I have to continue on my own.",
+    "translation": "要是半年之内还到不了我要去的地方，我恐怕得自己走了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dd0c → 0x10017dd1f",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:77"
+      }
+    }
+  },
+  {
+    "id": "dcbbc6033f1bb37b3fe4",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "If we don't get where I wanted within a year I think I have to continue on my own.",
+    "translation": "要是一年之内还到不了我要去的地方，我恐怕得自己走了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dd0c → 0x10017dd1f",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:78"
+      }
+    }
+  },
+  {
+    "id": "e805718ce6c107a89427",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "If we don't get where I wanted within over a year I think I have to continue on my own.",
+    "translation": "要是一年多之内还到不了我要去的地方，我恐怕得自己走了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dd0c → 0x10017dd1f",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:79"
+      }
+    }
+  },
+  {
+    "id": "18b7fe49885e33f305b0",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "If we don't get where I wanted within nearly two years I think I have to continue on my own.",
+    "translation": "要是将近两年之内还到不了我要去的地方，我恐怕得自己走了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dd0c → 0x10017dd1f",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:80"
+      }
+    }
+  },
+  {
+    "id": "31ccfa2b3ed6f53f92fb",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "If we don't get where I wanted within few years I think I have to continue on my own.",
+    "translation": "要是几年之内还到不了我要去的地方，我恐怕得自己走了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dd0c → 0x10017dd1f",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:81"
+      }
+    }
+  },
+  {
+    "id": "ec5b6a002349100776e2",
+    "source": "urw3-bin:native-companion-replies",
+    "context": "npc-talk",
+    "original": "If we don't get where I wanted within unknown time I think I have to continue on my own.",
+    "translation": "要是一段时间之内还到不了我要去的地方，我恐怕得自己走了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "CrTalk_Ryhmaelama",
+      "production": "0x10017dd0c → 0x10017dd1f",
+      "callsite": "0x10017dd2b",
+      "arguments": {
+        "duration": "TIMESPAN_days → MSG → urw_defs.txt:.TIMESPAN_DAY.:82"
+      }
+    }
+  }
+]

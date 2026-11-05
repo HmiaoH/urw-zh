@@ -1,0 +1,606 @@
+{
+  "scope": "Catalogued resource text only; binary candidates are excluded until classified, and dynamic runtime outputs are not fully covered.",
+  "resources": {
+    "urw3-bin:Tee_Gamecourse_1:task-01": {
+      "total": 5,
+      "translated": 5,
+      "reviewed": 5,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_1:task-02": {
+      "total": 6,
+      "translated": 6,
+      "reviewed": 5,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_1:task-03": {
+      "total": 6,
+      "translated": 6,
+      "reviewed": 5,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_1:task-04": {
+      "total": 7,
+      "translated": 7,
+      "reviewed": 7,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_1:task-05": {
+      "total": 4,
+      "translated": 4,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_1:task-06": {
+      "total": 4,
+      "translated": 4,
+      "reviewed": 4,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_1:task-07": {
+      "total": 4,
+      "translated": 4,
+      "reviewed": 4,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_1:task-08": {
+      "total": 4,
+      "translated": 4,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_1:task-09": {
+      "total": 4,
+      "translated": 4,
+      "reviewed": 4,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_1:task-10": {
+      "total": 4,
+      "translated": 4,
+      "reviewed": 4,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_1:task-11": {
+      "total": 4,
+      "translated": 4,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_1:task-12": {
+      "total": 4,
+      "translated": 4,
+      "reviewed": 4,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_1:task-13": {
+      "total": 5,
+      "translated": 5,
+      "reviewed": 5,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_1:task-14": {
+      "total": 4,
+      "translated": 4,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_1:task-15": {
+      "total": 4,
+      "translated": 4,
+      "reviewed": 4,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_1:task-16": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_1:task-17": {
+      "total": 4,
+      "translated": 4,
+      "reviewed": 4,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_1:task-18": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_1:task-19": {
+      "total": 4,
+      "translated": 4,
+      "reviewed": 4,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_1:task-20": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_1:task-21": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 2,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_1:task-22": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 2,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_1:task-23": {
+      "total": 4,
+      "translated": 4,
+      "reviewed": 4,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_1:task-24": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_2:task-01": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_2:task-02": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_2:task-03": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_2:task-04": {
+      "total": 4,
+      "translated": 4,
+      "reviewed": 4,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_2:task-05": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_2:task-06": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_2:task-07": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_2:task-08": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_2:task-09": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_2:task-10": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_2:task-11": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_2:task-12": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_2:task-13": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_2:task-14": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_2:task-15": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_2:task-16": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_2:task-17": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_2:task-18": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_2:task-19": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_2:task-20": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_2:task-21": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_2:task-22": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_2:task-23": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tee_Gamecourse_2:task-24": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tehtavan_Kuvaus:capture": {
+      "total": 7,
+      "translated": 7,
+      "reviewed": 7,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tehtavan_Kuvaus:0x1001b4272": {
+      "total": 1,
+      "translated": 1,
+      "reviewed": 1,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tehtavan_Kuvaus:0x1001b4350": {
+      "total": 1,
+      "translated": 1,
+      "reviewed": 1,
+      "runtime_verified": 0
+    },
+    "urw3-bin:TehtavaNaytto:0x1001b49bd": {
+      "total": 1,
+      "translated": 1,
+      "reviewed": 1,
+      "runtime_verified": 0
+    },
+    "urw3-bin:game_course:0x100016889": {
+      "total": 1,
+      "translated": 1,
+      "reviewed": 1,
+      "runtime_verified": 0
+    },
+    "urw3-bin:game_course:0x1000167d9": {
+      "total": 1,
+      "translated": 1,
+      "reviewed": 1,
+      "runtime_verified": 0
+    },
+    "urw3-bin:game_course:0x100016815": {
+      "total": 1,
+      "translated": 1,
+      "reviewed": 1,
+      "runtime_verified": 0
+    },
+    "urw3-bin:game_course:0x1000167bc": {
+      "total": 1,
+      "translated": 1,
+      "reviewed": 1,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tehtavat_Suoritettu:0x1001b3faf": {
+      "total": 1,
+      "translated": 1,
+      "reviewed": 1,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tehtavat_Suoritettu:0x1001b3fd5": {
+      "total": 1,
+      "translated": 1,
+      "reviewed": 1,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tehtavat_Suoritettu:0x1001b40a4": {
+      "total": 1,
+      "translated": 1,
+      "reviewed": 1,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tehtavat_Suoritettu:0x1001b40bf": {
+      "total": 1,
+      "translated": 1,
+      "reviewed": 1,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tehtavat_Suoritettu:0x1001b40da": {
+      "total": 1,
+      "translated": 1,
+      "reviewed": 1,
+      "runtime_verified": 0
+    },
+    "urw3-bin:Tehtavat_Suoritettu:0x1001b41aa": {
+      "total": 1,
+      "translated": 1,
+      "reviewed": 1,
+      "runtime_verified": 0
+    },
+    "urw3-bin:buttext:0x100150000": {
+      "total": 1,
+      "translated": 1,
+      "reviewed": 1,
+      "runtime_verified": 0
+    },
+    "biy_glossary.txt": {
+      "total": 45,
+      "translated": 45,
+      "reviewed": 0,
+      "runtime_verified": 0
+    },
+    "cookery_glossary.txt": {
+      "total": 34,
+      "translated": 34,
+      "reviewed": 0,
+      "runtime_verified": 0
+    },
+    "diy_glossary.txt": {
+      "total": 155,
+      "translated": 155,
+      "reviewed": 0,
+      "runtime_verified": 0
+    },
+    "flora_berries.txt": {
+      "total": 18,
+      "translated": 18,
+      "reviewed": 0,
+      "runtime_verified": 0
+    },
+    "flora_cultivated.txt": {
+      "total": 7,
+      "translated": 7,
+      "reviewed": 0,
+      "runtime_verified": 0
+    },
+    "flora_herbs.txt": {
+      "total": 6,
+      "translated": 6,
+      "reviewed": 0,
+      "runtime_verified": 0
+    },
+    "flora_mushroom.txt": {
+      "total": 13,
+      "translated": 13,
+      "reviewed": 0,
+      "runtime_verified": 0
+    },
+    "flora_newherbs.txt": {
+      "total": 15,
+      "translated": 15,
+      "reviewed": 0,
+      "runtime_verified": 0
+    },
+    "ini_skills.txt": {
+      "total": 30,
+      "translated": 30,
+      "reviewed": 0,
+      "runtime_verified": 0
+    },
+    "messages/urw_chat.txt": {
+      "total": 79,
+      "translated": 79,
+      "reviewed": 76,
+      "runtime_verified": 0
+    },
+    "messages/urw_combat.txt": {
+      "total": 335,
+      "translated": 335,
+      "reviewed": 8,
+      "runtime_verified": 0
+    },
+    "messages/urw_defs.txt": {
+      "total": 92,
+      "translated": 92,
+      "reviewed": 0,
+      "runtime_verified": 0
+    },
+    "messages/urw_msg.txt": {
+      "total": 292,
+      "translated": 292,
+      "reviewed": 130,
+      "runtime_verified": 0
+    },
+    "messages/urw_pronouns.txt": {
+      "total": 21,
+      "translated": 21,
+      "reviewed": 0,
+      "runtime_verified": 0
+    },
+    "messages/urw_sounds.txt": {
+      "total": 104,
+      "translated": 104,
+      "reviewed": 0,
+      "runtime_verified": 0
+    },
+    "messages/urw_tags.txt": {
+      "total": 4,
+      "translated": 4,
+      "reviewed": 0,
+      "runtime_verified": 0
+    },
+    "messages/urw_uname_flora.txt": {
+      "total": 57,
+      "translated": 57,
+      "reviewed": 0,
+      "runtime_verified": 0
+    },
+    "RNDCAMP.0": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "RNDCAMP.1": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 2
+    },
+    "RNDCAMP.10": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "RNDCAMP.11": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "RNDCAMP.12": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "RNDCAMP.2": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "RNDCAMP.3": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "RNDCAMP.4": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "RNDCAMP.5": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "RNDCAMP.6": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "RNDCAMP.7": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "RNDCAMP.8": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "RNDCAMP.9": {
+      "total": 3,
+      "translated": 3,
+      "reviewed": 3,
+      "runtime_verified": 0
+    },
+    "GAME.NFO": {
+      "total": 313,
+      "translated": 313,
+      "reviewed": 0,
+      "runtime_verified": 2
+    },
+    "gameinfo/urw_scrinfo.txt": {
+      "total": 9,
+      "translated": 9,
+      "reviewed": 9,
+      "runtime_verified": 1
+    }
+  },
+  "unclassified_binary_candidates": 10026,
+  "binary_translation_queue": {
+    "passthrough": 250,
+    "translated": 6756,
+    "proposed_exclusions": 3270,
+    "untouched_candidates": 0
+  },
+  "catalogued_resource_totals": {
+    "total": 1861,
+    "translated": 1861,
+    "reviewed": 447,
+    "runtime_verified": 5
+  },
+  "runtime_dictionary": {
+    "records": 6641,
+    "exact_records": 6432,
+    "dynamic_template_records": 209,
+    "translated": 6572,
+    "passthrough": 69
+  },
+  "draft_validation_errors": [
+    "346f55e840cae1f6ac74: duplicate ID",
+    "098fc2803c4fd39f1918: duplicate ID",
+    "95fbd5dd667b70eeb7b4: duplicate ID",
+    "3bc8683e7708e32f66f4: duplicate ID",
+    "3bc8683e7708e32f66f4: conflicting translations for normalized key",
+    "c16bfc0b846a6127193c: duplicate ID",
+    "c16bfc0b846a6127193c: conflicting translations for normalized key",
+    "c9389372db84ba0443c2: duplicate ID",
+    "c9389372db84ba0443c2: conflicting translations for normalized key"
+  ]
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "72e00e1a429de1f5a3cd",
+    "source": "runtime:message-log",
+    "context": "message-log-ui",
+    "original": "Message log",
+    "translation": "消息总览",
+    "status": "reviewed"
+  },
+  {
+    "id": "e9ab0285b62299e7a863",
+    "source": "runtime:message-log",
+    "context": "message-log-ui",
+    "original": "Exit",
+    "translation": "退出",
+    "status": "reviewed"
+  },
+  {
+    "id": "b6b700d7c3fa555ec1ae",
+    "source": "runtime:message-log",
+    "context": "message-log-ui",
+    "original": "Enter a note to log",
+    "translation": "添加日志备注",
+    "status": "reviewed"
+  },
+  {
+    "id": "5291a732c7758fce8b64",
+    "source": "runtime:message-log",
+    "context": "message-log-ui",
+    "original": "You can now write a note which will be added to message log.",
+    "translation": "现在可以输入要添加到消息总览的备注。",
+    "status": "reviewed"
+  },
+  {
+    "id": "f2802e5e79177deaa2e3",
+    "source": "runtime:message-log",
+    "context": "message-log-ui",
+    "original": "{first:int}-{last:int} (of {total:int})",
+    "translation": "第 {first}–{last} 条（共 {total} 条）",
+    "status": "reviewed",
+    "kind": "template"
+  },
+  {
+    "id": "fa54d17d478f925f6813",
+    "source": "runtime:message-log",
+    "context": "message",
+    "original": "!There are no previous messages.",
+    "translation": "没有历史消息。",
+    "status": "reviewed"
+  }
+]

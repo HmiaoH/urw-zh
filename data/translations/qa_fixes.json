@@ -1,0 +1,294 @@
+[
+  {
+    "id": "5ce77b858526e211f074",
+    "source": "runtime:qa-help-spells-wounds",
+    "context": "renshow",
+    "original": "Scroll this help screen with mouse wheel or cursor keys ",
+    "translation": "用鼠标滚轮或以下按键滚动帮助页面：",
+    "status": "reviewed",
+    "runtime_verified": true
+  },
+  {
+    "id": "03b736aec7146550597c",
+    "source": "runtime:qa-help-spells-wounds",
+    "context": "renshow",
+    "original": "Exit",
+    "translation": "退出",
+    "status": "reviewed",
+    "runtime_verified": true
+  },
+  {
+    "id": "0f05c45bf9b6b96735b6",
+    "source": "runtime:qa-help-spells-wounds",
+    "context": "renshow",
+    "original": "HELP AND GAME OPTIONS",
+    "translation": "帮助与游戏选项",
+    "status": "reviewed",
+    "runtime_verified": true
+  },
+  {
+    "id": "18a8ad70ba9053b7479a",
+    "source": "runtime:qa-help-spells-wounds",
+    "context": "renshow",
+    "original": "Save the game",
+    "translation": "保存游戏",
+    "status": "reviewed",
+    "runtime_verified": true
+  },
+  {
+    "id": "a5334224a45db89bf2ae",
+    "source": "runtime:qa-help-spells-wounds",
+    "context": "message",
+    "original": "#HELP AND GAME OPTIONS: Keyboard commands",
+    "translation": "帮助与游戏选项：键盘命令",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ea9870408f414837f888",
+    "source": "runtime:qa-help-spells-wounds",
+    "context": "renshow",
+    "original": "QUEST JOURNAL",
+    "translation": "任务日志",
+    "status": "reviewed",
+    "runtime_verified": true
+  },
+  {
+    "id": "cae279b51ae030cf8c32",
+    "source": "runtime:qa-help-spells-wounds",
+    "context": "renshow",
+    "original": "You are not currently involved in any quests.",
+    "translation": "你目前没有正在进行的任务。",
+    "status": "reviewed",
+    "runtime_verified": true
+  },
+  {
+    "id": "ce58349af3d55ef91f6b",
+    "source": "runtime:qa-help-spells-wounds",
+    "context": "renshow",
+    "original": "Quests may come in your way by talking and interacting with people.",
+    "translation": "与人交谈和互动，可能会让你遇到任务。",
+    "status": "reviewed",
+    "runtime_verified": true
+  },
+  {
+    "id": "f8ab3ced3205c7ba01cc",
+    "source": "runtime:qa-help-spells-wounds",
+    "context": "renshow",
+    "original": "SPELLS AND MAGIC MEANS",
+    "translation": "法术与魔法手段",
+    "status": "reviewed",
+    "runtime_verified": true
+  },
+  {
+    "id": "12d6e1037c9f31b8f8c7",
+    "source": "runtime:qa-help-spells-wounds",
+    "context": "renshow",
+    "original": "GENERAL SACRIFICE",
+    "translation": "一般献祭",
+    "status": "reviewed",
+    "runtime_verified": true
+  },
+  {
+    "id": "accc2ad58ae850decb06",
+    "source": "runtime:qa-help-spells-wounds",
+    "context": "renshow",
+    "original": "BEAR SKULL RITE",
+    "translation": "熊颅仪式",
+    "status": "reviewed",
+    "runtime_verified": true
+  },
+  {
+    "id": "b930529b54b4563d5f7b",
+    "source": "runtime:qa-help-spells-wounds",
+    "context": "renshow",
+    "original": "SETTING SNARES FOR HARES",
+    "translation": "设置捕兔绳套",
+    "status": "reviewed",
+    "runtime_verified": true
+  },
+  {
+    "id": "382285518d5604bcf4db",
+    "source": "runtime:qa-help-spells-wounds",
+    "context": "renshow",
+    "original": "CARRYING BEAR TEETH TO FIND HARES AND BIRDS",
+    "translation": "携带熊牙寻找野兔和猎鸟",
+    "status": "reviewed",
+    "runtime_verified": true
+  },
+  {
+    "id": "179840df33cf1546f244",
+    "source": "runtime:qa-help-spells-wounds",
+    "context": "renshow",
+    "original": "SPELLS",
+    "translation": "法术",
+    "status": "reviewed",
+    "runtime_verified": true
+  },
+  {
+    "id": "b898b28c120c7f485e1e",
+    "source": "runtime:qa-help-spells-wounds",
+    "context": "renshow",
+    "original": "Launch UnReal World encyclopedia and learn more",
+    "translation": "打开游戏百科，了解更多",
+    "status": "reviewed",
+    "runtime_verified": true
+  },
+  {
+    "id": "25366f00cee8279604ff",
+    "source": "runtime:qa-help-spells-wounds",
+    "context": "paragraph",
+    "original": "All-round way to sacrifice something in order to please or thank the spirits and otherworldly beings in various occasions.",
+    "translation": "适用于多种场合的献祭方式，用于取悦或感谢精灵与异界存在。",
+    "status": "reviewed",
+    "runtime_verified": true
+  },
+  {
+    "id": "d48259cb250bc663096a",
+    "source": "runtime:qa-help-spells-wounds",
+    "context": "paragraph",
+    "original": "After the bear is brought down its skull eventually needs to be placed to hang in a big lone pine-tree. That completes the hunting and burial ceremony and assures proper circulation of the bear spirit.",
+    "translation": "猎杀熊之后，最终应将熊颅悬挂在一棵高大、独立的松树上。这样才算完成狩猎与葬礼仪式，确保熊之灵得到妥善的轮回。",
+    "status": "reviewed",
+    "runtime_verified": true
+  },
+  {
+    "id": "488b345b2210d3e748fc",
+    "source": "runtime:qa-help-spells-wounds",
+    "context": "paragraph",
+    "original": "Loop snares for hares shouldn't be set barehanded but you should always wear mittens, and preferably woollen mittens.",
+    "translation": "设置捕兔绳套时不应赤手操作，而应始终戴着连指手套，最好使用羊毛连指手套。",
+    "status": "reviewed",
+    "runtime_verified": true
+  },
+  {
+    "id": "ecc799ff0e8956322ab9",
+    "source": "runtime:qa-help-spells-wounds",
+    "context": "paragraph",
+    "original": "Bear is a great hunter who always finds its prey, and hunters who carry bear teeth with them can come across hares and game birds as they please.",
+    "translation": "熊是出色的猎手，总能找到猎物。随身携带熊牙的猎人，也能如愿遇见野兔和猎鸟。",
+    "status": "reviewed",
+    "runtime_verified": true
+  },
+  {
+    "id": "845586a67f712074aea2",
+    "source": "runtime:qa-help-spells-wounds",
+    "context": "showtext",
+    "original": "WOUNDS, INJURIES AND DISEASES",
+    "translation": "伤口、损伤与疾病",
+    "status": "reviewed",
+    "runtime_verified": true
+  },
+  {
+    "id": "c28c9333bbd8202268da",
+    "source": "runtime:qa-help-spells-wounds",
+    "context": "showtext",
+    "original": "  CRITICAL",
+    "translation": "  危重",
+    "status": "reviewed",
+    "runtime_verified": true
+  },
+  {
+    "id": "3ac2026af9e339c5e2ff",
+    "source": "runtime:qa-help-spells-wounds",
+    "context": "showtext",
+    "original": "  SERIOUS",
+    "translation": "  严重",
+    "status": "reviewed",
+    "runtime_verified": true
+  },
+  {
+    "id": "841433ef7094156651cb",
+    "source": "runtime:qa-help-spells-wounds",
+    "context": "showtext",
+    "original": "   MINOR",
+    "translation": "   轻微",
+    "status": "reviewed",
+    "runtime_verified": true
+  },
+  {
+    "id": "ad629862642d20f54ec1",
+    "source": "runtime:qa-help-spells-wounds",
+    "context": "showtext",
+    "original": "You have no injuries.",
+    "translation": "你没有受伤。",
+    "status": "reviewed",
+    "runtime_verified": true
+  },
+  {
+    "id": "c923ae1565bae2b39fa3",
+    "source": "runtime:qa-help-spells-wounds",
+    "context": "showtext",
+    "original": "INJURIES",
+    "translation": "伤势",
+    "status": "reviewed",
+    "runtime_verified": true
+  },
+  {
+    "id": "dd2eafb7aa0257d04375",
+    "source": "runtime:wound-columns",
+    "context": "showtext",
+    "original": "STATE      WOUND DESCRIPTION             INJURY  TREATED",
+    "translation": "状态伤口描述伤势已处理",
+    "segments": [
+      {
+        "offset": 0,
+        "width": 88,
+        "text": "状态"
+      },
+      {
+        "offset": 88,
+        "width": 240,
+        "text": "伤口描述"
+      },
+      {
+        "offset": 328,
+        "width": 64,
+        "text": "伤势"
+      },
+      {
+        "offset": 392,
+        "width": 56,
+        "text": "已处理"
+      }
+    ],
+    "status": "reviewed",
+    "runtime_verified": true
+  },
+  {
+    "id": "15c025751fc0e7d39305",
+    "source": "runtime:inventory-observed",
+    "context": "showtext",
+    "original": "VIEW WHAT TYPE OF ITEMS?",
+    "translation": "查看哪类物品？",
+    "status": "reviewed",
+    "runtime_verified": true
+  },
+  {
+    "id": "323f7f5f1fe3bccecdb6",
+    "source": "runtime:inventory-observed",
+    "context": "showtext",
+    "original": "All types",
+    "translation": "全部类别",
+    "status": "reviewed",
+    "runtime_verified": true
+  },
+  {
+    "id": "ca3646a1ea1cfd20599d",
+    "source": "runtime:inventory-observed",
+    "context": "message",
+    "original": "+The applicable weapon skill for the hunting knife is \"KNIFE\".",
+    "translation": "猎刀适用的武器技能是“刀”。",
+    "status": "reviewed",
+    "runtime_verified": true
+  },
+  {
+    "id": "94be27d238392a20a15e",
+    "source": "runtime:inventory-observed",
+    "context": "message",
+    "original": "+Weapon classification of the hunting knife gives it a very little bonus to attack, and zero bonus to defense.",
+    "translation": "猎刀的武器类别带来极小的攻击加成，没有防御加成。",
+    "status": "reviewed",
+    "runtime_verified": true
+  }
+]

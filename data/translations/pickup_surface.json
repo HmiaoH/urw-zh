@@ -1,0 +1,58 @@
+[
+  {
+    "id": "pickup-76f9a16c8fc9ca28",
+    "source": "runtime:pickup-list",
+    "context": "showtext",
+    "original": "What do you want to pick up?",
+    "translation": "你想拾取什么？",
+    "status": "reviewed"
+  },
+  {
+    "id": "pickup-7346c79cf728b894",
+    "source": "runtime:pickup-list",
+    "context": "showtext",
+    "original": "Hides & Skins",
+    "translation": "皮张与毛皮",
+    "status": "reviewed"
+  },
+  {
+    "id": "pickup-4d077a7ea4dd0d85",
+    "source": "runtime:pickup-list",
+    "context": "showtext",
+    "original": "Textiles & Yarn",
+    "translation": "织物与纱线",
+    "status": "reviewed"
+  },
+  {
+    "id": "pickup-1fc9a387654d410f",
+    "source": "runtime:pickup-list",
+    "context": "showtext",
+    "original": "Select all",
+    "translation": "全选",
+    "status": "reviewed"
+  },
+  {
+    "id": "pickup-118895134d9127fd",
+    "source": "runtime:pickup-list",
+    "context": "showtext",
+    "original": "You can select multiple items here.",
+    "translation": "这里可以选择多件物品。",
+    "status": "reviewed"
+  },
+  {
+    "id": "pickup-f3355578577c30e9",
+    "source": "runtime:pickup-list",
+    "context": "showtext",
+    "original": "Select items to ",
+    "translation": "选择物品以",
+    "status": "reviewed"
+  },
+  {
+    "id": "pickup-b771b19589eb64f8",
+    "source": "runtime:pickup-list",
+    "context": "showtext",
+    "original": "pick up",
+    "translation": "拾取",
+    "status": "reviewed"
+  }
+]

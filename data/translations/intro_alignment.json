@@ -1,0 +1,42 @@
+[
+  {
+    "id": "intro-7cea103252ac03381726",
+    "source": "native:intro_teksti",
+    "context": "showtext",
+    "original": "When The First Winter was over,",
+    "translation": "当第一个冬天结束时，",
+    "status": "reviewed"
+  },
+  {
+    "id": "intro-480b064cceaebfcb3c40",
+    "source": "native:intro_teksti",
+    "context": "showtext",
+    "original": "Inehmoes could not understand The Wind singing,",
+    "translation": "伊内赫莫人听不懂风的歌唱，",
+    "status": "reviewed"
+  },
+  {
+    "id": "intro-f157fdcf3b6e392a5852",
+    "source": "native:intro_teksti",
+    "context": "showtext",
+    "original": "nor The Bear and The Forest humming.",
+    "translation": "也听不懂熊与森林的低吟。",
+    "status": "reviewed"
+  },
+  {
+    "id": "intro-401f1571a2b95307aadf",
+    "source": "native:intro_teksti",
+    "context": "showtext",
+    "original": "The wise ones among the people said that The World was no longer real.",
+    "translation": "人群中的智者说，世界已不再真实。",
+    "status": "reviewed"
+  },
+  {
+    "id": "intro-06ef416773ba8d52649c",
+    "source": "native:intro_teksti",
+    "context": "showtext",
+    "original": "The World was Unreal.",
+    "translation": "世界成了虚幻的世界。",
+    "status": "reviewed"
+  }
+]

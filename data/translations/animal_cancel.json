@@ -1,0 +1,1234 @@
+[
+  {
+    "id": "b057b0b21b54403c3ad6",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "\"Forget about it. I've changed my mind.\"",
+    "translation": "“算了，我改主意了。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": true,
+    "evidence": {
+      "function": "CompanionRecruitChat → Execute_Talk",
+      "callsite": "0x100186a43 → 0x1001503d0"
+    }
+  },
+  {
+    "id": "bf8761cb3a830871be23",
+    "source": "urw3-bin:animal-cancel",
+    "context": "player-talk",
+    "original": "\"Forget about it. I've changed my mind.\"",
+    "translation": "“算了，我改主意了。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": true,
+    "evidence": {
+      "function": "CompanionRecruitChat → Execute_Talk",
+      "callsite": "0x100186a43 → 0x100191ca2"
+    }
+  },
+  {
+    "id": "d8ae1f29f0e132e9cb12",
+    "source": "urw3-bin:animal-cancel",
+    "context": "npc-talk",
+    "original": "Alright, fine. Let me know if you need my help some other time.",
+    "translation": "好吧。以后需要我帮忙的话，尽管来找我。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": true,
+    "evidence": {
+      "function": "RunParser",
+      "callsite": "0x10018d324"
+    }
+  },
+  {
+    "id": "9226a8b8b2eeafd2a060",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "Buy an animal",
+    "translation": "购买动物",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": true,
+    "evidence": {
+      "function": "Talk → LIST_Draw",
+      "callsite": "0x100195160 → 0x1001503d0"
+    }
+  },
+  {
+    "id": "db41cdfbd3ad1b9eca2c",
+    "source": "urw3-bin:animal-cancel",
+    "context": "npc-talk",
+    "original": "What kind of animals you need? ",
+    "translation": "你想买哪种动物？",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Execute_Talk",
+      "callsite": "0x1001911f2"
+    }
+  },
+  {
+    "id": "c64fd44116ded0f33e42",
+    "source": "urw3-bin:animal-cancel",
+    "context": "npc-talk",
+    "original": "I think you are mistaken. I do not own the animals around here.",
+    "translation": "你大概找错人了。这儿的动物不归我。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Execute_Talk",
+      "callsite": "0x1001915bd"
+    }
+  },
+  {
+    "id": "f4ae9acd4f8acbc31463",
+    "source": "urw3-bin:animal-cancel",
+    "context": "npc-talk",
+    "original": "Sorry, but the animals we have are kept for ourselves.",
+    "translation": "抱歉，我们的牲畜得留着自用。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Execute_Talk",
+      "callsite": "0x1001915bd"
+    }
+  },
+  {
+    "id": "10985c1d108c57bd1917",
+    "source": "urw3-bin:animal-cancel",
+    "context": "npc-talk",
+    "original": "We don't have animals to sell here.",
+    "translation": "我们这儿没有动物可卖。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Execute_Talk",
+      "callsite": "0x1001915bd"
+    }
+  },
+  {
+    "id": "74fb3708ee6c95376740",
+    "source": "urw3-bin:animal-cancel",
+    "context": "npc-talk",
+    "original": "NOT FOR SALE!",
+    "translation": "不卖！",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Execute_Talk",
+      "callsite": "0x100191873"
+    }
+  },
+  {
+    "id": "08f6910dca9174ea6e8d",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "Very well, I understand.",
+    "translation": "好，我明白了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Execute_Talk",
+      "callsite": "0x1001915ce → 0x1001503d0"
+    }
+  },
+  {
+    "id": "ca48e79a14e5384f7a40",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "Ok, no problem.",
+    "translation": "好，没关系。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Execute_Talk",
+      "callsite": "0x1001915ce → 0x1001503d0"
+    }
+  },
+  {
+    "id": "6531f5d7d6b490ebaa2c",
+    "source": "urw3-bin:animal-cancel",
+    "context": "npc-talk",
+    "original": "I don't want to be greedy so it's best that you make the offer.",
+    "translation": "我可不想占你便宜，还是你先出价吧。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "npc_trade_suggestion",
+      "callsite": "0x100181966"
+    }
+  },
+  {
+    "id": "a8a5b237cd0762380582",
+    "source": "urw3-bin:animal-cancel",
+    "context": "npc-talk",
+    "original": "It takes more than this but at this point, how about your",
+    "translation": "这些还不够。不过现在嘛，你愿不愿意拿这些来换？",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "npc_trade_suggestion",
+      "callsite": "0x1001818ef"
+    }
+  },
+  {
+    "id": "7b9cceb1bf21dd707703",
+    "source": "urw3-bin:animal-cancel",
+    "context": "npc-talk",
+    "original": "It's hard to decide but at this point, how about your",
+    "translation": "我有点拿不定主意。你愿不愿意拿这些来换？",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "npc_trade_suggestion",
+      "callsite": "0x1001818ef"
+    }
+  },
+  {
+    "id": "cb04ea4e636375992512",
+    "source": "urw3-bin:animal-cancel",
+    "context": "npc-talk",
+    "original": "I think we could come to an agreement if you would give me your",
+    "translation": "你要是肯拿这些来换，我看这买卖就能谈成。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "npc_trade_suggestion",
+      "callsite": "0x1001818ef"
+    }
+  },
+  {
+    "id": "1085dd3de492f427ecee",
+    "source": "urw3-bin:animal-cancel",
+    "context": "npc-talk",
+    "original": "I think you simply don't have enough valuable goods to complete this trade.",
+    "translation": "你带的东西恐怕不够值钱，这买卖做不成。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "npc_trade_suggestion",
+      "callsite": "0x100181966"
+    }
+  },
+  {
+    "id": "ff106e98e5b576f4df99",
+    "source": "urw3-bin:animal-cancel",
+    "context": "npc-talk",
+    "original": "I doubt you have enough to complete this trade, but I'm somewhat interested in your",
+    "translation": "你带的东西恐怕不够，不过这几样我倒有点兴趣。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "npc_trade_suggestion",
+      "callsite": "0x1001818ef"
+    }
+  },
+  {
+    "id": "0299a96798edeec48349",
+    "source": "urw3-bin:animal-cancel",
+    "context": "npc-talk",
+    "original": "I think it's best if you make the offers now.",
+    "translation": "我看还是由你出价吧。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "npc_trade_suggestion",
+      "callsite": "0x100181966"
+    }
+  },
+  {
+    "id": "a5b9058baf39be4e6ff1",
+    "source": "urw3-bin:animal-cancel",
+    "context": "npc-talk",
+    "original": "You don't seem to be carring anything that actually interests me.",
+    "translation": "你身上好像没有我想要的东西。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "npc_trade_suggestion",
+      "callsite": "0x100181966"
+    }
+  },
+  {
+    "id": "f371bd50dc96cf26566a",
+    "source": "urw3-bin:animal-cancel",
+    "context": "npc-talk",
+    "original": "Well, give me another offer then if you want it...",
+    "translation": "好吧，还想要的话，就再出个价吧……",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "RunParser",
+      "callsite": "0x10018d280"
+    }
+  },
+  {
+    "id": "941a99639fc132074ade",
+    "source": "urw3-bin:animal-cancel",
+    "context": "npc-talk",
+    "original": "Okay, what you can offer me in this trade?",
+    "translation": "好，你打算拿什么来换？",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "RunParser",
+      "callsite": "0x10018d9f5"
+    }
+  },
+  {
+    "id": "58db54cd670afbab6810",
+    "source": "urw3-bin:animal-cancel",
+    "context": "npc-talk",
+    "original": "You better pay for what you ordered!",
+    "translation": "你订的东西最好还是付账！",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "RunParser",
+      "callsite": "0x10018e8bb"
+    }
+  },
+  {
+    "id": "17d22774d1aba671c6e2",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "You are bargaining about",
+    "translation": "你正在商谈购买",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Show_Trade_Info",
+      "callsite": "0x10017c082"
+    }
+  },
+  {
+    "id": "3fe890cedbe55e5ba322",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "and are willing to trade your",
+    "translation": "你愿意拿这些东西",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Show_Trade_Info",
+      "callsite": "0x10017c0fb"
+    }
+  },
+  {
+    "id": "74e313230326911ca1f0",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "(no items selected yet)",
+    "translation": "（尚未选择物品）",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Show_Trade_Info",
+      "callsite": "0x10017c21f"
+    }
+  },
+  {
+    "id": "9e35200914b313900ab8",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "for it.",
+    "translation": "来交换。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Show_Trade_Info",
+      "callsite": "0x10017c251"
+    }
+  },
+  {
+    "id": "3c5c6703a89a00e729c5",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "The trade is complete and the goods change their",
+    "translation": "交易完成，货物已经",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Trade_Complete → Emote → centext",
+      "callsite": "0x10017fe65 → 0x1001504d2"
+    }
+  },
+  {
+    "id": "a3710a45d1e296e7b335",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "owners.",
+    "translation": "易主。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Trade_Complete → Emote → centext",
+      "callsite": "0x10017fe65 → 0x100150588"
+    }
+  },
+  {
+    "id": "e08a204a8effc7f28bd4",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "pig",
+    "translation": "猪",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "7d27c728790c60ccde63",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "small pig",
+    "translation": "小猪",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "3aa24a892f237663f5de",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "big pig",
+    "translation": "大猪",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "10747d73db362911979e",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "sow",
+    "translation": "母猪",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "bd9aaf920677bb71680e",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "small sow",
+    "translation": "小母猪",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "86ab438c7b08d07d9f01",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "big sow",
+    "translation": "大母猪",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "02b2ec0cde32cc375ea3",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "boar",
+    "translation": "公猪",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "60493fb62deedfdf3428",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "small boar",
+    "translation": "小公猪",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "d5f12b16eb4900540d53",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "big boar",
+    "translation": "大公猪",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "0b847c07604b199d15de",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "sheep",
+    "translation": "绵羊",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "4d1482f85476467511a2",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "small sheep",
+    "translation": "小绵羊",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "237e08da92afc77fb019",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "big sheep",
+    "translation": "大绵羊",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "1bec8e68508e97db65f1",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "ram",
+    "translation": "公羊",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "6b4000e1ac07e4ced3c6",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "small ram",
+    "translation": "小公羊",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "c61b90157305bd00b1ab",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "big ram",
+    "translation": "大公羊",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "6449de75e1f9ae8080fa",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "cow",
+    "translation": "母牛",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "404698989abd877bae26",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "small cow",
+    "translation": "小母牛",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "9b40fda1f75c74d6b3d5",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "big cow",
+    "translation": "大母牛",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "739d9129901ba681f196",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "bull",
+    "translation": "公牛",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "52b7881d154ca5ccc871",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "small bull",
+    "translation": "小公牛",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "dc91a8f3241243fdb1bb",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "big bull",
+    "translation": "大公牛",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "a40ce45afae888cdbb7e",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "dog",
+    "translation": "狗",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "fe9de4e3bfd772d3d86b",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "small dog",
+    "translation": "小狗",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "0599257709f80c98190f",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "big dog",
+    "translation": "大狗",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "834912b6e51858d08b54",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "female dog",
+    "translation": "母狗",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "2a97618d80f1698c4b63",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "small female dog",
+    "translation": "小母狗",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "6c82df380ba1e79ba4b9",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "big female dog",
+    "translation": "大母狗",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "9a0f7e73f7c2db34fab6",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "reindeer",
+    "translation": "驯鹿",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "c8fef1f4f8a2c5aa3e17",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "small reindeer",
+    "translation": "小驯鹿",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "63a664572ba51f077fef",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "big reindeer",
+    "translation": "大驯鹿",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "8400f9af8146ff04546f",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "horse",
+    "translation": "马",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "e0912862e34a6f5a11ed",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "small horse",
+    "translation": "小马",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "cd8d7a57c87198c2947c",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "big horse",
+    "translation": "大马",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "b27260b929f2b12ef636",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "bull reindeer",
+    "translation": "雄驯鹿",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "7212499c374c9c674441",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "small bull reindeer",
+    "translation": "小雄驯鹿",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "869afa3ad73dd3aa14e4",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "big bull reindeer",
+    "translation": "大雄驯鹿",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "812cfee002b9402516b3",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "reindeer doe",
+    "translation": "雌驯鹿",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "4c55f117a8b6f67ac00d",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "small reindeer doe",
+    "translation": "小雌驯鹿",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "f76cad8268d3ca79c975",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "big reindeer doe",
+    "translation": "大雌驯鹿",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "6840b47ee18ca8a03f79",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "piglet",
+    "translation": "猪崽",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "4eb137ab40bcadd8ea85",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "small piglet",
+    "translation": "小猪崽",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "411afe355e68535ef81e",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "big piglet",
+    "translation": "大猪崽",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "d856d62ff3225aab6bd7",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "lamb",
+    "translation": "羊羔",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "a229b911e476537db714",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "small lamb",
+    "translation": "小羊羔",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "8654c815cc113ba21eef",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "big lamb",
+    "translation": "大羊羔",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "87d7876a200f842aef00",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "puppy",
+    "translation": "小狗",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "85eba50aacba1e29ae6b",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "small puppy",
+    "translation": "小小狗",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "a9c58ffa9574e2e7e477",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "big puppy",
+    "translation": "大小狗",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "3a29d4c5d0ffa26f7fd4",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "cow calf",
+    "translation": "牛犊",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "af3c028d341cef012371",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "small cow calf",
+    "translation": "小牛犊",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "309142e735c14ea956eb",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "big cow calf",
+    "translation": "大牛犊",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "ba452c2e88525d44cb54",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "bull calf",
+    "translation": "公牛犊",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "4e3bb1a2b54915af6330",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "small bull calf",
+    "translation": "小公牛犊",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "3199c9dd9c5654e12eac",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "big bull calf",
+    "translation": "大公牛犊",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "be1ec2415ad7d34d6348",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "reindeer calf",
+    "translation": "驯鹿幼崽",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "9d2c973824723b8ccaf9",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "small reindeer calf",
+    "translation": "小驯鹿幼崽",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "6922ce7b006eb3b72392",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "big reindeer calf",
+    "translation": "大驯鹿幼崽",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "5fe5dbe61316cad33c40",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "dog puppy",
+    "translation": "小狗",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "9ecf5815ffa7a090e30c",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "small dog puppy",
+    "translation": "小小狗",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  },
+  {
+    "id": "0756e470b402cc3fcd7a",
+    "source": "urw3-bin:animal-cancel",
+    "context": "showtext",
+    "original": "big dog puppy",
+    "translation": "大小狗",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "function": "Make_Animal_List → Execute_Talk → LIST_Draw / Show_Trade_Info",
+      "callsite": "0x100189f42 → 0x10019122f → 0x1001503d0 / 0x10017c0c9"
+    }
+  }
+]

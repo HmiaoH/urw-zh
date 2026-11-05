@@ -1,0 +1,1034 @@
+[
+  {
+    "id": "1125d01c3df9868897b4",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "TENDON",
+    "translation": "肌腱",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".TENDON.TENDONS."
+    }
+  },
+  {
+    "id": "a7a05d73adacbbb20fb8",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "TENDON",
+    "translation": "连接肌肉和骨骼，可加工成筋线。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".TENDON.TENDONS."
+    }
+  },
+  {
+    "id": "0dad07c0881b39e2b24e",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "TENDONS",
+    "translation": "肌腱",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".TENDON.TENDONS."
+    }
+  },
+  {
+    "id": "5a2f8534d45fbbe80aa6",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "TENDONS",
+    "translation": "连接肌肉和骨骼，可加工成筋线。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".TENDON.TENDONS."
+    }
+  },
+  {
+    "id": "d0a8c4f6473a1ee4b5cd",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "SINEW FIBRE",
+    "translation": "筋纤维",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SINEW FIBRE.SINEW FIBRES."
+    }
+  },
+  {
+    "id": "71768e4ec380dec75e5b",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "SINEW FIBRE",
+    "translation": "从干肌腱中分离的纤维，可捻成筋线。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SINEW FIBRE.SINEW FIBRES."
+    }
+  },
+  {
+    "id": "8e7efec8088eca2a8f3b",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "SINEW FIBRES",
+    "translation": "筋纤维",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SINEW FIBRE.SINEW FIBRES."
+    }
+  },
+  {
+    "id": "7bcb0e37d60052a706ee",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "SINEW FIBRES",
+    "translation": "从干肌腱中分离的纤维，可捻成筋线。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SINEW FIBRE.SINEW FIBRES."
+    }
+  },
+  {
+    "id": "c67c83e8efa1fd638381",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "CLOTH",
+    "translation": "布料",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CLOTH."
+    }
+  },
+  {
+    "id": "c7b899b07b970e2c3d36",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "CLOTH",
+    "translation": "用植物或羊毛纱线织成，可制作各类衣物。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CLOTH."
+    }
+  },
+  {
+    "id": "0891581d5a68af243bf0",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "NETTING NEEDLE",
+    "translation": "织网针",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".NETTING NEEDLE."
+    }
+  },
+  {
+    "id": "557daff9a04a75628fa8",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "NETTING NEEDLE",
+    "translation": "用来打结并织出均匀网眼的木制工具。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".NETTING NEEDLE."
+    }
+  },
+  {
+    "id": "c30dc2d56027bb10166e",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "SPINDLE",
+    "translation": "纺锤",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SPINDLE."
+    }
+  },
+  {
+    "id": "56c6c82b3f55e939ea19",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "SPINDLE",
+    "translation": "将植物纤维纺成纱线的木制工具。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SPINDLE."
+    }
+  },
+  {
+    "id": "6eb2aad14d43d7e3c97d",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "ARMOUR MATERIALS",
+    "translation": "护甲材料",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".ARMOUR MATERIALS."
+    }
+  },
+  {
+    "id": "7a536d883f57e2ec3635",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "ARMOUR MATERIALS",
+    "translation": "布料、皮革和金属等材料提供不同的防护。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".ARMOUR MATERIALS."
+    }
+  },
+  {
+    "id": "c5d52b9bbb65b0786a30",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "NETTLE",
+    "translation": "荨麻",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".NETTLE."
+    }
+  },
+  {
+    "id": "61aeb004e6cc6c0dec3b",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "NETTLE",
+    "translation": "可直接从鲜株提取纤维的野生植物。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".NETTLE."
+    }
+  },
+  {
+    "id": "f6acde7279104cb5370a",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "FLAX",
+    "translation": "亚麻",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FLAX."
+    }
+  },
+  {
+    "id": "1e14730c779f854abd67",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "FLAX",
+    "translation": "古老的栽培植物，纤维可用来纺线织布。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FLAX."
+    }
+  },
+  {
+    "id": "335d6ce6121f4a7d3627",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "HEMP",
+    "translation": "大麻",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".HEMP."
+    }
+  },
+  {
+    "id": "51d07597de35d6875733",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "HEMP",
+    "translation": "广泛栽培的纺织植物，纤维可用来纺线。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".HEMP."
+    }
+  },
+  {
+    "id": "862833833a6b6a62cf10",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "LINEN",
+    "translation": "亚麻布",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LINEN."
+    }
+  },
+  {
+    "id": "196a8b09bc8f9571133a",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "LINEN",
+    "translation": "用亚麻纤维织成的布料，透气又保暖。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LINEN."
+    }
+  },
+  {
+    "id": "d6e13c36fc895382fe6e",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "WOOLLEN",
+    "translation": "羊毛",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOOLLEN.WOOL."
+    }
+  },
+  {
+    "id": "08ccea8b13d9cba7ecc9",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "WOOLLEN",
+    "translation": "常用的衣料，能保暖并略微缓冲撞击。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOOLLEN.WOOL."
+    }
+  },
+  {
+    "id": "40c6b7b4ee268a6f505e",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "WOOL",
+    "translation": "羊毛",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOOLLEN.WOOL."
+    }
+  },
+  {
+    "id": "5ce1c901c829ccd3a267",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "WOOL",
+    "translation": "常用的衣料，能保暖并略微缓冲撞击。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOOLLEN.WOOL."
+    }
+  },
+  {
+    "id": "e8fe04028c07cacd8206",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "LEATHER",
+    "translation": "皮革",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LEATHER."
+    }
+  },
+  {
+    "id": "f367652b14c7471e4137",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "LEATHER",
+    "translation": "常用于制作鞋靴、腰带和各类装备。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LEATHER."
+    }
+  },
+  {
+    "id": "7540cffec822b548eb7c",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "FUR",
+    "translation": "毛皮",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FUR."
+    }
+  },
+  {
+    "id": "e7d144315358ec0c0f79",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "FUR",
+    "translation": "用于制作冬季衣物，保暖并能抵挡部分攻击。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".FUR."
+    }
+  },
+  {
+    "id": "39d287aae3b5375ba1cd",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "BIRCH-BARK",
+    "translation": "桦树皮",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".BIRCH-BARK."
+    }
+  },
+  {
+    "id": "c315258d31eff1fa80cb",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "BIRCH-BARK",
+    "translation": "可制成绳索、容器、鞋和渔网浮子。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".BIRCH-BARK."
+    }
+  },
+  {
+    "id": "e120b2b4152cef8cb011",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "LAMELLAR",
+    "translation": "札甲",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LAMELLAR."
+    }
+  },
+  {
+    "id": "802640e371920305e08f",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "LAMELLAR",
+    "translation": "用皮条连接小铁片制成，尤其能抵挡钝击。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LAMELLAR."
+    }
+  },
+  {
+    "id": "e4804e5fc7c7e9ca0c94",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "MAIL",
+    "translation": "锁子甲",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".MAIL."
+    }
+  },
+  {
+    "id": "76111bddc2270b056410",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "MAIL",
+    "translation": "由金属环相扣制成，擅长抵挡刀刃。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".MAIL."
+    }
+  },
+  {
+    "id": "4d92c0ebc4d246574d39",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "IRON",
+    "translation": "铁甲",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".IRON."
+    }
+  },
+  {
+    "id": "702d2e1f003255dcd9cb",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "IRON",
+    "translation": "坚硬的连续护甲，常见于头盔或局部护具。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".IRON."
+    }
+  },
+  {
+    "id": "b8683c609ed4a81220b9",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "NALBINDING",
+    "translation": "单针编结",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".NALBINDING.NALBOUND."
+    }
+  },
+  {
+    "id": "dfc63e09ff9ca717a0ad",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "NALBINDING",
+    "translation": "用一根针编结羊毛纱线，能做出保暖衣物。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".NALBINDING.NALBOUND."
+    }
+  },
+  {
+    "id": "88ff9360178d536d4056",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "NALBOUND",
+    "translation": "单针编结",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".NALBINDING.NALBOUND."
+    }
+  },
+  {
+    "id": "109da5d0d9df8a38b888",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "NALBOUND",
+    "translation": "用一根针编结羊毛纱线，能做出保暖衣物。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".NALBINDING.NALBOUND."
+    }
+  },
+  {
+    "id": "a239825970ceeb4a34fc",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "CLOTH CORD",
+    "translation": "细布绳",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CLOTH CORD."
+    }
+  },
+  {
+    "id": "98dc1328f2682af5bed6",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "CLOTH CORD",
+    "translation": "用衣物布条临时做成的细绳，可用来应急。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CLOTH CORD."
+    }
+  },
+  {
+    "id": "265e464e83d0dc33b883",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "CORD",
+    "translation": "细绳",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CORD.LEATHER CORD.CORDS."
+    }
+  },
+  {
+    "id": "9711176b436aab634c94",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "CORD",
+    "translation": "比纱线粗、比绳索细，可用来捆扎。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CORD.LEATHER CORD.CORDS."
+    }
+  },
+  {
+    "id": "5804555b4559c77ce7ff",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "LEATHER CORD",
+    "translation": "细皮绳",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CORD.LEATHER CORD.CORDS."
+    }
+  },
+  {
+    "id": "ae8e3d772c415dad1e9f",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "LEATHER CORD",
+    "translation": "用皮革制成的细绳，可用来捆扎。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CORD.LEATHER CORD.CORDS."
+    }
+  },
+  {
+    "id": "2038281a2ab5edacfdd1",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "CORDS",
+    "translation": "细绳",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CORD.LEATHER CORD.CORDS."
+    }
+  },
+  {
+    "id": "2eff9aebfc1c035073cc",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "CORDS",
+    "translation": "比纱线粗、比绳索细，可用来捆扎。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".CORD.LEATHER CORD.CORDS."
+    }
+  },
+  {
+    "id": "94e3e63707f7762e7a31",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "LEATHER ROPE",
+    "translation": "皮绳",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LEATHER ROPE.ROPE.ROPES."
+    }
+  },
+  {
+    "id": "0a34842efd8ab805dbde",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "LEATHER ROPE",
+    "translation": "用皮革制成的粗绳，可用于牢固捆扎。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LEATHER ROPE.ROPE.ROPES."
+    }
+  },
+  {
+    "id": "34f0fd7f3d10959def91",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "ROPE",
+    "translation": "绳索",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LEATHER ROPE.ROPE.ROPES."
+    }
+  },
+  {
+    "id": "c15a3d16d4638f9a4280",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "ROPE",
+    "translation": "由纱线、皮革或桦树皮制成，可牢固捆扎。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LEATHER ROPE.ROPE.ROPES."
+    }
+  },
+  {
+    "id": "77d40bee2821d589700f",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "ROPES",
+    "translation": "绳索",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LEATHER ROPE.ROPE.ROPES."
+    }
+  },
+  {
+    "id": "4ad2308afeb9b4258a80",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "ROPES",
+    "translation": "由纱线、皮革或桦树皮制成，可牢固捆扎。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LEATHER ROPE.ROPE.ROPES."
+    }
+  },
+  {
+    "id": "9457768dbd50afe93b66",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "YARN",
+    "translation": "纱线",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".YARN."
+    }
+  },
+  {
+    "id": "df8ca6e121e8eb567dba",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "YARN",
+    "translation": "用植物纤维或筋纤维制成，可用来缝制衣物。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".YARN."
+    }
+  },
+  {
+    "id": "a42a3926bf043d10f34e",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "BREAM",
+    "translation": "鳊鱼",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".BREAM.BREAMS."
+    }
+  },
+  {
+    "id": "ef19dd6092b1c1592c9c",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "BREAM",
+    "translation": "常见于内陆湖泊和水流缓慢的河段。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".BREAM.BREAMS."
+    }
+  },
+  {
+    "id": "29f354b5bb566a2193fb",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "BREAMS",
+    "translation": "鳊鱼",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".BREAM.BREAMS."
+    }
+  },
+  {
+    "id": "1f8b7f8f3dda4403d3e2",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "BREAMS",
+    "translation": "常见于内陆湖泊和水流缓慢的河段。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".BREAM.BREAMS."
+    }
+  },
+  {
+    "id": "ca42622cad3e09f5670c",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "SALMON",
+    "translation": "鲑鱼",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SALMON.SALMONS."
+    }
+  },
+  {
+    "id": "a98a6c448d5c17fd83b9",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "SALMON",
+    "translation": "大型洄游鱼，成年后回到河里产卵。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SALMON.SALMONS."
+    }
+  },
+  {
+    "id": "2bbe331cff837f491068",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "SALMONS",
+    "translation": "鲑鱼",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SALMON.SALMONS."
+    }
+  },
+  {
+    "id": "7a1e3d8c1d62f6963067",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "SALMONS",
+    "translation": "大型洄游鱼，成年后回到河里产卵。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SALMON.SALMONS."
+    }
+  },
+  {
+    "id": "d14091f343961ffb6c89",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "LAVARET",
+    "translation": "白鲑",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LAVARET.LAVARETS."
+    }
+  },
+  {
+    "id": "490aeb60ce0cf0f3ae0d",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "LAVARET",
+    "translation": "不同种群生活在不同水域，外形与习性略有差别。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LAVARET.LAVARETS."
+    }
+  },
+  {
+    "id": "64da82f91937513b38fb",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "LAVARETS",
+    "translation": "白鲑",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LAVARET.LAVARETS."
+    }
+  },
+  {
+    "id": "c11d3b57e29071c493ba",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "LAVARETS",
+    "translation": "不同种群生活在不同水域，外形与习性略有差别。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".LAVARET.LAVARETS."
+    }
+  },
+  {
+    "id": "429ab53e7b8b98b3d4cf",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "PIKE",
+    "translation": "狗鱼",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".PIKE.PIKES."
+    }
+  },
+  {
+    "id": "b91da8a80dd9a4763e69",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "PIKE",
+    "translation": "内陆湖泊常见的大型掠食鱼类。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".PIKE.PIKES."
+    }
+  },
+  {
+    "id": "653ca62fd80b66723497",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "PIKES",
+    "translation": "狗鱼",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".PIKE.PIKES."
+    }
+  },
+  {
+    "id": "8e951ceb71b928d331d5",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "PIKES",
+    "translation": "内陆湖泊常见的大型掠食鱼类。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".PIKE.PIKES."
+    }
+  },
+  {
+    "id": "17a2a3282cb606ba50cf",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "WOODEN SHOVEL",
+    "translation": "木铲",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOODEN SHOVEL.WOODEN SHOVELS."
+    }
+  },
+  {
+    "id": "3f89191899fcdf68bb56",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "WOODEN SHOVEL",
+    "translation": "由整块木头制成，适合挖松软的土。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOODEN SHOVEL.WOODEN SHOVELS."
+    }
+  },
+  {
+    "id": "0da98b788711b94c33f5",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "WOODEN SHOVELS",
+    "translation": "木铲",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOODEN SHOVEL.WOODEN SHOVELS."
+    }
+  },
+  {
+    "id": "3227f805cde95cbf5016",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "WOODEN SHOVELS",
+    "translation": "由整块木头制成，适合挖松软的土。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".WOODEN SHOVEL.WOODEN SHOVELS."
+    }
+  },
+  {
+    "id": "f643a65709ee37bec0ac",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "SHOVEL",
+    "translation": "铲",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHOVEL."
+    }
+  },
+  {
+    "id": "a8ba068b2afd8218ac0f",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "SHOVEL",
+    "translation": "可挖陷坑，也可在播种前翻土。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHOVEL."
+    }
+  },
+  {
+    "id": "8ce83bedfced96ce1248",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "SHOVEL BLADE",
+    "translation": "铲刃",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHOVEL BLADE."
+    }
+  },
+  {
+    "id": "a83b4d843e1cd435925f",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "SHOVEL BLADE",
+    "translation": "铲上接触地面的部件，用铁制成。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHOVEL BLADE."
+    }
+  },
+  {
+    "id": "2613fa5590f630d0ee28",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-title",
+    "original": "SHOVEL HAFT",
+    "translation": "铲柄",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHOVEL HAFT."
+    }
+  },
+  {
+    "id": "3089ef30755f9dc77229",
+    "source": "GAME.NFO:reviewed-topic-hotspots",
+    "context": "encyclopedia-summary",
+    "original": "SHOVEL HAFT",
+    "translation": "铁刃铲的木柄，磨损或断裂后可以更换。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": {
+      "topic": ".SHOVEL HAFT."
+    }
+  }
+]

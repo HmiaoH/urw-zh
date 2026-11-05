@@ -1,0 +1,152 @@
+[
+  {
+    "id": "43f1e3b400edba32cb6d",
+    "source": "binary:local_navigation",
+    "context": "player-talk",
+    "original": "\"Where is your village water supply?\"",
+    "translation": "“你们村的取水点在哪儿？”",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "exact"
+  },
+  {
+    "id": "8581334b4a16d397023f",
+    "source": "binary:local_navigation",
+    "context": "showtext",
+    "original": "\"Where is your village water supply?\"",
+    "translation": "“你们村的取水点在哪儿？”",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "exact"
+  },
+  {
+    "id": "20be983100365cc7cba4",
+    "source": "binary:local_navigation",
+    "context": "player-talk",
+    "original": "\"I need to find a lake.\"",
+    "translation": "“我想找一处湖泊。”",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "exact"
+  },
+  {
+    "id": "4f29124302f9aff8e7ea",
+    "source": "binary:local_navigation",
+    "context": "player-talk",
+    "original": "\"Are there any caves around here?\"",
+    "translation": "“这附近有洞穴吗？”",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "exact"
+  },
+  {
+    "id": "4496c36390704c49fa93",
+    "source": "binary:local_navigation",
+    "context": "player-talk",
+    "original": "\"Yes, I know. How about more distant settlements?\"",
+    "translation": "“是的，我知道。更远的聚落呢？”",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "exact"
+  },
+  {
+    "id": "a41cdac32b46fa654275",
+    "source": "binary:local_navigation",
+    "context": "player-talk",
+    "original": "\"Well, do you know about ... ?\"",
+    "translation": "“那你知不知道……？”",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "exact"
+  },
+  {
+    "id": "1dfbc1274bec5738be53",
+    "source": "binary:local_navigation",
+    "context": "showtext",
+    "original": "\"Well, do you know about ... ?\"",
+    "translation": "“那你知不知道……？”",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "exact"
+  },
+  {
+    "id": "be1b3dd8e04335048404",
+    "source": "binary:local_navigation",
+    "context": "npc-talk",
+    "original": "We don't really have a water supply here within the village.",
+    "translation": "我们村里并没有取水点。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "exact"
+  },
+  {
+    "id": "3317f03c4afe4108ea3f",
+    "source": "binary:local_navigation",
+    "context": "npc-talk",
+    "original": "I don't know.",
+    "translation": "我不知道。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "exact"
+  },
+  {
+    "id": "8c3bbfba7426ed6b8d15",
+    "source": "binary:local_navigation",
+    "context": "npc-talk",
+    "original": "Well, here I am.",
+    "translation": "我就在这儿。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "exact"
+  },
+  {
+    "id": "a7288daf7f510748b0ab",
+    "source": "binary:local_navigation",
+    "context": "npc-talk",
+    "original": "I have no idea if there are any.",
+    "translation": "我不知道附近有没有。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "exact"
+  },
+  {
+    "id": "ae92b6487cad5a08f64b",
+    "source": "binary:local_navigation",
+    "context": "npc-talk",
+    "original": "This is strange region to me too.",
+    "translation": "这片地方我也不熟。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "exact"
+  },
+  {
+    "id": "c22aa4a09758db2d22f5",
+    "source": "binary:KysySotuCreSijainti",
+    "context": "npc-talk",
+    "original": "I am called {name:text}.",
+    "translation": "我叫 {name}。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "71a3f390869c193bb97d",
+    "source": "binary:KysySotuCreSijainti",
+    "context": "npc-talk",
+    "original": "They call me {name:text}.",
+    "translation": "大家叫我 {name}。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  },
+  {
+    "id": "f84f181fb4254f17feea",
+    "source": "binary:KysySotuCreSijainti",
+    "context": "npc-talk",
+    "original": "My name is {name:text}.",
+    "translation": "我的名字是 {name}。",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "kind": "template"
+  }
+]

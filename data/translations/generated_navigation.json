@@ -1,0 +1,799 @@
+[
+  {
+    "id": "2489702b50770c3016a1",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a settlement in the east at the region called {place:text}.",
+    "translation": "在东方名叫 {place} 的地区有一处聚落。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b624f"
+    ]
+  },
+  {
+    "id": "b05d598ea329969346aa",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a settlement in the north-east at the region called {place:text}.",
+    "translation": "在东北方名叫 {place} 的地区有一处聚落。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b624f"
+    ]
+  },
+  {
+    "id": "f31239472a665ee9c5be",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a settlement in the north at the region called {place:text}.",
+    "translation": "在北方名叫 {place} 的地区有一处聚落。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b624f"
+    ]
+  },
+  {
+    "id": "1246fb8c699d10e36198",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a settlement in the north-west at the region called {place:text}.",
+    "translation": "在西北方名叫 {place} 的地区有一处聚落。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b624f"
+    ]
+  },
+  {
+    "id": "f514b615374f37ab7882",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a settlement in the west at the region called {place:text}.",
+    "translation": "在西方名叫 {place} 的地区有一处聚落。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b624f"
+    ]
+  },
+  {
+    "id": "d254d9031931acc28e12",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a settlement in the south-west at the region called {place:text}.",
+    "translation": "在西南方名叫 {place} 的地区有一处聚落。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b624f"
+    ]
+  },
+  {
+    "id": "4c79931352e82d725aff",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a settlement in the south at the region called {place:text}.",
+    "translation": "在南方名叫 {place} 的地区有一处聚落。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b624f"
+    ]
+  },
+  {
+    "id": "89c54789100d55550626",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a settlement in the south-east at the region called {place:text}.",
+    "translation": "在东南方名叫 {place} 的地区有一处聚落。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b624f"
+    ]
+  },
+  {
+    "id": "fbd73ff830561f7ca337",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a lake in the east at the region called {place:text}.",
+    "translation": "在东方名叫 {place} 的地区有一片湖泊。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b624f"
+    ]
+  },
+  {
+    "id": "cf7dec7f9d50ffad638d",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a lake in the north-east at the region called {place:text}.",
+    "translation": "在东北方名叫 {place} 的地区有一片湖泊。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b624f"
+    ]
+  },
+  {
+    "id": "220fe1a402ddd07b8fd1",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a lake in the north at the region called {place:text}.",
+    "translation": "在北方名叫 {place} 的地区有一片湖泊。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b624f"
+    ]
+  },
+  {
+    "id": "dba51e7b515daa7112c2",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a lake in the north-west at the region called {place:text}.",
+    "translation": "在西北方名叫 {place} 的地区有一片湖泊。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b624f"
+    ]
+  },
+  {
+    "id": "f5a9d0fc0b3501c5903f",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a lake in the west at the region called {place:text}.",
+    "translation": "在西方名叫 {place} 的地区有一片湖泊。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b624f"
+    ]
+  },
+  {
+    "id": "bffe1934dffdc9e4c78e",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a lake in the south-west at the region called {place:text}.",
+    "translation": "在西南方名叫 {place} 的地区有一片湖泊。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b624f"
+    ]
+  },
+  {
+    "id": "f98ebb1fea76c255da2a",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a lake in the south at the region called {place:text}.",
+    "translation": "在南方名叫 {place} 的地区有一片湖泊。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b624f"
+    ]
+  },
+  {
+    "id": "7913fd75c0597f97b0f8",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a lake in the south-east at the region called {place:text}.",
+    "translation": "在东南方名叫 {place} 的地区有一片湖泊。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b624f"
+    ]
+  },
+  {
+    "id": "d3107db529c998e33c6e",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a cave in the east at the region called {place:text}.",
+    "translation": "在东方名叫 {place} 的地区有一处洞穴。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b624f"
+    ]
+  },
+  {
+    "id": "ca263b3ab4037c8da2cf",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a cave in the north-east at the region called {place:text}.",
+    "translation": "在东北方名叫 {place} 的地区有一处洞穴。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b624f"
+    ]
+  },
+  {
+    "id": "4aa6866e7b958da1bd30",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a cave in the north at the region called {place:text}.",
+    "translation": "在北方名叫 {place} 的地区有一处洞穴。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b624f"
+    ]
+  },
+  {
+    "id": "e571d45d74a952cf132c",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a cave in the north-west at the region called {place:text}.",
+    "translation": "在西北方名叫 {place} 的地区有一处洞穴。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b624f"
+    ]
+  },
+  {
+    "id": "5f96918a7c7596fad829",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a cave in the west at the region called {place:text}.",
+    "translation": "在西方名叫 {place} 的地区有一处洞穴。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b624f"
+    ]
+  },
+  {
+    "id": "5f7efa8c585e91fc2ff7",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a cave in the south-west at the region called {place:text}.",
+    "translation": "在西南方名叫 {place} 的地区有一处洞穴。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b624f"
+    ]
+  },
+  {
+    "id": "a1613a63e39e319d9874",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a cave in the south at the region called {place:text}.",
+    "translation": "在南方名叫 {place} 的地区有一处洞穴。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b624f"
+    ]
+  },
+  {
+    "id": "129418ab2a2a1da057d8",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a cave in the south-east at the region called {place:text}.",
+    "translation": "在东南方名叫 {place} 的地区有一处洞穴。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b624f"
+    ]
+  },
+  {
+    "id": "c5e929c6e48f16f9c896",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a settlement in the east here at {place:text}.",
+    "translation": "就在这一带的 {place}，往东方有一处聚落。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b625f"
+    ]
+  },
+  {
+    "id": "75f6d7ead0f75fcfe3cd",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a settlement in the north-east here at {place:text}.",
+    "translation": "就在这一带的 {place}，往东北方有一处聚落。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b625f"
+    ]
+  },
+  {
+    "id": "f12a1f121d1fa9f02452",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a settlement in the north here at {place:text}.",
+    "translation": "就在这一带的 {place}，往北方有一处聚落。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b625f"
+    ]
+  },
+  {
+    "id": "db18a8dc0ecae891dce5",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a settlement in the north-west here at {place:text}.",
+    "translation": "就在这一带的 {place}，往西北方有一处聚落。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b625f"
+    ]
+  },
+  {
+    "id": "5e297f834ab7310e5aa1",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a settlement in the west here at {place:text}.",
+    "translation": "就在这一带的 {place}，往西方有一处聚落。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b625f"
+    ]
+  },
+  {
+    "id": "f4cf2cdd284020258dce",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a settlement in the south-west here at {place:text}.",
+    "translation": "就在这一带的 {place}，往西南方有一处聚落。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b625f"
+    ]
+  },
+  {
+    "id": "c7b0c022091dc991ad6e",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a settlement in the south here at {place:text}.",
+    "translation": "就在这一带的 {place}，往南方有一处聚落。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b625f"
+    ]
+  },
+  {
+    "id": "95fba60f4c7e4a6bc4aa",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a settlement in the south-east here at {place:text}.",
+    "translation": "就在这一带的 {place}，往东南方有一处聚落。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b625f"
+    ]
+  },
+  {
+    "id": "bdfcfca31a1aa7fc3a92",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a lake in the east here at {place:text}.",
+    "translation": "就在这一带的 {place}，往东方有一片湖泊。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b625f"
+    ]
+  },
+  {
+    "id": "90269ab2a526d3b8642f",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a lake in the north-east here at {place:text}.",
+    "translation": "就在这一带的 {place}，往东北方有一片湖泊。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b625f"
+    ]
+  },
+  {
+    "id": "81e1fcab85d74ff9fe9a",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a lake in the north here at {place:text}.",
+    "translation": "就在这一带的 {place}，往北方有一片湖泊。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b625f"
+    ]
+  },
+  {
+    "id": "a1e3e14f8d5fedad6b67",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a lake in the north-west here at {place:text}.",
+    "translation": "就在这一带的 {place}，往西北方有一片湖泊。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b625f"
+    ]
+  },
+  {
+    "id": "984cbdc862b0297d7cad",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a lake in the west here at {place:text}.",
+    "translation": "就在这一带的 {place}，往西方有一片湖泊。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b625f"
+    ]
+  },
+  {
+    "id": "e5a58ff840f7d1b8f77a",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a lake in the south-west here at {place:text}.",
+    "translation": "就在这一带的 {place}，往西南方有一片湖泊。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b625f"
+    ]
+  },
+  {
+    "id": "6694c725da476a358451",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a lake in the south here at {place:text}.",
+    "translation": "就在这一带的 {place}，往南方有一片湖泊。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b625f"
+    ]
+  },
+  {
+    "id": "2efa7467161f9b33f794",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a lake in the south-east here at {place:text}.",
+    "translation": "就在这一带的 {place}，往东南方有一片湖泊。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b625f"
+    ]
+  },
+  {
+    "id": "25fdf8ec128444fda170",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a cave in the east here at {place:text}.",
+    "translation": "就在这一带的 {place}，往东方有一处洞穴。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b625f"
+    ]
+  },
+  {
+    "id": "5fdd6d95fb2580a8a94f",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a cave in the north-east here at {place:text}.",
+    "translation": "就在这一带的 {place}，往东北方有一处洞穴。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b625f"
+    ]
+  },
+  {
+    "id": "72607588b93b70586e5f",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a cave in the north here at {place:text}.",
+    "translation": "就在这一带的 {place}，往北方有一处洞穴。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b625f"
+    ]
+  },
+  {
+    "id": "b62d79c75b723bfa741f",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a cave in the north-west here at {place:text}.",
+    "translation": "就在这一带的 {place}，往西北方有一处洞穴。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b625f"
+    ]
+  },
+  {
+    "id": "058c668b33398e464b18",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a cave in the west here at {place:text}.",
+    "translation": "就在这一带的 {place}，往西方有一处洞穴。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b625f"
+    ]
+  },
+  {
+    "id": "2e37ae5d349b05670354",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a cave in the south-west here at {place:text}.",
+    "translation": "就在这一带的 {place}，往西南方有一处洞穴。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b625f"
+    ]
+  },
+  {
+    "id": "20c8f29032745996ed4e",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a cave in the south here at {place:text}.",
+    "translation": "就在这一带的 {place}，往南方有一处洞穴。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b625f"
+    ]
+  },
+  {
+    "id": "37006f310215a6c29561",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "There is a cave in the south-east here at {place:text}.",
+    "translation": "就在这一带的 {place}，往东南方有一处洞穴。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d30",
+      "0x1001b625f"
+    ]
+  },
+  {
+    "id": "95a778029e3df2d88680",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "It is about {amount:int} kilometers away.",
+    "translation": "离这里约{amount}公里。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d67",
+      "0x1000ba6c8"
+    ]
+  },
+  {
+    "id": "802f66c0ef70297056bf",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "It is less than a kilometer away.",
+    "translation": "离这里不到一公里。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d67",
+      "0x1000ba6c8"
+    ]
+  },
+  {
+    "id": "80cf2d5f9deff9ce2951",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "It is half a kilometer away.",
+    "translation": "离这里半公里。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d67",
+      "0x1000ba6c8"
+    ]
+  },
+  {
+    "id": "ff69bfed9013f5a33bfa",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "It is just a couple of kilometers away.",
+    "translation": "离这里只有几公里。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d67",
+      "0x1000ba6c8"
+    ]
+  },
+  {
+    "id": "9a97b2c864feeb6acc07",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "It is about {amount:int} miles away.",
+    "translation": "离这里约{amount}英里。",
+    "kind": "template",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d67",
+      "0x1000ba6c8"
+    ]
+  },
+  {
+    "id": "9326041399b24257426e",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "It is less than a mile away.",
+    "translation": "离这里不到一英里。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d67",
+      "0x1000ba6c8"
+    ]
+  },
+  {
+    "id": "7051efef16f0a664a472",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "It is half a mile away.",
+    "translation": "离这里半英里。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d67",
+      "0x1000ba6c8"
+    ]
+  },
+  {
+    "id": "deebcbb60e60ada35013",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "It is just a couple of miles away.",
+    "translation": "离这里只有几英里。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187d67",
+      "0x1000ba6c8"
+    ]
+  },
+  {
+    "id": "2cfa5a993cc3af5d8e9f",
+    "source": "rules/navigation.json",
+    "context": "npc-talk",
+    "original": "It is kuikka-tribe village.",
+    "translation": "那是库伊卡部族的村庄。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false,
+    "evidence": [
+      "0x100187dac"
+    ]
+  }
+]

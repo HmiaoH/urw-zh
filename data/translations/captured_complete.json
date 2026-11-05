@@ -1,0 +1,302 @@
+[
+  {
+    "id": "capture-f7e4e9ee0e97d79c9b3a-showtext",
+    "source": "runtime:full-string-review",
+    "source_id": "f7e4e9ee0e97d79c9b3a",
+    "context": "showtext",
+    "original": "\"The world will surely teach one; if nothing else, than to walk slowly.\"",
+    "translation": "“世界总会教会人一些东西；即使别无所获，也会教人慢慢走路。”",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "capture-ca994babfac930d0c3ad-message",
+    "source": "runtime:full-string-review",
+    "source_id": "ca994babfac930d0c3ad",
+    "context": "message",
+    "original": ":As you explore the wilderness a settlement comes into view up ahead!",
+    "translation": "探索荒野时，你看见前方出现一处定居点！",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "capture-ca389edccf28c45e9293-showtext",
+    "source": "runtime:full-string-review",
+    "source_id": "ca389edccf28c45e9293",
+    "context": "showtext",
+    "original": "YOU ARE LEAVING UNREAL WORLD - A FINAL REMINDER...",
+    "translation": "你即将离开虚幻世界——最后提醒……",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "capture-76b2d2275d843574681e-showtext",
+    "source": "runtime:full-string-review",
+    "source_id": "76b2d2275d843574681e",
+    "context": "showtext",
+    "original": " only then will they realise that you cannot eat money.\"",
+    "translation": " 只有到了那时，他们才会意识到钱不能吃。”",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "capture-ce254a7ffb3b80545045-showtext",
+    "source": "runtime:full-string-review",
+    "source_id": "ce254a7ffb3b80545045",
+    "context": "showtext",
+    "original": "Something very ageless breathes within you, within us - do not let it suffocate.",
+    "translation": "有一种古老而恒久的气息在你我心中呼吸——别让它窒息。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "capture-4e7da42959e6eba6ee2d-showtext",
+    "source": "runtime:full-string-review",
+    "source_id": "4e7da42959e6eba6ee2d",
+    "context": "showtext",
+    "original": "For new features changelog and release notes view news.txt in your installation folder.",
+    "translation": "查看安装文件夹中的news.txt，了解新功能变更日志和发行说明。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "capture-b1257461de6e7a4ebc99-paragraph",
+    "source": "runtime:full-string-review",
+    "source_id": "b1257461de6e7a4ebc99",
+    "context": "paragraph",
+    "original": "Enormous Elk<br>production",
+    "translation": "Enormous Elk<br>制作",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "capture-780c4f0327653dfff447-paragraph",
+    "source": "runtime:full-string-review",
+    "source_id": "780c4f0327653dfff447",
+    "context": "paragraph",
+    "original": "Created and programmed by Sami Maaranen.<br>Additional programming and co-design by Erkka Lehmus.<br>Ported to Linux & MacOSX mainly by Tuukka Pasanen.<br><br>www.unrealworld.fi",
+    "translation": "由Sami Maaranen创作并编程。<br>Erkka Lehmus负责额外编程和共同设计。<br>Tuukka Pasanen主要负责移植到Linux和MacOSX。<br><br>www.unrealworld.fi",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "capture-c9da15eb159c5d4a9c78-showtext",
+    "source": "runtime:full-string-review",
+    "source_id": "c9da15eb159c5d4a9c78",
+    "context": "showtext",
+    "original": "There are countless stories, legends and myths about The First Winter.",
+    "translation": "关于第一个冬天，有无数故事、传说和神话。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "capture-2c45cc078a417335f90e-showtext",
+    "source": "runtime:full-string-review",
+    "source_id": "2c45cc078a417335f90e",
+    "context": "showtext",
+    "original": "They made clothes, they made tools and shelters, they made skis,",
+    "translation": "他们做衣服、工具和庇护所，也做了滑雪板，",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "capture-efcbf843ed05b0fb0085-paragraph",
+    "source": "runtime:full-string-review",
+    "source_id": "efcbf843ed05b0fb0085",
+    "context": "paragraph",
+    "original": "Now you have to choose a starting season from where on you wish to begin play. Summer is the easiest and winter the hardest season to start.",
+    "translation": "现在你需要选择一个开始游戏的季节。夏季最容易开始，冬季则最难。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "capture-5ae28ade4887013acc86-showtext",
+    "source": "runtime:full-string-review",
+    "source_id": "5ae28ade4887013acc86",
+    "context": "showtext",
+    "original": "\"Only when the last tree is cut;",
+    "translation": "“只有当最后一棵树被砍倒；",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "capture-9116e6ec756d90cd130c-showtext",
+    "source": "runtime:full-string-review",
+    "source_id": "9116e6ec756d90cd130c",
+    "context": "showtext",
+    "original": " only when the last fish is caught;",
+    "translation": "只有当最后一条鱼被捕获；",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "capture-d16d87793fad123b9720-showtext",
+    "source": "runtime:full-string-review",
+    "source_id": "d16d87793fad123b9720",
+    "context": "showtext",
+    "original": "UrW is dedicated to all indigenous peoples and groups around the world.",
+    "translation": "《虚幻世界》献给全世界所有原住民族群。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "capture-db2b861be95f00b20290-showtext",
+    "source": "runtime:full-string-review",
+    "source_id": "db2b861be95f00b20290",
+    "context": "showtext",
+    "original": "Dare to hear your voice, dare to follow your spirit, dare to see and dare to feel... now.",
+    "translation": "敢于聆听自己的声音，敢于追随自己的灵魂，敢于看见，敢于感受……现在就开始。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "capture-5dcf436cef6397a4a12f-showtext",
+    "source": "runtime:full-string-review",
+    "source_id": "5dcf436cef6397a4a12f",
+    "context": "showtext",
+    "original": "Published by Enormous Elk 2021",
+    "translation": "Enormous Elk发行，2021年",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "capture-815c0088da049e83bbe0-showtext",
+    "source": "runtime:full-string-review",
+    "source_id": "815c0088da049e83bbe0",
+    "context": "showtext",
+    "original": "Your UnReal World installation folder is:",
+    "translation": "你的《虚幻世界》安装文件夹：",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "capture-d5b6195a7be3d903282c-showtext",
+    "source": "runtime:full-string-review",
+    "source_id": "d5b6195a7be3d903282c",
+    "context": "showtext",
+    "original": "Men, wives, children, the heroes and the wise ones walked the Earth.",
+    "translation": "男人、妻子、孩子、英雄与智者行走于大地。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "capture-db69875679794163579c-showtext",
+    "source": "runtime:full-string-review",
+    "source_id": "db69875679794163579c",
+    "context": "showtext",
+    "original": "and they made drums and the kantele.",
+    "translation": "他们制作了鼓与康特勒琴。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "capture-b9fe2f9727d22acaf381-showtext",
+    "source": "runtime:full-string-review",
+    "source_id": "b9fe2f9727d22acaf381",
+    "context": "showtext",
+    "original": "As far as we can by the means of computer roleplaying...",
+    "translation": "尽我们所能，凭借电脑角色扮演的方式……",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "capture-4a483bb95f4ffe9d63fe-message",
+    "source": "runtime:full-string-review",
+    "source_id": "4a483bb95f4ffe9d63fe",
+    "context": "message",
+    "original": "#Saving your character...",
+    "translation": "正在保存角色……",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "capture-d322614fd9c6c9cf90c3-message",
+    "source": "runtime:full-string-review",
+    "source_id": "d322614fd9c6c9cf90c3",
+    "context": "message",
+    "original": "=Your character has been saved.",
+    "translation": "角色已保存。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "capture-788471a0a8a6ca4e6cb3-showtext",
+    "source": "runtime:full-string-review",
+    "source_id": "788471a0a8a6ca4e6cb3",
+    "context": "showtext",
+    "original": "Select this scenario? ",
+    "translation": "选择此开局？ ",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "capture-2fe16458a0ebcbf80ba4-paragraph",
+    "source": "runtime:full-string-review",
+    "source_id": "2fe16458a0ebcbf80ba4",
+    "context": "paragraph",
+    "original": "Choose a name for your character, or press TAB or * to randomize a name.<br>The name may not contain spaces or special characters, and should be 3-12 letters long.",
+    "translation": "为你的角色取个名字，或按 TAB 或 * 随机生成名字。<br>名字不能含空格或特殊字符，长度应为 3-12 个字母。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "capture-c37f4dd96e7b8c57aff0-showtext",
+    "source": "runtime:full-string-review",
+    "source_id": "c37f4dd96e7b8c57aff0",
+    "context": "showtext",
+    "original": " only when the last river is polluted;",
+    "translation": " 只有当最后一条河流也遭到污染时；",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "capture-65cdffdd717f45967871-showtext",
+    "source": "runtime:full-string-review",
+    "source_id": "65cdffdd717f45967871",
+    "context": "showtext",
+    "original": " - Cree Indian Proverb",
+    "translation": "——克里印第安人谚语",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "capture-a85e0615241644a8c8f8-showtext",
+    "source": "runtime:full-string-review",
+    "source_id": "a85e0615241644a8c8f8",
+    "context": "showtext",
+    "original": "Love the earth. It's under your feet every day - not too far away.",
+    "translation": "珍爱大地。它每天都在你脚下，离你并不遥远。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "capture-e7a983ad5becd3251c27-showtext",
+    "source": "runtime:full-string-review",
+    "source_id": "e7a983ad5becd3251c27",
+    "context": "showtext",
+    "original": "During The First Winter, the Inehmo became many.",
+    "translation": "第一个冬天时，Inehmo 变成了许多个体。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "capture-ada14448053b0201a3e2-showtext",
+    "source": "runtime:full-string-review",
+    "source_id": "ada14448053b0201a3e2",
+    "context": "showtext",
+    "original": "The heroes made the fire, they made the bow and the arrow and they hunted.",
+    "translation": "英雄们创造了火，发明了弓箭，并开始狩猎。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "capture-02a0c29282eb313a6728-showtext",
+    "source": "runtime:full-string-review",
+    "source_id": "02a0c29282eb313a6728",
+    "context": "showtext",
+    "original": "...into the far North we shall take you.",
+    "translation": "……我们将带你前往遥远的北方。",
+    "status": "reviewed",
+    "runtime_verified": false
+  }
+]
