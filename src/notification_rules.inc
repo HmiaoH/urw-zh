@@ -139,6 +139,7 @@ NSString* composeNotificationFollowup(NSString* source){
   @[@":You got ",@".",@"你采到了%@。"],
   @[@":You finish eating some of that ",@".",@"你吃了一些%@。"],
   @[@":You finish eating ",@".",@"你吃完了%@。"],
+  @[@"It's plain good ",@" and happily consumed too.",@"%@味道不错，你吃得很开心。"],
   @[@"It's plain good ",@".",@"%@味道不错。"],
   @[@"Ok. You harvested down ",@".",@"你收割了%@。"]
  ];

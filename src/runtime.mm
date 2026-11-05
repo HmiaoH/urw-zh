@@ -94,6 +94,7 @@ NSString* matchTemplate(NSString* source,NSString* context){
 #include "dialogue_extra.inc"
 #include "trade_rejection.inc"
 #include "map_notification_extra.inc"
+#include "quest_followup.inc"
 NSString* composeMemorial(NSString* source,const char* context);
 NSString* translate(const char* text,const char* context,bool tradePayment=false){
  refreshConfig();
@@ -115,6 +116,7 @@ NSString* translate(const char* text,const char* context,bool tradePayment=false
  if(!result&&!strcmp(context,"message"))result=composeCraftNotification(k);
  if(!result&&!strcmp(context,"craft-material"))result=composeCraftMaterialLabel(k);
  if(!result&&!strcmp(context,"showtext"))result=composeCraftPiecesLabel(k);
+ if(!result)result=composeQuest(k,context);
  if(!result)result=composeMemorial(k,context);
  if(!result)result=composeLook(k,context);
  if(!result&&!strcmp(context,"message"))result=composeMessage(k);

@@ -1,0 +1,942 @@
+[
+  {
+    "id": "ca89c796508451daee4c",
+    "source": "urw3-bin:herb-quest",
+    "context": "npc-talk",
+    "original": "I see you have an eye for herbs. I just might have use for your knowledge of herblore if you're interested.",
+    "translation": "看来你很懂草药。要是你有兴趣，我或许正好用得上你的草药学知识。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "8a820aee0c6c14eda6c2",
+    "source": "urw3-bin:herb-quest",
+    "context": "paragraph",
+    "original": "I see you have an eye for herbs. I just might have use for your knowledge of herblore if you're interested.",
+    "translation": "看来你很懂草药。要是你有兴趣，我或许正好用得上你的草药学知识。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a3c63e714a8d7cf883d6",
+    "source": "urw3-bin:herb-quest",
+    "context": "showtext",
+    "original": "I see you have an eye for herbs. I just might have use for your knowledge of herblore if you're interested.",
+    "translation": "看来你很懂草药。要是你有兴趣，我或许正好用得上你的草药学知识。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "07ae7ab64bc5fb18a8ca",
+    "source": "urw3-bin:herb-quest",
+    "context": "paragraph",
+    "original": "\"I see you have an eye for herbs. I just might have use for your knowledge of herblore if you're interested.\"",
+    "translation": "“看来你很懂草药。要是你有兴趣，我或许正好用得上你的草药学知识。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b7166b6017b0f25e7ccc",
+    "source": "urw3-bin:herb-quest",
+    "context": "player-talk",
+    "original": "Oh, I'm sure you have a much sharper eye for local herbs than I do.",
+    "translation": "哦，我相信你对本地草药的眼光比我敏锐得多。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4cdb6b12011bdccf3768",
+    "source": "urw3-bin:herb-quest",
+    "context": "showtext",
+    "original": "Oh, I'm sure you have a much sharper eye for local herbs than I do.",
+    "translation": "哦，我相信你对本地草药的眼光比我敏锐得多。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d208f53b5fa42bd95d19",
+    "source": "urw3-bin:herb-quest",
+    "context": "player-talk",
+    "original": "I am available if my herblore skills are of any use to you.",
+    "translation": "如果我的草药学知识能帮上忙，我随时愿意效劳。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "98f8b55350fe0a40d21c",
+    "source": "urw3-bin:herb-quest",
+    "context": "showtext",
+    "original": "I am available if my herblore skills are of any use to you.",
+    "translation": "如果我的草药学知识能帮上忙，我随时愿意效劳。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "5181dd52afad4878e03a",
+    "source": "urw3-bin:herb-quest",
+    "context": "npc-talk",
+    "original": "That's good to hear.",
+    "translation": "很高兴听你这么说。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "81855171a006f1398408",
+    "source": "urw3-bin:herb-quest",
+    "context": "npc-talk",
+    "original": "I really need to find someone to help me in restocking my herb stores.",
+    "translation": "我真的需要找人帮忙补充我的草药库存。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "aacd4fd9654495a4b928",
+    "source": "urw3-bin:herb-quest",
+    "context": "paragraph",
+    "original": "I really need to find someone to help me in restocking my herb stores.",
+    "translation": "我真的需要找人帮忙补充我的草药库存。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "262211098524c07ff810",
+    "source": "urw3-bin:herb-quest",
+    "context": "showtext",
+    "original": "I really need to find someone to help me in restocking my herb stores.",
+    "translation": "我真的需要找人帮忙补充我的草药库存。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "fdc6a16a7e0af980e367",
+    "source": "urw3-bin:herb-quest",
+    "context": "paragraph",
+    "original": "\"I really need to find someone to help me in restocking my herb stores.\"",
+    "translation": "“我真的需要找人帮忙补充我的草药库存。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b38ca91edbc43850150e",
+    "source": "urw3-bin:herb-quest",
+    "context": "player-talk",
+    "original": "Wait, I'm still willing to try to help you.",
+    "translation": "等等，我还是愿意试着帮你的。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4c0404eaf7e07c37003e",
+    "source": "urw3-bin:herb-quest",
+    "context": "showtext",
+    "original": "Wait, I'm still willing to try to help you.",
+    "translation": "等等，我还是愿意试着帮你的。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "8674827a4c44ada1dc5e",
+    "source": "urw3-bin:herb-quest",
+    "context": "npc-talk",
+    "original": "That's the spirit.",
+    "translation": "这就对了。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b6a48ffc5164d9351682",
+    "source": "urw3-bin:herb-quest",
+    "context": "player-talk",
+    "original": "Good luck with that.",
+    "translation": "祝你顺利。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "bbfc1b5a0eff63705f2a",
+    "source": "urw3-bin:herb-quest",
+    "context": "showtext",
+    "original": "Good luck with that.",
+    "translation": "祝你顺利。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e95c0a1c3208afb6b501",
+    "source": "urw3-bin:herb-quest",
+    "context": "npc-talk",
+    "original": "Damn right!",
+    "translation": "那当然！",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "471d0b890df259f3f10a",
+    "source": "urw3-bin:herb-quest",
+    "context": "npc-talk",
+    "original": "I certainly possess the knowledge and experience but old age doesn't come alone. See, I used to enjoy wandering the shores and groves in search of healing plants and enjoyed being a part of the changing seasons, but nowadays my eyes and knees have gotten too weak to wander far from home. Seeking out the herbs is still a pleasure for me, but unfortunately a time-consuming and painful one.",
+    "translation": "我当然有相关的知识和经验，可年纪大了，总会有些不便。以前我喜欢漫步海岸与林地，寻找疗伤植物，也喜欢感受四季更迭；如今我的眼睛和膝盖都不太行了，走不了太远。寻找草药对我来说仍是乐事，只可惜既费时间又让人吃力。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4659853d4c9f6809234d",
+    "source": "urw3-bin:herb-quest",
+    "context": "paragraph",
+    "original": "I certainly possess the knowledge and experience but old age doesn't come alone. See, I used to enjoy wandering the shores and groves in search of healing plants and enjoyed being a part of the changing seasons, but nowadays my eyes and knees have gotten too weak to wander far from home. Seeking out the herbs is still a pleasure for me, but unfortunately a time-consuming and painful one.",
+    "translation": "我当然有相关的知识和经验，可年纪大了，总会有些不便。以前我喜欢漫步海岸与林地，寻找疗伤植物，也喜欢感受四季更迭；如今我的眼睛和膝盖都不太行了，走不了太远。寻找草药对我来说仍是乐事，只可惜既费时间又让人吃力。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d71cd2114bfac4320050",
+    "source": "urw3-bin:herb-quest",
+    "context": "showtext",
+    "original": "I certainly possess the knowledge and experience but old age doesn't come alone. See, I used to enjoy wandering the shores and groves in search of healing plants and enjoyed being a part of the changing seasons, but nowadays my eyes and knees have gotten too weak to wander far from home. Seeking out the herbs is still a pleasure for me, but unfortunately a time-consuming and painful one.",
+    "translation": "我当然有相关的知识和经验，可年纪大了，总会有些不便。以前我喜欢漫步海岸与林地，寻找疗伤植物，也喜欢感受四季更迭；如今我的眼睛和膝盖都不太行了，走不了太远。寻找草药对我来说仍是乐事，只可惜既费时间又让人吃力。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "efe34bd9768379c72e26",
+    "source": "urw3-bin:herb-quest",
+    "context": "paragraph",
+    "original": "\"I certainly possess the knowledge and experience but old age doesn't come alone. See, I used to enjoy wandering the shores and groves in search of healing plants and enjoyed being a part of the changing seasons, but nowadays my eyes and knees have gotten too weak to wander far from home. Seeking out the herbs is still a pleasure for me, but unfortunately a time-consuming and painful one.\"",
+    "translation": "“我当然有相关的知识和经验，可年纪大了，总会有些不便。以前我喜欢漫步海岸与林地，寻找疗伤植物，也喜欢感受四季更迭；如今我的眼睛和膝盖都不太行了，走不了太远。寻找草药对我来说仍是乐事，只可惜既费时间又让人吃力。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f9d672b8ed03cd278346",
+    "source": "urw3-bin:herb-quest",
+    "context": "player-talk",
+    "original": "I see. So where do my herblore skills come into picture?",
+    "translation": "我明白了。那么我的草药学技能能派上什么用场？",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "879a4a12148950e48f97",
+    "source": "urw3-bin:herb-quest",
+    "context": "showtext",
+    "original": "I see. So where do my herblore skills come into picture?",
+    "translation": "我明白了。那么我的草药学技能能派上什么用场？",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "adc6a2f2f854aa87e35d",
+    "source": "urw3-bin:herb-quest",
+    "context": "player-talk",
+    "original": "Well I might be younger, but I'm nevertheless weak in herblore skills.",
+    "translation": "我或许年轻些，但草药学本领还是不怎么样。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "89c7b36c08208aa74a5f",
+    "source": "urw3-bin:herb-quest",
+    "context": "showtext",
+    "original": "Well I might be younger, but I'm nevertheless weak in herblore skills.",
+    "translation": "我或许年轻些，但草药学本领还是不怎么样。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "13fdeb59bbf8c649c3b9",
+    "source": "urw3-bin:herb-quest",
+    "context": "npc-talk",
+    "original": "That's too bad.",
+    "translation": "那真可惜。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "6c8745ba8255161b3b61",
+    "source": "urw3-bin:herb-quest",
+    "context": "npc-talk",
+    "original": "My store of healing herbs is growing low, but my duties around here leave me with too little time go out on my clumsy legs and gather everything I need. If you know the local herbs and have the time, perhaps you would like to help me out and go find a little something I'm short of?",
+    "translation": "我的疗伤草药库存快见底了，但这里的事务缠身，加上我腿脚不灵便，实在抽不出时间出去采齐所需的草药。如果你认识本地草药，也有空的话，或许愿意帮我找些短缺的东西？",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "6574883c370aadccd1ec",
+    "source": "urw3-bin:herb-quest",
+    "context": "paragraph",
+    "original": "My store of healing herbs is growing low, but my duties around here leave me with too little time go out on my clumsy legs and gather everything I need. If you know the local herbs and have the time, perhaps you would like to help me out and go find a little something I'm short of?",
+    "translation": "我的疗伤草药库存快见底了，但这里的事务缠身，加上我腿脚不灵便，实在抽不出时间出去采齐所需的草药。如果你认识本地草药，也有空的话，或许愿意帮我找些短缺的东西？",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "363515b057e95f5f1ca1",
+    "source": "urw3-bin:herb-quest",
+    "context": "showtext",
+    "original": "My store of healing herbs is growing low, but my duties around here leave me with too little time go out on my clumsy legs and gather everything I need. If you know the local herbs and have the time, perhaps you would like to help me out and go find a little something I'm short of?",
+    "translation": "我的疗伤草药库存快见底了，但这里的事务缠身，加上我腿脚不灵便，实在抽不出时间出去采齐所需的草药。如果你认识本地草药，也有空的话，或许愿意帮我找些短缺的东西？",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ed01c9f2f4576d2439d6",
+    "source": "urw3-bin:herb-quest",
+    "context": "paragraph",
+    "original": "\"My store of healing herbs is growing low, but my duties around here leave me with too little time go out on my clumsy legs and gather everything I need. If you know the local herbs and have the time, perhaps you would like to help me out and go find a little something I'm short of?\"",
+    "translation": "“我的疗伤草药库存快见底了，但这里的事务缠身，加上我腿脚不灵便，实在抽不出时间出去采齐所需的草药。如果你认识本地草药，也有空的话，或许愿意帮我找些短缺的东西？”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "1108160f0518982ee8f7",
+    "source": "urw3-bin:herb-quest",
+    "context": "player-talk",
+    "original": "Of course. What do you need me to get for you?",
+    "translation": "当然。你要我帮你找什么？",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ff835b65520e1221ed4a",
+    "source": "urw3-bin:herb-quest",
+    "context": "showtext",
+    "original": "Of course. What do you need me to get for you?",
+    "translation": "当然。你要我帮你找什么？",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4a0accd6537a7e1b673b",
+    "source": "urw3-bin:herb-quest",
+    "context": "npc-talk",
+    "original": "You are a good person.",
+    "translation": "你真是个好人。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e15fda276c4d589268a5",
+    "source": "urw3-bin:herb-quest",
+    "context": "player-talk",
+    "original": "Sorry, I don't have time to pick your weeds.",
+    "translation": "抱歉，我没时间帮你采草药。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4c48369db0af629e1e0d",
+    "source": "urw3-bin:herb-quest",
+    "context": "showtext",
+    "original": "Sorry, I don't have time to pick your weeds.",
+    "translation": "抱歉，我没时间帮你采草药。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4caaa83ef6eb58b7fd9c",
+    "source": "urw3-bin:herb-quest",
+    "context": "npc-talk",
+    "original": "Unfortunate. Begone with your hurries then.",
+    "translation": "真可惜。那你就忙你的去吧。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "41c7e216809d0ef8f7c8",
+    "source": "urw3-bin:herb-quest",
+    "context": "player-talk",
+    "original": "Unfortunately I'm not familiar with the plants around here.",
+    "translation": "很遗憾，我不熟悉这一带的植物。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "c932ad2950a4d8f67f11",
+    "source": "urw3-bin:herb-quest",
+    "context": "showtext",
+    "original": "Unfortunately I'm not familiar with the plants around here.",
+    "translation": "很遗憾，我不熟悉这一带的植物。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "51ba91c443856012d909",
+    "source": "urw3-bin:herb-quest",
+    "context": "player-talk",
+    "original": "Okay, I can do that for you.",
+    "translation": "好，我可以帮你办到。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "86b60589a2903e77152c",
+    "source": "urw3-bin:herb-quest",
+    "context": "showtext",
+    "original": "Okay, I can do that for you.",
+    "translation": "好，我可以帮你办到。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "fa0f9196c7825507b617",
+    "source": "urw3-bin:herb-quest",
+    "context": "player-talk",
+    "original": "Is there some benefit in it for me?",
+    "translation": "我能得到什么好处吗？",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "30c8f4d0565646b68fc4",
+    "source": "urw3-bin:herb-quest",
+    "context": "showtext",
+    "original": "Is there some benefit in it for me?",
+    "translation": "我能得到什么好处吗？",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "3dd0e801b48cb273ccf3",
+    "source": "urw3-bin:herb-quest",
+    "context": "player-talk",
+    "original": "I'm sorry, but I just don't know the area that well.",
+    "translation": "抱歉，我对这一带还不够熟悉。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b37a2a8d8aa2790e76ee",
+    "source": "urw3-bin:herb-quest",
+    "context": "showtext",
+    "original": "I'm sorry, but I just don't know the area that well.",
+    "translation": "抱歉，我对这一带还不够熟悉。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "cbe88f6d91e02a4d1c86",
+    "source": "urw3-bin:herb-quest",
+    "context": "quest-term",
+    "original": "herbs",
+    "translation": "草药",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "92cac36f35c54427bf27",
+    "source": "urw3-bin:herb-quest",
+    "context": "quest-term",
+    "original": "All Healing herbal blend",
+    "translation": "全效疗伤草药混合剂",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ceda97cf5d991cdb246b",
+    "source": "urw3-bin:herb-quest",
+    "context": "quest-term",
+    "original": "Essential herbal blend",
+    "translation": "基础草药混合剂",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "9cb2cba854a3471e0ca2",
+    "source": "urw3-bin:herb-quest",
+    "context": "quest-term",
+    "original": "Forest Force herbal blend",
+    "translation": "森林强身草药混合剂",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ad3bb817eb91e538ddc2",
+    "source": "urw3-bin:herb-quest",
+    "context": "quest-term",
+    "original": "Bear Strong herbal blend",
+    "translation": "熊力草药混合剂",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "8591ebbc75d853211eac",
+    "source": "urw3-bin:herb-quest",
+    "context": "npc-talk",
+    "original": "I can offer you a dose that will cure anything that ails you. I only have a little bit left at this time of year, but if you help me I'll give you some for your trouble.",
+    "translation": "我可以给你一剂药，治好各种病痛。这时节我手头只剩一点了，不过你若肯帮忙，我会送你一些作为酬谢。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "c9439c48843884241ac9",
+    "source": "urw3-bin:herb-quest",
+    "context": "paragraph",
+    "original": "I can offer you a dose that will cure anything that ails you. I only have a little bit left at this time of year, but if you help me I'll give you some for your trouble.",
+    "translation": "我可以给你一剂药，治好各种病痛。这时节我手头只剩一点了，不过你若肯帮忙，我会送你一些作为酬谢。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "0fb2f19704bdf3f7d70c",
+    "source": "urw3-bin:herb-quest",
+    "context": "showtext",
+    "original": "I can offer you a dose that will cure anything that ails you. I only have a little bit left at this time of year, but if you help me I'll give you some for your trouble.",
+    "translation": "我可以给你一剂药，治好各种病痛。这时节我手头只剩一点了，不过你若肯帮忙，我会送你一些作为酬谢。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b3ee5477d72b78c2fe4b",
+    "source": "urw3-bin:herb-quest",
+    "context": "paragraph",
+    "original": "\"I can offer you a dose that will cure anything that ails you. I only have a little bit left at this time of year, but if you help me I'll give you some for your trouble.\"",
+    "translation": "“我可以给你一剂药，治好各种病痛。这时节我手头只剩一点了，不过你若肯帮忙，我会送你一些作为酬谢。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "6c114f2fde42ba39b06d",
+    "source": "urw3-bin:herb-quest",
+    "context": "player-talk",
+    "original": "And just what sort of dose contains that kind of healing force?",
+    "translation": "究竟是什么药剂有这么强的疗效？",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "4028ff335405b75ff772",
+    "source": "urw3-bin:herb-quest",
+    "context": "showtext",
+    "original": "And just what sort of dose contains that kind of healing force?",
+    "translation": "究竟是什么药剂有这么强的疗效？",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ac60aafae7e9242e23ba",
+    "source": "urw3-bin:herb-quest",
+    "context": "player-talk",
+    "original": "That sounds good, I'll help you.",
+    "translation": "听起来不错，我会帮你。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "900c1631803d9afb27aa",
+    "source": "urw3-bin:herb-quest",
+    "context": "showtext",
+    "original": "That sounds good, I'll help you.",
+    "translation": "听起来不错，我会帮你。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "9741f5d22d89fcfdde59",
+    "source": "urw3-bin:herb-quest",
+    "context": "player-talk",
+    "original": "No, I'm not interested.",
+    "translation": "不了，我没兴趣。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b28c74ca3635e9bfc2bd",
+    "source": "urw3-bin:herb-quest",
+    "context": "showtext",
+    "original": "No, I'm not interested.",
+    "translation": "不了，我没兴趣。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "bc409c7ca3ae90f34aea",
+    "source": "urw3-bin:herb-quest",
+    "context": "npc-talk",
+    "original": "As you wish.",
+    "translation": "如你所愿。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "3a85f1828b55370a683a",
+    "source": "urw3-bin:herb-quest",
+    "context": "npc-talk",
+    "original": "Wonderful, come back when you have the herbs I need.",
+    "translation": "太好了，等你找齐我要的草药就回来。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "7b5a6bb21b348addeb64",
+    "source": "urw3-bin:herb-quest",
+    "context": "paragraph",
+    "original": "Wonderful, come back when you have the herbs I need.",
+    "translation": "太好了，等你找齐我要的草药就回来。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "023198eed52d4d0649d3",
+    "source": "urw3-bin:herb-quest",
+    "context": "showtext",
+    "original": "Wonderful, come back when you have the herbs I need.",
+    "translation": "太好了，等你找齐我要的草药就回来。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "7307a3d727f984438891",
+    "source": "urw3-bin:herb-quest",
+    "context": "paragraph",
+    "original": "\"Wonderful, come back when you have the herbs I need.\"",
+    "translation": "“太好了，等你找齐我要的草药就回来。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ae9af7374cecc9469872",
+    "source": "urw3-bin:herb-quest",
+    "context": "player-talk",
+    "original": "I'll bring them to you soon.",
+    "translation": "我很快就把草药带来。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "6e4c100c2e0404778dd0",
+    "source": "urw3-bin:herb-quest",
+    "context": "showtext",
+    "original": "I'll bring them to you soon.",
+    "translation": "我很快就把草药带来。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "fd537ad2970037d70a7b",
+    "source": "urw3-bin:herb-quest",
+    "context": "npc-talk",
+    "original": "I'll be here.",
+    "translation": "我会在这里等你。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "0e406f619c95015ccd5d",
+    "source": "urw3-bin:herb-quest",
+    "context": "player-talk",
+    "original": "...but I also want some reward for the effort.",
+    "translation": "……不过我也希望这番辛苦能得到些报酬。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "0f0334c10ec481808bfe",
+    "source": "urw3-bin:herb-quest",
+    "context": "showtext",
+    "original": "...but I also want some reward for the effort.",
+    "translation": "……不过我也希望这番辛苦能得到些报酬。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a32c086bd1f2859c1b9c",
+    "source": "urw3-bin:herb-quest",
+    "context": "npc-talk",
+    "original": "Fair enough.",
+    "translation": "应该的。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "f33afa3d7b775d8e4e8c",
+    "source": "urw3-bin:herb-quest",
+    "context": "npc-talk",
+    "original": "How is it going with the herb picking?",
+    "translation": "草药采集得怎么样了？",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d633fb0bf8a7e2debc1c",
+    "source": "urw3-bin:herb-quest",
+    "context": "paragraph",
+    "original": "How is it going with the herb picking?",
+    "translation": "草药采集得怎么样了？",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "0ca23f656b1b76ea27bb",
+    "source": "urw3-bin:herb-quest",
+    "context": "showtext",
+    "original": "How is it going with the herb picking?",
+    "translation": "草药采集得怎么样了？",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "e56d3916174a76e4e314",
+    "source": "urw3-bin:herb-quest",
+    "context": "paragraph",
+    "original": "\"How is it going with the herb picking?\"",
+    "translation": "“草药采集得怎么样了？”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "78b330d1dedc854731fe",
+    "source": "urw3-bin:herb-quest",
+    "context": "player-talk",
+    "original": "Could you refresh my memory about the herbs?",
+    "translation": "你能再提醒我一下要找哪些草药吗？",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "ebffdb6660fcdecdaf5e",
+    "source": "urw3-bin:herb-quest",
+    "context": "showtext",
+    "original": "Could you refresh my memory about the herbs?",
+    "translation": "你能再提醒我一下要找哪些草药吗？",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "3c49d86cccf632fc75d3",
+    "source": "urw3-bin:herb-quest",
+    "context": "player-talk",
+    "original": "I'm working on to find and fetch your herbs.",
+    "translation": "我正在设法找到并采回你要的草药。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d656c4d93981a4c384ef",
+    "source": "urw3-bin:herb-quest",
+    "context": "showtext",
+    "original": "I'm working on to find and fetch your herbs.",
+    "translation": "我正在设法找到并采回你要的草药。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "289f67a5f63e1a2f9a9c",
+    "source": "urw3-bin:herb-quest",
+    "context": "npc-talk",
+    "original": "Good, good. Enjoy the search.",
+    "translation": "很好，很好。祝你寻找顺利。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "97f77743acb604da4258",
+    "source": "urw3-bin:herb-quest",
+    "context": "player-talk",
+    "original": "Sorry, but I can't do it.",
+    "translation": "抱歉，我做不到。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "154ad01650f41fad53bd",
+    "source": "urw3-bin:herb-quest",
+    "context": "showtext",
+    "original": "Sorry, but I can't do it.",
+    "translation": "抱歉，我做不到。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "14102557da3f483a9b32",
+    "source": "urw3-bin:herb-quest",
+    "context": "npc-talk",
+    "original": "That is unfortunate.",
+    "translation": "真遗憾。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "3f9e8b1a099b9a172618",
+    "source": "urw3-bin:herb-quest",
+    "context": "player-talk",
+    "original": "You are welcome. You also had something for me, right?",
+    "translation": "不客气。你还答应给我点东西，对吧？",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "755222baa6c15690889f",
+    "source": "urw3-bin:herb-quest",
+    "context": "showtext",
+    "original": "You are welcome. You also had something for me, right?",
+    "translation": "不客气。你还答应给我点东西，对吧？",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "55466ee36b0652a1797f",
+    "source": "urw3-bin:herb-quest",
+    "context": "npc-talk",
+    "original": "Right. You shall have what I promised.",
+    "translation": "没错，你会得到我答应给你的东西。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "d7686091bc82375b7196",
+    "source": "urw3-bin:herb-quest",
+    "context": "player-talk",
+    "original": "You are welcome.",
+    "translation": "不客气。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "65041ff02f03565fa91d",
+    "source": "urw3-bin:herb-quest",
+    "context": "showtext",
+    "original": "You are welcome.",
+    "translation": "不客气。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "a36e7cea448d27b4e92d",
+    "source": "urw3-bin:herb-quest",
+    "context": "npc-talk",
+    "original": "Oh, and I insist to reward you for your services.",
+    "translation": "还有，我坚持要酬谢你的帮忙。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "362ac37ed247b3a2fd2c",
+    "source": "urw3-bin:herb-quest",
+    "context": "npc-talk",
+    "original": "Here, take this herbal blend. It's good for wounds and makes a healthy herbal beverage too. May we meet again in friendship.",
+    "translation": "来，拿着这份草药混合剂。它对伤口有益，也能调制成健康的草药饮品。愿我们还能以朋友身份再会。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "051edda559580e873e16",
+    "source": "urw3-bin:herb-quest",
+    "context": "paragraph",
+    "original": "Here, take this herbal blend. It's good for wounds and makes a healthy herbal beverage too. May we meet again in friendship.",
+    "translation": "来，拿着这份草药混合剂。它对伤口有益，也能调制成健康的草药饮品。愿我们还能以朋友身份再会。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "9057f8ad54656b1c48a5",
+    "source": "urw3-bin:herb-quest",
+    "context": "showtext",
+    "original": "Here, take this herbal blend. It's good for wounds and makes a healthy herbal beverage too. May we meet again in friendship.",
+    "translation": "来，拿着这份草药混合剂。它对伤口有益，也能调制成健康的草药饮品。愿我们还能以朋友身份再会。",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "b1e640d37f8c745ce66b",
+    "source": "urw3-bin:herb-quest",
+    "context": "paragraph",
+    "original": "\"Here, take this herbal blend. It's good for wounds and makes a healthy herbal beverage too. May we meet again in friendship.\"",
+    "translation": "“来，拿着这份草药混合剂。它对伤口有益，也能调制成健康的草药饮品。愿我们还能以朋友身份再会。”",
+    "kind": "exact",
+    "status": "reviewed",
+    "runtime_verified": false
+  }
+]

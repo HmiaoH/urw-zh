@@ -1,0 +1,641 @@
+[
+  {
+    "id": "quest-followup-e351bdf72e5ef2",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "alien grass",
+    "translation": "异样的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-8f671e3668e644",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "amusing grass",
+    "translation": "有趣的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-2f47ea9b3df58e",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "bald grass",
+    "translation": "光秃的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-a5855430aae6df",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "beautiful grass",
+    "translation": "美丽的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-324614dbc18266",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "bizarre grass",
+    "translation": "怪异的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-cb998b524ce666",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "charming grass",
+    "translation": "迷人的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-6a028280b9c09d",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "chubby grass",
+    "translation": "肥厚的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-2ebe4015523b10",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "coarse grass",
+    "translation": "粗糙的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-1a8f997a71d9f7",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "conspicuous grass",
+    "translation": "显眼的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-cbfbd9bc77ed84",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "cool grass",
+    "translation": "清凉的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-642fbe80487820",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "curious grass",
+    "translation": "奇特的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-092a1aa0695ba1",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "curly grass",
+    "translation": "卷曲的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-6b5f15449b2198",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "delightful grass",
+    "translation": "讨喜的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-5409382ce4979f",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "different grass",
+    "translation": "不同寻常的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-c2d6337c28ebf9",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "dull grass",
+    "translation": "暗淡的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-3ecb2887f720f0",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "fancy grass",
+    "translation": "花哨的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-48bbcc099440c7",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "fascinating grass",
+    "translation": "引人入胜的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-6d09a26dceb19f",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "fibrous grass",
+    "translation": "纤维状的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-7a469a0796e274",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "fluffy grass",
+    "translation": "蓬松的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-5ae514b2c8ac13",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "funny grass",
+    "translation": "有趣的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-6751b02b1477f4",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "fuzzy grass",
+    "translation": "绒毛状的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-dfdc8e996a0063",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "indifferent grass",
+    "translation": "不起眼的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-768cae47e4d989",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "interesting grass",
+    "translation": "有趣的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-d8f5f9079c3b35",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "intriguing grass",
+    "translation": "引人注意的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-2d1bb6f4425e9c",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "lovely grass",
+    "translation": "可爱的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-dc30a0c8030f95",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "memorable grass",
+    "translation": "令人印象深刻的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-724b898e364881",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "neat grass",
+    "translation": "整齐的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-a979fdf6e14d2e",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "nice grass",
+    "translation": "好看的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-0fbc9c521a6edd",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "notable grass",
+    "translation": "显著的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-61148ca1b5d927",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "novel grass",
+    "translation": "新奇的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-ea47b55c21243e",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "odd grass",
+    "translation": "古怪的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-22140d6b523140",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "peculiar grass",
+    "translation": "特殊的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-129cf3a98d1c56",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "pleasant grass",
+    "translation": "宜人的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-09f72283e08c7a",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "pretty grass",
+    "translation": "漂亮的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-d9fe68f805163e",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "puffy grass",
+    "translation": "膨胀的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-29f04a20cf205b",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "puzzling grass",
+    "translation": "难辨的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-83ff01d2809401",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "quaint grass",
+    "translation": "奇异的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-77deb6e90d064e",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "quirky grass",
+    "translation": "古怪的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-3a110ccd11be32",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "remarkable grass",
+    "translation": "醒目的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-24cf5f61014eaf",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "scaly grass",
+    "translation": "鳞状的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-78efee79f12012",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "shiny grass",
+    "translation": "发亮的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-2d4d67bd324b26",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "slimy grass",
+    "translation": "黏滑的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-e1488551beb1c9",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "startling grass",
+    "translation": "惊人的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-092bce800f7b1e",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "strange grass",
+    "translation": "奇怪的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-aed495bedcf092",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "sweet grass",
+    "translation": "香甜的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-ffeba6c6b67774",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "ugly grass",
+    "translation": "难看的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-6f050f4223b5d9",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "unfamiliar grass",
+    "translation": "陌生的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-3aa5ba8cbe7b73",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "unforgettable grass",
+    "translation": "令人难忘的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-5e1bf74716da41",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "unique grass",
+    "translation": "独特的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-87fe4789004f53",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "unusual grass",
+    "translation": "不寻常的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-2d2532888aed1c",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "wavy grass",
+    "translation": "波浪状的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-e541bbd49f41ea",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "weird grass",
+    "translation": "怪异的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-584db090e776ab",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "whimsical grass",
+    "translation": "奇特的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-33abf293996b9d",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "notification-plant",
+    "kind": "exact",
+    "original": "wrinkly grass",
+    "translation": "皱褶的草",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-84b961d1f07836",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "*",
+    "kind": "exact",
+    "original": "Back to quest list",
+    "translation": "返回任务列表",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-4e1a1fcc8bae85",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "*",
+    "kind": "exact",
+    "original": "Map locations",
+    "translation": "地图位置",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-14d750dbc0ed46",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "*",
+    "kind": "exact",
+    "original": "BOGBEAN LEAVES",
+    "translation": "睡菜叶",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-13d687bf6fc102",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "*",
+    "kind": "exact",
+    "original": "You start to feel nauseous and weak.",
+    "translation": "你开始感到恶心、虚弱。",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-c8f2acecf60d1f",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "*",
+    "kind": "exact",
+    "original": "Entering settled area...",
+    "translation": "正在进入定居点……",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-74951c187888c6",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "showtext",
+    "kind": "template",
+    "original": "Assigned yesterday, expires in {days:int} days.",
+    "translation": "昨天接受，{days}天后到期。",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-e207fa6a0c4219",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "showtext",
+    "kind": "template",
+    "original": "Assigned today, expires in {days:int} days.",
+    "translation": "今天接受，{days}天后到期。",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-86414a5fcc0815",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "showtext",
+    "kind": "template",
+    "original": "Assigned {age:int} days ago, expires in {days:int} days.",
+    "translation": "{age}天前接受，{days}天后到期。",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-2a3cf8e18c2834",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "renshow",
+    "kind": "template",
+    "original": "Assigned yesterday, expires in {days:int} days.",
+    "translation": "昨天接受，{days}天后到期。",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-f1438be5ad609a",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "renshow",
+    "kind": "template",
+    "original": "Assigned today, expires in {days:int} days.",
+    "translation": "今天接受，{days}天后到期。",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-7d655c395431b2",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "renshow",
+    "kind": "template",
+    "original": "Assigned {age:int} days ago, expires in {days:int} days.",
+    "translation": "{age}天前接受，{days}天后到期。",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-a7d02da92535f3",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "newshow",
+    "kind": "template",
+    "original": "Assigned yesterday, expires in {days:int} days.",
+    "translation": "昨天接受，{days}天后到期。",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-f250fad8473533",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "newshow",
+    "kind": "template",
+    "original": "Assigned today, expires in {days:int} days.",
+    "translation": "今天接受，{days}天后到期。",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-4782ca41fe40fb",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "newshow",
+    "kind": "template",
+    "original": "Assigned {age:int} days ago, expires in {days:int} days.",
+    "translation": "{age}天前接受，{days}天后到期。",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-6deef43ba28f50",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "paragraph",
+    "kind": "template",
+    "original": "Assigned yesterday, expires in {days:int} days.",
+    "translation": "昨天接受，{days}天后到期。",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-413ecad7703a01",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "paragraph",
+    "kind": "template",
+    "original": "Assigned today, expires in {days:int} days.",
+    "translation": "今天接受，{days}天后到期。",
+    "status": "reviewed"
+  },
+  {
+    "id": "quest-followup-abe3008caea561",
+    "source": "URW 3.89.1 native resources and quest journal",
+    "context": "paragraph",
+    "kind": "template",
+    "original": "Assigned {age:int} days ago, expires in {days:int} days.",
+    "translation": "{age}天前接受，{days}天后到期。",
+    "status": "reviewed"
+  }
+]

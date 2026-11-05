@@ -36,9 +36,25 @@ NSString* notificationTracks(NSString* source){
  static NSDictionary* speciesNames=@{
   @"human":@"人类",@"unknown":@"不明生物",@"elk":@"驼鹿",@"forest reindeer":@"森林驯鹿",
   @"wolf":@"狼",@"lynx":@"猞猁",@"bear":@"熊",@"brown bear":@"棕熊",@"fox":@"狐狸",
-  @"hare":@"野兔",@"beaver":@"河狸",@"wolverine":@"狼獾",@"otter":@"水獭"
+  @"hare":@"野兔",@"beaver":@"河狸",@"wolverine":@"狼獾",@"otter":@"水獭",
+  @"glutton":@"狼獾",@"arctic fox":@"北极狐",@"wild boar":@"野猪",@"wild sow":@"母野猪",
+  @"badger":@"獾",@"squirrel":@"松鼠",@"pine-marten":@"松貂",@"polecat":@"鼬",
+  @"ermine":@"白鼬",@"weasel":@"伶鼬",@"grey seal":@"灰海豹",@"ringed seal":@"环斑海豹",
+  @"snake":@"蛇",@"black grouse":@"黑琴鸡",@"hazel grouse":@"花尾榛鸡",
+  @"raven":@"渡鸦",@"willow grouse":@"柳雷鸟",@"capercaillie":@"西方松鸡",
+  @"aquatic bird":@"水鸟",@"swan":@"天鹅",@"goldeneye":@"鹊鸭",@"kuikka":@"潜鸟",
+  @"tufted duck":@"凤头潜鸭",@"eagle owl":@"雕鸮"
  };
+ // Tutki_Datajaljet prefixes native PIENI/ISO before both human and creature names.
+ NSString* size=@"";
+ for(NSString* label in @[@"small ",@"big "]){
+  if(![species hasPrefix:label])continue;
+  size=[label isEqual:@"small "]?@"小":@"大";
+  species=[species substringFromIndex:label.length];
+  break;
+ }
  NSString* name=speciesNames[species]?:animalDescription(species);
+ if(name)name=[size stringByAppendingString:name];
  if(!name)return nil;
  NSString* path=nil;
  if([tail hasPrefix:@"leading "]){

@@ -15,6 +15,8 @@ int main(){@autoreleasepool{
  assert(finnish.length==7&&!memcmp(finnish.bytes,finnishTarget,7));
  assert(zh::hyperLayout(@"[[TIETÄJÄ|贤者]]",60,60).valid);
  zh::loadCatalog();
+#include "tracking_assertions.inc"
+#include "quest_followup_assertions.inc"
  #include "trade_rejection_assertions.inc"
  #include "encyclopedia_complete_assertions.inc"
  NSArray* encyclopediaRows=[NSJSONSerialization JSONObjectWithData:[NSData dataWithContentsOfFile:@"data/translations/encyclopedia_materials.json"] options:0 error:nil];

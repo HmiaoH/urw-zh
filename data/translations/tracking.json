@@ -1,0 +1,20 @@
+[
+  {
+    "id": "tracking-d9329fb37a959b89",
+    "source": "urw3-bin:__cstring",
+    "context": "message",
+    "original": ":As roaming ahead something suddenly captures your attention.",
+    "translation": "你继续前行时，忽然有什么东西引起了你的注意。",
+    "status": "reviewed",
+    "runtime_verified": false
+  },
+  {
+    "id": "tracking-53019e573e22616c",
+    "source": "urw3-bin:__cstring",
+    "context": "message",
+    "original": "+You have improved in tracking!",
+    "translation": "你的追踪技能提高了！",
+    "status": "reviewed",
+    "runtime_verified": false
+  }
+]
